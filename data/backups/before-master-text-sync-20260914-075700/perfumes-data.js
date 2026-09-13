@@ -18593,21 +18593,13 @@ window.PERFUME_DATA = [
     "name": "ALDEHYDE 44",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. ALDEHYDE 44 is only available in Dallas (Texas, that is). The scent is a small wonder ’ a mix of aldehyde overload that gives a unique cleanliness, a sublime floral composition built around narcissus, jasmin, and tuberose (all absolute, in case you wondered), and a bed of musk notes tied with a hint of vanilla. The result is esthetically admirable and unique.",
-    "notes": [
-      "Musk",
-      "Vanilla",
-      "Tuberose"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   알데하이드 44는 텍사스 댈러스 매장에서만 만날 수 있는 향수입니다. 알데하이드 원료를 아낌없이 듬뿍 넣은 결과 이 향은 독특하면서도 깨끗한 매력을 갖게 됐습니다. 첫 만남엔 수선화, 재스민, 튜베로즈 앱솔루트의 웅장한 플로럴 향이 풍성하게 감싸 안아 주지만 헤어질 땐 머스크와 은근한 바닐라로 잔잔한 여운을 남깁니다. 이 향을 우연히 맡은 뒤 난데없이 댈러스가 휴양지 후보로 끼어들어 고민을 가중시켰다는 항의 메일을 종종 받곤 하는데요… 저희 잘못은 아닌 거죠?,  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Musk",
-        "Vanilla",
-        "Tuberose"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18617,25 +18609,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-ambrette-9",
     "name": "AMBRETTE 9",
     "brand": "Le Labo",
     "gender": null,
-    "description": "AMBRETTE 9 is undeniably a rarity as it is based mainly on the ambrette seed, the only musky scent made by nature itself and almost impossible to find. Lightly perfumed, the signature of this formula is fresh and soft thanks to a combination of citrus and fruit that gives a very special fragrance...",
-    "notes": [
-      "Ambrette"
-    ],
+    "description": "히비스커스 꽃의 씨앗인 암브레트 씨드는 매우 드물고 희귀한 머스크 원료입니다. 암브레트 9은 암브레트 시드에 사과와 배의 시트러스, 프루티한 향이 더해져 아기처럼 부드럽고 순수한 향을 완성합니다. 아기 피부처럼 순수하고 여린 머스크에 사과와 배의 프루티 노트가 더해진 향이 특징입니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Ambrette"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18645,15 +18632,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-another-13",
     "name": "ANOTHER 13",
     "brand": "Le Labo",
     "gender": null,
-    "description": "In 2010, Le Labo was commissioned by An0ther Magazine to work on an exclusive scent. This project was born thanks to Sarah of Colette who initiated the creative collaboration between Le Labo and Jefferson Hack, editor-in-chief of An0ther Magazine.",
+    "description": "2010년, 르 라보는 어나더 매거진으로부터 독점적인 향수 작업을 제안받았습니다. 이 프로젝트는 르 라보와 어나더 매거진의 편집장 Jefferson Hack 간의 창의적인 콜라보레이션을 시작한 Colette의 Sarah 덕분에 탄생했습니다. 이 콜라보레이션의 결과로 매혹적이고 독특한 어나더 13이 완성되었습니다. 어나더 13은 뇌쇄적이면서도 유니크한 암브록스 베이스 머스크 노트의 중독성 강한 묘약에 자스민, 모스 등 세심하게 선정된 성분들로 강렬함과 매혹을 더해 구성됩니다. 세상 모두가 알다시피, Colette는 2017년 12월 문을 닫았지만, 다행히 우리는 전 세계의 랩에서 클래식 컬렉션에 어나더 13을 기쁘게 맞이할 수 있었습니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18669,15 +18655,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-baie-19",
     "name": "BAIE 19",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Truth is... BAIE 19 should have been called Water 19. Not that it smells like nothing (though nothing smells like it), but it has this crisp, wet, drenched effect that water gives to the earth after the rain’",
+    "description": "사실 베이 19는 ‘WATER 19’로 불릴 뻔했습니다. 아무 향기도 나지 않아서가 아니라(물론 어떤 것도 물과 같은 향기가 나진 않죠.), 비가 내린 뒤 물이 땅에 선사하는 상쾌하고, 촉촉하면서도 흠뻑 젖어 드는 느낌을 담아냈기 때문입니다. 이를 의미하는 “페트리코”라는 단어도 있죠. 페트리코는 긴 가뭄 뒤 강한 비를 맞이했을 때 생기는 마법 같은 현상으로, 자연의 가장 아름다운 현상 중 하나입니다.페트리코는 공기 중 오존, 음이온 등 다양한 이유로 인해 발생하지만, 가장 주요한 이유는 특정 식물이 긴 건기 내내 쌓인 기름을 분출하며 향을 만들어낸다는 것입니다.   베이 19는 긴 가뭄 끝에 내린 아름답고 반짝거리는 매력적인 비에 젖은 주니퍼베리(베이는 불어로 ‘베리’를 뜻합니다), 패출리, 초록 잎사귀들의 향… 그리고 이에 따른 즐거움을 담고 있습니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18693,27 +18678,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-baie-rose-26",
     "name": "BAIE ROSE 26",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. The main story behind this fragrance refers to music ’ jazz music, in particular. There is a direct correlation between the sharp pepper and some of the more upbeat sounds of jazz, and the soft back representing the simpler, soothing side of the music. Either way, the uplifting effect of the music seems to carry you away; the same way the music of the spices (aldehyde and musk playing along with the pink pepper) brings your spirit up.",
-    "notes": [
-      "Musk",
-      "Pepper"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.    이 베이 로즈 26은 시카고 하면 생각나는 대표적인 음악, 재즈에서 영감을 받은 향수입니다. 페퍼의 톡 쏘는 듯한 향은 재즈의 흥겨운 선율을 떠올리게 하고, 페퍼의 부드러운 이면은 재즈의 애잔한 매력을 연상시킵니다. 재즈의 선율이 당신을 사로잡듯이 , 이 향수의 스파이스 향 (핑크 페퍼와 어우러진 알데하이드, 머스크) 역시도 당신의 마음을 완전히 사로잡을 것입니다. 시카고를 위한 향수인 베이 로즈 26은 핑크 페퍼를 르 라보만의 스타일로 재해석해 우아하면서도 유니크한 매력을 선사합니다. (‘베이 로즈’는 프랑스어로 ‘핑크 페퍼‘를 뜻합니다.) 핑크 페퍼에 클로브(정향)이 더해지고, 시더와 알데하이드의 향이 번갈아 찾아오다 마지막엔 프랑스 그라스 지방에서 온 아름다운 로즈 앱솔루트 향과 만나게 됩니다. 맨 마지막에는 머스크와 암브록스 잔향이 머뭅니다. 세련되면서도 개성있고, 기억에 남는 향수입니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Musk",
-        "Pepper"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18723,15 +18701,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-benjoin-19",
     "name": "BENJOIN 19",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. BENJOIN 19, our Moscow exclusive, is about a moment. A moment depicted by one of the most important writers of all time, Leo Tolstoy, in the eternal Anna Karenina, when Anna meets Count Vronsky in a Moscow train station. BENJOIN 19 is that moment, the moment when everything changes, when your life topples over, when nothing will ever be the same. In Tolstoy's masterpiece, this happens in Moscow, yet what makes Anna Karenina a work of art is its universality: it could have happened anywhere. This is what BENJOIN 19 is ’ a universal tribute to passionate spirits, to those determined to live their lives on their own terms.",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   모스크바의 시티 익스클루시브 향수인 벤조인 19는 어떤 ‘순간’을 말하는 향수입니다. 세기의 작가 톨스토이의 소설  의 주인공 안나가 모스크바 기차역 앞에서 브롱스키 백작을 만나게 되는 바로 그 운명 같은 순간 말입니다. 모든 것이 변해버리는 어떤 분기점, 인생이 와르르 무너지는 순간, 전과는 완전히 달라지는 인생의 전환점을 담은 향입니다. 톨스토이는 모스크바를 배경으로 이 운명적인 순간을 그려냈지만, 사실 이러한 ‘순간’은 언제 어디서나 일어날 수 있다는 것을 우리 모두 알고 있습니다. 이러한 보편성은 안나 까레리나를 명작으로 만드는 데에 일조하기도 했죠. 벤조인 19도 마찬가지입니다. 뜨거운 인생을 살아가는 사람들, 스스로 인생을 개척해가는 모두에게 바치는 우리의 보편적인 헌사입니다. 900여 페이지에 달하는  가 그랬듯, 벤조인 19는 벤조인을 중심으로 다양한 노트(올리바넘, 앰버, 시더, 머스크…) 들이 한 데 엮여 깊고 강렬한 관능미와 동시에 반항적인 매력을 전합니다. 그리고 우리가 안나 까레리나를 읽고 느꼈던 긴 여운처럼 벤조인 19  또한 그 지속력이 매우 뛰어납니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18747,25 +18724,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-bergamote-22",
     "name": "BERGAMOTE 22",
     "brand": "Le Labo",
     "gender": null,
-    "description": "This dazzling bergamot combines freshness, sweetness, and sensuality with acrobatic talent. All these qualities were encompassed in the perfume’s initial code name: ’Fire Cologne’.",
-    "notes": [
-      "Bergamot"
-    ],
+    "description": "베르가못 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 \"파이어 코롱(Fire Cologne)\"에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 베르가못 22의 독특한 개성을 완성합니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Bergamot"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18775,15 +18747,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-bigarade-18",
     "name": "BIGARADE 18",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Bigarade is quite a scented enigma that somehow manages for strong olfactive clashes to co-exist harmoniously together despite their inherent oppositions. It’s very classical ’ yet isn't. It’s bright and very powerful; you can’t seem to breathe enough of it in’’",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   비가라드 18은 복합적인 매력을 갖고 있는 향수입니다. 매우 클래식한 향이라 생각할 수 있지만 사실은 그렇지 않습니다. 비가라드 18은 밝으면서 굉장한 힘이 느껴지는 향입니다. 베르가못, 네롤리 꽃잎을 머스크와 섞고, 여기에 한두 방울의 나무 향을 더했습니다. 그 결과는 굉장합니다. 마치 시트러스의 클래식한 향과 따뜻하고 초월적인 힘을 지닌 어두운 노트와 나무 향이 팽팽하게 줄다리기를 하듯 서로의 매력을 뽐냅니다. 비가라드 18은 단단하지만 편안하며, 클래식하지만 현대적이고, 밝고 오래 지속되는 향입니다. 이렇게 상반되는 매력은 예스러움과 현대적인 모습이 공존하는 향기로운 항구도시, 홍콩과 잘 어울립니다. 클래식한 화이트 플로럴과 시트러스 향의 웅장함을 지닌 비가라드 18은 홍콩에 대한 우리의 오래된 추억을 불러일으킵니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18799,27 +18770,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-cedrat-37",
     "name": "CEDRAT 37",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Freeeeeedom! CEDRAT 37 is a delicate balance of cedrat and ginger ’ fresh, acidic, and with an addictive candied sweetness ’ resting on a foundation of sensual Le Labo-ness which often means woods, musks, and a generous note of ambergris.",
-    "notes": [
-      "Musk",
-      "Ginger"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   자유! 세드라와 진저의 섬세한 균형이 돋보이는 세드라 37은 상쾌함, 애시딕한 뉘앙스의 새콤함 그리고, 설탕에 절인 듯 중독적인 달콤함을 느낄 수 있습니다. 물론 이 향은 진정한 르 라보만의 개성을 완성하는 노트인 우드, 머스크, 풍성한 앰버그리스를 기초로 합니다. 이 향기가 도시라면, 아마 베를린 같을 겁니다. 그 어느 것에도 구애받지 않고 자유로움이 주는 기쁨을 만끽할 수 있는 도시죠. 우선 경험해보세요. 이 향을 경험하고 나면 우리의 설명에 동의하지 않을 수 없을 겁니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Musk",
-        "Ginger"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18829,33 +18793,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-citron-28",
     "name": "CITRON 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. In the beginning, CITRON 28’s early code name was ’Citron Boheme’; we wanted a real lemon perfume that wasn’t just lemon, but a twist on this icon of citruses. A mix and match of freshness and structure (lemon, ginger, and jasmine, resting on cedar and musk notes), it strikes the right balance between the original and the conservative. CITRON 28 meets the need for purity and simplicity and, as such, delivers something almost universal and easy to understand ’ yet remains inscrutable.",
-    "notes": [
-      "Cedar",
-      "Musk",
-      "Jasmine",
-      "Ginger",
-      "Lemon"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   시트롱 28의 초기 코드네임은 시트롱 보엠 (Citron Boheme)이었습니다. 르 라보는 평범한 레몬 향이 아닌 기존의 시트러스가 가진 매력에 반전을 더하는 새로운 레몬 향을 고민하고 재구성했습니다. 시더와 머스크에 기초를 둔 레몬, 진저, 그리고 자스민이 어우러진 신선하고 특별한 구성, 시트롱 28. 이 향기는 전 통과 보존 사이의 적절한 균형을 맞춰줍니다. 시트롱 28 은 순수함과 간결함을 기반으로 보편적이고 이해하기 쉬운 메시지를 전달하지만, 여전히 불가사의한 매력을 지니고 있어 더욱 특별합니다. 이렇듯 복잡한 구성을 지닌 시트롱 28은 아이코닉한 도시 ‘서울’에 대한 헌사입니다. 전통과 역사에 뿌리를 두고 있지만, 그 어느 도시보다 현대적이고 진보적인 사고방식의 선두에서 있는 서울. 자신만의 모순을 가진 서울의 대조적인 힘과 매력은 오직 보헤미안 시트러스만이 표현해 낼 수 있 습니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Cedar",
-        "Musk",
-        "Jasmine",
-        "Ginger",
-        "Lemon"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18865,25 +18816,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-cuir-28",
     "name": "CUIR 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. CUIR 28, our Dubai exclusive, is like a classic motorcycle without the sweat and gasoline ’ blending leather, wood, and musky notes to give it a very powerful, dark, and memorable personality.",
-    "notes": [
-      "Leather"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   두바이를 위한 향수인 퀴르 28은 사막을 가로지르는 모터사이클 라이더를 연상시키는 향입니다. 데니스 호퍼의 영화 ‘ 이지 라이더’가 떠올랐다면 거기서 땀과 가솔린 냄새만 지워 보세요! 그게 바로 퀴르 28입니다. 가죽과 우드, 애니멀 노트가 한데 어우러져 파워풀하고 다크한, 한번 맡으면 잊을 수 없는 개성을 지녔습니다. 천연 바닐라 앱솔루트 (우리가 알고 있는 바닐라의 스파이시하고 동물적인 타르 버전이죠)가 가죽의 향취와 어우러져 오리엔탈 계열의 중독적인 향을 완성합니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Leather"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18893,31 +18839,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-fleur-d-oranger-27",
     "name": "FLEUR D'ORANGER 27",
     "brand": "Le Labo",
     "gender": null,
-    "description": "A natural and one-of-a-kind orange blossom creation that took more than three years to compose. Its innate nobility is enhanced by fresh floral and lemony notes, rounded out by musk and the succulent, sunny touches of bergamot, petit grain, and lemon. This orange blossom has intensity and a delicious ambiguity that gives everyone the absolute power of sensuality.",
-    "notes": [
-      "Bergamot",
-      "Musk",
-      "Orange Blossom",
-      "Lemon"
-    ],
+    "description": "희귀한 천연 오렌지 블로썸 원료로 무려 3년이 넘는 시간에 걸쳐 완성했습니다. 여기에 프레쉬 플로럴, 레몬 향을 더해 오렌지 블로썸 본연의 우아함을 더욱 살렸습니다. 머스크, 베르가못, 페티그레인, 레몬의 따뜻하고 화창한 느낌이 전체를 풍성하게 감싸줍니다. 깊이 있고 매력적인 향으로 남녀 모두에게 센슈얼한 느낌을 더합니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Bergamot",
-        "Musk",
-        "Orange Blossom",
-        "Lemon"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18927,29 +18862,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-gaiac-10",
     "name": "GAIAC 10",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Gaiac is a very hard, greenish wood that isn’t as dry as cedar, but is as subtle, profound, and stable. GAIAC 10 is a tense formula built on gaiac wood and surrounded by musk notes (4 different types in all), with hints of cedar and olibanum (incense).",
-    "notes": [
-      "Cedar",
-      "Musk",
-      "Incense"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   가이악은 단단한 그린 계열의 나무로, 시더우드처럼 드라이한 향은 아니지만 은은하며 깊고 차분한 느낌을 줍니다. 르 라보 가이악 10은 가이악 우드를 베이스로 4가지의 다른 머스크가 그를 감싸고, 여기에 약간의 시더와 올리바넘(유향)이 더해졌습니다. 이 우디 머스크 향은 당신 주위에 누구나 느낄 수 있는 강한 잔향을 남기지 않습니다. 하지만 은은한 향으로 당신에게 온전히 남아 낮이든 밤이든 당신과 함께할 것입니다  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Cedar",
-        "Musk",
-        "Incense"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18959,31 +18885,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-jasmin-17",
     "name": "JASMIN 17",
     "brand": "Le Labo",
     "gender": null,
-    "description": "This natural jasmine is the floral perfume par excellence, and was created as a modern alternative to the old-fashioned traditional floral signatures. Its short formula gives it such a distinctive character that once you wear it, you’ll never forget it. A unique floral impact whose sensuality and lure is amplified by a majestically harmonious chord of musk, sandalwood, and vanilla. We refuse all responsibility for any havoc this perfume might create in your circle of friends...",
-    "notes": [
-      "Musk",
-      "Jasmine",
-      "Sandalwood",
-      "Vanilla"
-    ],
+    "description": "자스민 17은 기존의 흔한 플로럴 계열의 자스민이 아니라, 더욱 모던하게 재해석한 독창적인 자스민을 선보입니다. 심플한 원료의 조합이지만 매우 독창적인 향으로, 한 번 뿌리면 절대 잊을 수 없는 매력을 전합니다. 센슈얼하면서도 여성스러운 플로럴 향에, 머스크, 샌달우드, 바닐라를 더해 더욱 장엄하고 풍성해집니다. 이 향수를 뿌리면 당신 주위의 이성 친구들의 마음이 복잡해질 수도 있다는 사실을 기억해두세요. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Musk",
-        "Jasmine",
-        "Sandalwood",
-        "Vanilla"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -18993,15 +18908,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-labdanum-18",
     "name": "LABDANUM 18",
     "brand": "Le Labo",
     "gender": null,
-    "description": "This fragrance is an enigma... It simply doesn’t conform to any of the laws of perfumery.",
+    "description": "LABDANUM 18 은 수수께끼 같은 매력의 향수입니다. 기존 향수에 대한 그 어떤 룰도 따르지 않습니다. 강렬하게 응축된 앰버 노트에, 사향과 카스토럼의 동물적인 향이 더해져, 피부에는 캐시미어처럼 부드럽게 남아 있지만 사실은 폭발적인 잠재력을 가진 향수입니다.  당신의 후각, 그리고 당신 곁에 가까이 올 수 있는 사람들의 감각에 속삭이는 이 향을 느껴보세요. 한 번 빠지면 헤어나올 수 없는 매력을 선사합니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19017,31 +18931,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-limette-37",
     "name": "LIMETTE 37",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Don't expect our San Francisco exclusive to be a chilly summer fog essence or the Golden Gate in a bottle. LIMETTE 37's reference to The City is abstract and delves into its olfactive construction that mimics the hilly ride from our Fillmore street store to the bay. You start off with a view, with bergamot's freshness and light, before plunging into the warm and welcoming effects of jasmin, petit grain, and clove that roll into luscious softness with vetiver, tonka beans, and musks...",
-    "notes": [
-      "Bergamot",
-      "Vetiver",
-      "Musk",
-      "Tonka Bean"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   리메트 37이 그저 샌프란시스코의 쌀쌀한 여름 안개나 골든 게이트의 느낌을 담았을 거라고 속단하진 말아 주세요. 리메트 37은 샌프란시스코라는 도시가 주는 어떤 추상적인 매력에서 영감을 받았습니다. 이를테면 필모어 스트릿에 있는 르 라보 부티크에서 노스 비치 해안까지 이어진 구불구불한 언덕길을 쭈욱 내달릴 때 느낄 수 있는 상쾌함 같은 거죠. 자, 이렇게 상상해보세요. 베르가못의 산뜻하고 가벼운 느낌이 언덕 위의 멋진 풍경처럼 펼쳐지고, 자스민과 페티그레인, 클로브의 따스한 매력에 풍덩 빠진 다음 베티버와 통카 빈, 머스크의 풍성하고 부드러운 느낌으로 마무리되는 여정! 리메트 37은 후각을 위한 롤러코스터입니다. 깨끗하고, 신선하고, 건강한 향이면서도 당신에게 특별한 향이 난다는 느낌을 주는 향수입니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Bergamot",
-        "Vetiver",
-        "Musk",
-        "Tonka Bean"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19051,31 +18954,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-lys-41",
     "name": "LYS 41",
     "brand": "Le Labo",
     "gender": null,
-    "description": "LYS 41 is an overwhelming white floral ’ a blend of jasmine, tuberose absolute, and lily, bewitching in its noble, warm, and sunny approach ’ yet treacherous once caught in its web of noble woods, vanilla, and musks.",
-    "notes": [
-      "Musk",
-      "Jasmine",
-      "Vanilla",
-      "Tuberose"
-    ],
+    "description": "리스 41은 릴리, 튜베로즈, 자스민 등 풍성한 화이트 플라워들이 어우러진 중독적인 플로럴 향입니다. 자스민, 튜베로즈 앱솔루트, 릴리의 우아하면서도 따뜻한 향이 마법처럼 펼쳐지며, 우아한 우드 향, 바닐라와 머스크가 더해져 한 번 빠지면 헤어 나올 수 없는 매력에 사로잡힙니다. 리스 41은 중독적인 플로럴 향으로 매력적인 여운을 남겨 사람들이 당신의 주위를 맴돌게 할 것입니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Musk",
-        "Jasmine",
-        "Vanilla",
-        "Tuberose"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19085,29 +18977,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-mousse-de-chene-30",
     "name": "MOUSSE DE CHENE 30",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Moss and patchouli are paired with their most incisive synthetic boosters ’ crystal moss and clearwood. Cinnamon, pimento bay oil, and pink pepper spice it up to create timeless elegance that is reassuring yet surprising, tense, and addictive.",
-    "notes": [
-      "Patchouli",
-      "Pepper",
-      "Cinnamon"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   무스 드 쉔은 ‘네오 쉬프레 ‘ 계열의 향으로, 전통적인 분위기와 진보적인 느낌을 동시에 담았습니다. 마치 암스테르담 도시 그 자체의 느낌처럼요. 모스(이끼류)와 패출리의 향에 합성 원료인 크리스탈 모스, 클리어 우드 향이 더해졌습니다. 시나몬, 피멘토(피망과 비슷한 작고 맵지 않은 고추), 핑크 페퍼가 더해져 스파이시하면서도 우아하고, 강렬함과 중독적인 매력을 선사합니다. 무스 드 쉔 : 프랑스어로 오크 모스, 이끼류 식물을 뜻함. 짙고 풍부한 흙내음을 연상시키는 향  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Patchouli",
-        "Pepper",
-        "Cinnamon"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19117,15 +19000,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-musc-25",
     "name": "MUSC 25",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. You would ask ’why LA’’ Because angels have to be tempted into the smell of life. MUSC 25 is angelic, very musky, aldehydic, and so intensely luminous that you will need to wear shades to approach it.",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   머스크가 왜 LA의 향수냐고 물으시겠죠? 왜냐하면 LA는 천사의 도시이고 (Los Angeles, 스페인어로 천사들), 머스크야말로 천사들도 매료 당할만한 향이기 때문입니다. 머스크 25는 진한 머스크와 알데하이드가 어우러져, 하얀 천사처럼 눈부시게 빛나는 향입니다. 천상의 순백색으로 빛나면서도 동시에 깊은 중심에는 어두침침하고 악마적인 어둠이 자리하고 있어, 당신 안의 숨겨진 마성을 끌어냅니다. 동물적인 감각의 노트로 센슈얼하고, 섹시하고, 어딘지 퇴폐적인 매력의 향입니다. 베티버, 앰버그리스(용연향), 머스크, 시벳(물론 동물성이 아닌 인공 성분) 역시 또 다른 매력을 자아냅니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19141,25 +19023,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-myrrhe-55",
     "name": "MYRRHE 55",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Myrrh, a resin once considered to be so sacred that it was more valuable than gold, is known in Chinese traditional medicine as a ’blood mover.’ It should come as no surprise, then, that MYRRHE 55, Shanghai’s City Exclusive, is a creation that will get your heartbeat thumping.",
-    "notes": [
-      "Myrrh"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   미르(몰약)는 한때 매우 신성시되고 금보다 귀중하게 여겨졌던 수지로, 중국에서는 오래전 전통적으로 사용된 것으로 알려져 있습니다.  때문에 미르 55가 상하이에서 영감을 받은 시티 익스클루시브 향이고, 우리 마음을 두근거리게 할 것이라는 게 그렇게 놀라운 일은 아니죠. 강력한 인센스에 감초가 살짝 가미된 것 같은 몰약 향이 바로 이 제품의 “핵심”입니다. 이에 자스민과 패출리가 오우드, 앰버그리스 그리고 머스크(걱정마세요, 모두 비건 노트니까요)의 베이스와 잘 어우러집니다. 미르 55는 절제된 우아함과 현대적이면서도 클래식한 면모까지 두루 담고 있어 한번 맡으면 쉽게 잊기 어렵습니다. 신사 숙녀를 위한 시프레 계열의 향수. 어두우면서도 찬란한, 예스럽지만 새로운. 마치 상하이 같은 향수.   \n사용방법  \n맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Myrrh"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19169,27 +19046,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-neroli-36",
     "name": "NEROLI 36",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Neroli is another name for the essence of orange blossom. The unique quality of our Neroli is its sunny floral character with an extraordinarily warm, sensual base.",
-    "notes": [
-      "Orange Blossom",
-      "Neroli"
-    ],
+    "description": "네롤리는 오렌지 블로썸 에센스의 또 다른 이름입니다. 르 라보의 네롤리 36은 따뜻하고 싱그러운 플로럴 향에 센슈얼한 베이스를 더해 독창적으로 만들어졌습니다. 로즈, 머스크, 만다린 오렌지, 자스민, 바닐라에 네롤리가 어우러져 톡 쏘는 듯하면서도 편안하고 열정적이고, 따뜻한 향을 완성합니다. 웰빙과 우아함, 매력을 한 병에 담은 향수입니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Orange Blossom",
-        "Neroli"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19199,27 +19069,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-patchouli-24",
     "name": "PATCHOULI 24",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Even though it is vital to the olfactory shock this perfume generates, patchouli is not easy to detect in this formula. The smoky, leathery character of birch takes over in the first few seconds, making this signature absolutely unique and difficult to situate. Fortunately, a touch of vanilla comes in to calm this little world, bringing peace, sensuality, and softness to these darker notes.",
-    "notes": [
-      "Vanilla",
-      "Patchouli"
-    ],
+    "description": "자작나무의 스모키한 향과 센슈얼한 바닐라 향이 어우러진 개성 넘치는 향인 패출리 24는 후각적으로 독특하고 상상하지 못했던 향을 선사하지만, 정작 향에서 패출리를 찾아내긴 쉽지 않습니다. 자작나무의 스모키한 가죽 향이 처음 몇 초를 완전히 지배하며 이 향수를 매우 독창적이고 개성 넘치게 만듭니다. 다행히 곧이어 바닐라 향이 다가와 평화롭고, 부드럽고, 센슈얼하게 이 야성적인 향을 감싸줍니다. 외줄타기를 하는 것처럼 아슬아슬한 스릴을 느낄 수 있는 위험한 매력의 향수입니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Vanilla",
-        "Patchouli"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19229,15 +19092,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-poivre-23",
     "name": "POIVRE 23",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. POIVRE 23 translates into Pepper 23, and it’s Le Labo’s pepper statement. Why pepper’ (And we’re talking true Bourbon Pepper, the crown jewel of peppers.)",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.  프아브르 23을 번역하면 “페퍼 (Pepper) 23 ”이라고 할 수 있으며, 이 향수는 르 라보를 대표하는 페퍼 베이스 향수입니다. 왜 하필 페퍼냐구요? (여기서 말하는 페퍼는 진짜 버번 페퍼로 수 많은 페퍼 중에서도 최상급이자 페퍼 계의 롤스로이스로 불립니다) 왜냐하면 페퍼는 향료의 왕이자 다양한 향수에 널리 사용되고 있으며, 무엇보다 세상의 각광을 받을만한, 그 자격이 충분한 향료이기 때문이죠. 페퍼는 따스하면서도 스파이시한, 진정한 오리엔탈을 몸소 느끼게 합니다. 그리고 오직 런던을 위한 향수이고요  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [
       "Pepper"
     ],
@@ -19257,25 +19119,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-rose-31",
     "name": "ROSE 31",
     "brand": "Le Labo",
     "gender": null,
-    "description": "The perfume’s aim is clear: to transform the famous Grasse rose, a symbol of voluptuousness and unqualified femininity, into an assertively virile fragrance that can be worn by anyone’",
-    "notes": [
-      "Rose"
-    ],
+    "description": "이 향수를 만든 이유는 분명합니다. 관능미와 여성미의 상징인 그라스의 장미 원료로 남성적인 향을 만들어, 남녀 모두 사용할 수 있도록 하는 것입니다. 그 결과 탄생한 로즈 31은, 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Rose"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19285,15 +19142,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-santal-33",
     "name": "SANTAL 33",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Imagine sitting in solitude on the rugged, wide plains of the American West, firelight on your face, indigo-blue night skies above. There is nothing around save for the soft, desert wind. You. Are. Free.",
+    "description": "미 서부의 와일드한 평원에 고독하게 앉아있다고 상상해 보세요. 모닥불의 불빛이 드리우고 머리 위로는 인디고블루의 밤하늘이 펼쳐집니다. 주변에는 사막의 부드러운 바람을 제외하고 아무것도 없습니다. 당신은 자유로워요. 상탈 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. 상탈 33을 한마디로 요약하면 이렇습니다: 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19309,15 +19165,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-tabac-28",
     "name": "TABAC 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. Sometimes a cigar is just a cigar’ And sometimes, it becomes a perfume! Smoky, seductive, alluring ’ TABAC 28 is Miami in a bottle.",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   때때로 시가는 본연의 매력을 넘어 향수가 되기도 합니다. 매혹적이고 유혹적인 스모키 향으로 마이애미를 담아낸 타박 28처럼요. 깊고 향기로운 타바코 앱솔루트는 풍부한 우드, 매력적인 시더우드 블렌드와 어우러져 부드럽고 그을린 듯한 느낌을 줍니다. 여기에 가이악 우드와 럼이 그린 카다멈 주변을 감싸듯 중독적인 따스함을 선사합니다. 타박 28은 생기 있고, 활기차고, 관능적이고 풍요로우면서 퇴폐적이기까지 합니다. 그래피티 예술로 유명한 윈우드 (Wynwood) 에 타박 28을 주제로 한 작품이 생길 것 같네요. 하지만 타박 28은 오롯이 당신의 후각만을 위한 향수라는 것을 잊지 마세요.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19333,15 +19188,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-th-matcha-26",
     "name": "THÉ MATCHA 26",
     "brand": "Le Labo",
     "gender": null,
-    "description": "In the same way matcha tea is much more than just a drink in Japanese culture, THÉ MATCHA 26 is much more than a scent to us. It is a moment of introspection, a moment of self that offers a quiet inner celebration of grace and soulful beauty. A simple whiff takes us away from the hum of the outside and brings us back ’in’.",
+    "description": "말차가 일본 문화에서 단순한 음료 이상의 의미를 지닌 것처럼, 떼 마차 26은 향기 이상의 의미를 담고 있습니다. 떼 마차 26은 깊은 지성의 순간이며, 지혜와 영혼의 아름다움을 감사히 되돌아보는 조용한 자아의 순간입니다. 이 향은 한 번의 들이킴으로 우리를 외부의 소란으로부터 벗어나게 하고 내면으로 '돌아오게' 합니다. 크리미한 무화과 노트가 스며든 마차 티 어코드는 부드러운 베티버와 입체적인 질감의 시더우드를 베이스로 하며 매혹적인 비터 오렌지와 어우러져 기분 좋은 균형을 이룹니다. 천성적으로 내향적이며 깊은 성격의 떼 마차 26 은 살 내음처럼 은은하게 당신 주위를 맴돌고 당신 곁에 가까이 다가갈 수 있는 행운을 가진 몇 사람만을 위한 향임을 의미합니다. 이 향은 고귀한 고요를 담고 있으며 나의 집과 반가운 고독 그리고 친숙하고 소중한 모든 것을 상기시켜줍니다.   사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19357,15 +19211,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-th-noir-29",
     "name": "THÉ NOIR 29",
     "brand": "Le Labo",
     "gender": null,
-    "description": "THÉ NOIR 29 is an ode to the noble leaf and the craft that surrounds it.",
+    "description": "떼 누아 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서도 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19381,29 +19234,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-tonka-25",
     "name": "TONKA 25",
     "brand": "Le Labo",
     "gender": null,
-    "description": "This one is dark. A good, addictive, warm dark, as if the humid summer underwoods, their seeds and resins, were sprinkled with layers of musks and sweetened with drops of vanilla. It evokes the smell of warm skin and resinous wood. The perfumer’s notes say orange flower absolute, the unique cedar atlas, styrax resins, absolute tonka, and musks... We say TONKA 25.",
-    "notes": [
-      "Cedar",
-      "Musk",
-      "Vanilla"
-    ],
+    "description": "통카 25는 아주 어두운 매력을 지닌 향입니다. 물론 좋은 의미로요. 어둑어둑하면서도 어딘가 따스한 살결을 떠올리게 하는 향으로 젖은 나무 덤불과 레진, 씨앗이 겹겹이 머스크와 어우러지고 여기에 바닐라로 희미하게 달콤함을 몇 방울 더합니다. 오렌지 플라워 앱솔루트와 시더 아틀라스, 때죽나무 레진, 통카 앱솔루트와 머스크… 우리는 이 아름다운 조화를 ‘통카 25’라 부릅니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Cedar",
-        "Musk",
-        "Vanilla"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19413,27 +19257,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-tubereuse-40",
     "name": "TUBEREUSE 40",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. TUBEREUSE 40, like most of our scents, barely deserves its name. It is of course full of tuberose (absolute, and nothing less), but what hits you from the start is a wave of bergamot, tangerine, and orange flower that yields that surprising ’eau de cologne’ effect (despite its concentration of 30% which transforms this perfume into an extract).",
-    "notes": [
-      "Bergamot",
-      "Tuberose"
-    ],
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   르 라보의 대다수 향수가 그렇듯, 튜베로즈 40도 평범하게 이름 그대로인 향은 아닙니다. 당연히 여기에는 튜베로즈 앱솔루트가 아주 많이 들어가지만, 이 향을 처음 맡았을 때 가장 먼저 다가오는 것은 의외로 산뜻한 오 드 코롱을 뿌린 듯 프레쉬한 베르가못, 텐저린, 오렌지 플라워 향입니다. (사실 30% 나 되는 높은 부향률 때문에 이 향은 진한 ‘익스트레 드 퍼퓸’에 가깝지만) 그렇기 때문에 첫 향은 완전히 웰-빙의 신선한 느낌입니다. 그 후 서서히 이 향 만의 독 특한 캐 릭터와 포 근함을주는 우디/플로럴한 향이 느껴집니다. 그리고 마침내 튜베로즈와 함께 화이트 플로럴 향이 찾아오고, 우드(시더우드와 샌달우드)가 오크 모스 및 머스크와 함께 다가옵니다. 또한 암브레트 앱솔루트의 향이 강렬하면서도 순수한 느낌을 더합니다. 빛이 있는 한 인생이 있듯이 , 뉴욕이 있는 한, 튜베로즈 40이 있을 것입니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Bergamot",
-        "Tuberose"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19443,15 +19280,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-vanille-44",
     "name": "VANILLE 44",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Available online September 1st through September 30th only. We all know that Paris is the city of love (and hence sex). But Paris is also the city of VANILLE 44!",
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   우리는 모두 파리가 로맨틱한 사랑의 도시라는 것을 잘 알고 있죠. 하지만 파리는 바닐 44의 도시이기도 합니다! 르 라보의 로즈 향수가 단순히 로즈 향만 내지 않고, 아이리스 향수 역시 아이리스 향만 나지 않는다는 것을 이미 잘 아실 겁니다. 마찬가지로 르 라보의 바닐라도 평범한 바닐라 향은 아닙니다. 바닐 44는 앰버, 인센스, 우디 향이 어우러진 관능적인 향으로, 파시미나 스웨터에 스며들면 당신이 여태껏 경험해본 적 없는 최고급 버번 바닐라 향을 뿜어낼 것입니다. 오직 파리에서만 이 향을 살 수 있게 한 건 르 라보의 큰 실수라고 말하는 이가 있는 반면, 어떤 이는 평범한 바닐라 같지 않은 이 향이 바닐이란 이름을 달고 있는 걸 용납할 수 없다고 합니다. 하지만 대관절 요즘 같은 세상에 평범함을 가르는 기준이란… 뭐죠?  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19467,33 +19303,20 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-vetiver-46",
     "name": "VETIVER 46",
     "brand": "Le Labo",
     "gender": null,
-    "description": "The crème de la crème of vetivers, nurtured in Haiti and retired to Grasse in accord with local know-how, is the pillar of this perfume that, without a doubt, is one of the deepest and darkest of all Le Labo creations. Among the many essences, pepper, gaïac, labdanum, and cedar lend themselves to the wicked moodiness of this perfume... Each expresses strength of character in its own way, and the delicate accompaniment of olibanum, a mysterious incense, leaves an intriguing spiritual dimension in its wake.",
-    "notes": [
-      "Cedar",
-      "Vetiver",
-      "Incense",
-      "Pepper",
-      "Labdanum"
-    ],
+    "description": "아이티에서 자란 최상급의 베티버를 원료로 해 만들어진 베티버 46은, 르 라보의 향수 컬렉션 중 가장 남성적인 매력의 향수입니다. 함께 블렌딩된 46가지의 원료들에는 남성적인 향이 가득합니다 : 페퍼, 가이악, 라다넘, 시더우드 각각이 강렬한 캐릭터를 드러냅니다. 여기에 신비로운 유향이 더해져 흥미롭고 유혹적인 잔향을 남깁니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
     "noteGroups": {
       "top": [],
       "middle": [],
       "base": [],
-      "unspecified": [
-        "Cedar",
-        "Vetiver",
-        "Incense",
-        "Pepper",
-        "Labdanum"
-      ]
+      "unspecified": []
     },
     "accords": [],
     "collection": "Classic Collection",
@@ -19503,15 +19326,14 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "lelabo-ylang-49",
     "name": "YLANG 49",
     "brand": "Le Labo",
     "gender": null,
-    "description": "YLANG 49 is a chypre floral, where pua noa noa (gardenia from Tahiti) completes the floral voluptuousness of ylang ylang...",
+    "description": "일랑 49는 시프레 플로럴 계열의 향수로, 일랑일랑에 타히티 가드니아를 더해 더욱 관능적인 플로럴을 완성합니다. 패출리, 오크모스, 베티버, 샌달우드와 벤조인이 이 조합을 더욱 센슈얼하게 만듭니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19527,8 +19349,7 @@ window.PERFUME_DATA = [
     "sourceProductId": null,
     "imageStatus": "downloaded-original-1200",
     "retouchStatus": "not-retouched",
-    "noteExtraction": "official-english-product-description",
-    "textSourceUrl": "https://www.lelabofragrances.com/"
+    "noteExtraction": "official-product-description"
   },
   {
     "id": "creed-absolu-aventus",

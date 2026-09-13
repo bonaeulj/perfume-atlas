@@ -25,12 +25,12 @@ function addFloatingBottles(){
  const count=desiredBackgroundCount(),backgroundPerfumes=bitmapPerfumes().sort(()=>Math.random()-.5).slice(0,count);
  // Keep the gallery in a visible checkerboard instead of scattering cells.
  // Desktop tiles are 350px with a 100px gutter; mobile uses compact tiles.
- const mobile=window.innerWidth<=650,tileSize=mobile?200:350,tileGap=mobile?50:100;
- const columns=Math.max(1,Math.floor((window.innerWidth+tileGap)/(tileSize+tileGap))),rows=Math.ceil(count/columns);
+ const mobile=window.innerWidth<=650,tileSize=200,tileGap=mobile?50:100;
+ const columns=Math.max(2,Math.round(window.innerWidth/(tileSize+tileGap))+1),rows=Math.ceil(count/columns);
  const totalWidth=columns*tileSize+(columns-1)*tileGap,totalHeight=rows*tileSize+(rows-1)*tileGap;
  floatingBottles.replaceChildren();backgroundImageCount=count;
  backgroundPerfumes.forEach((p,i)=>{
-  const column=i%columns,row=Math.floor(i/columns),x=column*(tileSize+tileGap)+tileSize/2-totalWidth/2,y=row*(tileSize+tileGap)+tileSize/2-totalHeight/2;
+  const column=i%columns,row=Math.floor(i/columns),x=(column-(columns-1)/2)*(window.innerWidth/(columns-1)),y=(row-Math.floor(rows/2))*(tileSize+tileGap);
   const baseX=x/(window.innerWidth*.52),baseY=y/(window.innerHeight*.52),size=tileSize,depth=1,phase=0,button=document.createElement('button');
   button.className='bottle';button.dataset.baseX=baseX.toFixed(4);button.dataset.baseY=baseY.toFixed(4);button.dataset.phase=phase;
   button.style.cssText=`left:50%;top:50%;--size:${size}px;--depth:${depth};z-index:${Math.round(depth*10)}`;
@@ -85,8 +85,8 @@ function animateBackgroundField(time){
  floatingBottles.querySelectorAll('.bottle').forEach(button=>{
   const depth=Number(button.style.getPropertyValue('--depth'))||1,baseX=Number(button.dataset.baseX),baseY=Number(button.dataset.baseY);
   const phase=0,scale=1;
-  const fieldX=Math.max(-window.innerWidth*.75,Math.min(window.innerWidth*.75,baseX*window.innerWidth*.52+panX));
-  const fieldY=Math.max(-window.innerHeight*.75,Math.min(window.innerHeight*.75,baseY*window.innerHeight*.52+panY));
+  const fieldX=baseX*window.innerWidth*.52+panX;
+  const fieldY=baseY*window.innerHeight*.52+panY;
   // Keep the initial field populated edge-to-edge; depth animation can still
   // fade bottles, but never collapses the opening particle canvas to blanks.
   const visibility=1;
@@ -99,7 +99,7 @@ function animateBackgroundField(time){
  requestAnimationFrame(animateBackgroundField);
 }
 requestAnimationFrame(animateBackgroundField);
-window.addEventListener('resize',()=>{clearTimeout(backgroundResizeTimer);backgroundResizeTimer=setTimeout(()=>{if(desiredBackgroundCount()!==backgroundImageCount)addFloatingBottles();},180);});
+window.addEventListener('resize',()=>{clearTimeout(backgroundResizeTimer);backgroundResizeTimer=setTimeout(addFloatingBottles,180);});
 function noteGroups(p){return p.noteGroups||{unspecified:p.notes}}function descriptionFor(p){return escapeHTML(p.description)}function notesMarkup(p){const groups=noteGroups(p);return [['Top',groups.top],['Middle',groups.middle],['Base',groups.base],['Key Notes',groups.unspecified]].map(([label,notes])=>notes?.length?`<div class="layer"><span class="layer-title">${label}</span>${notes.map(n=>`<button class="note-button" data-note="${escapeHTML(n)}">${escapeHTML(n)}<span>+</span></button>`).join('')}</div>`:'').join('')||'<span>Not published by the source.</span>'}
 function collectionFor(p){return p.collection||'Collection not confirmed'}
 function renderDetail(p){openNoteGroups.clear();connections.replaceChildren();document.querySelectorAll('.toggle').forEach(b=>{b.classList.remove('is-open');b.setAttribute('aria-expanded','false');});selected=p;backToPrevious.hidden=navigationStack.length===0;atlas.classList.add('is-focused');workspace.hidden=false;connections.hidden=true;collectionGrid.hidden=true;brandGrid.hidden=true;collectionsPanel.classList.remove('is-expanded');document.querySelector('#collectionsToggle b').textContent='+';collectionName.textContent='Collections';document.querySelector('#collectionsToggle').hidden=!p.collection||!perfumes.some(item=>item.id!==p.id&&item.collection===p.collection);document.querySelector('#brandToggle b').textContent='+';heroCard.innerHTML=`<div class="hero-head">${[p.name,p.gender,p.brand].filter(Boolean).map(escapeHTML).join(' · ')}</div><div class="hero-image"><img src="${photoFor(indexOf(p))}" alt="${escapeHTML(p.name)}"></div><div class="description">${descriptionFor(p)}<a class="source" href="${escapeHTML(p.sourceUrl)}" target="_blank" rel="noopener noreferrer">Source: ${escapeHTML(p.brand)} ↗</a></div>`;detailsPanel.innerHTML=`<section class="note-section"><span class="section-label">Notes</span><div class="section-body">${notesMarkup(p)}</div></section>${p.accords?.length?`<section class="note-section"><span class="section-label">Accords</span><div class="section-body">${p.accords.map(n=>`<span class="accord">${escapeHTML(n)}</span>`).join('')}</div></section>`:''}`;if(window.matchMedia('(max-width:650px)').matches)detailsPanel.append(connections);brandName.textContent=p.brand;detailsPanel.querySelectorAll('.note-button').forEach(button=>button.addEventListener('click',()=>showConnections(button.dataset.note,button)))}
@@ -212,9 +212,13 @@ function bitmapReveal(image){
   const coords=Array.isArray(data)?data:data.p, palette=Array.isArray(data)?['#777']:data.k, colors=Array.isArray(data)?null:data.c;
   const canvas=document.createElement('canvas');canvas.className='bitmap-reveal-layer';canvas.width=440;canvas.height=440;
   image.parentElement.classList.add('bitmap-reveal-host');image.parentElement.append(canvas);
+  // Anchor the overlay to the image box, never the whole result card.
+  const align=()=>{canvas.style.inset='auto';canvas.style.left=image.offsetLeft+'px';canvas.style.top=image.offsetTop+'px';canvas.style.width=image.offsetWidth+'px';canvas.style.height=image.offsetHeight+'px';};
+  align();
+  const resize=new ResizeObserver(align);resize.observe(image);
   const points=coords.map((v,i)=>({x:(v%110)*4,y:Math.floor(v/110)*4,c:palette[colors?.[i]??0]||'#777',a:i*2.4}));
   const start=performance.now(),duration=image.closest('.hero-image')?1200:800;
-  const frame=now=>{const t=Math.min(1,(now-start)/duration),progress=t<.667?.55*Math.pow(t/.667,1.8):.55+.45*Math.pow((t-.667)/.333,.35),amount=2.35*(1-progress),ctx=canvas.getContext('2d');ctx.clearRect(0,0,440,440);for(const p of points){const drift=Math.sin(p.a+now*.003)*8*amount;ctx.fillStyle=p.c;ctx.globalAlpha=.72*(1-progress);ctx.fillRect(p.x+drift*amount,p.y+Math.cos(p.a+now*.002)*6*amount,2,2)}if(t<1)requestAnimationFrame(frame);else canvas.remove()};
+  const frame=now=>{if(!image.isConnected){resize.disconnect();canvas.remove();return;}align();const t=Math.min(1,(now-start)/duration),progress=t<.667?.55*Math.pow(t/.667,1.8):.55+.45*Math.pow((t-.667)/.333,.35),amount=2.35*(1-progress),ctx=canvas.getContext('2d');ctx.clearRect(0,0,440,440);for(const p of points){const drift=Math.sin(p.a+now*.003)*8*amount;ctx.fillStyle=p.c;ctx.globalAlpha=.72*(1-progress);ctx.fillRect(p.x+drift*amount,p.y+Math.cos(p.a+now*.002)*6*amount,2,2)}if(t<1)requestAnimationFrame(frame);else{resize.disconnect();canvas.remove()}};
   requestAnimationFrame(frame);
 }
 function prepareImage(image){
