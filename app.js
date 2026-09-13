@@ -25,7 +25,7 @@ function addFloatingBottles(){
  const count=desiredBackgroundCount(),backgroundPerfumes=bitmapPerfumes().sort(()=>Math.random()-.5).slice(0,count);
  // Keep the gallery in a visible checkerboard instead of scattering cells.
  // Desktop tiles are 350px with a 100px gutter; mobile uses compact tiles.
- const mobile=window.innerWidth<=650,tileSize=mobile?100:350,tileGap=mobile?50:100;
+ const mobile=window.innerWidth<=650,tileSize=mobile?200:350,tileGap=mobile?50:100;
  const columns=Math.max(1,Math.floor((window.innerWidth+tileGap)/(tileSize+tileGap))),rows=Math.ceil(count/columns);
  const totalWidth=columns*tileSize+(columns-1)*tileGap,totalHeight=rows*tileSize+(rows-1)*tileGap;
  floatingBottles.replaceChildren();backgroundImageCount=count;
@@ -199,7 +199,8 @@ function blurReveal(element){
   // Every image follows the same gather -> reveal motion, including images
   // inserted later by search, collections, details, and connection cards.
   element.classList.add('bitmap-transition');
-  const motion=element.animate([{opacity:.18,filter:'blur(14px) contrast(.8)'},{opacity:1,filter:'blur(0px) contrast(1)'}],motionOptions(1000));
+  const duration=element.closest('.hero-image')?1200:800;
+  const motion=element.animate([{opacity:.18,filter:'blur(14px) contrast(.8)'},{opacity:1,filter:'blur(0px) contrast(1)'}],motionOptions(duration));
   revealMotions.set(element,motion);
 }
 const watchedImages=new WeakSet();
@@ -212,8 +213,8 @@ function bitmapReveal(image){
   const canvas=document.createElement('canvas');canvas.className='bitmap-reveal-layer';canvas.width=440;canvas.height=440;
   image.parentElement.classList.add('bitmap-reveal-host');image.parentElement.append(canvas);
   const points=coords.map((v,i)=>({x:(v%110)*4,y:Math.floor(v/110)*4,c:palette[colors?.[i]??0]||'#777',a:i*2.4}));
-  const start=performance.now(),duration=1000;
-  const frame=now=>{const t=Math.min(1,(now-start)/duration),amount=2.35*(1-t),ctx=canvas.getContext('2d');ctx.clearRect(0,0,440,440);for(const p of points){const drift=Math.sin(p.a+now*.003)*8*amount;ctx.fillStyle=p.c;ctx.globalAlpha=.72*(1-t);ctx.fillRect(p.x+drift*amount,p.y+Math.cos(p.a+now*.002)*6*amount,2,2)}if(t<1)requestAnimationFrame(frame);else canvas.remove()};
+  const start=performance.now(),duration=image.closest('.hero-image')?1200:800;
+  const frame=now=>{const t=Math.min(1,(now-start)/duration),progress=t<.667?.55*Math.pow(t/.667,1.8):.55+.45*Math.pow((t-.667)/.333,.35),amount=2.35*(1-progress),ctx=canvas.getContext('2d');ctx.clearRect(0,0,440,440);for(const p of points){const drift=Math.sin(p.a+now*.003)*8*amount;ctx.fillStyle=p.c;ctx.globalAlpha=.72*(1-progress);ctx.fillRect(p.x+drift*amount,p.y+Math.cos(p.a+now*.002)*6*amount,2,2)}if(t<1)requestAnimationFrame(frame);else canvas.remove()};
   requestAnimationFrame(frame);
 }
 function prepareImage(image){
