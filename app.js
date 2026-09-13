@@ -23,18 +23,15 @@ const bitmapPerfumes=()=>perfumes.filter(perfume=>{
 const desiredBackgroundCount=()=>Math.min(bitmapPerfumes().length,30);
 function addFloatingBottles(){
  const count=desiredBackgroundCount(),backgroundPerfumes=bitmapPerfumes().sort(()=>Math.random()-.5).slice(0,count);
- const columns=Math.max(4,Math.round(Math.sqrt(count*window.innerWidth/window.innerHeight))),rows=Math.ceil(count/columns);
- const cells=Array.from({length:columns*rows},(_,i)=>i).sort(()=>Math.random()-.5).slice(0,count);
+ // Keep the gallery in a visible checkerboard instead of scattering cells.
+ // Desktop tiles are 350px with a 100px gutter; mobile uses compact tiles.
+ const mobile=window.innerWidth<=650,tileSize=mobile?100:350,tileGap=mobile?50:100;
+ const columns=Math.max(1,Math.floor((window.innerWidth+tileGap)/(tileSize+tileGap))),rows=Math.ceil(count/columns);
+ const totalWidth=columns*tileSize+(columns-1)*tileGap,totalHeight=rows*tileSize+(rows-1)*tileGap;
  floatingBottles.replaceChildren();backgroundImageCount=count;
  backgroundPerfumes.forEach((p,i)=>{
-  const cell=cells[i],column=cell%columns,row=Math.floor(cell/columns),cellWidth=window.innerWidth*1.5/columns,cellHeight=window.innerHeight*1.5/rows;
-  const depthLevel=i%3;
-  const depthScales=[1,1.34,1.7],baseSize=Math.max(180,Math.min(252,Math.min(cellWidth,cellHeight)*1.7));
-  const size=Math.round(baseSize*depthScales[depthLevel]);
-  const rowOffset=row%2?.22:0;
-  const baseX=(((column+.5+rowOffset)/columns)-.5)*2*1.45+(Math.random()-.5)*(.16/columns);
-  const baseY=((row+.5)/rows-.5)*2*1.45+(Math.random()-.5)*(.16/rows);
-  const depth=[.38,.68,1][depthLevel],phase=[.2,.5,.8][depthLevel],button=document.createElement('button');
+  const column=i%columns,row=Math.floor(i/columns),x=column*(tileSize+tileGap)+tileSize/2-totalWidth/2,y=row*(tileSize+tileGap)+tileSize/2-totalHeight/2;
+  const baseX=x/(window.innerWidth*.52),baseY=y/(window.innerHeight*.52),size=tileSize,depth=1,phase=0,button=document.createElement('button');
   button.className='bottle';button.dataset.baseX=baseX.toFixed(4);button.dataset.baseY=baseY.toFixed(4);button.dataset.phase=phase;
   button.style.cssText=`left:50%;top:50%;--size:${size}px;--depth:${depth};z-index:${Math.round(depth*10)}`;
   button.dataset.perfumeId=p.id;
@@ -46,14 +43,19 @@ function addFloatingBottles(){
 
 let pointerTargetX=0,pointerTargetY=0,pointerX=0,pointerY=0,zoomTarget=0,zoomPosition=0;
 let panX=0,panY=0,panTargetX=0,panTargetY=0,dragPointer=null,dragStartX=0,dragStartY=0,dragOriginX=0,dragOriginY=0,didDrag=false;
+const touchPointers=new Map();let pinchDistance=0;
 window.addEventListener('pointermove',event=>{pointerTargetX=event.clientX/window.innerWidth-.5;pointerTargetY=event.clientY/window.innerHeight-.5;},{passive:true});
 document.documentElement.addEventListener('pointerleave',()=>{pointerTargetX=0;pointerTargetY=0;});
 floatingBottles.addEventListener('pointerdown',event=>{
  if(selected||event.button!==0)return;
+ touchPointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
+ if(touchPointers.size===2){const pts=[...touchPointers.values()];pinchDistance=Math.hypot(pts[0].x-pts[1].x,pts[0].y-pts[1].y);return;}
  dragPointer=event.pointerId;dragStartX=event.clientX;dragStartY=event.clientY;dragOriginX=panTargetX;dragOriginY=panTargetY;didDrag=false;
  floatingBottles.setPointerCapture(event.pointerId);floatingBottles.classList.add('is-dragging');
 });
 floatingBottles.addEventListener('pointermove',event=>{
+ if(touchPointers.has(event.pointerId))touchPointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
+ if(touchPointers.size>=2){const pts=[...touchPointers.values()];const next=Math.hypot(pts[0].x-pts[1].x,pts[0].y-pts[1].y);if(pinchDistance)scatterNotes((pinchDistance-next)*.7);pinchDistance=next;return;}
  if(event.pointerId!==dragPointer)return;
  const dx=event.clientX-dragStartX,dy=event.clientY-dragStartY;
  if(Math.hypot(dx,dy)>5)didDrag=true;
@@ -61,6 +63,7 @@ floatingBottles.addEventListener('pointermove',event=>{
  panTargetY=Math.max(-window.innerHeight*.35,Math.min(window.innerHeight*.35,dragOriginY+dy));
 });
 function finishCanvasDrag(event){
+ touchPointers.delete(event.pointerId);if(touchPointers.size<2)pinchDistance=0;
  if(event.pointerId!==dragPointer)return;
  dragPointer=null;floatingBottles.classList.remove('is-dragging');
 }
@@ -81,12 +84,12 @@ function animateBackgroundField(time){
  panX+=(panTargetX-panX)*.16;panY+=(panTargetY-panY)*.16;
  floatingBottles.querySelectorAll('.bottle').forEach(button=>{
   const depth=Number(button.style.getPropertyValue('--depth'))||1,baseX=Number(button.dataset.baseX),baseY=Number(button.dataset.baseY);
-  const phase=((Number(button.dataset.phase)+zoomPosition)%1+1)%1,scale=.38+phase*1.08;
+  const phase=0,scale=1;
   const fieldX=Math.max(-window.innerWidth*.75,Math.min(window.innerWidth*.75,baseX*window.innerWidth*.52+panX));
   const fieldY=Math.max(-window.innerHeight*.75,Math.min(window.innerHeight*.75,baseY*window.innerHeight*.52+panY));
   // Keep the initial field populated edge-to-edge; depth animation can still
   // fade bottles, but never collapses the opening particle canvas to blanks.
-  const fadeIn=Math.min(1,phase/.12),fadeOut=Math.min(1,(1-phase)/.14),visibility=Math.max(.68,Math.min(fadeIn,fadeOut));
+  const visibility=1;
   button.style.setProperty('--field-x',`${fieldX.toFixed(2)}px`);button.style.setProperty('--field-y',`${fieldY.toFixed(2)}px`);
   button.style.setProperty('--field-scale',scale.toFixed(4));button.style.opacity=String(visibility);
   button.style.zIndex=String(Math.round(phase*30));
@@ -193,10 +196,26 @@ async function closeMobileNote(){
 const revealMotions=new WeakMap();
 function blurReveal(element){
   revealMotions.get(element)?.cancel();
-  const motion=element.animate([{opacity:.35,filter:'blur(8px)'},{opacity:1,filter:'blur(0px)'}],motionOptions(600));
+  // Every image follows the same gather -> reveal motion, including images
+  // inserted later by search, collections, details, and connection cards.
+  element.classList.add('bitmap-transition');
+  const motion=element.animate([{opacity:.18,filter:'blur(14px) contrast(.8)'},{opacity:1,filter:'blur(0px) contrast(1)'}],motionOptions(1000));
   revealMotions.set(element,motion);
 }
 const watchedImages=new WeakSet();
+function bitmapReveal(image){
+  const src=image.getAttribute('src')||'';
+  const perfume=perfumes.find(p=>src.endsWith(p.image)||p.image.endsWith(src));
+  const data=perfume&&window.BITMAP_POINTS?.[perfume.id];
+  if(!data||!image.parentElement)return;
+  const coords=Array.isArray(data)?data:data.p, palette=Array.isArray(data)?['#777']:data.k, colors=Array.isArray(data)?null:data.c;
+  const canvas=document.createElement('canvas');canvas.className='bitmap-reveal-layer';canvas.width=440;canvas.height=440;
+  image.parentElement.classList.add('bitmap-reveal-host');image.parentElement.append(canvas);
+  const points=coords.map((v,i)=>({x:(v%110)*4,y:Math.floor(v/110)*4,c:palette[colors?.[i]??0]||'#777',a:i*2.4}));
+  const start=performance.now(),duration=1000;
+  const frame=now=>{const t=Math.min(1,(now-start)/duration),amount=2.35*(1-t),ctx=canvas.getContext('2d');ctx.clearRect(0,0,440,440);for(const p of points){const drift=Math.sin(p.a+now*.003)*8*amount;ctx.fillStyle=p.c;ctx.globalAlpha=.72*(1-t);ctx.fillRect(p.x+drift*amount,p.y+Math.cos(p.a+now*.002)*6*amount,2,2)}if(t<1)requestAnimationFrame(frame);else canvas.remove()};
+  requestAnimationFrame(frame);
+}
 function prepareImage(image){
   if(watchedImages.has(image))return;
   watchedImages.add(image);
@@ -208,7 +227,7 @@ function prepareImage(image){
     settled=true;
     image.removeAttribute('aria-busy');
     image.classList.remove('image-loading');
-    if(image.naturalWidth>0)blurReveal(image);
+    if(image.naturalWidth>0){bitmapReveal(image);blurReveal(image);}
   };
   image.addEventListener('load',finish,{once:true});
   image.addEventListener('error',finish,{once:true});
@@ -221,6 +240,11 @@ function prepareImages(root){
 prepareImages(document);
 new MutationObserver(records=>records.forEach(record=>record.addedNodes.forEach(prepareImages)))
   .observe(document.body,{childList:true,subtree:true});
+new MutationObserver(()=>{
+  if(selected&&!heroCard.querySelector('.hero-close')){
+    const close=document.createElement('button');close.className='hero-close';close.type='button';close.setAttribute('aria-label','Close and return to main');close.textContent='×';close.addEventListener('click',goHome);heroCard.prepend(close);
+  }
+}).observe(heroCard,{childList:true});
 
 function goHome(){
   selected=null;
