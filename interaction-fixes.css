@@ -1,0 +1,76 @@
+[hidden]{display:none!important}
+/* Pin the primary card's top edge independently of expanded content height. */
+.atlas.is-focused{overflow:hidden}
+.detail-workspace{top:20vh;transform:translateX(-50%);padding-bottom:32px}
+.hero-card{grid-column:2;grid-row:1}
+.details-panel{grid-column:3;grid-row:1}
+.collections{grid-column:1;grid-row:1}
+:root{--gap:8px}
+.detail-workspace{width:816px}
+.collections{width:200px;display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.collections .toggle{width:200px;flex-shrink:0;margin:0}
+.collections .toggle.is-open,.collection-grid{width:400px}
+.collection-grid{flex-shrink:0;gap:8px;margin:0;padding:0;scrollbar-width:none;overscroll-behavior-x:contain}
+.collection-grid::-webkit-scrollbar{display:none;width:0;height:0}
+.collection-item{padding:0;flex:0 0 200px;width:200px;height:200px}
+.hero-image{height:auto;aspect-ratio:1;margin-top:8px}
+.description{margin-top:8px;padding:8px}
+.search-results{margin-top:8px;display:flex;flex-direction:column;gap:8px;background:transparent}
+.result{padding:8px;gap:8px;border:0}
+.note-section{padding:0;background:transparent}
+.section-label{box-sizing:border-box;height:25px;margin:0 0 8px;padding:4px 8px;border:0;background:var(--panel)}
+.section-body{padding:8px;background:var(--panel)}
+.layer{margin:0 0 8px}.layer:last-child{margin-bottom:0}
+.connection{display:flex;flex-direction:column;gap:8px}.connection-head{padding:8px;gap:8px}
+.connections{padding:0;gap:8px}.connection img{width:100%;height:auto;aspect-ratio:1}
+.connections{grid-row:1}
+.connection-group{display:flex;flex-direction:column;gap:8px;flex-shrink:0}
+.hero-card,.hero-image,.collection-grid,.collection-item,.connection,.connection img{background:transparent}
+.atlas .hero-image,.atlas .hero-image img,.atlas .connection img,.atlas .collection-item,.atlas .collection-item img,.atlas .result img{height:auto;aspect-ratio:auto}
+.hero-image img,.collection-item img{display:block;width:100%;object-fit:contain}
+.collection-grid{align-items:flex-start}
+.floating-bottles .bottle{height:auto!important}
+.floating-bottles .bottle img{height:auto}
+/* Equal-height carousel photographs, with widths derived from their ratios. */
+.atlas .collection-item{flex:0 0 auto;width:auto;height:200px}
+.atlas .collection-item img{width:auto;height:100%;max-width:none;aspect-ratio:auto}
+.connection-group>.empty{margin:0}
+.connection-group>.connection-label{margin:0}
+/* Each column owns its overflow; expanding it never scrolls the canvas. */
+.detail-workspace{--panel-height:calc(80dvh - 16px);padding-bottom:0}
+.detail-workspace>.hero-card,
+.detail-workspace>.details-panel,
+.detail-workspace>.connections,
+.detail-workspace>.collections{
+  max-height:var(--panel-height);
+  min-height:0;
+  overflow-y:auto;
+  overflow-x:hidden;
+  overscroll-behavior:contain;
+  scrollbar-width:none;
+}
+.detail-workspace>aside::-webkit-scrollbar,
+.detail-workspace>.hero-card::-webkit-scrollbar{display:none}
+.detail-workspace>.collections{
+  width:min(400px,calc(50vw - 216px));
+  justify-self:end;
+}
+.collections .collection-grid,
+.collections .toggle.is-open{width:100%}
+.details-panel>.note-section,.connections>.connection-group{flex-shrink:0}
+@media(max-width:650px){.detail-workspace{top:0;transform:none}.hero-card{grid-column:1;grid-row:2}.details-panel{grid-column:1;grid-row:3}.collections{grid-column:1;grid-row:1}.connections{grid-column:1;grid-row:4;display:flex}}
+@media(max-width:900px){.detail-workspace{width:min(94vw,616px)}.collections{width:150px}.collections .toggle{width:150px}.collections .toggle.is-open,.collection-grid{width:310px}.collection-item{flex-basis:150px;width:150px;height:150px}.connections{left:calc(100% + 8px)}}
+@media(max-width:650px){.detail-workspace{width:100%;gap:8px}.collections{display:flex;width:100%;align-items:flex-end}.collections .toggle{width:50%}.collections .toggle.is-open,.collection-grid{width:100%;max-width:100%}.hero-image{height:auto;aspect-ratio:1}.hero-card{grid-row:2}.details-panel{grid-row:3}}
+@media(min-width:651px) and (max-width:900px){
+  .detail-workspace>.collections{width:min(310px,calc(3vw + 150px - 8px))}
+  .atlas .collection-item{height:150px}
+  .collections .collection-grid,.collections .toggle.is-open{width:100%}
+  .detail-workspace>.connections{position:static;left:auto;width:min(150px,calc(50vw - 308px - 16px));min-width:80px}
+}
+@media(max-width:650px){
+  .detail-workspace{--panel-height:60dvh;height:100dvh;overflow-y:auto;overscroll-behavior:contain}
+  .detail-workspace>.collections{width:100%}
+  .detail-workspace>.connections{width:100%}
+  .collections .collection-grid,.collections .toggle.is-open{width:100%}
+  .atlas .collection-item{height:150px}
+}

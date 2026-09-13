@@ -1,0 +1,16 @@
+#mobileNoteDialog{margin:0;inset:0;width:100%;max-width:none;height:100dvh;max-height:none;padding:16px;border:0;background:#fff;color:#080808;font:12px Inter,Helvetica,Arial,sans-serif}
+#mobileNoteDialog[open]{display:flex;flex-direction:column;gap:8px}
+#mobileNoteDialog::backdrop{background:rgba(255,255,255,.8)}
+.mobile-note-header{display:flex;align-items:center;justify-content:space-between;flex-shrink:0;background:var(--panel);padding:0 8px;min-height:36px}
+#closeMobileNote{border:0;background:transparent;font:24px Inter,sans-serif;cursor:pointer;width:36px;height:36px}
+#mobileNoteContent{overflow-y:auto;min-height:0;overscroll-behavior:contain}
+#mobileNoteContent .connection img{width:100%;height:auto;aspect-ratio:auto}
+@media(max-width:650px){
+  html,body{overflow:hidden}
+  .detail-workspace{display:flex;flex-direction:column;align-items:stretch;overflow-x:hidden}
+  .detail-workspace>.hero-card{order:1}
+  .detail-workspace>.collections{order:2}
+  .detail-workspace>.details-panel{order:3}
+  .detail-workspace>.connections{display:none}
+  .detail-workspace>.hero-card,.detail-workspace>.collections,.detail-workspace>.details-panel{max-height:none;overflow:visible;flex-shrink:0}
+}

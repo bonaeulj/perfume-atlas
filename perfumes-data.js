@@ -1,0 +1,20054 @@
+window.PERFUME_DATA = [
+  {
+    "id": "cdg-amazingreen",
+    "name": "Amazingreen",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Amazingreen by Comme des Garçons. Officially listed notes: Palm Tree Leaves, Green Pepper, Hazelnut.Ivy Leaves, Orris Roots, Coriander Seeds, Silex.Gunpowder Accord, Vetiver, Smoke, White Musk.",
+    "notes": [
+      "Palm Tree Leaves",
+      "Green Pepper",
+      "Hazelnut.ivy Leaves",
+      "Orris",
+      "Coriander",
+      "Silex.gunpowder",
+      "Vetiver",
+      "Smoke",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Palm Tree Leaves",
+        "Green Pepper",
+        "Hazelnut.ivy Leaves",
+        "Orris",
+        "Coriander",
+        "Silex.gunpowder",
+        "Vetiver",
+        "Smoke",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-amazingreen.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/amazingreen.jpg?v=1707493440",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/amazingreen",
+    "sourceProductId": "6909599383685",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490023256197",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Palm Tree Leaves",
+        "Green Pepper",
+        "Hazelnut.Ivy Leaves",
+        "Orris Roots",
+        "Coriander Seeds",
+        "Silex.Gunpowder Accord",
+        "Vetiver",
+        "Smoke",
+        "White Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-andy-warhols-youre-in-5",
+    "name": "Andy Warhol's You're In",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Andy Warhol's You're In by Comme des Garçons. Officially listed notes: Families: Woody, CitrusHead Notes: Aldehyde, Bitter OrangeHeart Notes: Coriander, Jasmine, PittosporumBase Notes: Amber, Ambrox, Cashmere Wood, Cedar, Musk.",
+    "notes": [
+      "Citrushead Notes: Aldehyde",
+      "Bitter Orange",
+      "Coriander",
+      "Jasmine",
+      "Pittosporum",
+      "Amber",
+      "Ambroxan",
+      "Cashmere Wood",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Citrushead Notes: Aldehyde",
+        "Bitter Orange",
+        "Coriander",
+        "Jasmine",
+        "Pittosporum",
+        "Amber",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-andy-warhols-youre-in-5.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/andy-warhol-s-you-re-in-beauty.jpg?v=1707495230",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/andy-warhols-youre-in-5",
+    "sourceProductId": "6909605380229",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490039541893",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Families: Woody",
+        "CitrusHead Notes: Aldehyde",
+        "Bitter OrangeHeart Notes: Coriander",
+        "Jasmine",
+        "PittosporumBase Notes: Amber",
+        "Ambrox",
+        "Cashmere Wood",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-artek-standard",
+    "name": "Artek Standard",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Artek Standard by Comme des Garçons. Officially listed notes: Fennel, Ginger, Lemon, Saffron, Cedar Wood, Musk.",
+    "notes": [
+      "Fennel",
+      "Ginger",
+      "Lemon",
+      "Saffron",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Fennel",
+        "Ginger",
+        "Lemon",
+        "Saffron",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-artek-standard.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/artek-standard_194fdd5a-e173-4779-ac37-18abeaf32a69.jpg?v=1707494951",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/artek-standard",
+    "sourceProductId": "6909604266117",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490036658309",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Fennel",
+        "Ginger",
+        "Lemon",
+        "Saffron",
+        "Cedar Wood",
+        "Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-black-comme-des-garcons",
+    "name": "BLACK Comme des Garçons",
+    "brand": "Comme des Garçons",
+    "gender": "Unisex",
+    "description": "BLACK Comme des Garçons by Comme des Garçons. Officially listed notes: Black Pepper From Madagascar, Incense Of Somalia, Leather, Liquorice, Birch Tar, Pepperwood, Cedarwood, Vetiver.",
+    "notes": [
+      "Black Pepper",
+      "Incense",
+      "Leather",
+      "Liquorice",
+      "Birch Tar",
+      "Pepperwood",
+      "Cedarwood",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper",
+        "Incense",
+        "Leather",
+        "Liquorice",
+        "Birch Tar",
+        "Pepperwood",
+        "Cedarwood",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-black-comme-des-garcons.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/black_de7d415e-93dd-46a0-b25e-c0afa24c4c3e.jpg?v=1707494267",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/black-comme-des-garcons",
+    "sourceProductId": "6909601808517",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490031218821",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper From Madagascar",
+        "Incense Of Somalia",
+        "Leather",
+        "Liquorice",
+        "Birch Tar",
+        "Pepperwood",
+        "Cedarwood",
+        "Vetiver"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-blackpepper",
+    "name": "Blackpepper",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Blackpepper by Comme des Garçons. Officially listed notes: Madagascan Pepper, Cedarwood, Akigalawood, Tonka Bean, Musky Accord.",
+    "notes": [
+      "Black Pepper",
+      "Cedarwood",
+      "Akigalawood",
+      "Tonka Bean",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper",
+        "Cedarwood",
+        "Akigalawood",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-blackpepper.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/blackpepper.jpg?v=1707493286",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/blackpepper",
+    "sourceProductId": "6909598892165",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490021617797",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Madagascan Pepper",
+        "Cedarwood",
+        "Akigalawood",
+        "Tonka Bean",
+        "Musky Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-blue-santal",
+    "name": "Blue Santal",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Blue Santal by Comme des Garçons. Officially listed notes: Mediterranean Parasol Pine, Juniper Berryessence, Blue Pepper, Australiansandalwood.",
+    "notes": [
+      "Mediterranean Parasol Pine",
+      "Juniper",
+      "Blue Pepper",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mediterranean Parasol Pine",
+        "Juniper",
+        "Blue Pepper",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-blue-santal.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/blue-santal_6be000ed-499b-4b04-a48c-9f1aecfe9f45.jpg?v=1707493556",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/blue-santal",
+    "sourceProductId": "6909599744133",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490024173701",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mediterranean Parasol Pine",
+        "Juniper Berryessence",
+        "Blue Pepper",
+        "Australiansandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-cdg",
+    "name": "CDG",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "CDG by Comme des Garçons. Officially listed notes: Aldehydes, Safraleine, Hawthorns, Lilac Flower Oxides, Industrial Glue, Brown Sticky Tape, Musk, Styrax.",
+    "notes": [
+      "Aldehydes",
+      "Safraleine",
+      "Hawthorns",
+      "Lilac Flower Oxides",
+      "Industrial Glue",
+      "Brown Sticky Tape",
+      "Musk",
+      "Styrax"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aldehydes",
+        "Safraleine",
+        "Hawthorns",
+        "Lilac Flower Oxides",
+        "Industrial Glue",
+        "Brown Sticky Tape",
+        "Musk",
+        "Styrax"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-cdg.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/cdg_9adde591-3c2e-49a7-84b2-475aae120b66.jpg?v=1707494187",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/cdg",
+    "sourceProductId": "6909601546373",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490030497925",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aldehydes",
+        "Safraleine",
+        "Hawthorns",
+        "Lilac Flower Oxides",
+        "Industrial Glue",
+        "Brown Sticky Tape",
+        "Musk",
+        "Styrax"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-cdg-2",
+    "name": "CDG 2",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "CDG 2 by Comme des Garçons. Officially listed notes: Ink, Incense, Amber, Labdanum, Patchouli, Chinese, Cedarwood, New Aldehydes, Cumin, Angelica Root, Vetiver, Cade Oil, Absolute MatÉ, Magnolia, Absolute Folia.",
+    "notes": [
+      "Ink",
+      "Incense",
+      "Amber",
+      "Labdanum",
+      "Patchouli",
+      "Cedarwood",
+      "Aldehydes",
+      "Cumin",
+      "Angelica Root",
+      "Vetiver",
+      "Cade",
+      "Mate",
+      "Magnolia",
+      "Folia"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ink",
+        "Incense",
+        "Amber",
+        "Labdanum",
+        "Patchouli",
+        "Cedarwood",
+        "Aldehydes",
+        "Cumin",
+        "Angelica Root",
+        "Vetiver",
+        "Cade",
+        "Mate",
+        "Magnolia",
+        "Folia"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-cdg-2.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/cdg-2.jpg?v=1707493651",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/cdg-2",
+    "sourceProductId": "6909600006277",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490024763525",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ink",
+        "Incense",
+        "Amber",
+        "Labdanum",
+        "Patchouli",
+        "Chinese",
+        "Cedarwood",
+        "New Aldehydes",
+        "Cumin",
+        "Angelica Root",
+        "Vetiver",
+        "Cade Oil",
+        "Absolute MatÉ",
+        "Magnolia",
+        "Absolute Folia"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-cdg-dot",
+    "name": "CDG DOT",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "CDG DOT by Comme des Garçons. Officially listed notes: Leafy Greeness, Bitter Orange, PepperMid Notes : Osmanthus Absolute, OlibanumBottom Notes : White Amber Woods.",
+    "notes": [
+      "Leafy Greeness",
+      "Bitter Orange",
+      "Pepper",
+      "Osmanthus",
+      "Olibanum",
+      "Amberwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Leafy Greeness",
+        "Bitter Orange",
+        "Pepper",
+        "Osmanthus",
+        "Olibanum",
+        "Amberwood"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-cdg-dot.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/cdg-dot_67a48881-5df0-4c17-aeb2-10ef03bb563c.jpg?v=1707494227",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/cdg-dot",
+    "sourceProductId": "6909601710213",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490030989445",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Leafy Greeness",
+        "Bitter Orange",
+        "PepperMid Notes : Osmanthus Absolute",
+        "OlibanumBottom Notes : White Amber Woods"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-cdg2-man",
+    "name": "CDG2 Man",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "CDG2 Man by Comme des Garçons. Officially listed notes: Incense, White Smoke, Saffron Flowers, Nutmeg, Kumquat, Fresh Crinkly Mint, Vetiver Roots, Mahogany Wood, Leather.",
+    "notes": [
+      "Incense",
+      "White Smoke",
+      "Saffron Flowers",
+      "Nutmeg",
+      "Kumquat",
+      "Fresh Crinkly Mint",
+      "Vetiver",
+      "Mahogany Wood",
+      "Leather"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Incense",
+        "White Smoke",
+        "Saffron Flowers",
+        "Nutmeg",
+        "Kumquat",
+        "Fresh Crinkly Mint",
+        "Vetiver",
+        "Mahogany Wood",
+        "Leather"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-cdg2-man.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/cdg-2-man.jpg?v=1707493602",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/cdg2-man",
+    "sourceProductId": "6909599842437",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490024370309",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Incense",
+        "White Smoke",
+        "Saffron Flowers",
+        "Nutmeg",
+        "Kumquat",
+        "Fresh Crinkly Mint",
+        "Vetiver Roots",
+        "Mahogany Wood",
+        "Leather"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-concrete",
+    "name": "Concrete",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Concrete by Comme des Garçons. Officially listed notes: Cumin, Cardamom, Clove, Rose Oxyde, Jasmine Sambac, Sandalwood, Cedarwood, Musk.",
+    "notes": [
+      "Cumin",
+      "Cardamom",
+      "Clove",
+      "Rose Oxide",
+      "Jasmine",
+      "Sandalwood",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cumin",
+        "Cardamom",
+        "Clove",
+        "Rose Oxide",
+        "Jasmine",
+        "Sandalwood",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-concrete.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/concrete.jpg?v=1707493239",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/concrete",
+    "sourceProductId": "6909598695557",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490021224581",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cumin",
+        "Cardamom",
+        "Clove",
+        "Rose Oxyde",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-copper",
+    "name": "Copper",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Copper by Comme des Garçons. Officially listed notes: Galbanum, Peppercorns, Ginger, Synthetic Metals, Amber, Vanilla, Myrrh.",
+    "notes": [
+      "Galbanum",
+      "Pepper",
+      "Ginger",
+      "Synthetic Metals",
+      "Amber",
+      "Vanilla",
+      "Myrrh"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Galbanum",
+        "Pepper",
+        "Ginger",
+        "Synthetic Metals",
+        "Amber",
+        "Vanilla",
+        "Myrrh"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-copper.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/copper.jpg?v=1707493188",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/copper",
+    "sourceProductId": "6909598597253",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490021093509",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Galbanum",
+        "Peppercorns",
+        "Ginger",
+        "Synthetic Metals",
+        "Amber",
+        "Vanilla",
+        "Myrrh"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-eau-de-parfum",
+    "name": "Eau de Parfum",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Eau de Parfum by Comme des Garçons. Officially listed notes: Labdanum, Styrax, Cedarwood, Cardamon, Cinnamon, Black Pepper, Honey, Rose, Cloves, Nutmeg, Incense, Sandalwood.",
+    "notes": [
+      "Labdanum",
+      "Styrax",
+      "Cedarwood",
+      "Cardamom",
+      "Cinnamon",
+      "Black Pepper",
+      "Honey",
+      "Rose",
+      "Clove",
+      "Nutmeg",
+      "Incense",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Labdanum",
+        "Styrax",
+        "Cedarwood",
+        "Cardamom",
+        "Cinnamon",
+        "Black Pepper",
+        "Honey",
+        "Rose",
+        "Clove",
+        "Nutmeg",
+        "Incense",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/eau-de-parfum_5ed380bb-87c9-4ed2-a416-f8c1b892aa37.jpg?v=1707493709",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/eau-de-parfum",
+    "sourceProductId": "6909600202885",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490025025669",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Labdanum",
+        "Styrax",
+        "Cedarwood",
+        "Cardamon",
+        "Cinnamon",
+        "Black Pepper",
+        "Honey",
+        "Rose",
+        "Cloves",
+        "Nutmeg",
+        "Incense",
+        "Sandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-erl-sunscreen",
+    "name": "ERL Sunscreen",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "ERL Sunscreen by Comme des Garçons. Officially listed notes: Bergamot Oil, Solar Accord, Lily Of The Valley, Heliotrope, Peach, Musk, Cedarwood Oil, Coconut Accord.",
+    "notes": [
+      "Bergamot",
+      "Solar",
+      "Lily of the Valley",
+      "Heliotrope",
+      "Peach",
+      "Musk",
+      "Cedarwood",
+      "Coconut"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Solar"
+      ],
+      "middle": [
+        "Lily of the Valley",
+        "Heliotrope",
+        "Peach"
+      ],
+      "base": [
+        "Musk",
+        "Cedarwood",
+        "Coconut"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-erl-sunscreen.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/erl-sunscreen_12ccf92b-699a-4d9b-a72e-394185df27ef.jpg?v=1707492698",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/erl-sunscreen",
+    "sourceProductId": "6909596762245",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490017652869",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot Oil",
+        "Solar Accord"
+      ],
+      "middle": [
+        "Lily Of The Valley",
+        "Heliotrope",
+        "Peach"
+      ],
+      "base": [
+        "Musk",
+        "Cedarwood Oil",
+        "Coconut Accord"
+      ],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-floriental",
+    "name": "Floriental",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Floriental by Comme des Garçons. Officially listed notes: Labdanum, Sandalwood, Vetiver, Incense, Pink Pepper, Plum Liqueur.",
+    "notes": [
+      "Labdanum",
+      "Sandalwood",
+      "Vetiver",
+      "Incense",
+      "Pink Pepper",
+      "Plum Liqueur"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Labdanum",
+        "Sandalwood",
+        "Vetiver",
+        "Incense",
+        "Pink Pepper",
+        "Plum Liqueur"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-floriental.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/floriental_e265c709-8364-4f1e-876d-1e0da4e7b0d4.jpg?v=1707493342",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/floriental",
+    "sourceProductId": "6909599088773",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490022076549",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Labdanum",
+        "Sandalwood",
+        "Vetiver",
+        "Incense",
+        "Pink Pepper",
+        "Plum Liqueur"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-ganja",
+    "name": "Ganja",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Ganja by Comme des Garçons. Officially listed notes: Black Pepper Oil, Cumin Seed Oil, Hemp Accord, MatÉ Abs, Lentisque Abs, Guaiac Wood Oil, Olibanum Resinoid, Patchouli Oil Lmr.",
+    "notes": [
+      "Black Pepper",
+      "Cumin Seed",
+      "Hemp",
+      "Mate",
+      "Mastic",
+      "Guaiac Wood",
+      "Olibanum",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Black Pepper",
+        "Cumin Seed"
+      ],
+      "middle": [
+        "Hemp",
+        "Mate",
+        "Mastic"
+      ],
+      "base": [
+        "Guaiac Wood",
+        "Olibanum",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-ganja.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/ganja_2.jpg?v=1707489934",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/ganja",
+    "sourceProductId": "6909586112645",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40489984721029",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Black Pepper Oil",
+        "Cumin Seed Oil"
+      ],
+      "middle": [
+        "Hemp Accord",
+        "MatÉ Abs",
+        "Lentisque Abs"
+      ],
+      "base": [
+        "Guaiac Wood Oil",
+        "Olibanum Resinoid",
+        "Patchouli Oil Lmr"
+      ],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-marseille",
+    "name": "Marseille",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Marseille by Comme des Garçons. Officially listed notes: Savon De Marseille Accord, Neroli Accord, Petalia, Oranger Crystals, Ambrofix, Cosmone.",
+    "notes": [
+      "Savon de Marseille",
+      "Neroli",
+      "Petalia",
+      "Orange Blossom",
+      "Ambroxan",
+      "Cosmone"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Savon de Marseille",
+        "Neroli",
+        "Petalia",
+        "Orange Blossom",
+        "Ambroxan",
+        "Cosmone"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-marseille.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/marseille.jpg?v=1707492499",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/marseille",
+    "sourceProductId": "6909596434565",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490015064197",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Savon De Marseille Accord",
+        "Neroli Accord",
+        "Petalia",
+        "Oranger Crystals",
+        "Ambrofix",
+        "Cosmone"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-mirror-by-kaws",
+    "name": "MIRROR by KAWS",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "MIRROR by KAWS by Comme des Garçons. Officially listed notes: Olfactive Family : Musk FloralTop: Turmeric Leaves & Root Oil, Neroli OilMiddle: Clean Accord, Orange Blossom AbsoluteDry: Cashmeran, Sinfonide*, Benzoin Resinoid*Sinfonide = Brings Musk, Amber, Woody And Powdery Notes.",
+    "notes": [
+      "Turmeric",
+      "Neroli",
+      "Clean",
+      "Orange Blossom",
+      "Cashmeran",
+      "Sinfonide",
+      "Benzoin Resinoidsinfonide = Brings Musk",
+      "Amber",
+      "Woody and Powdery Notes"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Turmeric",
+        "Neroli",
+        "Clean",
+        "Orange Blossom",
+        "Cashmeran",
+        "Sinfonide",
+        "Benzoin Resinoidsinfonide = Brings Musk",
+        "Amber",
+        "Woody and Powdery Notes"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-mirror-by-kaws.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/mirror-by-kaws.jpg?v=1707491671",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/mirror-by-kaws",
+    "sourceProductId": "6909593059461",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490005201029",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Olfactive Family : Musk FloralTop: Turmeric Leaves & Root Oil",
+        "Neroli OilMiddle: Clean Accord",
+        "Orange Blossom AbsoluteDry: Cashmeran",
+        "Sinfonide*",
+        "Benzoin Resinoid*Sinfonide = Brings Musk",
+        "Amber",
+        "Woody And Powdery Notes"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-monocle-scent-one-hinoki",
+    "name": "Monocle Scent One Hinoki",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Monocle Scent One Hinoki by Comme des Garçons. Officially listed notes: Cypress, Terebenthine, Campher, Cedar, Thyme, Pine, Georgywood, Encens, Treemoss, Vetiver.",
+    "notes": [
+      "Cypress",
+      "Terebenthine",
+      "Campher",
+      "Cedarwood",
+      "Thyme",
+      "Pine",
+      "Georgywood",
+      "Incense",
+      "Oakmoss",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cypress",
+        "Terebenthine",
+        "Campher",
+        "Cedarwood",
+        "Thyme",
+        "Pine",
+        "Georgywood",
+        "Incense",
+        "Oakmoss",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": "Monocle",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-monocle-scent-one-hinoki.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/monocle-scent-one-hinoki_1c7532bb-669f-478b-9483-74d332fc386e.jpg?v=1707494662",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/monocle-scent-one-hinoki",
+    "sourceProductId": "6909603512453",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490034757765",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cypress",
+        "Terebenthine",
+        "Campher",
+        "Cedar",
+        "Thyme",
+        "Pine",
+        "Georgywood",
+        "Encens",
+        "Treemoss",
+        "Vetiver"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-monocle-scent-three-sugi",
+    "name": "Monocle Scent Three Sugi",
+    "brand": "Comme des Garçons",
+    "gender": "Unisex",
+    "description": "Monocle Scent Three Sugi by Comme des Garçons. Officially listed notes: Mediterranean Cypress, Madagascan Pepper, Florentine Iris, Virginian Cedar, Pine, Haitian Vetiver.",
+    "notes": [
+      "Mediterranean Cypress",
+      "Black Pepper",
+      "Iris",
+      "Cedarwood",
+      "Pine",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mediterranean Cypress",
+        "Black Pepper",
+        "Iris",
+        "Cedarwood",
+        "Pine",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": "Monocle",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-monocle-scent-three-sugi.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/monocle-scent-three-sugi.jpg?v=1707494779",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/monocle-scent-three-sugi",
+    "sourceProductId": "6909603840133",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490035445893",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mediterranean Cypress",
+        "Madagascan Pepper",
+        "Florentine Iris",
+        "Virginian Cedar",
+        "Pine",
+        "Haitian Vetiver"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-monocle-scent-two-laurel",
+    "name": "Monocle Scent Two Laurel",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Monocle Scent Two Laurel by Comme des Garçons. Officially listed notes: Yellow Lemon, Thyme, Grey Pepper, Cinnamon Leaves, Galbanum, Green Laurel, Violet, Patchouli, Oak, Cedar.",
+    "notes": [
+      "Lemon",
+      "Thyme",
+      "Grey Pepper",
+      "Cinnamon",
+      "Galbanum",
+      "Green Laurel",
+      "Violet",
+      "Patchouli",
+      "Oak",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Thyme",
+        "Grey Pepper",
+        "Cinnamon",
+        "Galbanum",
+        "Green Laurel",
+        "Violet",
+        "Patchouli",
+        "Oak",
+        "Cedarwood"
+      ]
+    },
+    "accords": [],
+    "collection": "Monocle",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-monocle-scent-two-laurel.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/monocle-scent-two-laurel.jpg?v=1707494730",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/monocle-scent-two-laurel",
+    "sourceProductId": "6909603676293",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490035118213",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Yellow Lemon",
+        "Thyme",
+        "Grey Pepper",
+        "Cinnamon Leaves",
+        "Galbanum",
+        "Green Laurel",
+        "Violet",
+        "Patchouli",
+        "Oak",
+        "Cedar"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-monocle-yoyogi",
+    "name": "Monocle Yoyogi",
+    "brand": "Comme des Garçons",
+    "gender": "Unisex",
+    "description": "Monocle Yoyogi by Comme des Garçons. Officially listed notes: Cypress Essence, English Grass Accord, Wormwood Essence, Roman Chamomile Essence, Oakmoss Extract, Thuja Essence, Patchouli Coeur Essence, Incense Resinoid & Incense Essence, Vetiver Essence.",
+    "notes": [
+      "Cypress",
+      "English Grass",
+      "Wormwood",
+      "Roman Chamomile",
+      "Oakmoss",
+      "Thuja",
+      "Patchouli",
+      "Incense",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cypress",
+        "English Grass",
+        "Wormwood",
+        "Roman Chamomile",
+        "Oakmoss",
+        "Thuja",
+        "Patchouli",
+        "Incense",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": "Monocle",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-monocle-yoyogi.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/monocle-yoyogi_500a81ac-8477-48f5-a233-c89548a70472.jpg?v=1707494841",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/monocle-yoyogi",
+    "sourceProductId": "6909603938437",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490036002949",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cypress Essence",
+        "English Grass Accord",
+        "Wormwood Essence",
+        "Roman Chamomile Essence",
+        "Oakmoss Extract",
+        "Thuja Essence",
+        "Patchouli Coeur Essence",
+        "Incense Resinoid & Incense Essence",
+        "Vetiver Essence"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-odeur-10",
+    "name": "Odeur 10",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Odeur 10 by Comme des Garçons. Officially listed notes: Aldehyds, Aldehyds White Mint, Calypsone™, Ambrette Seeds Absolute, Ambrofix™, Musks.",
+    "notes": [
+      "Aldehydes",
+      "Calypsone",
+      "Ambrette",
+      "Ambroxan",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aldehydes",
+        "Calypsone",
+        "Ambrette",
+        "Ambroxan",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-odeur-10.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/ODEUR_10_-_bottle.png?v=1740666500",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/odeur-10",
+    "sourceProductId": "14923852022135",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "54999880302967",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aldehyds",
+        "Aldehyds White Mint",
+        "Calypsone™",
+        "Ambrette Seeds Absolute",
+        "Ambrofix™",
+        "Musks"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-odeur-53",
+    "name": "Odeur 53",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Odeur 53 by Comme des Garçons. Officially listed notes: The Freshness Of Oxygen, Flaming Rock, Freshly Mowed Grass, Wash Drying In The Wind, Sand Dunes, Pure Air Of The High Mountains, Flash Of Metal, Nail Polish.",
+    "notes": [
+      "The Freshness of Oxygen",
+      "Flaming Rock",
+      "Freshly Mowed Grass",
+      "Wash Drying in the Wind",
+      "Sand Dunes",
+      "Pure Air of the High Mountains",
+      "Flash of Metal",
+      "Nail Polish"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The Freshness of Oxygen",
+        "Flaming Rock",
+        "Freshly Mowed Grass",
+        "Wash Drying in the Wind",
+        "Sand Dunes",
+        "Pure Air of the High Mountains",
+        "Flash of Metal",
+        "Nail Polish"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-odeur-53.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/odeur-53.jpg?v=1707494443",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/odeur-53",
+    "sourceProductId": "6909602594949",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490032791685",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The Freshness Of Oxygen",
+        "Flaming Rock",
+        "Freshly Mowed Grass",
+        "Wash Drying In The Wind",
+        "Sand Dunes",
+        "Pure Air Of The High Mountains",
+        "Flash Of Metal",
+        "Nail Polish"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-odeur-71",
+    "name": "Odeur 71",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Odeur 71 by Comme des Garçons. Officially listed notes: Smell Of Dust On A Hot Light-Bulb, Warm Photocopier Toner, Hot Metal, A Toaster, Freshly Welded Aluminium, The Ink In A Fountain Pen, Fresh Pencil Shavings, Wood And Moss, Bay Leaves And Bamboo, White Pepper, Hyacinth, Lettuce Juice.",
+    "notes": [
+      "Smell of Dust on A Hot Light-Bulb",
+      "Warm Photocopier Toner",
+      "Hot Metal",
+      "A Toaster",
+      "Freshly Welded Aluminium",
+      "The Ink in A Fountain Pen",
+      "Fresh Pencil Shavings",
+      "Wood and Moss",
+      "Bay Leaves and Bamboo",
+      "White Pepper",
+      "Hyacinth",
+      "Lettuce Juice"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Smell of Dust on A Hot Light-Bulb",
+        "Warm Photocopier Toner",
+        "Hot Metal",
+        "A Toaster",
+        "Freshly Welded Aluminium",
+        "The Ink in A Fountain Pen",
+        "Fresh Pencil Shavings",
+        "Wood and Moss",
+        "Bay Leaves and Bamboo",
+        "White Pepper",
+        "Hyacinth",
+        "Lettuce Juice"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-odeur-71.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/odeur-71_ff55f92b-4248-4ca5-a34e-3948a15eb002.jpg?v=1707494501",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/odeur-71",
+    "sourceProductId": "6909602758789",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490033152133",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Smell Of Dust On A Hot Light-Bulb",
+        "Warm Photocopier Toner",
+        "Hot Metal",
+        "A Toaster",
+        "Freshly Welded Aluminium",
+        "The Ink In A Fountain Pen",
+        "Fresh Pencil Shavings",
+        "Wood And Moss",
+        "Bay Leaves And Bamboo",
+        "White Pepper",
+        "Hyacinth",
+        "Lettuce Juice"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-odeur-du-theatre-du-chatelet",
+    "name": "Odeur Du Théâtre Du Châtelet",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Odeur Du Théâtre Du Châtelet by Comme des Garçons. Officially listed notes: Ambrette Absolute, Black Pepper Oil, Rose Oxyd, Coffee Accord, Orange Blossom, Orris Concrete, Cashmeran, Virginian Cedarwood, Musk.",
+    "notes": [
+      "Ambrette",
+      "Black Pepper",
+      "Rose Oxide",
+      "Coffee",
+      "Orange Blossom",
+      "Orris",
+      "Cashmeran",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ambrette",
+        "Black Pepper",
+        "Rose Oxide",
+        "Coffee",
+        "Orange Blossom",
+        "Orris",
+        "Cashmeran",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-odeur-du-theatre-du-chatelet.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/odeur-du-theatre.jpg?v=1707494554",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/odeur-du-theatre-du-chatelet",
+    "sourceProductId": "6909602988165",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490033414277",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ambrette Absolute",
+        "Black Pepper Oil",
+        "Rose Oxyd",
+        "Coffee Accord",
+        "Orange Blossom",
+        "Orris Concrete",
+        "Cashmeran",
+        "Virginian Cedarwood",
+        "Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-play-black",
+    "name": "Play Black",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Play Black by Comme des Garçons. Officially listed notes: Black Pepper, Pepperwood, Red Pepper, Violet, Thyme, Black Tea, Birch Tar, Incense, Tree Moss.",
+    "notes": [
+      "Black Pepper",
+      "Pepperwood",
+      "Red Pepper",
+      "Violet",
+      "Thyme",
+      "Black Tea",
+      "Birch Tar",
+      "Incense",
+      "Oakmoss"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper",
+        "Pepperwood",
+        "Red Pepper",
+        "Violet",
+        "Thyme",
+        "Black Tea",
+        "Birch Tar",
+        "Incense",
+        "Oakmoss"
+      ]
+    },
+    "accords": [],
+    "collection": "Play",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-play-black.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/play-black_6ac98c08-184a-4429-9726-8b2c281e8955.jpg?v=1707494137",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/play-black",
+    "sourceProductId": "6909601316997",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490030104709",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper",
+        "Pepperwood",
+        "Red Pepper",
+        "Violet",
+        "Thyme",
+        "Black Tea",
+        "Birch Tar",
+        "Incense",
+        "Tree Moss"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-play-green",
+    "name": "Play Green",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Play Green by Comme des Garçons. Officially listed notes: Mint Nanah, Lime, Juniper Berry, Basil, Jasmine, Lentisk, Abelmoschus, Vetiver, Cedar.",
+    "notes": [
+      "Mint",
+      "Lime",
+      "Juniper",
+      "Basil",
+      "Jasmine",
+      "Mastic",
+      "Ambrette",
+      "Vetiver",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mint",
+        "Lime",
+        "Juniper",
+        "Basil",
+        "Jasmine",
+        "Mastic",
+        "Ambrette",
+        "Vetiver",
+        "Cedarwood"
+      ]
+    },
+    "accords": [],
+    "collection": "Play",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-play-green.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/play-green_7a1db9cd-168d-493a-b0ce-1e8287b8a648.jpg?v=1707494093",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/play-green",
+    "sourceProductId": "6909601185925",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490029842565",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mint Nanah",
+        "Lime",
+        "Juniper Berry",
+        "Basil",
+        "Jasmine",
+        "Lentisk",
+        "Abelmoschus",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-play-red",
+    "name": "Play Red",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Play Red by Comme des Garçons. Officially listed notes: Red Mandarin, Safraleinem, Pink Peppercorns, Red Cherry Accord, Geranium, Cinnamon, Osmanthus, Myrrh, Balsam Of Tolu.",
+    "notes": [
+      "Mandarin",
+      "Safraleinem",
+      "Pink Pepper",
+      "Red Cherry",
+      "Geranium",
+      "Cinnamon",
+      "Osmanthus",
+      "Myrrh",
+      "Tolu Balsam"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin",
+        "Safraleinem",
+        "Pink Pepper",
+        "Red Cherry",
+        "Geranium",
+        "Cinnamon",
+        "Osmanthus",
+        "Myrrh",
+        "Tolu Balsam"
+      ]
+    },
+    "accords": [],
+    "collection": "Play",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-play-red.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/play-red_5d8c72f6-6968-4734-8743-44174b888755.jpg?v=1707494053",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/play-red",
+    "sourceProductId": "6909601087621",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490029580421",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Red Mandarin",
+        "Safraleinem",
+        "Pink Peppercorns",
+        "Red Cherry Accord",
+        "Geranium",
+        "Cinnamon",
+        "Osmanthus",
+        "Myrrh",
+        "Balsam Of Tolu"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-rouge",
+    "name": "ROUGE",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "ROUGE by Comme des Garçons. Officially listed notes: Pink Peppercorns, Ginger, Beetroot, Geranium, Incense, Patchouli, Cistus.",
+    "notes": [
+      "Pink Pepper",
+      "Ginger",
+      "Beetroot",
+      "Geranium",
+      "Incense",
+      "Patchouli",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Pepper",
+        "Ginger",
+        "Beetroot",
+        "Geranium",
+        "Incense",
+        "Patchouli",
+        "Labdanum"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-rouge.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/rouge.jpg?v=1707498048",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/rouge",
+    "sourceProductId": "6909598433413",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490020601989",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Peppercorns",
+        "Ginger",
+        "Beetroot",
+        "Geranium",
+        "Incense",
+        "Patchouli",
+        "Cistus"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-10-accident-celluloid-galbanum",
+    "name": "Series 10: Accident Celluloid Galbanum",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 10: Accident Celluloid Galbanum by Comme des Garçons. Officially listed notes: Lemon Oil, Celluloid Accord, Galbanum Heart Lmr, Jasmine Absolute Lmr, Cashmeran, Dry Amber, Musk.",
+    "notes": [
+      "Lemon",
+      "Celluloid",
+      "Galbanum",
+      "Jasmine",
+      "Cashmeran",
+      "Dry Amber",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Celluloid"
+      ],
+      "middle": [
+        "Galbanum",
+        "Jasmine"
+      ],
+      "base": [
+        "Cashmeran",
+        "Dry Amber",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Series 10",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-10-accident-celluloid-galbanum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/ACCIDENT_RADISH_VETIVER-celluloid.png?v=1740667626",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-10-accident-celluloid-galbanum",
+    "sourceProductId": "14923873059191",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "54999976771959",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Lemon Oil",
+        "Celluloid Accord"
+      ],
+      "middle": [
+        "Galbanum Heart Lmr",
+        "Jasmine Absolute Lmr"
+      ],
+      "base": [
+        "Cashmeran",
+        "Dry Amber",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-10-accident-chlorophyll-gardenia",
+    "name": "Series 10: Accident Chlorophyll Gardenia",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 10: Accident Chlorophyll Gardenia by Comme des Garçons. Officially listed notes: Cosmofruit, Spearmint Oil, Pepper Pink Co2 LMR, Black Pepper Oil Madagascar Lmr, Gardenia, Galbanum Oil LMR, Pea Accord, Musk.",
+    "notes": [
+      "Cosmofruit",
+      "Spearmint",
+      "Pink Pepper",
+      "Black Pepper",
+      "Gardenia",
+      "Galbanum",
+      "Pea",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cosmofruit",
+        "Spearmint",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middle": [
+        "Gardenia",
+        "Galbanum",
+        "Pea"
+      ],
+      "base": [
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Series 10",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-10-accident-chlorophyll-gardenia.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/gardenia_comp.png?v=1740667700",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-10-accident-chlorophyll-gardenia",
+    "sourceProductId": "14923873517943",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "54999980867959",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Cosmofruit",
+        "Spearmint Oil",
+        "Pepper Pink Co2 LMR",
+        "Black Pepper Oil Madagascar Lmr"
+      ],
+      "middle": [
+        "Gardenia",
+        "Galbanum Oil LMR",
+        "Pea Accord"
+      ],
+      "base": [
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-10-accident-radish-vetiver",
+    "name": "Series 10: Accident Radish Vetiver",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 10: Accident Radish Vetiver by Comme des Garçons. Officially listed notes: Radish (Raphanus Sativus), Cypriol Essence India (Papyrus), Guaiac Wood Essence Paraguay, Vetiver Essence Haiti, Akigalawood (Givaudan Captive Molecule With Spicy Facets Of Pepper And Woody Facets Of Patchouli And Agarwood).",
+    "notes": [
+      "Radish (raphanus Sativus)",
+      "Cypriol",
+      "Guaiac Wood",
+      "Vetiver",
+      "Akigalawood (givaudan Captive Molecule with Spicy Facets of Pepper and Woody Facets of Patchouli and Agarwood)"
+    ],
+    "noteGroups": {
+      "top": [
+        "Radish (raphanus Sativus)"
+      ],
+      "middle": [
+        "Cypriol",
+        "Guaiac Wood"
+      ],
+      "base": [
+        "Vetiver",
+        "Akigalawood (givaudan Captive Molecule with Spicy Facets of Pepper and Woody Facets of Patchouli and Agarwood)"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Series 10",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-10-accident-radish-vetiver.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/ACCIDENT_RADISH_VETIVER-boxcopy.png?v=1740701913",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-10-accident-radish-vetiver",
+    "sourceProductId": "14923868668279",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "54999958552951",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [
+        "Radish (Raphanus Sativus)"
+      ],
+      "middle": [
+        "Cypriol Essence India (Papyrus)",
+        "Guaiac Wood Essence Paraguay"
+      ],
+      "base": [
+        "Vetiver Essence Haiti",
+        "Akigalawood (Givaudan Captive Molecule With Spicy Facets Of Pepper And Woody Facets Of Patchouli And Agarwood)"
+      ],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-2-red-palisander",
+    "name": "Series 2 Red - Palisander",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 2 Red - Palisander by Comme des Garçons. Officially listed notes: Brazilian Palisander, Virginian Red Wood.",
+    "notes": [
+      "Brazilian Palisander",
+      "Virginian Red Wood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Brazilian Palisander",
+        "Virginian Red Wood"
+      ]
+    },
+    "accords": [],
+    "collection": "Series 2 Red",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-2-red-palisander.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/palisander_c25a1771-dfc2-4493-8778-3520c323195a.jpg?v=1707493811",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-2-red-palisander",
+    "sourceProductId": "6909600399493",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490025844869",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Brazilian Palisander",
+        "Virginian Red Wood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-6-synthetic-garage",
+    "name": "Series 6 Synthetic - Garage",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 6 Synthetic - Garage by Comme des Garçons. Officially listed notes: Kerosene, Vetiver, Cedarwood.",
+    "notes": [
+      "Kerosene",
+      "Vetiver",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Kerosene",
+        "Vetiver",
+        "Cedarwood"
+      ]
+    },
+    "accords": [],
+    "collection": "Series 6 Synthetic",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-6-synthetic-garage.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/garage.jpg?v=1707493854",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-6-synthetic-garage",
+    "sourceProductId": "6909600497797",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490026107013",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Kerosene",
+        "Vetiver",
+        "Cedarwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-6-synthetic-soda",
+    "name": "Series 6 Synthetic - Soda",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 6 Synthetic - Soda by Comme des Garçons. Officially listed notes: Lime, Ginger, Pepper.",
+    "notes": [
+      "Lime",
+      "Ginger",
+      "Pepper"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lime",
+        "Ginger",
+        "Pepper"
+      ]
+    },
+    "accords": [],
+    "collection": "Series 6 Synthetic",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-6-synthetic-soda.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/soda_ca22f4a0-0c6d-4e29-b68d-b11528d2815c.jpg?v=1707493909",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-6-synthetic-soda",
+    "sourceProductId": "6909600661637",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490026696837",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lime",
+        "Ginger",
+        "Pepper"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-6-synthetic-tar",
+    "name": "Series 6 Synthetic - Tar",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 6 Synthetic - Tar by Comme des Garçons. Officially listed notes: Grilled Cigarettes, Town Gas, Bergamot.",
+    "notes": [
+      "Grilled Cigarettes",
+      "Town Gas",
+      "Bergamot"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Grilled Cigarettes",
+        "Town Gas",
+        "Bergamot"
+      ]
+    },
+    "accords": [],
+    "collection": "Series 6 Synthetic",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-6-synthetic-tar.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/tar_0ed3ade2-4a6c-4306-a428-fcbe07360369.jpg?v=1707493960",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-6-synthetic-tar",
+    "sourceProductId": "6909600858245",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490027253893",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Grilled Cigarettes",
+        "Town Gas",
+        "Bergamot"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-series-7-sweet-nomadtea",
+    "name": "Series 7 Sweet - Nomadtea",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Series 7 Sweet - Nomadtea by Comme des Garçons. Officially listed notes: Series 7: The Guests / A Nomad, An Itinerant Philosopher, Perpetuating Tradition, Offers NOMAD TEA, A Sweet That Is Rough And Exotic, Edgy And Almost Uncooked.",
+    "notes": [
+      "An Itinerant Philosopher",
+      "Perpetuating Tradition",
+      "A Sweet That Is Rough and Exotic",
+      "Edgy and Almost Uncooked"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "An Itinerant Philosopher",
+        "Perpetuating Tradition",
+        "A Sweet That Is Rough and Exotic",
+        "Edgy and Almost Uncooked"
+      ]
+    },
+    "accords": [],
+    "collection": "Series 7 Sweet",
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-series-7-sweet-nomadtea.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/nomadtea.jpg?v=1707494001",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/series-7-sweet-nomadtea",
+    "sourceProductId": "6909600989317",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490029252741",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Series 7: The Guests / A Nomad",
+        "An Itinerant Philosopher",
+        "Perpetuating Tradition",
+        "Offers NOMAD TEA",
+        "A Sweet That Is Rough And Exotic",
+        "Edgy And Almost Uncooked"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-serpentine",
+    "name": "Serpentine",
+    "brand": "Comme des Garçons",
+    "gender": "Unisex",
+    "description": "Serpentine by Comme des Garçons. Officially listed notes: Grass, Leaves, Pollen, Galbanum, Iris Leaf, Aldehyde, Ozone, Black Musks, Nutmeg, Labdanum, Smoked Cedar, Benzoin, Juniper Wood, Guaiac Wood.",
+    "notes": [
+      "Grass",
+      "Leaves",
+      "Pollen",
+      "Galbanum",
+      "Iris Leaf",
+      "Aldehydes",
+      "Ozone",
+      "Musk",
+      "Nutmeg",
+      "Labdanum",
+      "Cedarwood",
+      "Benzoin",
+      "Juniper Wood",
+      "Guaiac Wood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Grass",
+        "Leaves",
+        "Pollen",
+        "Galbanum",
+        "Iris Leaf",
+        "Aldehydes",
+        "Ozone",
+        "Musk",
+        "Nutmeg",
+        "Labdanum",
+        "Cedarwood",
+        "Benzoin",
+        "Juniper Wood",
+        "Guaiac Wood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-serpentine.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/serpentine_d4634ced-54b4-46c6-bbb0-d05ab537f34a.jpg?v=1707494911",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/serpentine",
+    "sourceProductId": "6909604135045",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490036232325",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Grass",
+        "Leaves",
+        "Pollen",
+        "Galbanum",
+        "Iris Leaf",
+        "Aldehyde",
+        "Ozone",
+        "Black Musks",
+        "Nutmeg",
+        "Labdanum",
+        "Smoked Cedar",
+        "Benzoin",
+        "Juniper Wood",
+        "Guaiac Wood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-stussy-laguna-beach",
+    "name": "Stüssy Laguna Beach",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Stüssy Laguna Beach by Comme des Garçons. Officially listed notes: Marine Notes, Moss, Atlas Cedar, White Solar Flowers.",
+    "notes": [
+      "Marine Notes",
+      "Moss",
+      "Cedarwood",
+      "White Solar Flowers"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Marine Notes",
+        "Moss",
+        "Cedarwood",
+        "White Solar Flowers"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-stussy-laguna-beach.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/stussy_fcb71a4e-176d-4995-af37-e38d7a40c531.jpg?v=1707492763",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/stussy-laguna-beach",
+    "sourceProductId": "6909596893317",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490017915013",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Marine Notes",
+        "Moss",
+        "Atlas Cedar",
+        "White Solar Flowers"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-white",
+    "name": "White",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "White by Comme des Garçons. Officially listed notes: Pomegranate, Tagette Absolute, Pepper, Coriander, Cardamon, May Rose, Lily Of The Valley, Cinnamon Leaf, Clove, Nutmeg, Cedar Wood.",
+    "notes": [
+      "Pomegranate",
+      "Marigold",
+      "Pepper",
+      "Coriander",
+      "Cardamom",
+      "Rose",
+      "Lily of the Valley",
+      "Cinnamon",
+      "Clove",
+      "Nutmeg",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pomegranate",
+        "Marigold",
+        "Pepper",
+        "Coriander",
+        "Cardamom",
+        "Rose",
+        "Lily of the Valley",
+        "Cinnamon",
+        "Clove",
+        "Nutmeg",
+        "Cedarwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-white.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/white_75dfcb08-4164-40ba-8ecf-e1ed212e9ed4.jpg?v=1707493750",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/white",
+    "sourceProductId": "6909600268421",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490025451653",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pomegranate",
+        "Tagette Absolute",
+        "Pepper",
+        "Coriander",
+        "Cardamon",
+        "May Rose",
+        "Lily Of The Valley",
+        "Cinnamon Leaf",
+        "Clove",
+        "Nutmeg",
+        "Cedar Wood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-wonderoud",
+    "name": "Wonderoud",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Wonderoud by Comme des Garçons. Officially listed notes: Texas Cedarwood Fraction OrPur, Oud Wood, Indonesian Patchouli, Australian Sandalwood, Haitian Vetiver, Guaiac Wood, Pashmino.",
+    "notes": [
+      "Cedarwood",
+      "Oud",
+      "Patchouli",
+      "Sandalwood",
+      "Vetiver",
+      "Guaiac Wood",
+      "Pashmino"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cedarwood",
+        "Oud",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver",
+        "Guaiac Wood",
+        "Pashmino"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-wonderoud.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/wonderoud_228b7874-c669-41d5-9c5d-373020d387c5.jpg?v=1707493393",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/wonderoud",
+    "sourceProductId": "6909599187077",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490022797445",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Texas Cedarwood Fraction OrPur",
+        "Oud Wood",
+        "Indonesian Patchouli",
+        "Australian Sandalwood",
+        "Haitian Vetiver",
+        "Guaiac Wood",
+        "Pashmino"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-wonderwood",
+    "name": "Wonderwood",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "Wonderwood by Comme des Garçons. Officially listed notes: Madagascan Pepper, Bergamot, Somalian Incense, Nutmeg, Cristalon, Cashmeran, GaÏAc Wood, Cedarwood, Carvi Graines, Javanol, Sandalwood, Vetiver, Oud (Agarwood).",
+    "notes": [
+      "Black Pepper",
+      "Bergamot",
+      "Incense",
+      "Nutmeg",
+      "Cristalon",
+      "Cashmeran",
+      "Guaiac Wood",
+      "Cedarwood",
+      "Carvi Graines",
+      "Javanol",
+      "Sandalwood",
+      "Vetiver",
+      "Oud"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Pepper",
+        "Bergamot",
+        "Incense",
+        "Nutmeg",
+        "Cristalon",
+        "Cashmeran",
+        "Guaiac Wood",
+        "Cedarwood",
+        "Carvi Graines",
+        "Javanol",
+        "Sandalwood",
+        "Vetiver",
+        "Oud"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-wonderwood.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/wonderwood_d8ab908e-6270-4a01-bc54-f5f86aac6b98.jpg?v=1707493506",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/wonderwood",
+    "sourceProductId": "6909599645829",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-note-list",
+    "variants": [
+      {
+        "sourceId": "40490024009861",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Madagascan Pepper",
+        "Bergamot",
+        "Somalian Incense",
+        "Nutmeg",
+        "Cristalon",
+        "Cashmeran",
+        "GaÏAc Wood",
+        "Cedarwood",
+        "Carvi Graines",
+        "Javanol",
+        "Sandalwood",
+        "Vetiver",
+        "Oud (Agarwood)"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "cdg-zero",
+    "name": "ZERO",
+    "brand": "Comme des Garçons",
+    "gender": null,
+    "description": "ZERO by Comme des Garçons. Officially listed notes: Cedarwood, Bergamot, Musk, Haitian Vetiver, Synthetic Rose, Varnish Accord.",
+    "notes": [
+      "Cedarwood",
+      "Bergamot",
+      "Musk",
+      "Vetiver",
+      "Rose",
+      "Varnish"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cedarwood",
+        "Bergamot",
+        "Musk",
+        "Vetiver",
+        "Rose",
+        "Varnish"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/cdg/cdg-zero.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0563/5329/2421/files/zero_5be8d06e-22ea-4267-928b-e8f1ddeeeca1.jpg?v=1707493073",
+    "sourceUrl": "https://comme-des-garcons-parfum.com/products/zero",
+    "sourceProductId": "6909598072965",
+    "sourceUpdatedAt": "2026-09-13T06:07:11+02:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "reviewed-official-prose",
+    "variants": [
+      {
+        "sourceId": "40490019946629",
+        "label": "Default Title",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cedarwood",
+        "Bergamot",
+        "Musk",
+        "Haitian Vetiver",
+        "Synthetic Rose",
+        "Varnish Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "imageQualitySource": "official-shopify-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "tom-ford-amber-intrigue-eau-de-parfum",
+    "name": "Amber Intrigue Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Amber Intrigue Eau de Parfum by Tom Ford. Officially listed notes: Date Accord Olibanum Oil Sandalwood Oil Vetiver Oil Haiti Amber Accord Labdanum.",
+    "notes": [
+      "Date",
+      "Olibanum",
+      "Sandalwood",
+      "Vetiver",
+      "Amber",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Date",
+        "Olibanum",
+        "Sandalwood",
+        "Vetiver",
+        "Amber",
+        "Labdanum"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-amber-intrigue-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0SD01_3000x3000_0.png?v=1789201041",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/amber-intrigue-eau-de-parfum",
+    "sourceProductId": "9090496430293",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015790424277",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Date Accord Olibanum Oil Sandalwood Oil Vetiver Oil Haiti Amber Accord Labdanum"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-azure-lime-eau-de-parfum",
+    "name": "Azure Lime Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Azure Lime Eau de Parfum by Tom Ford. Officially listed notes: Lime Water Infusion, South African Buchu, Australian Sandalwood.",
+    "notes": [
+      "Lime Water Infusion",
+      "South African Buchu",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lime Water Infusion",
+        "South African Buchu",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-azure-lime-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TANP01_2000x2000_0.png?v=1789201045",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/azure-lime-eau-de-parfum",
+    "sourceProductId": "9090492465365",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015779086549",
+        "label": "1.7 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lime Water Infusion",
+        "South African Buchu",
+        "Australian Sandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-bitter-peach-eau-de-parfum",
+    "name": "Bitter Peach Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Bitter Peach Eau de Parfum by Tom Ford. Officially listed notes: PÊChe De Vigne Accord, Blood Orange Oil, Davana Oil, Labdanum Absolute, Patchouli Oil Indonesia, Sandalwood Oil, New Calendonia.",
+    "notes": [
+      "Pêche de Vigne",
+      "Blood Orange",
+      "Davana",
+      "Labdanum",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pêche de Vigne",
+        "Blood Orange",
+        "Davana",
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-bitter-peach-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T94101_2000x2000_0_f2d399f2-2e52-4848-a5d8-8e660474e034.png?v=1789264968",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/bitter-peach-eau-de-parfum",
+    "sourceProductId": "9090497347797",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031543341269",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031006961877",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543308501",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "PÊChe De Vigne Accord",
+        "Blood Orange Oil",
+        "Davana Oil",
+        "Labdanum Absolute",
+        "Patchouli Oil Indonesia",
+        "Sandalwood Oil",
+        "New Calendonia"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-black-lacquer-eau-de-parfum",
+    "name": "Black Lacquer Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Black Lacquer Eau de Parfum by Tom Ford. Officially listed notes: Black Lacquer Accord, Makassar Ebony Wood ScentTrek™, Dark Peony Accord, Olibanum Essence, Vinyl Accord, Cedarwood Atlas NeoAbsolut™ Morocco.",
+    "notes": [
+      "Black Lacquer",
+      "Makassar Ebony Wood Scenttrek",
+      "Dark Peony",
+      "Olibanum",
+      "Vinyl",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Lacquer",
+        "Makassar Ebony Wood Scenttrek",
+        "Dark Peony",
+        "Olibanum",
+        "Vinyl",
+        "Cedarwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-black-lacquer-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TAJP01_3000x3000_0S.png?v=1789201029",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/black-lacquer-eau-de-parfum",
+    "sourceProductId": "9090494398677",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026873999573",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53018041385173",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Lacquer Accord",
+        "Makassar Ebony Wood ScentTrek™",
+        "Dark Peony Accord",
+        "Olibanum Essence",
+        "Vinyl Accord",
+        "Cedarwood Atlas NeoAbsolut™ Morocco"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-black-orchid-eau-de-parfum",
+    "name": "Black Orchid Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Black Orchid Eau de Parfum by Tom Ford. Officially listed notes: Black Truffle, Ylang Ylang, Black Orchid, Black Plum, Rum Absolute, Patchouli.",
+    "notes": [
+      "Black Truffle",
+      "Ylang-Ylang",
+      "Black Orchid",
+      "Black Plum",
+      "Rum",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum",
+        "Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-black-orchid-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tfb_sku_T00501_2000x2000_0.png?v=1789247058",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-parfum",
+    "sourceProductId": "9090494234837",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031545897173",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026399715541",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545864405",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545929941",
+        "label": "3.4 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53031545962709",
+        "label": "5.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum Absolute",
+        "Patchouli"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-black-orchid-eau-de-toilette",
+    "name": "Black Orchid Eau de Toilette",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Black Orchid Eau de Toilette by Tom Ford. Officially listed notes: Black Truffle, Ylang Ylang, Black Orchid, Black Plum, Rum Absolute, Patchouli.",
+    "notes": [
+      "Black Truffle",
+      "Ylang-Ylang",
+      "Black Orchid",
+      "Black Plum",
+      "Rum",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum",
+        "Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-black-orchid-eau-de-toilette.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TE6N01_2000x2000_0.png?v=1789201034",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/black-orchid-eau-de-toilette",
+    "sourceProductId": "9090495283413",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026873147605",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52946814304469",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum Absolute",
+        "Patchouli"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-black-orchid-parfum",
+    "name": "Black Orchid Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Black Orchid Parfum by Tom Ford. Officially listed notes: Black Truffle, Ylang Ylang, Black Orchid, Black Plum, Rum Absolute, Patchouli.",
+    "notes": [
+      "Black Truffle",
+      "Ylang-Ylang",
+      "Black Orchid",
+      "Black Plum",
+      "Rum",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum",
+        "Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-black-orchid-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T90F01_2000x2000_0.png?v=1789201091",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/black-orchid-parfum",
+    "sourceProductId": "9090494857429",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52996821254357",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026874097877",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Truffle",
+        "Ylang Ylang",
+        "Black Orchid",
+        "Black Plum",
+        "Rum Absolute",
+        "Patchouli"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-black-orchid-reserve-parfum",
+    "name": "Black Orchid Reserve Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Black Orchid Reserve Parfum by Tom Ford. Officially listed notes: Black Orchid Accord Patchouli Ghost Orchid Accord Roasted Tonka Black Truffle Accord Ylang Ylang Extra.",
+    "notes": [
+      "Black Orchid",
+      "Patchouli",
+      "Ghost Orchid",
+      "Roasted Tonka Bean",
+      "Black Truffle",
+      "Ylang-Ylang"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Orchid",
+        "Patchouli",
+        "Ghost Orchid",
+        "Roasted Tonka Bean",
+        "Black Truffle",
+        "Ylang-Ylang"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-black-orchid-reserve-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T1Z101_3000x3000_0.png?v=1789201073",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/black-orchid-reserve-parfum",
+    "sourceProductId": "9090497675477",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53013113241813",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026878947541",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026878980309",
+        "label": "8.5 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026879013077",
+        "label": "1.6 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Orchid Accord Patchouli Ghost Orchid Accord Roasted Tonka Black Truffle Accord Ylang Ylang Extra"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-bois-marocain-eau-de-parfum",
+    "name": "Bois Marocain Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Bois Marocain Eau de Parfum by Tom Ford. Officially listed notes: Pink Peppercorn Juniper Oil Thuya Essence Atlas Cedarwood Orpur Vetiver Haiti Oil Sandalwood Australia.",
+    "notes": [
+      "Pink Pepper",
+      "Juniper",
+      "Thuja",
+      "Cedarwood",
+      "Vetiver",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Pepper",
+        "Juniper",
+        "Thuja",
+        "Cedarwood",
+        "Vetiver",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-bois-marocain-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCAH01_2000x2000_0.png?v=1789201051",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/bois-marocain-eau-de-parfum",
+    "sourceProductId": "9090495676629",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52996822008021",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52015788261589",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Peppercorn Juniper Oil Thuya Essence Atlas Cedarwood Orpur Vetiver Haiti Oil Sandalwood Australia"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-bois-pacifique-eau-de-parfum",
+    "name": "Bois Pacifique Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Bois Pacifique Eau de Parfum by Tom Ford. Officially listed notes: Turmeric Essence, Sandalwood Album Essence, Oakwood Absolute, Akigalawood™, Cardamom Essence, Olibanum Essence.",
+    "notes": [
+      "Turmeric",
+      "Sandalwood",
+      "Oakwood",
+      "Akigalawood",
+      "Cardamom",
+      "Olibanum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Turmeric",
+        "Sandalwood",
+        "Oakwood",
+        "Akigalawood",
+        "Cardamom",
+        "Olibanum"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-bois-pacifique-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TEEX01_3000x3000_0S.png?v=1789201056",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/bois-pacifique-eau-de-parfum",
+    "sourceProductId": "9090494431445",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031405912277",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545471189",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Turmeric Essence",
+        "Sandalwood Album Essence",
+        "Oakwood Absolute",
+        "Akigalawood™",
+        "Cardamom Essence",
+        "Olibanum Essence"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-cafe-rose-eau-de-parfum",
+    "name": "Café Rose Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Café Rose Eau de Parfum by Tom Ford. Officially listed notes: Rose Essence, Rose Absolute, Ylang Ylang Comoros Orpur®, Coffee CO2 Extraction, Coriander Orpur®, Patchouli Indonesia Orpur®.",
+    "notes": [
+      "Rose",
+      "Ylang Ylang Comoros",
+      "Coffee Co2 Extraction",
+      "Coriander",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Rose",
+        "Ylang Ylang Comoros",
+        "Coffee Co2 Extraction",
+        "Coriander",
+        "Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-cafe-rose-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCY401_2000x2000_0.png?v=1789201052",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/cafe-rose-eau-de-parfum",
+    "sourceProductId": "9090498035925",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026873082069",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53018066452693",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026873049301",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53372307177685",
+        "label": "3.4 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Rose Essence",
+        "Rose Absolute",
+        "Ylang Ylang Comoros Orpur®",
+        "Coffee CO2 Extraction",
+        "Coriander Orpur®",
+        "Patchouli Indonesia Orpur®"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-cherry-smoke-eau-de-parfum",
+    "name": "Cherry Smoke Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Cherry Smoke Eau de Parfum by Tom Ford. Officially listed notes: Dark Cherry Flavor Accord, Smoked Wood Accord, Olibanum Somalia Orpur®, Peru Balsam Resinoid, Osmanthus Absolute China Orpur®, Cypriol India Orpur®.",
+    "notes": [
+      "Dark Cherry Flavor",
+      "Smoked Wood",
+      "Olibanum Somalia",
+      "Peru Balsam",
+      "Osmanthus",
+      "Cypriol India"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Dark Cherry Flavor",
+        "Smoked Wood",
+        "Olibanum Somalia",
+        "Peru Balsam",
+        "Osmanthus",
+        "Cypriol India"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-cherry-smoke-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCRX01_2000x2000_0.png?v=1789201035",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/cherry-smoke-eau-de-parfum",
+    "sourceProductId": "9090492760277",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53023759335637",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026859843797",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Dark Cherry Flavor Accord",
+        "Smoked Wood Accord",
+        "Olibanum Somalia Orpur®",
+        "Peru Balsam Resinoid",
+        "Osmanthus Absolute China Orpur®",
+        "Cypriol India Orpur®"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-costa-azzurra-eau-de-parfum",
+    "name": "Costa Azzurra Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Costa Azzurra Eau de Parfum by Tom Ford. Officially listed notes: Lemon, Cypress Oil, Oakwood, Driftwood Accord, Cistus Absolute, Salty Amber.",
+    "notes": [
+      "Lemon",
+      "Cypress",
+      "Oakwood",
+      "Driftwood",
+      "Labdanum",
+      "Salty Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Cypress",
+        "Oakwood",
+        "Driftwood",
+        "Labdanum",
+        "Salty Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-costa-azzurra-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T9AT01_2000x2000_0_fbdde9ca-8e7c-4a67-b6e3-efd38360f564.png?v=1789201084",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/costa-azzurra-eau-de-parfum",
+    "sourceProductId": "9090497970389",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52940750586069",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026874982613",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Cypress Oil",
+        "Oakwood",
+        "Driftwood Accord",
+        "Cistus Absolute",
+        "Salty Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-costa-azzurra-parfum",
+    "name": "Costa Azzurra Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Costa Azzurra Parfum by Tom Ford. Officially listed notes: Lemon, Cypress Oil, Oakwood, Driftwood Accord, Cistus Absolute, Salty Amber.",
+    "notes": [
+      "Lemon",
+      "Cypress",
+      "Oakwood",
+      "Driftwood",
+      "Labdanum",
+      "Salty Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Cypress",
+        "Oakwood",
+        "Driftwood",
+        "Labdanum",
+        "Salty Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-costa-azzurra-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TC6X01_2000x2000_0.png?v=1789201100",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/costa-azzurra-parfum",
+    "sourceProductId": "9090494300373",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015782854869",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Cypress Oil",
+        "Oakwood",
+        "Driftwood Accord",
+        "Cistus Absolute",
+        "Salty Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-eau-de-grey-vetiver-eau-de-toilette",
+    "name": "Eau De Grey Vetiver Eau De Toilette",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Eau De Grey Vetiver Eau De Toilette by Tom Ford. Officially listed notes: Iris Bergamot Accord Grapefruit Accord Musk Accord Vetiver (Essential Oil + Special Extract).",
+    "notes": [
+      "Iris",
+      "Bergamot",
+      "Grapefruit",
+      "Musk",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Iris",
+        "Bergamot",
+        "Grapefruit",
+        "Musk",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-eau-de-grey-vetiver-eau-de-toilette.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T3S301_3000x3000_0.png?v=1789241105",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/eau-de-grey-vetiver-eau-de-toilette",
+    "sourceProductId": "9240618860757",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026871017685",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52994455273685",
+        "label": "0.34 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53026870984917",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Iris Bergamot Accord Grapefruit Accord Musk Accord Vetiver (Essential Oil + Special Extract)"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-eau-de-soleil-blanc-eau-de-toilette",
+    "name": "Eau de Soleil Blanc Eau de Toilette",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Eau de Soleil Blanc Eau de Toilette by Tom Ford. Officially listed notes: Vert De Bergamot Orange Bitter Orpur Petitgrain Bigarade Orpur Ylang Ylang From Comores Islands Pistachio Accord Coco De Mer Accord.",
+    "notes": [
+      "Bergamot",
+      "Bitter Orange",
+      "Petitgrain",
+      "Ylang-Ylang",
+      "Pistachio",
+      "Coco de Mer"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Bitter Orange",
+        "Petitgrain",
+        "Ylang-Ylang",
+        "Pistachio",
+        "Coco de Mer"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-eau-de-soleil-blanc-eau-de-toilette.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T06B01_3000x3000_0.png?v=1789201035",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/eau-de-soleil-blanc-eau-de-toilette",
+    "sourceProductId": "9090496495829",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031547896021",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026873639125",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031547863253",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031547928789",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Vert De Bergamot Orange Bitter Orpur Petitgrain Bigarade Orpur Ylang Ylang From Comores Islands Pistachio Accord Coco De Mer Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-eau-dombre-leather-eau-de-toilette",
+    "name": "Eau d’Ombré Leather Eau de Toilette",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Eau d’Ombré Leather Eau de Toilette by Tom Ford. Officially listed notes: Glowing Leather Accord, Ambrofix™, Vanilla Tincture, Benzoin Resinoid, Tonka Accord, Sandalwood.",
+    "notes": [
+      "Leather",
+      "Ambroxan",
+      "Vanilla",
+      "Benzoin",
+      "Tonka Bean",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Leather",
+        "Ambroxan",
+        "Vanilla",
+        "Benzoin",
+        "Tonka Bean",
+        "Sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-eau-dombre-leather-eau-de-toilette.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TEF601_3000x3000_0.png?v=1789266307",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/eau-dombre-leather-eau-de-toilette",
+    "sourceProductId": "9119958794453",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031547732181",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53014651109589",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031547764949",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Glowing Leather Accord",
+        "Ambrofix™",
+        "Vanilla Tincture",
+        "Benzoin Resinoid",
+        "Tonka Accord",
+        "Sandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-ebene-fume-eau-de-parfum",
+    "name": "Ébène Fumé Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Ébène Fumé Eau de Parfum by Tom Ford. Officially listed notes: Palo Santo Accord, African Ebony Accord, Black Pepper, Cistus Resin Absolute Spain, Pine Tar Essence France.",
+    "notes": [
+      "Palo Santo",
+      "African Ebony",
+      "Black Pepper",
+      "Labdanum",
+      "Pine Tar"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Palo Santo",
+        "African Ebony",
+        "Black Pepper",
+        "Labdanum",
+        "Pine Tar"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-ebene-fume-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T95P01_2000x2000_0.png?v=1789201052",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/ebene-fume-eau-de-parfum",
+    "sourceProductId": "9090492956885",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53030230163669",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031542292693",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53009597202645",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53030230196437",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Palo Santo Accord",
+        "African Ebony Accord",
+        "Black Pepper",
+        "Cistus Resin Absolute Spain",
+        "Pine Tar Essence France"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-electric-cherry-eau-de-parfum",
+    "name": "Electric Cherry Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Electric Cherry Eau de Parfum by Tom Ford. Officially listed notes: Morello Cherry Scenttrek®, Pistachio Accord, Shimoga Ginger India Orpur®, Jasmine Sambac Absolute, India Orpur®, Sandalwoood Accord, Ambrettolide.",
+    "notes": [
+      "Morello Cherry Scenttrek",
+      "Pistachio",
+      "Shimoga Ginger India",
+      "Jasmine",
+      "India",
+      "Sandalwood",
+      "Ambrettolide"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Morello Cherry Scenttrek",
+        "Pistachio",
+        "Shimoga Ginger India",
+        "Jasmine",
+        "India",
+        "Sandalwood",
+        "Ambrettolide"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-electric-cherry-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCRN01_2000x2000_0.png?v=1789250130",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/electric-cherry-eau-de-parfum",
+    "sourceProductId": "9090496331989",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031541997781",
+        "label": "1.7 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53029264130261",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53394972442837",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031542030549",
+        "label": "3.4 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Morello Cherry Scenttrek®",
+        "Pistachio Accord",
+        "Shimoga Ginger India Orpur®",
+        "Jasmine Sambac Absolute",
+        "India Orpur®",
+        "Sandalwoood Accord",
+        "Ambrettolide"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-figue-erotique-eau-de-parfum",
+    "name": "Figue Érotique Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Figue Érotique Eau de Parfum by Tom Ford. Officially listed notes: Kadota Fig Accord Vert De Bergamote Muscovado Accord Fig Leaf Accord Ylang Ylang Absolute Vetiver Essence.",
+    "notes": [
+      "Fig",
+      "Bergamot",
+      "Muscovado Sugar",
+      "Fig Leaf",
+      "Ylang-Ylang",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Fig",
+        "Bergamot",
+        "Muscovado Sugar",
+        "Fig Leaf",
+        "Ylang-Ylang",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-figue-erotique-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T2KB01_3000x3000_0.png?v=1789201046",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/figue-erotique-eau-de-parfum",
+    "sourceProductId": "9090494595285",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031406338261",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53027359424725",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031547666645",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Kadota Fig Accord Vert De Bergamote Muscovado Accord Fig Leaf Accord Ylang Ylang Absolute Vetiver Essence"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-fougere-dargent-eau-de-parfum",
+    "name": "Fougère D'Argent Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Fougère D'Argent Eau de Parfum by Tom Ford. Officially listed notes: Mandarin Ginger Lavender Cistus Akigalawood Coumarin.",
+    "notes": [
+      "Mandarin",
+      "Ginger",
+      "Lavender",
+      "Labdanum",
+      "Akigalawood",
+      "Coumarin"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin",
+        "Ginger",
+        "Lavender",
+        "Labdanum",
+        "Akigalawood",
+        "Coumarin"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-fougere-dargent-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T6GX01_2000x2000_0.png?v=1789223105",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/fougere-dargent-eau-de-parfum",
+    "sourceProductId": "9090495643861",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015788163285",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin Ginger Lavender Cistus Akigalawood Coumarin"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-fucking-fabulous-eau-de-parfum",
+    "name": "Fucking Fabulous Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Fucking Fabulous Eau de Parfum by Tom Ford. Officially listed notes: Almond Bitter Oil Tonka Resinoid Orris Accord Cashmeran Leather Accord Clary Sage Oil.",
+    "notes": [
+      "Bitter Almond",
+      "Tonka Bean",
+      "Orris",
+      "Cashmeran",
+      "Leather",
+      "Clary Sage"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bitter Almond",
+        "Tonka Bean",
+        "Orris",
+        "Cashmeran",
+        "Leather",
+        "Clary Sage"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-fucking-fabulous-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tfb_sku_T61501_2000x2000_0.png?v=1789201087",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/fucking-fabulous-eau-de-parfum",
+    "sourceProductId": "9090495906005",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031543767253",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53018041221333",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543734485",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543800021",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543832789",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Almond Bitter Oil Tonka Resinoid Orris Accord Cashmeran Leather Accord Clary Sage Oil"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-fucking-fabulous-parfum",
+    "name": "Fucking Fabulous Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Fucking Fabulous Parfum by Tom Ford. Officially listed notes: Leather Accord Tonka Roasted Absolute Fir Balsam Absolute Clary Sage Absolute France Orris Accord Cashmeran.",
+    "notes": [
+      "Leather",
+      "Roasted Tonka Bean",
+      "Fir Balsam",
+      "Clary Sage",
+      "Orris",
+      "Cashmeran"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Leather",
+        "Roasted Tonka Bean",
+        "Fir Balsam",
+        "Clary Sage",
+        "Orris",
+        "Cashmeran"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-fucking-fabulous-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TEKY01_3000x3000_0.png?v=1789201045",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/fucking-fabulous-parfum",
+    "sourceProductId": "9090496364757",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015790096597",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Leather Accord Tonka Roasted Absolute Fir Balsam Absolute Clary Sage Absolute France Orris Accord Cashmeran"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-grey-vetiver-eau-de-parfum",
+    "name": "Grey Vetiver Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Grey Vetiver Eau de Parfum by Tom Ford. Officially listed notes: Orange Flower, Grapefruit, Nutmeg, Pimento, Vetiver, Oakmoss.",
+    "notes": [
+      "Orange Blossom",
+      "Grapefruit",
+      "Nutmeg",
+      "Pimento",
+      "Vetiver",
+      "Oakmoss"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Blossom",
+        "Grapefruit",
+        "Nutmeg",
+        "Pimento",
+        "Vetiver",
+        "Oakmoss"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-grey-vetiver-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0J701_2000x2000_0.png?v=1789264967",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/grey-vetiver-eau-de-parfum",
+    "sourceProductId": "9090494136533",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52996820533461",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53000250491093",
+        "label": "3.4 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Flower",
+        "Grapefruit",
+        "Nutmeg",
+        "Pimento",
+        "Vetiver",
+        "Oakmoss"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-grey-vetiver-parfum",
+    "name": "Grey Vetiver Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Grey Vetiver Parfum by Tom Ford. Officially listed notes: Orange Flower, Grapefruit, Nutmeg, Pimento, Vetiver, Oakmoss.",
+    "notes": [
+      "Orange Blossom",
+      "Grapefruit",
+      "Nutmeg",
+      "Pimento",
+      "Vetiver",
+      "Oakmoss"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Blossom",
+        "Grapefruit",
+        "Nutmeg",
+        "Pimento",
+        "Vetiver",
+        "Oakmoss"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-grey-vetiver-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tfb_sku_T9Y101_2000x2000_0_a2827d0f-4b63-4e4f-8b6a-0db808a53740.png?v=1789201093",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/grey-vetiver-parfum",
+    "sourceProductId": "9090493415637",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031547371733",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026878652629",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Flower",
+        "Grapefruit",
+        "Nutmeg",
+        "Pimento",
+        "Vetiver",
+        "Oakmoss"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-jasmin-rouge-eau-de-parfum",
+    "name": "Jasmin Rouge Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Jasmin Rouge Eau de Parfum by Tom Ford. Officially listed notes: Black & White Peppercorn, Clary Sage, Sambac Jasmin Sepals Absolute, Ylang Ylang, Labdanum Resin, Amber.",
+    "notes": [
+      "Pepper",
+      "Clary Sage",
+      "Jasmine",
+      "Ylang-Ylang",
+      "Labdanum",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pepper",
+        "Clary Sage",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Labdanum",
+        "Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-jasmin-rouge-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0WT01_2000x2000_0.png?v=1789201087",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/jasmin-rouge-eau-de-parfum",
+    "sourceProductId": "9302168633557",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53394923126997",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black & White Peppercorn",
+        "Clary Sage",
+        "Sambac Jasmin Sepals Absolute",
+        "Ylang Ylang",
+        "Labdanum Resin",
+        "Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-lost-cherry-eau-de-parfum",
+    "name": "Lost Cherry Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Lost Cherry Eau de Parfum by Tom Ford. Officially listed notes: Black Cherry Accord, Bitter Almond, Griotte Sirup Scenttrek®, Rose Absolute Orpur®, Peru Balsam, Roasted Tonka Orpur®.",
+    "notes": [
+      "Black Cherry",
+      "Bitter Almond",
+      "Griotte Sirup Scenttrek",
+      "Rose",
+      "Peru Balsam",
+      "Roasted Tonka"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Griotte Sirup Scenttrek",
+        "Rose",
+        "Peru Balsam",
+        "Roasted Tonka"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-lost-cherry-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T81201_2000x2000_0_a165dba2-2847-4f52-b59b-9843177d5465.png?v=1789264966",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+    "sourceProductId": "9090493153493",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53394850250965",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53030230065365",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53394850218197",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546618069",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Cherry Accord",
+        "Bitter Almond",
+        "Griotte Sirup Scenttrek®",
+        "Rose Absolute Orpur®",
+        "Peru Balsam",
+        "Roasted Tonka Orpur®"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-mandarino-di-amalfi-eau-de-parfum",
+    "name": "Mandarino di Amalfi Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Mandarino di Amalfi Eau de Parfum by Tom Ford. Officially listed notes: Mandarin Oil Italy Orpur, Lemon Shumatrice Orpur, Basil, Spearmint, Shisho Leaf Accord, Jasmine.",
+    "notes": [
+      "Mandarin",
+      "Lemon",
+      "Basil",
+      "Spearmint",
+      "Shiso",
+      "Jasmine"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin",
+        "Lemon",
+        "Basil",
+        "Spearmint",
+        "Shiso",
+        "Jasmine"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-mandarino-di-amalfi-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T1Y501_2000x2000_0.png?v=1789201068",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/mandarino-di-amalfi-eau-de-parfum",
+    "sourceProductId": "9090498199765",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015795830997",
+        "label": "1.7 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin Oil Italy Orpur",
+        "Lemon Shumatrice Orpur",
+        "Basil",
+        "Spearmint",
+        "Shisho Leaf Accord",
+        "Jasmine"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-myrrhe-mystere-eau-de-parfum",
+    "name": "Myrrhe Mystère Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Myrrhe Mystère Eau de Parfum by Tom Ford. Officially listed notes: Myrrh Duo: (Myrrh Essence & Myrrh Resinoid Orpur™), Absinthe Essence USA, Sandalwood Album Australia Orpur ™, Jasmine Absolute Orpur ™, Ultra Vanille Accord, Black Leather Accord.",
+    "notes": [
+      "Myrrh",
+      "Absinthe",
+      "Sandalwood",
+      "Jasmine",
+      "Vanilla",
+      "Black Leather"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Myrrh",
+        "Absinthe",
+        "Sandalwood",
+        "Jasmine",
+        "Vanilla",
+        "Black Leather"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-myrrhe-mystere-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TE9P01_2000x2000_0.png?v=1789201089",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/myrrhe-mystere-eau-de-parfum",
+    "sourceProductId": "9090496987349",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031543374037",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52996819353813",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543406805",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Myrrh Duo: (Myrrh Essence & Myrrh Resinoid Orpur™)",
+        "Absinthe Essence USA",
+        "Sandalwood Album Australia Orpur ™",
+        "Jasmine Absolute Orpur ™",
+        "Ultra Vanille Accord",
+        "Black Leather Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-neroli-portofino-eau-de-parfum",
+    "name": "Neroli Portofino Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Neroli Portofino Eau de Parfum by Tom Ford. Officially listed notes: Tunisian Neroli, Italian Bergamot, Winter Yellow Mandarin, Orange Flower, Lavender.",
+    "notes": [
+      "Neroli",
+      "Bergamot",
+      "Mandarin",
+      "Orange Blossom",
+      "Lavender"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli",
+        "Bergamot",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-neroli-portofino-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0M901_2000x2000_0.png?v=1789262707",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/neroli-portofino-eau-de-parfum",
+    "sourceProductId": "9090496463061",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031546847445",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026873376981",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546814677",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546880213",
+        "label": "3.4 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53031546912981",
+        "label": "8.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Tunisian Neroli",
+        "Italian Bergamot",
+        "Winter Yellow Mandarin",
+        "Orange Flower",
+        "Lavender"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-neroli-portofino-parfum",
+    "name": "Neroli Portofino Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Neroli Portofino Parfum by Tom Ford. Officially listed notes: Neroli Bud, Bergamot, Petitgrain Bigarade, Clary Sage, Jasmine Imperial Absolute, Sylkolide.",
+    "notes": [
+      "Neroli",
+      "Bergamot",
+      "Petitgrain",
+      "Clary Sage",
+      "Jasmine",
+      "Sylkolide"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli",
+        "Bergamot",
+        "Petitgrain",
+        "Clary Sage",
+        "Jasmine",
+        "Sylkolide"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-neroli-portofino-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCXM01_2000x2000_0.png?v=1789201030",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/neroli-portofino-parfum",
+    "sourceProductId": "9090493972693",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015782494421",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli Bud",
+        "Bergamot",
+        "Petitgrain Bigarade",
+        "Clary Sage",
+        "Jasmine Imperial Absolute",
+        "Sylkolide"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-noir-de-noir-eau-de-parfum",
+    "name": "Noir de Noir Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Noir de Noir Eau de Parfum by Tom Ford. Officially listed notes: Saffron Black Truffle Vanilla Patchouli Oud Wood Crocus Flower.",
+    "notes": [
+      "Saffron",
+      "Black Truffle",
+      "Vanilla",
+      "Patchouli",
+      "Oud",
+      "Crocus"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron",
+        "Black Truffle",
+        "Vanilla",
+        "Patchouli",
+        "Oud",
+        "Crocus"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-noir-de-noir-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T01H01_2000x2000_0.png?v=1789201055",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/noir-de-noir-eau-de-parfum",
+    "sourceProductId": "9090492858581",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015779741909",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53200226484437",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron Black Truffle Vanilla Patchouli Oud Wood Crocus Flower"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-noir-extreme-eau-de-parfum",
+    "name": "Noir Extreme Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Noir Extreme Eau de Parfum by Tom Ford. Officially listed notes: Neroli Oil North Africa Orpur®, Saffron, Indian Kulfi, Rose Absolute, Sandalwood, Vanilla Ember.",
+    "notes": [
+      "Neroli",
+      "Saffron",
+      "Indian Kulfi",
+      "Rose",
+      "Sandalwood",
+      "Vanilla Ember"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli",
+        "Saffron",
+        "Indian Kulfi",
+        "Rose",
+        "Sandalwood",
+        "Vanilla Ember"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-noir-extreme-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T2TL01_2000x2000_0.png?v=1789201035",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/noir-extreme-eau-de-parfum",
+    "sourceProductId": "9090494103765",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53020084928725",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545995477",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546028245",
+        "label": "5.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli Oil North Africa Orpur®",
+        "Saffron",
+        "Indian Kulfi",
+        "Rose Absolute",
+        "Sandalwood",
+        "Vanilla Ember"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-noir-extreme-parfum",
+    "name": "Noir Extreme Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Noir Extreme Parfum by Tom Ford. Officially listed notes: Neroli Oil North Africa Orpur®, Saffron, Indian Kulfi, Rose Absolute, Sandalwood, Vanilla Ember.",
+    "notes": [
+      "Neroli",
+      "Saffron",
+      "Indian Kulfi",
+      "Rose",
+      "Sandalwood",
+      "Vanilla Ember"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli",
+        "Saffron",
+        "Indian Kulfi",
+        "Rose",
+        "Sandalwood",
+        "Vanilla Ember"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-noir-extreme-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TC7A01_2000x2000_0.png?v=1789201070",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/noir-extreme-parfum",
+    "sourceProductId": "9090497806549",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52979333693653",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026875310293",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Neroli Oil North Africa Orpur®",
+        "Saffron",
+        "Indian Kulfi",
+        "Rose Absolute",
+        "Sandalwood",
+        "Vanilla Ember"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-ombre-leather-eau-de-parfum",
+    "name": "Ombré Leather Eau De Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Ombré Leather Eau De Parfum by Tom Ford. Officially listed notes: Black Leather Accord, Cardamom, Jasmine Sambac, Patchouli, White Moss, Amber.",
+    "notes": [
+      "Black Leather",
+      "Cardamom",
+      "Jasmine",
+      "Patchouli",
+      "White Moss",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Leather",
+        "Cardamom",
+        "Jasmine",
+        "Patchouli",
+        "White Moss",
+        "Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-ombre-leather-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T5Y201_2000x2000_0.png?v=1789255821",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+    "sourceProductId": "9090496233685",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031543177429",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543144661",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543210197",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031405945045",
+        "label": "5.0 fl oz",
+        "available": false
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Leather Accord",
+        "Cardamom",
+        "Jasmine Sambac",
+        "Patchouli",
+        "White Moss",
+        "Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-ombre-leather-parfum",
+    "name": "Ombré Leather Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Ombré Leather Parfum by Tom Ford. Officially listed notes: Cardamom, Jasmine Sambac, Black Leather, Patchouli, White Moss, Amber.",
+    "notes": [
+      "Cardamom",
+      "Jasmine",
+      "Black Leather",
+      "Patchouli",
+      "White Moss",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Jasmine",
+        "Black Leather",
+        "Patchouli",
+        "White Moss",
+        "Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-ombre-leather-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T9C801_2000x2000_0.png?v=1789234210",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/ombre-leather-parfum",
+    "sourceProductId": "9090493612245",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53020089581781",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031544389845",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031544422613",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Black Leather",
+        "Patchouli",
+        "White Moss",
+        "Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-ombre-leather-reserve",
+    "name": "Ombré Leather Reserve",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Ombré Leather Reserve by Tom Ford. Officially listed notes: Silver Juniper ScentTrek™, Deep Black Leather Accord, Sandalwood Album Root Essence, Pinyon Wood ScentTrek™, White Moss Accord, Violet Leaf Absolute.",
+    "notes": [
+      "Silver Juniper Scenttrek",
+      "Black Leather",
+      "Sandalwood",
+      "Pinyon Wood Scenttrek",
+      "White Moss",
+      "Violet Leaf"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Silver Juniper Scenttrek",
+        "Black Leather",
+        "Sandalwood",
+        "Pinyon Wood Scenttrek",
+        "White Moss",
+        "Violet Leaf"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-ombre-leather-reserve.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T4Q301_3000x3000_0.png?v=1789217777",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/ombre-leather-reserve",
+    "sourceProductId": "9362866274517",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53815236231381",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53815236264149",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "54081157497027",
+        "label": "0.34 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Silver Juniper ScentTrek™",
+        "Deep Black Leather Accord",
+        "Sandalwood Album Root Essence",
+        "Pinyon Wood ScentTrek™",
+        "White Moss Accord",
+        "Violet Leaf Absolute"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-oud-minerale-eau-de-parfum",
+    "name": "Oud Minérale Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Oud Minérale Eau de Parfum by Tom Ford. Officially listed notes: Pink Peppercorn, Oud Blend, Styrax, Ambergris Accord, Fir Balsam, Marine Notes.",
+    "notes": [
+      "Pink Pepper",
+      "Oud",
+      "Styrax",
+      "Ambergris",
+      "Fir Balsam",
+      "Marine Notes"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Pepper",
+        "Oud",
+        "Styrax",
+        "Ambergris",
+        "Fir Balsam",
+        "Marine Notes"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-oud-minerale-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCWW01_2000x2000_0.png?v=1789201076",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/oud-minerale-eau-de-parfum",
+    "sourceProductId": "9090493219029",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026871050453",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53012898414805",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026871083221",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Peppercorn",
+        "Oud Blend",
+        "Styrax",
+        "Ambergris Accord",
+        "Fir Balsam",
+        "Marine Notes"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-oud-voyager-eau-de-parfum",
+    "name": "Oud Voyager Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Oud Voyager Eau de Parfum by Tom Ford. Officially listed notes: Geranium Absolute Living Red Peony™ Accord Floral Oud Tri-Distillate (Geranium Absolute, Oud, Living Red Peony™ Accord) Cypriol Oud Osmanthus.",
+    "notes": [
+      "Geranium",
+      "Red Peony",
+      "Oud",
+      "Cypriol",
+      "Osmanthus"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Geranium",
+        "Red Peony",
+        "Oud",
+        "Cypriol",
+        "Osmanthus"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-oud-voyager-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T2HB01_3000x3000_0.png?v=1789273507",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/oud-voyager-eau-de-parfum",
+    "sourceProductId": "9090493546709",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026874687701",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031542980821",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543013589",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543046357",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Geranium Absolute Living Red Peony™ Accord Floral Oud Tri-Distillate (Geranium Absolute, Oud, Living Red Peony™ Accord) Cypriol Oud Osmanthus"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-oud-wood-eau-de-parfum",
+    "name": "Oud Wood Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Oud Wood Eau de Parfum by Tom Ford. Officially listed notes: Cardamom, Pink Pepper, Patchouli, Amber, Oud, Tonka Bean.",
+    "notes": [
+      "Cardamom",
+      "Pink Pepper",
+      "Patchouli",
+      "Amber",
+      "Oud",
+      "Tonka Bean"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Pink Pepper",
+        "Patchouli",
+        "Amber",
+        "Oud",
+        "Tonka Bean"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-oud-wood-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T1XF01_2000x2000_0.png?v=1789257314",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+    "sourceProductId": "9090497315029",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031546683605",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031406469333",
+        "label": "0.34 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53031406502101",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546716373",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031546749141",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Pink Pepper",
+        "Patchouli",
+        "Amber",
+        "Oud",
+        "Tonka Bean"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-oud-wood-parfum",
+    "name": "Oud Wood Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Oud Wood Parfum by Tom Ford. Officially listed notes: Cardamom, Pink Pepper, Patchouli, Amber, Oud, Tonka Bean.",
+    "notes": [
+      "Cardamom",
+      "Pink Pepper",
+      "Patchouli",
+      "Amber",
+      "Oud",
+      "Tonka Bean"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Pink Pepper",
+        "Patchouli",
+        "Amber",
+        "Oud",
+        "Tonka Bean"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-oud-wood-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TAJK01_2000x2000_0.png?v=1789201072",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/oud-wood-parfum",
+    "sourceProductId": "9090492989653",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015779610837",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cardamom",
+        "Pink Pepper",
+        "Patchouli",
+        "Amber",
+        "Oud",
+        "Tonka Bean"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-rose-damalfi-eau-de-parfum",
+    "name": "Rose D'Amalfi Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Rose D'Amalfi Eau de Parfum by Tom Ford. Officially listed notes: Exclusive Rose On Rose Extract, Rose Neoabsolute, Italian Bergamot, Rosyfolia Rose, Peru Balsam, Heliotrope.",
+    "notes": [
+      "Exclusive Rose on Rose",
+      "Rose",
+      "Bergamot",
+      "Peru Balsam",
+      "Heliotrope"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Exclusive Rose on Rose",
+        "Rose",
+        "Bergamot",
+        "Peru Balsam",
+        "Heliotrope"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-rose-damalfi-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TAKH01_2000x2000_0.png?v=1789201091",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/rose-damalfi-eau-de-parfum",
+    "sourceProductId": "9090494267605",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031543603413",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52965289689301",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031543636181",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Exclusive Rose On Rose Extract",
+        "Rose Neoabsolute",
+        "Italian Bergamot",
+        "Rosyfolia Rose",
+        "Peru Balsam",
+        "Heliotrope"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-rose-exposed-eau-de-parfum",
+    "name": "Rose Exposed Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Rose Exposed Eau de Parfum by Tom Ford. Officially listed notes: Exclusive Rose-On-Rose Co-Distillation, Rose Essence, Rose Concentrate, White Pepper, Black Leather Accord, Cashmeran.",
+    "notes": [
+      "Exclusive Rose-On-Rose Co-Distillation",
+      "Rose",
+      "White Pepper",
+      "Black Leather",
+      "Cashmeran"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Exclusive Rose-On-Rose Co-Distillation",
+        "Rose",
+        "White Pepper",
+        "Black Leather",
+        "Cashmeran"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-rose-exposed-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0KQ01_3000x3000_0.png?v=1789201097",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/rose-exposed-eau-de-parfum",
+    "sourceProductId": "9090492891349",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031547633877",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53020089090261",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031547601109",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Exclusive Rose-On-Rose Co-Distillation",
+        "Rose Essence",
+        "Rose Concentrate",
+        "White Pepper",
+        "Black Leather Accord",
+        "Cashmeran"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-rose-prick-eau-de-parfum",
+    "name": "Rose Prick Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Rose Prick Eau de Parfum by Tom Ford. Officially listed notes: Bulgarian Rose, Turmeric Extract, Indonesian Patchouli, Sichuan Pepper, Roasted Tonka, Tolu Balsam.",
+    "notes": [
+      "Rose",
+      "Turmeric",
+      "Patchouli",
+      "Sichuan Pepper",
+      "Roasted Tonka",
+      "Tolu Balsam"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Rose",
+        "Turmeric",
+        "Patchouli",
+        "Sichuan Pepper",
+        "Roasted Tonka",
+        "Tolu Balsam"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-rose-prick-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T8M101_2000x2000_0_ab3c5524-0cbe-4b02-8441-2b7c1b097934.png?v=1789201036",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/rose-prick-eau-de-parfum",
+    "sourceProductId": "9090493186261",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031544226005",
+        "label": "1.7 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "52987221606613",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031544193237",
+        "label": "1.0 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53031544258773",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bulgarian Rose",
+        "Turmeric Extract",
+        "Indonesian Patchouli",
+        "Sichuan Pepper",
+        "Roasted Tonka",
+        "Tolu Balsam"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-santal-blush-eau-de-parfum",
+    "name": "Santal Blush Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Santal Blush Eau de Parfum by Tom Ford. Officially listed notes: Cinnamon Bark Oil, Sri Lanka Orpur®, Carrot Seed Oil, Ylang Ylang Madagascar, Sandalwood Australia, Cedarwood Texas Orpur®, Benzoin Tears Laos.",
+    "notes": [
+      "Cinnamon",
+      "Sri Lanka",
+      "Carrot Seed",
+      "Ylang-Ylang",
+      "Sandalwood",
+      "Cedarwood Texas",
+      "Benzoin"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cinnamon",
+        "Sri Lanka",
+        "Carrot Seed",
+        "Ylang-Ylang",
+        "Sandalwood",
+        "Cedarwood Texas",
+        "Benzoin"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-santal-blush-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCRC01_2000x2000_0.png?v=1789201061",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/santal-blush-eau-de-parfum",
+    "sourceProductId": "9090496037077",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031546126549",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53019062894805",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cinnamon Bark Oil",
+        "Sri Lanka Orpur®",
+        "Carrot Seed Oil",
+        "Ylang Ylang Madagascar",
+        "Sandalwood Australia",
+        "Cedarwood Texas Orpur®",
+        "Benzoin Tears Laos"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-soleil-blanc-eau-de-parfum",
+    "name": "Soleil Blanc Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Soleil Blanc Eau de Parfum by Tom Ford. Officially listed notes: Bergamot, Cardamom Oil Orpur®, Pistachio Accord, Ylang Ylang Comores Island, Benzoin Extract Orpur®, Coco De Mer Accord.",
+    "notes": [
+      "Bergamot",
+      "Cardamom",
+      "Pistachio",
+      "Ylang-Ylang",
+      "Benzoin",
+      "Coco de Mer"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Cardamom",
+        "Pistachio",
+        "Ylang-Ylang",
+        "Benzoin",
+        "Coco de Mer"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-soleil-blanc-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T40T01_2000x2000_0.png?v=1789248153",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/soleil-blanc-eau-de-parfum",
+    "sourceProductId": "9090494726357",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53394971689173",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53014994583765",
+        "label": "0.34 fl oz",
+        "available": false
+      },
+      {
+        "sourceId": "53023410815189",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026874327253",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Cardamom Oil Orpur®",
+        "Pistachio Accord",
+        "Ylang Ylang Comores Island",
+        "Benzoin Extract Orpur®",
+        "Coco De Mer Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-soleil-blanc-parfum",
+    "name": "Soleil Blanc Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Soleil Blanc Parfum by Tom Ford. Officially listed notes: Jasmine Grandiflorum Ylang Ylang Cardamom Pistachio Accord Coco De Mer Accord Vanilla Absolute.",
+    "notes": [
+      "Jasmine",
+      "Ylang-Ylang",
+      "Cardamom",
+      "Pistachio",
+      "Coco de Mer",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Jasmine",
+        "Ylang-Ylang",
+        "Cardamom",
+        "Pistachio",
+        "Coco de Mer",
+        "Vanilla"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-soleil-blanc-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TE9101_3000x3000_0.png?v=1789201094",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/soleil-blanc-parfum",
+    "sourceProductId": "9200556310741",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52577763557589",
+        "label": "1.7 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Jasmine Grandiflorum Ylang Ylang Cardamom Pistachio Accord Coco De Mer Accord Vanilla Absolute"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-soleil-de-feu-eau-de-parfum",
+    "name": "Soleil de Feu Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Soleil de Feu Eau de Parfum by Tom Ford. Officially listed notes: Tuberose Sandalwood Benzoin.",
+    "notes": [
+      "Tuberose",
+      "Sandalwood",
+      "Benzoin"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Tuberose",
+        "Sandalwood",
+        "Benzoin"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-soleil-de-feu-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCXJ01_2000x2000_0.png?v=1789201070",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/soleil-de-feu-eau-de-parfum",
+    "sourceProductId": "9090494365909",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "52015783674069",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53200228483285",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Tuberose Sandalwood Benzoin"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-soleil-neige-eau-de-parfum",
+    "name": "Soleil Neige Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Soleil Neige Eau de Parfum by Tom Ford. Officially listed notes: Bergamot Integrale Musk Notes Orange Blossom Jasmine Grandiflorum Concrete Benzoin Resinoid Cistus Labdanum.",
+    "notes": [
+      "Bergamot",
+      "Musk",
+      "Orange Blossom",
+      "Jasmine",
+      "Benzoin",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Musk",
+        "Orange Blossom",
+        "Jasmine",
+        "Benzoin",
+        "Labdanum"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-soleil-neige-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T36D01_3000x3000_0.png?v=1789273507",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/soleil-neige-eau-de-parfum",
+    "sourceProductId": "9090496790741",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031545274581",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53030231802069",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031405813973",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545307349",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot Integrale Musk Notes Orange Blossom Jasmine Grandiflorum Concrete Benzoin Resinoid Cistus Labdanum"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-taormina-orange-eau-de-parfum",
+    "name": "Taormina Orange Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Taormina Orange Eau de Parfum by Tom Ford. Officially listed notes: Blood Orange Sicily, Cardamom Oil, Orange Flower Absolute, Orange Bigarade Oil, Patchouli Oil, Oakmoss Absolute.",
+    "notes": [
+      "Blood Orange",
+      "Cardamom",
+      "Orange Blossom",
+      "Bitter Orange",
+      "Patchouli",
+      "Oakmoss"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Blood Orange",
+        "Cardamom",
+        "Orange Blossom",
+        "Bitter Orange",
+        "Patchouli",
+        "Oakmoss"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-taormina-orange-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T3Z501_3000x3000_0_56317770-aefb-4910-8021-cec11fb668ce.png?v=1789241107",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/taormina-orange-eau-de-parfum",
+    "sourceProductId": "9267997311189",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53216742834389",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53200229368021",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53200229400789",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Blood Orange Sicily",
+        "Cardamom Oil",
+        "Orange Flower Absolute",
+        "Orange Bigarade Oil",
+        "Patchouli Oil",
+        "Oakmoss Absolute"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-tobacco-vanille-eau-de-parfum",
+    "name": "Tobacco Vanille Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Tobacco Vanille Eau de Parfum by Tom Ford. Officially listed notes: Tobacco Leaf, Ginger, Spice Notes, Tonka Bean, Cocoa, Fruit Accord.",
+    "notes": [
+      "Tobacco Leaf",
+      "Ginger",
+      "Spice Notes",
+      "Tonka Bean",
+      "Cocoa",
+      "Fruit"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Tobacco Leaf",
+        "Ginger",
+        "Spice Notes",
+        "Tonka Bean",
+        "Cocoa",
+        "Fruit"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-tobacco-vanille-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T0CA01_2000x2000_0.png?v=1789266311",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+    "sourceProductId": "9090496856277",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53394850414805",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53030971572437",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031406633173",
+        "label": "3.4 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031542522069",
+        "label": "8.5 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Tobacco Leaf",
+        "Ginger",
+        "Spice Notes",
+        "Tonka Bean",
+        "Cocoa",
+        "Fruit Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-tuscan-leather-eau-de-parfum",
+    "name": "Tuscan Leather Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Tuscan Leather Eau de Parfum by Tom Ford. Officially listed notes: Saffron, Raspberry, Thyme, Olibanum, Night Blooming Jasmine, Leather, Black Suede, Amberwood.",
+    "notes": [
+      "Saffron",
+      "Raspberry",
+      "Thyme",
+      "Olibanum",
+      "Jasmine",
+      "Leather",
+      "Black Suede",
+      "Amberwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron",
+        "Raspberry",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Black Suede",
+        "Amberwood"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-tuscan-leather-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T00H01_2000x2000_0_b11c3b00-bf25-48bf-b609-8418e63e50c1.png?v=1789201053",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/tuscan-leather-eau-de-parfum",
+    "sourceProductId": "9090497020117",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53013107704021",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031542358229",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53030231703765",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron",
+        "Raspberry",
+        "Thyme",
+        "Olibanum",
+        "Night Blooming Jasmine",
+        "Leather",
+        "Black Suede",
+        "Amberwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-vanilla-sex-eau-de-parfum",
+    "name": "Vanilla Sex Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Vanilla Sex Eau de Parfum by Tom Ford. Officially listed notes: Vanilla Tincture India, Vanilla Absolute, Sandalwood Essence, Jasmine Absolute, Orris Accord, Animalis Accord.",
+    "notes": [
+      "Vanilla",
+      "Sandalwood",
+      "Jasmine",
+      "Orris",
+      "Animalis"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Vanilla",
+        "Sandalwood",
+        "Jasmine",
+        "Orris",
+        "Animalis"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-vanilla-sex-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TCFC01_2000x2000_0S.png?v=1789226784",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/vanilla-sex-eau-de-parfum",
+    "sourceProductId": "9090496692437",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53030230851797",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53029482430677",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545536725",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53031545569493",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Vanilla Tincture India",
+        "Vanilla Absolute",
+        "Sandalwood Essence",
+        "Jasmine Absolute",
+        "Orris Accord",
+        "Animalis Accord"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-vanille-fatale-eau-de-parfum",
+    "name": "Vanille Fatale Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Vanille Fatale Eau de Parfum by Tom Ford. Officially listed notes: Safraleine™, Frangipani Scenttrek, Coffee Absolute, Mahogany Wood Accord, Roasted Barley Orpur, Vanilla Resinoid.",
+    "notes": [
+      "Safraleine",
+      "Frangipani Scenttrek",
+      "Coffee",
+      "Mahogany Wood",
+      "Roasted Barley",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Safraleine",
+        "Frangipani Scenttrek",
+        "Coffee",
+        "Mahogany Wood",
+        "Roasted Barley",
+        "Vanilla"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-vanille-fatale-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_TEA601_2000x2000_0.png?v=1789201047",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/vanille-fatale-eau-de-parfum",
+    "sourceProductId": "9090492825813",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031359348949",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52938277028053",
+        "label": "1.0 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Safraleine™",
+        "Frangipani Scenttrek",
+        "Coffee Absolute",
+        "Mahogany Wood Accord",
+        "Roasted Barley Orpur",
+        "Vanilla Resinoid"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-velvet-orchid-eau-de-parfum",
+    "name": "Velvet Orchid Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "Velvet Orchid Eau de Parfum by Tom Ford. Officially listed notes: Italian Bergamot, Mandarin Orpur®, Tom Ford Black Orchid, Jasmine Absolute, Sandalwood, Myrrh Resinoid Orpur®.",
+    "notes": [
+      "Bergamot",
+      "Mandarin",
+      "Jasmine",
+      "Sandalwood",
+      "Myrrh"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Mandarin",
+        "Jasmine",
+        "Sandalwood",
+        "Myrrh"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-velvet-orchid-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T1X401_2000x2000_0.png?v=1789201029",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/velvet-orchid-eau-de-parfum",
+    "sourceProductId": "9090495709397",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53031542423765",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026873835733",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Italian Bergamot",
+        "Mandarin Orpur®",
+        "Tom Ford Black Orchid",
+        "Jasmine Absolute",
+        "Sandalwood",
+        "Myrrh Resinoid Orpur®"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "tom-ford-white-suede-eau-de-parfum",
+    "name": "White Suede Eau de Parfum",
+    "brand": "Tom Ford",
+    "gender": null,
+    "description": "White Suede Eau de Parfum by Tom Ford. Officially listed notes: Saffron, Thyme, Mate, White Leather, Suede, Olibanum, Musk.",
+    "notes": [
+      "Saffron",
+      "Thyme",
+      "Mate",
+      "White Leather",
+      "Suede",
+      "Olibanum",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron",
+        "Thyme",
+        "Mate",
+        "White Leather",
+        "Suede",
+        "Olibanum",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/tomford/tom-ford-white-suede-eau-de-parfum.png",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0761/9690/5173/files/tf_sku_T77901_2000x2000_0.png?v=1789241105",
+    "sourceUrl": "https://www.tomfordbeauty.com/products/white-suede-eau-de-parfum",
+    "sourceProductId": "9090497872085",
+    "sourceUpdatedAt": "2026-09-13T00:28:08-04:00",
+    "fetchedAt": "2026-09-13T04:27:43.615Z",
+    "descriptionType": "generated-factual-summary",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "variants": [
+      {
+        "sourceId": "53026871410901",
+        "label": "1.7 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "52996820402389",
+        "label": "0.34 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026871378133",
+        "label": "1.0 fl oz",
+        "available": true
+      },
+      {
+        "sourceId": "53026871443669",
+        "label": "3.4 fl oz",
+        "available": true
+      }
+    ],
+    "qualityFlags": [
+      "collection-not-confirmed",
+      "accords-not-published"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Saffron",
+        "Thyme",
+        "Mate",
+        "White Leather",
+        "Suede",
+        "Olibanum",
+        "Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-baccarat-rouge-540-eau-de-parfum",
+    "name": "Baccarat Rouge 540 Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Baccarat Rouge 540 Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa46019b3/BACCARAT_ROUGE_540/FRAGRANCE/3700559603116_BR540_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa46019b3/BACCARAT_ROUGE_540/FRAGRANCE/3700559603116_BR540_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/baccarat-rouge-540-eau-de-parfum-RA12232.html",
+    "sourceProductId": "mfk-baccarat-rouge-540-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-satin-mood-eau-de-parfum",
+    "name": "OUD satin mood Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD satin mood Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwd38a559b/OSAM/FRAGRANCE/3700559602607_OUD_SATIN_MOOD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwd38a559b/OSAM/FRAGRANCE/3700559602607_OUD_SATIN_MOOD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-satin-mood-eau-de-parfum-RA122221.html",
+    "sourceProductId": "mfk-oud-satin-mood-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-aqua-universalis-eau-de-toilette",
+    "name": "Aqua Universalis Eau de toilette",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Aqua Universalis Eau de toilette by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw5f315913/AQUA_UNIVERSALIS/FRAGRANCE/3700559612187_AQUA_UNIVERSALIS_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw5f315913/AQUA_UNIVERSALIS/FRAGRANCE/3700559612187_AQUA_UNIVERSALIS_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/aqua-universalis-eau-de-toilette-RA130321.html",
+    "sourceProductId": "mfk-aqua-universalis-eau-de-toilette",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-velvet-mood-extrait-de-parfum",
+    "name": "OUD velvet mood Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD velvet mood Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa1010e91/OVM/FRAGRANCES/3700559630969_RA141622_OUD_VELVET_MOOD_EXT_70ML_VIEW1_2000X2000.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa1010e91/OVM/FRAGRANCES/3700559630969_RA141622_OUD_VELVET_MOOD_EXT_70ML_VIEW1_2000X2000.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-velvet-mood-extrait-de-parfum-RA141622.html",
+    "sourceProductId": "mfk-oud-velvet-mood-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-satin-mood-extrait-de-parfum",
+    "name": "OUD satin mood Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD satin mood Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw67f50206/OSAM/FRAGRANCE/3700559615577_OUD_SATIN_MOOD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw67f50206/OSAM/FRAGRANCE/3700559615577_OUD_SATIN_MOOD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-satin-mood-extrait-de-parfum-RA142221.html",
+    "sourceProductId": "mfk-oud-satin-mood-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-silk-mood-extrait-de-parfum",
+    "name": "OUD silk mood Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD silk mood Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw78b53e42/OSILK/FRAGRANCE/3700559613092_OUD_SILK_MOOD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw78b53e42/OSILK/FRAGRANCE/3700559613092_OUD_SILK_MOOD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-silk-mood-extrait-de-parfum-RA141721.html",
+    "sourceProductId": "mfk-oud-silk-mood-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-extrait-de-parfum",
+    "name": "OUD Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwab3b9749/OUD/FRAGRANCE/3700559606506_OUD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwab3b9749/OUD/FRAGRANCE/3700559606506_OUD_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-extrait-de-parfum-RA14122.html",
+    "sourceProductId": "mfk-oud-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-baccarat-rouge-540-extrait-de-parfum",
+    "name": "Baccarat Rouge 540 Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Baccarat Rouge 540 Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dweaaffafb/BACCARAT_ROUGE_540/FRAGRANCE/3700559605905_BR540_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dweaaffafb/BACCARAT_ROUGE_540/FRAGRANCE/3700559605905_BR540_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/baccarat-rouge-540-extrait-de-parfum-RA142321.html",
+    "sourceProductId": "mfk-baccarat-rouge-540-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-silk-mood-eau-de-parfum",
+    "name": "OUD silk mood Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD silk mood Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwbf04e460/OSILK/FRAGRANCE/3700559606513_OUD_SILK_MOOD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwbf04e460/OSILK/FRAGRANCE/3700559606513_OUD_SILK_MOOD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-silk-mood-eau-de-parfum-RA12172.html",
+    "sourceProductId": "mfk-oud-silk-mood-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-oud-eau-de-parfum",
+    "name": "OUD Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "OUD Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa515a250/OUD/FRAGRANCE/3700559613337_OUD_70ML_EDP_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwa515a250/OUD/FRAGRANCE/3700559613337_OUD_70ML_EDP_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/oud-eau-de-parfum-RA121221.html",
+    "sourceProductId": "mfk-oud-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-a-la-rose-eau-de-parfum",
+    "name": "À la rose Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "À la rose Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw2ddda9d3/A_LA_ROSE/FRAGRANCE/3700559612255_A_LA_ROSE_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw2ddda9d3/A_LA_ROSE/FRAGRANCE/3700559612255_A_LA_ROSE_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/a-la-rose-eau-de-parfum-RA128721.html",
+    "sourceProductId": "mfk-a-la-rose-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-leau-a-la-rose-eau-de-toilette",
+    "name": "l'eau À la rose Eau de toilette",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "l'eau À la rose Eau de toilette by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw05c0d6d2/EAU_A_LA_ROSE/FRAGRANCE/3700559618066_EAU_A_LA_ROSE_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw05c0d6d2/EAU_A_LA_ROSE/FRAGRANCE/3700559618066_EAU_A_LA_ROSE_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/leau-a-la-rose-eau-de-toilette-RA133021.html",
+    "sourceProductId": "mfk-leau-a-la-rose-eau-de-toilette",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-amyris-femme-eau-de-parfum",
+    "name": "Amyris femme Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Amyris femme Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwd61a3e49/AMYRIS/FEMME/FRAGRANCE/3700559620267_AMYRIS_FEMME_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwd61a3e49/AMYRIS/FEMME/FRAGRANCE/3700559620267_AMYRIS_FEMME_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/amyris-femme-eau-de-parfum-RA121322.html",
+    "sourceProductId": "mfk-amyris-femme-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-amyris-femme-extrait-de-parfum",
+    "name": "Amyris femme Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Amyris femme Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf436c591/AMYRIS/FEMME/FRAGRANCE/3700559609231_AMYRIS_FEMME_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf436c591/AMYRIS/FEMME/FRAGRANCE/3700559609231_AMYRIS_FEMME_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/amyris-femme-extrait-de-parfum-RA141322.html",
+    "sourceProductId": "mfk-amyris-femme-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-grand-soir-eau-de-parfum",
+    "name": "Grand Soir Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Grand Soir Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwf271d704/GRAND_SOIR/FRAGRANCE/3700559614242_GRAND_SOIR_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/grand-soir-eau-de-parfum-RA122521.html",
+    "sourceProductId": "mfk-grand-soir-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-gentle-fluidity-silver-eau-de-parfum",
+    "name": "Gentle fluidity Silver Edition Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Gentle fluidity Silver Edition Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw52ae396b/GENTLE_FLUIDITY/SILVER/FRAGRANCE/3700559618219_GENTLE_FLUIDITY_SILVER_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw52ae396b/GENTLE_FLUIDITY/SILVER/FRAGRANCE/3700559618219_GENTLE_FLUIDITY_SILVER_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/gentle-fluidity-silver-edition---eau-de-parfum-RA122921.html",
+    "sourceProductId": "mfk-gentle-fluidity-silver-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-gentle-fluidity-gold-eau-de-parfum",
+    "name": "Gentle fluidity Gold Edition Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Gentle fluidity Gold Edition Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwee562a97/GENTLE_FLUIDITY/GOLD/FRAGRANCE/3700559618189_GENTLE_FLUIDITY_GOLD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwee562a97/GENTLE_FLUIDITY/GOLD/FRAGRANCE/3700559618189_GENTLE_FLUIDITY_GOLD_EDP_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/gentle-fluidity-gold-edition---eau-de-parfum-RA122821.html",
+    "sourceProductId": "mfk-gentle-fluidity-gold-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-lhomme-a-la-rose-eau-de-parfum",
+    "name": "l'Homme À la rose Eau de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "l'Homme À la rose Eau de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw2e91a2e1/HOMME_A_LA_ROSE/FRAGRANCE/3700559609989_HOMME_A_LA_ROSE_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw2e91a2e1/HOMME_A_LA_ROSE/FRAGRANCE/3700559609989_HOMME_A_LA_ROSE_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/lhomme-a-la-rose-eau-de-parfum-RA12312.html",
+    "sourceProductId": "mfk-lhomme-a-la-rose-eau-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-amyris-homme-eau-de-toilette",
+    "name": "Amyris homme Eau de toilette",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Amyris homme Eau de toilette by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw67055ad9/AMYRIS/HOMME/FRAGRANCE/3700559613054_AMYRIS_HOMME_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw67055ad9/AMYRIS/HOMME/FRAGRANCE/3700559613054_AMYRIS_HOMME_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/amyris-homme-eau-de-toilette-RA131421.html",
+    "sourceProductId": "mfk-amyris-homme-eau-de-toilette",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-amyris-homme-extrait-de-parfum",
+    "name": "Amyris homme Extrait de parfum",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "Amyris homme Extrait de parfum by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw7fbbdb91/AMYRIS/HOMME/FRAGRANCE/3700559609224_AMYRIS_HOMME_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw7fbbdb91/AMYRIS/HOMME/FRAGRANCE/3700559609224_AMYRIS_HOMME_EXT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/amyris-homme-extrait-de-parfum-RA141421.html",
+    "sourceProductId": "mfk-amyris-homme-extrait-de-parfum",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "mfk-masculin-pluriel-eau-de-toilette",
+    "name": "masculin Pluriel Eau de toilette",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "Unisex",
+    "description": "masculin Pluriel Eau de toilette by Maison Francis Kurkdjian. Official product record collected from the official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw934179cf/PLURIEL/MASCULIN/3700559615621_MASCULIN_PLURIEL_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "imageSourceUrl": "https://www.franciskurkdjian.com/dw/image/v2/BJSB_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dw934179cf/PLURIEL/MASCULIN/3700559615621_MASCULIN_PLURIEL_EDT_70ML_1.png?sw=640&sh=640&strip=false",
+    "sourceUrl": "https://www.franciskurkdjian.com/int-en/p/masculin-pluriel-eau-de-toilette-RA132121.html",
+    "sourceProductId": "mfk-masculin-pluriel-eau-de-toilette",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "not-extracted",
+    "variants": [],
+    "qualityFlags": [
+      "notes-pending"
+    ],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-sea-salt-bergamot-cologne",
+    "name": "Sea Salt & Bergamot Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Sea Salt & Bergamot Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Bergamot",
+      "Salt",
+      "Driftwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [
+        "Salt"
+      ],
+      "base": [
+        "Driftwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L5SA01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L5SA01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/145614/colognes/sea-salt-bergamot-cologne/-",
+    "sourceProductId": "jomalone-sea-salt-bergamot-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [
+        "Sea Salt"
+      ],
+      "base": [
+        "Driftwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-wood-sage-sea-salt-cologne",
+    "name": "Wood Sage & Sea Salt Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Wood Sage & Sea Salt Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Ambrette",
+      "Salt",
+      "Sage"
+    ],
+    "noteGroups": {
+      "top": [
+        "Ambrette"
+      ],
+      "middle": [
+        "Salt"
+      ],
+      "base": [
+        "Sage"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L41501_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L41501_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/32241/colognes/wood-sage-sea-salt-cologne",
+    "sourceProductId": "jomalone-wood-sage-sea-salt-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Ambrette Seed"
+      ],
+      "middle": [
+        "Sea Salt"
+      ],
+      "base": [
+        "Sage"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-frangipani-flower-cologne",
+    "name": "Frangipani Flower Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Frangipani Flower Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Jasmine",
+      "Frangipani",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Jasmine"
+      ],
+      "middle": [
+        "Frangipani"
+      ],
+      "base": [
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L4SC01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L4SC01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/132461/colognes/frangipani-flower-cologne?size=100ml",
+    "sourceProductId": "jomalone-frangipani-flower-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Jasmine Petals"
+      ],
+      "middle": [
+        "Frangipani"
+      ],
+      "base": [
+        "Sandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-cypress-grapevine-cologne-intense",
+    "name": "Cypress & Grapevine Cologne Intense",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Cypress & Grapevine Cologne Intense by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Cypress",
+      "Grapevine",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cypress"
+      ],
+      "middle": [
+        "Grapevine"
+      ],
+      "base": [
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX001_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX001_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/110444/colognes/cypress-grapevine-cologne-intense/-",
+    "sourceProductId": "jomalone-cypress-grapevine-cologne-intense",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Cypress"
+      ],
+      "middle": [
+        "Grapevine"
+      ],
+      "base": [
+        "Amber"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-blackberry-bay-cologne",
+    "name": "Blackberry & Bay Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Blackberry & Bay Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Blackberry",
+      "Bay Leaves",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Blackberry"
+      ],
+      "middle": [
+        "Bay Leaves"
+      ],
+      "base": [
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L32R01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L32R01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/23540/colognes/blackberry-bay-cologne",
+    "sourceProductId": "jomalone-blackberry-bay-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Blackberry"
+      ],
+      "middle": [
+        "Bay Leaves"
+      ],
+      "base": [
+        "Cedarwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-lime-basil-mandarin-cologne",
+    "name": "Lime Basil & Mandarin Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Lime Basil & Mandarin Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Mandarin",
+      "Basil",
+      "Amberwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin"
+      ],
+      "middle": [
+        "Basil"
+      ],
+      "base": [
+        "Amberwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00401_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00401_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/10101/colognes/lime-basil-mandarin-cologne",
+    "sourceProductId": "jomalone-lime-basil-mandarin-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Mandarin"
+      ],
+      "middle": [
+        "Basil"
+      ],
+      "base": [
+        "Amberwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-english-pear-freesia-cologne",
+    "name": "English Pear & Freesia Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "English Pear & Freesia Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "King William Pear",
+      "Freesia",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "King William Pear"
+      ],
+      "middle": [
+        "Freesia"
+      ],
+      "base": [
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L26L01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L26L01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/12553/colognes/english-pear-freesia-cologne",
+    "sourceProductId": "jomalone-english-pear-freesia-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "King William Pear"
+      ],
+      "middle": [
+        "Freesia"
+      ],
+      "base": [
+        "Patchouli"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-peony-blush-suede-cologne",
+    "name": "Peony & Blush Suede Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Peony & Blush Suede Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Red Apple",
+      "Peony",
+      "Suede"
+    ],
+    "noteGroups": {
+      "top": [
+        "Red Apple"
+      ],
+      "middle": [
+        "Peony"
+      ],
+      "base": [
+        "Suede"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L3AF01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L3AF01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/27028/colognes/peony-blush-suede-cologne",
+    "sourceProductId": "jomalone-peony-blush-suede-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Red Apple"
+      ],
+      "middle": [
+        "Peony"
+      ],
+      "base": [
+        "Suede"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-grapefruit-cologne",
+    "name": "Grapefruit Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Grapefruit Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Grapefruit",
+      "Rosemary",
+      "Moss"
+    ],
+    "noteGroups": {
+      "top": [
+        "Grapefruit"
+      ],
+      "middle": [
+        "Rosemary"
+      ],
+      "base": [
+        "Moss"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00C01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00C01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/10041/colognes/grapefruit-cologne",
+    "sourceProductId": "jomalone-grapefruit-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Grapefruit"
+      ],
+      "middle": [
+        "Rosemary"
+      ],
+      "base": [
+        "Moss"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-earl-grey-cucumber-cologne",
+    "name": "Earl Grey & Cucumber Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Earl Grey & Cucumber Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Bergamot",
+      "Cucumber",
+      "Beeswax"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [
+        "Cucumber"
+      ],
+      "base": [
+        "Beeswax"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L38L01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L38L01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/15968/colognes/earl-grey-cucumber-cologne",
+    "sourceProductId": "jomalone-earl-grey-cucumber-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [
+        "Cucumber"
+      ],
+      "base": [
+        "Beeswax"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-nectarine-blossom-honey-cologne",
+    "name": "Nectarine Blossom & Honey Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Nectarine Blossom & Honey Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Cassis",
+      "Acacia Honey",
+      "Peach"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cassis"
+      ],
+      "middle": [
+        "Acacia Honey"
+      ],
+      "base": [
+        "Peach"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L0Y501_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L0Y501_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/10079/colognes/nectarine-blossom-honey-cologne",
+    "sourceProductId": "jomalone-nectarine-blossom-honey-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Cassis"
+      ],
+      "middle": [
+        "Acacia Honey"
+      ],
+      "base": [
+        "Peach"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-poppy-barley-cologne",
+    "name": "Poppy & Barley Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Poppy & Barley Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Blackcurrant",
+      "Poppy",
+      "Barley"
+    ],
+    "noteGroups": {
+      "top": [
+        "Blackcurrant"
+      ],
+      "middle": [
+        "Poppy"
+      ],
+      "base": [
+        "Barley"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LA0001_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LA0001_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/68606/colognes/poppy-barley-cologne",
+    "sourceProductId": "jomalone-poppy-barley-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Blackcurrant"
+      ],
+      "middle": [
+        "Poppy"
+      ],
+      "base": [
+        "Barley"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-red-roses-cologne",
+    "name": "Red Roses Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Red Roses Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Lemon",
+      "Red Roses",
+      "Honeycomb"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon"
+      ],
+      "middle": [
+        "Red Roses"
+      ],
+      "base": [
+        "Honeycomb"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L08E01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L08E01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/10066/colognes/red-roses-cologne",
+    "sourceProductId": "jomalone-red-roses-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Lemon"
+      ],
+      "middle": [
+        "Red Roses Accord"
+      ],
+      "base": [
+        "Honeycomb"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-english-pear-sweet-pea-cologne",
+    "name": "English Pear & Sweet Pea Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "English Pear & Sweet Pea Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LKKJ01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LKKJ01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/118129/colognes/english-pear-sweet-pea-cologne",
+    "sourceProductId": "jomalone-english-pear-sweet-pea-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": []
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-wild-bluebell-cologne",
+    "name": "Wild Bluebell Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Wild Bluebell Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Bluebell",
+      "Persimmon",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bluebell"
+      ],
+      "middle": [
+        "Persimmon"
+      ],
+      "base": [
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L2H601_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L2H601_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/18848/colognes/wild-bluebell-cologne",
+    "sourceProductId": "jomalone-wild-bluebell-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Bluebell"
+      ],
+      "middle": [
+        "Persimmon"
+      ],
+      "base": [
+        "White Musk"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-jasmine-sambac-marigold-cologne-intense",
+    "name": "Jasmine Sambac & Marigold Cologne Intense",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Jasmine Sambac & Marigold Cologne Intense by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Marigold",
+      "Jasmine",
+      "Benzoin Resin"
+    ],
+    "noteGroups": {
+      "top": [
+        "Marigold"
+      ],
+      "middle": [
+        "Jasmine"
+      ],
+      "base": [
+        "Benzoin Resin"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX101_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX101_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/110445/colognes/jasmine-sambac-marigold-cologne-intense",
+    "sourceProductId": "jomalone-jasmine-sambac-marigold-cologne-intense",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Marigold"
+      ],
+      "middle": [
+        "Jasmine Sambac"
+      ],
+      "base": [
+        "Benzoin Resin"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-tuberose-angelica-cologne-intense",
+    "name": "Tuberose Angelica Cologne Intense",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Tuberose Angelica Cologne Intense by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Angelica",
+      "Tuberose",
+      "Amberwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Angelica"
+      ],
+      "middle": [
+        "Tuberose"
+      ],
+      "base": [
+        "Amberwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGWW01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGWW01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/110451/colognes/tuberose-angelica-cologne-intense",
+    "sourceProductId": "jomalone-tuberose-angelica-cologne-intense",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Angelica"
+      ],
+      "middle": [
+        "Tuberose"
+      ],
+      "base": [
+        "Amberwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-scarlet-poppy-cologne-intense",
+    "name": "Scarlet Poppy Cologne Intense",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Scarlet Poppy Cologne Intense by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Ambrette",
+      "Scarlet Poppy",
+      "Tonka Bean"
+    ],
+    "noteGroups": {
+      "top": [
+        "Ambrette"
+      ],
+      "middle": [
+        "Scarlet Poppy"
+      ],
+      "base": [
+        "Tonka Bean"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LHG101_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LHG101_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/110775/colognes/scarlet-poppy-cologne-intense",
+    "sourceProductId": "jomalone-scarlet-poppy-cologne-intense",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Ambrette"
+      ],
+      "middle": [
+        "Scarlet Poppy"
+      ],
+      "base": [
+        "Tonka Bean"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-english-oak-hazelnut-cologne",
+    "name": "English Oak & Hazelnut Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "English Oak & Hazelnut Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Green Hazelnut",
+      "Cedarwood",
+      "Roasted Oak"
+    ],
+    "noteGroups": {
+      "top": [
+        "Green Hazelnut"
+      ],
+      "middle": [
+        "Cedarwood"
+      ],
+      "base": [
+        "Roasted Oak"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L6TF01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L6TF01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/51345/colognes/english-oak-hazelnut-cologne/-",
+    "sourceProductId": "jomalone-english-oak-hazelnut-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Green Hazelnut"
+      ],
+      "middle": [
+        "Cedarwood"
+      ],
+      "base": [
+        "Roasted Oak"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-nutmeg-ginger-cologne",
+    "name": "Nutmeg & Ginger Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Nutmeg & Ginger Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Ginger",
+      "Nutmeg",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Ginger"
+      ],
+      "middle": [
+        "Nutmeg"
+      ],
+      "base": [
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00M01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L00M01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/9737/colognes/nutmeg-ginger-cologne",
+    "sourceProductId": "jomalone-nutmeg-ginger-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Ginger"
+      ],
+      "middle": [
+        "Nutmeg"
+      ],
+      "base": [
+        "Sandalwood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-pomegranate-noir-cologne",
+    "name": "Pomegranate Noir Cologne",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Pomegranate Noir Cologne by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Pomegranate",
+      "Casablanca Lily",
+      "Guaiac Wood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Pomegranate"
+      ],
+      "middle": [
+        "Casablanca Lily"
+      ],
+      "base": [
+        "Guaiac Wood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L10G01_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_L10G01_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/9900/colognes/pomegranate-noir-cologne",
+    "sourceProductId": "jomalone-pomegranate-noir-cologne",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Pomegranate"
+      ],
+      "middle": [
+        "Casablanca Lily"
+      ],
+      "base": [
+        "Guaiac Wood"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "jomalone-dark-amber-ginger-lily-cologne-intense",
+    "name": "Dark Amber & Ginger Lily Cologne Intense",
+    "brand": "Jo Malone London",
+    "gender": "Unisex",
+    "description": "Dark Amber & Ginger Lily Cologne Intense by Jo Malone London. Officially listed notes collected from the Korean official product page.",
+    "notes": [
+      "Black Cardamom",
+      "Black Orchid",
+      "Kyara Incense"
+    ],
+    "noteGroups": {
+      "top": [
+        "Black Cardamom"
+      ],
+      "middle": [
+        "Black Orchid"
+      ],
+      "base": [
+        "Kyara Incense"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colognes",
+    "image": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX601_1000x1000_0.png",
+    "imageSourceUrl": "https://www.jomalone.co.kr/media/export/cms/products/1000x1000/jo_sku_LGX601_1000x1000_0.png",
+    "sourceUrl": "https://www.jomalone.co.kr/product/25946/110453/colognes/dark-amber-ginger-lily-cologne-intense",
+    "sourceProductId": "jomalone-dark-amber-ginger-lily-cologne-intense",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; local QC reference only; public reuse permission not verified",
+    "noteExtraction": "official-tasting-notes",
+    "variants": [],
+    "qualityFlags": [],
+    "originalNoteGroups": {
+      "top": [
+        "Black Cardamom"
+      ],
+      "middle": [
+        "Black Orchid"
+      ],
+      "base": [
+        "Kyara Incense"
+      ]
+    },
+    "noteQcStatus": "normalized-2026-09-13"
+  },
+  {
+    "id": "adp-coloniamillesimatospray",
+    "name": "Colonia Il Profumo Millesimato",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "To mark the 110th anniversary of Acqua di Parma’s Art of Living Italian, Colonia Il Profumo is reimagined in a celebratory Millesimato limited edition that magnifies its citrus notes and enduring Italian elegance. At its heart lies the exceptional 2024 harvest of Ylang-Ylang from Nosy Be—cultivated in the Madagascan island’s tropical climate, where the flowers develop their full complexity, marked by fruity and subtly spiced undertones. Nurtured by the year’s rare convergence of abundant rainfall and gentle warmth, the flower reveals a rare luminous complexity and intensity.",
+    "notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Blood Orange",
+      "Petitgrain",
+      "Ylang-Ylang",
+      "Rosemary",
+      "Orange Leaves",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit",
+        "Blood Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Ylang-Ylang",
+        "Rosemary",
+        "Orange Leaves"
+      ],
+      "base": [
+        "Patchouli",
+        "Vetiver"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/COLONIAMILLESIMATOSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwfcda64af/images/hi-res-1/ADPADP083140-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-il-profumo-millesimato/COLONIAMILLESIMATOSPRAY.html",
+    "sourceProductId": "COLONIAMILLESIMATOSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "OLFACTIVE FAMILY Citrus Aromatic\nTop Notes: Italian Bergamot Grapefruit Blood Orange Petitgrain\nHeart Notes: 2024 Ylang-Ylang White Fraction Rosemary Orange Leaves Absolute\nBase Notes: Patchouli Vetiver",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Bergamot",
+        "Grapefruit",
+        "Blood Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "2024 Ylang-Ylang White Fraction",
+        "Rosemary",
+        "Orange Leaves Absolute"
+      ],
+      "base": [
+        "Patchouli",
+        "Vetiver"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-coloniaedpspray",
+    "name": "Colonia Il Profumo",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "The brightness of bergamot, the vivid edge of grapefruit and blood orange, and the crisp touch of petitgrain: this is the radiant opening of Colonia Il Profumo. Imagine walking through Parma at sunset, the city glowing under a deep golden light that sharpens every line of its palaces and arches. A contemporary reinterpretation of our cherished fragrance heritage, Colonia Il Profumo is a sophisticated Eau de Parfum that exalts the vibrant, golden character of our signature citrus fruits through a refined blend of ylang ylang and patchouli.",
+    "notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Blood Orange",
+      "Petitgrain",
+      "Rosemary",
+      "Ylang-Ylang",
+      "Orange Leaves",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit",
+        "Blood Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Rosemary",
+        "Ylang-Ylang",
+        "Orange Leaves"
+      ],
+      "base": [
+        "Vetiver",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/COLONIAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw793fda32/images/hi-res-1/ADPADP082498-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-il-profumo/COLONIAEDPSPRAY.html",
+    "sourceProductId": "COLONIAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Citrus Aromatic\n\nTop notes: Italian Bergamot, Grapefruit, Blood Orange, Petitgrain\nHeart notes: Rosemary, Ylang Ylang, Orange Leaves Absolute\nBottom notes: Vetiver, Patchouli",
+    "olfactiveFamily": "Citrus Aromatic",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082497",
+        "name": "EAU DE PARFUM Colonia Colonia il Profumo",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-il-profumo/COLONIAEDPSPRAY.html?dwvar_COLONIAEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082499",
+        "name": "EAU DE PARFUM Colonia Colonia il Profumo",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-il-profumo/COLONIAEDPSPRAY.html?dwvar_COLONIAEDPSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Bergamot",
+        "Grapefruit",
+        "Blood Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Rosemary",
+        "Ylang Ylang",
+        "Orange Leaves Absolute"
+      ],
+      "base": [
+        "Vetiver",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-coloniaedcrp",
+    "name": "Colonia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The brightness of lemon, the lift of Calabrian bergamot, and the soft sweetness of orange mark the unmistakable opening of Colonia — a radiant start that feels like sun rays across Parma’s historic walls. Imagine walking through a palace in the city. Across painted ceilings and frescoed rooms, everything has a warm, inviting glow. Vibrant, sophisticated, and timeless, Colonia is the emblematic Acqua di Parma Eau de Cologne that symbolizes Italianity, capturing the dynamic spirit of a modern, metropolitan lifestyle. Created in 1916, Colonia embodies the spirit of Italian luxury – refined, timeless, and effortlessly elegant.",
+    "notes": [
+      "Lemon",
+      "Orange",
+      "Bergamot",
+      "Lavender",
+      "Rose",
+      "Verbena",
+      "Rosemary",
+      "Vetiver",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Orange",
+        "Bergamot"
+      ],
+      "middle": [
+        "Lavender",
+        "Rose",
+        "Verbena",
+        "Rosemary"
+      ],
+      "base": [
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/COLONIAEDCRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw10b9a185/images/hi-res-1/ADPADP082806-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia/COLONIAEDCRP.html",
+    "sourceProductId": "COLONIAEDCRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: CITRUS\n\nOlfactive Notes\nTop Notes: Lemon, Sweet Orange, Calabrian Bergamot\nHeart Notes: Lavender, Rose, Verbena, Rosemary\nBase Notes: Vetiver, Sandalwood, Patchouli",
+    "olfactiveFamily": "CITRUS",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082805",
+        "name": "EAU DE COLOGNE Colonia Colonia",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia/COLONIAEDCRP.html?dwvar_COLONIAEDCRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082807",
+        "name": "EAU DE COLOGNE Colonia Colonia",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia/COLONIAEDCRP.html?dwvar_COLONIAEDCRP_size=180ML"
+      },
+      {
+        "name": "Colonia 500 Ml",
+        "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia---splash/COLONIAEDCSPLASH.html",
+        "sourceProductId": "COLONIAEDCSPLASH",
+        "officialNotesRaw": "Olfactive Familiy: CITRUS\nOlfactive Notes\nTop Notes: Lemon, Sweet Orange, Calabrian Bergamot\nHeart Notes: Lavender, Rose, Verbena, Rosemary\nBase Notes: Vetiver, Sandalwood, Patchouli",
+        "kind": "size-or-packaging"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Lemon",
+        "Sweet Orange",
+        "Calabrian Bergamot"
+      ],
+      "middle": [
+        "Lavender",
+        "Rose",
+        "Verbena",
+        "Rosemary"
+      ],
+      "base": [
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-c.l.u.b.edcrp",
+    "name": "Colonia C.L.U.B.",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The sparkle of bergamot and the bright lift of lemon create the vibrant opening of Colonia C.L.U.B. A soft kick of pink and black pepper follows, carrying the same lively rush you feel as Parma wakes on a clear morning. Vibrant, contemporary, and radiant, Colonia C.L.U.B., presented in a new restyled bottle, is an invigorating Eau de Cologne that embodies self-assurance and individuality.",
+    "notes": [
+      "Bergamot",
+      "Lemon",
+      "Pink Pepper",
+      "Black Pepper",
+      "Shiso",
+      "Rosemary",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middle": [
+        "Shiso",
+        "Rosemary"
+      ],
+      "base": [
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/C.L.U.B.EDCRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw698ff5cb/images/hi-res-1/ADPADP082821-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-c.l.u.b./C.L.U.B.EDCRP.html",
+    "sourceProductId": "C.L.U.B.EDCRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "OLFACTIVE family: AROMATIC WOODY MUSK\n\nOlfactive Notes:\nTop Notes: Bergamot, Lemon, Pink Pepper, Black Pepper\nHeart Notes: Shiso, Rosemary\nBase Notes: Cedarwood, Musk",
+    "olfactiveFamily": "AROMATIC WOODY MUSK",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082820",
+        "name": "EAU DE COLOGNE Colonia Colonia C.L.U.B.",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-c.l.u.b./C.L.U.B.EDCRP.html?dwvar_C.L.U.B.EDCRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082822",
+        "name": "EAU DE COLOGNE Colonia Colonia C.L.U.B.",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-c.l.u.b./C.L.U.B.EDCRP.html?dwvar_C.L.U.B.EDCRP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middle": [
+        "Shiso",
+        "Rosemary"
+      ],
+      "base": [
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-essenzaedcrp",
+    "name": "Colonia Essenza",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The sparkle of lemon, the crisp lift of orange and Calabrian bergamot, the vivid brightness of grapefruit and petitgrain — this is the confident opening of Colonia Essenza. Imagine stepping into the Teatro Regio in Parma. The air carries the scent of polished wood, velvet, and old scores. Vibrant, determined, and distinctive, Colonia Essenza is a citrus woody fragrance that reinterprets the iconic Colonia with a touch of authentic unconventionality. Presented in a new restyled bottle, it speaks to those with a style that comes from within.",
+    "notes": [
+      "Lemon",
+      "Orange",
+      "Bergamot",
+      "Mandarin",
+      "Grapefruit",
+      "Neroli",
+      "Petitgrain",
+      "Rosemary",
+      "Lily of the Valley",
+      "Rose",
+      "Jasmine",
+      "Clove",
+      "Vetiver",
+      "Patchouli",
+      "Musk",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Orange",
+        "Bergamot",
+        "Mandarin",
+        "Grapefruit",
+        "Neroli",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Rosemary",
+        "Lily of the Valley",
+        "Rose",
+        "Jasmine",
+        "Clove"
+      ],
+      "base": [
+        "Vetiver",
+        "Patchouli",
+        "Musk",
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Your Favourites",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ESSENZAEDCRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw9de65385/images/hi-res-1/ADPADP082817-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-essenza/ESSENZAEDCRP.html",
+    "sourceProductId": "ESSENZAEDCRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: CITRUS WOODY\n\nOlfactive Notes:\nTop Notes: Lemon, Orange, Bergamot, Mandarin, Grapefruit, Neroli, Petitgrain\nHeart Notes: Rosemary, Lily of the Valley, Rose Accord, Jasmine Accord, Cloves\nBase Notes: Vetiver, Patchouli, White Musk, Amber",
+    "olfactiveFamily": "CITRUS WOODY",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082816",
+        "name": "EAU DE COLOGNE Colonia Colonia Essenza",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-essenza/ESSENZAEDCRP.html?dwvar_ESSENZAEDCRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082818",
+        "name": "EAU DE COLOGNE Colonia Colonia Essenza",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-essenza/ESSENZAEDCRP.html?dwvar_ESSENZAEDCRP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Lemon",
+        "Orange",
+        "Bergamot",
+        "Mandarin",
+        "Grapefruit",
+        "Neroli",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Rosemary",
+        "Lily of the Valley",
+        "Rose Accord",
+        "Jasmine Accord",
+        "Cloves"
+      ],
+      "base": [
+        "Vetiver",
+        "Patchouli",
+        "White Musk",
+        "Amber"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-intensaedcrp",
+    "name": "Colonia Intensa",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The brightness of Calabrian bergamot and Sicilian lemon sets the tone, lifted by cardamom and ginger that give the opening its bold, spicy edge. At a romantic dinner in Parma, glasses touch, voices rise and fall, and the room carries familiar notes of local dishes. Vibrant, charismatic, and confident. Colonia Intensa exudes the essence of Italian light and life. Presented in a new restyled bottle, it is an exciting fragrance that combines traditional and contemporary sophistication.",
+    "notes": [
+      "Cardamom",
+      "Bergamot",
+      "Lemon",
+      "Ginger",
+      "Myrtle",
+      "Artemisia",
+      "Neroli",
+      "Leather",
+      "Cedarwood",
+      "Patchouli",
+      "Benzoin",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cardamom",
+        "Bergamot",
+        "Lemon",
+        "Ginger"
+      ],
+      "middle": [
+        "Myrtle",
+        "Artemisia",
+        "Neroli"
+      ],
+      "base": [
+        "Leather",
+        "Cedarwood",
+        "Patchouli",
+        "Benzoin",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Woody",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/INTENSAEDCRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw3d842bc1/images/hi-res-1/ADPADP082810-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-intensa/INTENSAEDCRP.html",
+    "sourceProductId": "INTENSAEDCRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: CITRUS LEATHER WOODY\n\nOlfactive Notes:\nTop Notes: Cardamom, Calabrian Bergamot, Sicilian Lemon, Ginger\nHeart Notes: Myrtle, Artemisia, Neroli\nBase Notes: Leather accord, Cedarwood, Patchouli, Benzoin, Musk",
+    "olfactiveFamily": "CITRUS LEATHER WOODY",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082809",
+        "name": "EAU DE COLOGNE Colonia Colonia Intensa",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-intensa/INTENSAEDCRP.html?dwvar_INTENSAEDCRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082811",
+        "name": "EAU DE COLOGNE Colonia Colonia Intensa",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-intensa/INTENSAEDCRP.html?dwvar_INTENSAEDCRP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Cardamom",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Ginger"
+      ],
+      "middle": [
+        "Myrtle",
+        "Artemisia",
+        "Neroli"
+      ],
+      "base": [
+        "Leather accord",
+        "Cedarwood",
+        "Patchouli",
+        "Benzoin",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-puraedcrp",
+    "name": "Colonia Pura",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The crisp radiance of bergamot, the sweetness of orange, and the gentle touch of petitgrain give Colonia Pura its airy, sunlit opening. Escape to the countryside just beyond Parma. You walk through sun-drenched fields where wildflowers sway and the scent of freshly cut grass floats on the air. Vibrant, pure, and simple, Colonia Pura illuminates the iconic Colonia with effortless bliss and ease. Presented in a new restyled bottle, it captures a straightforward way of living with simplicity.",
+    "notes": [
+      "Bergamot",
+      "Orange",
+      "Petitgrain",
+      "Coriander",
+      "Jasmine",
+      "Narcissus",
+      "Cedarwood",
+      "Patchouli",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Coriander",
+        "Jasmine",
+        "Narcissus"
+      ],
+      "base": [
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Citrus",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/PURAEDCRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw15dbf585/images/hi-res-1/ADPADP082813-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/colonia-pura/PURAEDCRP.html",
+    "sourceProductId": "PURAEDCRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: WATERY COLOGNE\n\nOlfactive Notes:\nTop Notes: Italian Bergamot, Italian Orange, Petitgrain\nHeart Notes: Coriander Oil, Jasmine Sambac Absolute, Narcissus Absolute\nBase Notes: Cedarwood, Patchouli, Musk",
+    "olfactiveFamily": "WATERY COLOGNE",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082812",
+        "name": "EAU DE COLOGNE Colonia Colonia Pura",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-pura/PURAEDCRP.html?dwvar_PURAEDCRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082814",
+        "name": "EAU DE COLOGNE Colonia Colonia Pura",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/colonia-pura/PURAEDCRP.html?dwvar_PURAEDCRP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Bergamot",
+        "Italian Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Coriander Oil",
+        "Jasmine Sambac Absolute",
+        "Narcissus Absolute"
+      ],
+      "base": [
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornodolcefarnientedp",
+    "name": "Buongiorno Dolce Far Niente",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A fragrance of light-hearted ease that comes from choosing to do nothing at all—except enjoy the sweetness of an unhurried day.",
+    "notes": [
+      "Petitgrain",
+      "Lemon",
+      "Orange",
+      "Lemon Wood",
+      "Fig Wood",
+      "Hedione",
+      "Musk",
+      "Cedarwood",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Petitgrain",
+        "Lemon",
+        "Orange"
+      ],
+      "middle": [
+        "Lemon Wood",
+        "Fig Wood",
+        "Hedione"
+      ],
+      "base": [
+        "Musk",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNODOLCEFARNIENTEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw4fbd0472/images/hi-res-1/ADPADP083148-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno-dolce-far-niente/BUONGIORNODOLCEFARNIENTEDP.html",
+    "sourceProductId": "BUONGIORNODOLCEFARNIENTEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Citrus Woody\nTop notes: Sicilian Lemon Tree Petitgrain, Sicilian Lemon, Orange\nHeart notes: Lemon Wood Accord, Fig Wood Accord, Hedione\nBase notes: Musk, Virginian Cedarwood, Cistus Absolute",
+    "olfactiveFamily": "Citrus Woody",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Sicilian Lemon Tree Petitgrain",
+        "Sicilian Lemon",
+        "Orange"
+      ],
+      "middle": [
+        "Lemon Wood Accord",
+        "Fig Wood Accord",
+        "Hedione"
+      ],
+      "base": [
+        "Musk",
+        "Virginian Cedarwood",
+        "Cistus Absolute"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornobuonanottedp",
+    "name": "Buongiorno Buonanotte",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A delicate and enveloping fragrance that marks the end of a night filled with shared laughter and spontaneous joy when buongiorno and buonanotte blur into a single moment.",
+    "notes": [
+      "Bergamot",
+      "Olibanum",
+      "Pink Pepper",
+      "Orris",
+      "Guaiac Wood",
+      "Musk",
+      "Cedarwood",
+      "Cashmere Wood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Olibanum",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Orris",
+        "Guaiac Wood"
+      ],
+      "base": [
+        "Musk",
+        "Cedarwood",
+        "Cashmere Wood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNOBUONANOTTEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwa1653356/images/hi-res-1/ADPADP083144-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno-buonanotte/BUONGIORNOBUONANOTTEDP.html",
+    "sourceProductId": "BUONGIORNOBUONANOTTEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Woody Musky\nTop notes: Calabrian Bergamot, Olibanum, Pink Pepper\nHeart notes: Orris Pallida Concrete, Gaiacwood\nBase notes: Musk, Virginian Cedarwood, Cashmere wood Accord",
+    "olfactiveFamily": "Woody Musky",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot",
+        "Olibanum",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Orris Pallida Concrete",
+        "Gaiacwood"
+      ],
+      "base": [
+        "Musk",
+        "Virginian Cedarwood",
+        "Cashmere wood Accord"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornogiocodeldestinoedp",
+    "name": "Buongiorno Gioco Del Destino",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An addictive and enveloping fragrance that evokes the rush of something unexpected, wrapping the senses in exuberance.",
+    "notes": [
+      "Orange",
+      "Mandarin",
+      "Lemon",
+      "Bran Wheat",
+      "Ginger",
+      "Benzoin Gum",
+      "Musk",
+      "Sandalwood",
+      "Peru Balsam"
+    ],
+    "noteGroups": {
+      "top": [
+        "Orange",
+        "Mandarin",
+        "Lemon"
+      ],
+      "middle": [
+        "Bran Wheat",
+        "Ginger",
+        "Benzoin Gum"
+      ],
+      "base": [
+        "Musk",
+        "Sandalwood",
+        "Peru Balsam"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNOGIOCODELDESTINOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwe5fceaaf/images/hi-res-1/ADPADP083152-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno-gioco-del-destino/BUONGIORNOGIOCODELDESTINOEDP.html",
+    "sourceProductId": "BUONGIORNOGIOCODELDESTINOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Neo Gourmand\nTop notes: Sweet Orange, Italian Green Mandarin, Italian Yellow Mandarin, Sicilian Lemon\nHeart notes: Bran Wheat Absolute, Ginger, Benzoin gum\nBase notes: Musk, Sandalwood, Peru Balsam Resinoid",
+    "olfactiveFamily": "Neo Gourmand",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Sweet Orange",
+        "Italian Green Mandarin",
+        "Italian Yellow Mandarin",
+        "Sicilian Lemon"
+      ],
+      "middle": [
+        "Bran Wheat Absolute",
+        "Ginger",
+        "Benzoin gum"
+      ],
+      "base": [
+        "Musk",
+        "Sandalwood",
+        "Peru Balsam Resinoid"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornoalbacioedp",
+    "name": "Buongiorno Al Bacio",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A radiant dewy fragrance that evokes the gentle intimacy of a morning kiss—an affectionate spark that awakens the senses and welcomes a new day.",
+    "notes": [
+      "Bergamot",
+      "Rosemary",
+      "Petitgrain",
+      "Orange Blossom",
+      "Neroli",
+      "Angelica",
+      "Musk",
+      "White Woods",
+      "Co-Distillation Virginia Cedarwood & Olibanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Rosemary",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Orange Blossom",
+        "Neroli",
+        "Angelica"
+      ],
+      "base": [
+        "Musk",
+        "White Woods",
+        "Co-Distillation Virginia Cedarwood & Olibanum"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNOALBACIOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw320e2ec7/images/hi-res-1/ADPADP083409-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno-al-bacio/BUONGIORNOALBACIOEDP.html",
+    "sourceProductId": "BUONGIORNOALBACIOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Woody Musky\nTop notes: Calabrian Bergamot, Rosemary, Petitgrain\nHeart notes: Orange Flower Water Absolute, Neroli, Angelica\nBase notes: Musk, White wood Accord, Co-distillation Virginia Cedarwood & Olibanum extract",
+    "olfactiveFamily": "Woody Musky",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot",
+        "Rosemary",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Orange Flower Water Absolute",
+        "Neroli",
+        "Angelica"
+      ],
+      "base": [
+        "Musk",
+        "White wood Accord",
+        "Co-distillation Virginia Cedarwood & Olibanum extract"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornoamoremioedp",
+    "name": "Buongiorno Amore Mio",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A pure and bright fragrance that radiates the gentle clarity of early light, echoing the cheerful feeling of a fresh new day.",
+    "notes": [
+      "Bergamot",
+      "Aldehydes",
+      "Fresh Cotton",
+      "Orris",
+      "Hedione",
+      "Musk",
+      "Ambrette",
+      "Ambroxan"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Aldehydes"
+      ],
+      "middle": [
+        "Fresh Cotton",
+        "Orris",
+        "Hedione"
+      ],
+      "base": [
+        "Musk",
+        "Ambrette",
+        "Ambroxan"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNOAMOREMIOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw26877133/images/hi-res-1/ADPADP083327-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno-amore-mio/BUONGIORNOAMOREMIOEDP.html",
+    "sourceProductId": "BUONGIORNOAMOREMIOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Floral Musky\nTop notes: Calabrian Bergamot, Aldehydes\nHeart notes: Fresh Cotton Accord, Orris Pallida Butter, Hedione\nBase notes: Musk, Ambrette Butter, Ambroxe",
+    "olfactiveFamily": "Floral Musky",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot",
+        "Aldehydes"
+      ],
+      "middle": [
+        "Fresh Cotton Accord",
+        "Orris Pallida Butter",
+        "Hedione"
+      ],
+      "base": [
+        "Musk",
+        "Ambrette Butter",
+        "Ambroxe"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-buongiornoedp",
+    "name": "Buongiorno",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A fragrance with a fresh and sparkling character, Buongiorno captures the thrills of new beginnings inspired by the arrival of spring in the Tuscan hills. Evoking the uplifting freshness and vitality of the season through the essence of the co-distillation of basil and petitgrain, the scent is an ode to being Italian where beauty is found even in the smallest things.",
+    "notes": [
+      "Lemon",
+      "Spearmint",
+      "Rosemary",
+      "Codistillation Basil & Petitgrain Essences",
+      "Lavandin",
+      "Mandarin Leaves",
+      "Cedarwood",
+      "Amber",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Spearmint",
+        "Rosemary",
+        "Codistillation Basil & Petitgrain Essences"
+      ],
+      "middle": [
+        "Lavandin",
+        "Mandarin Leaves"
+      ],
+      "base": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Buongiorno",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BUONGIORNOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw54e0725b/images/hi-res-1/ADPADP083126-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/buongiorno/BUONGIORNOEDP.html",
+    "sourceProductId": "BUONGIORNOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Citrus Aromatic Green\nTop notes: Lemon Essence, Spearmint Essence​, Rosemary Essence​, Codistillation Basil & Petitgrain essences​\nHeart notes: Lavandin Essence​, ​​Mandarin Leaves Accord​\nBase notes: Cedarwood Leaves Essence​, Amber Accord​, White Musks Accord",
+    "olfactiveFamily": "Citrus Aromatic Green",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP083125",
+        "name": "EAU DE PARFUM BUONGIORNO",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/buongiorno/BUONGIORNOEDP.html?dwvar_BUONGIORNOEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083128",
+        "name": "EAU DE PARFUM BUONGIORNO",
+        "size": "500ML",
+        "url": "https://www.acquadiparma.com/en/kr/buongiorno/BUONGIORNOEDP.html?dwvar_BUONGIORNOEDP_size=500ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082485",
+        "name": "EAU DE PARFUM BUONGIORNO",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/buongiorno/BUONGIORNOEDP.html?dwvar_BUONGIORNOEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Lemon Essence",
+        "Spearmint Essence",
+        "Rosemary Essence",
+        "Codistillation Basil & Petitgrain essences"
+      ],
+      "middle": [
+        "Lavandin Essence",
+        "Mandarin Leaves Accord"
+      ],
+      "base": [
+        "Cedarwood Leaves Essence",
+        "Amber Accord",
+        "White Musks Accord"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-cedroedp",
+    "name": "Cedro Virtuoso",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "Cedro Virtuoso celebrates the sensorial warmth of creation—the moment when an idea begins to take shape and inner confidence turns sensibility into emotion. Like the different stages of a creative process, the fragrance unfolds like a warm embrace, encouraging creativity to rise from within. Between vivid, vibrant notes and deeper, cocooning tones that accompany the journey from intuition to realization is the fragrance’s distinctive singularity: a co-infusion of Virginia cedarwood and hazelnut, whose encounter shapes a creamy woody signature.",
+    "notes": [
+      "Cedarwood, Virginia and Hazelnut, Co-Infusion",
+      "Bergamot",
+      "Musk",
+      "Cedarwood",
+      "Tonka Bean",
+      "Sandalwood",
+      "Ambroxan"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cedarwood, Virginia and Hazelnut, Co-Infusion",
+        "Bergamot",
+        "Musk"
+      ],
+      "middle": [
+        "Cedarwood"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Sandalwood",
+        "Ambroxan"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/CEDROEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw2ddda218/images/hi-res-1/ADPADP083495-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/cedro-virtuoso/CEDROEDP.html",
+    "sourceProductId": "CEDROEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Woody Gourmand\nTOP\nCedarwood, Virginia And Hazelnut, Co-Infusion Calabrian Bergamot, Musk\nHEART\nCedarwood Atlas, Cedarwood Alaska\nBASE\nTonka Bean Absolute, Sandalwood, Ambrox®",
+    "olfactiveFamily": "Woody Gourmand",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP083496",
+        "name": "Eau De Parfum  Signatures of the Sun Cedro Virtuoso",
+        "size": "100ML",
+        "url": "https://www.acquadiparma.com/en/kr/cedro-virtuoso/CEDROEDP.html?dwvar_CEDROEDP_size=100ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083497",
+        "name": "Eau De Parfum  Signatures of the Sun Cedro Virtuoso",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/cedro-virtuoso/CEDROEDP.html?dwvar_CEDROEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [
+      "official-note-phrasing-needs-qc"
+    ],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Cedarwood, Virginia And Hazelnut, Co-Infusion",
+        "Calabrian Bergamot",
+        "Musk"
+      ],
+      "middle": [
+        "Cedarwood Atlas",
+        "Cedarwood Alaska"
+      ],
+      "base": [
+        "Tonka Bean Absolute",
+        "Sandalwood",
+        "Ambrox®"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-oudambrosia",
+    "name": "Oud Ambrosia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Extrait De Parfum",
+    "description": "Oud Ambrosia is a meeting of worlds—Italian exuberance intertwined with Arabic magnetic warmth, captured in a single, immersive signature. Conceived as a true ambrosia, a nectar of heightened concentration, the composition magnifies every nuance. Richer and more enveloping, it settles on the skin with warmth and enveloping comfort.",
+    "notes": [
+      "Blood Orange",
+      "Papaya",
+      "Clementine",
+      "Passion Fruit",
+      "Patchouli",
+      "Saffron",
+      "Oud",
+      "Violet Leaf",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Blood Orange",
+        "Papaya",
+        "Clementine"
+      ],
+      "middle": [
+        "Passion Fruit",
+        "Patchouli",
+        "Saffron"
+      ],
+      "base": [
+        "Oud",
+        "Violet Leaf",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/OUDAMBROSIA.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwdfa6a37d/images/hi-res-1/ADPADP083516-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/oud-ambrosia/OUDAMBROSIA.html",
+    "sourceProductId": "OUDAMBROSIA",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Woody Fruity\nTop Notes: Italian Blood Orange , Papaya Accord,  Clementine\nHeart Notes: Passion Fruit, Patchouli Gayo, Saffron Accord\nBase Notes: Oud Butter. Violet Leaf Accord, Musk",
+    "olfactiveFamily": "Woody Fruity",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Blood Orange",
+        "Papaya Accord",
+        "Clementine"
+      ],
+      "middle": [
+        "Passion Fruit",
+        "Patchouli Gayo",
+        "Saffron Accord"
+      ],
+      "base": [
+        "Oud Butter",
+        "Violet Leaf Accord",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-zafferanoedp",
+    "name": "Zafferano",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An unexpected and vibrant fragrance, Zafferano combines warm and dry notes of saffron with luminous notes of Italian golden fruits in an exquisite experience that unfolds over time.",
+    "notes": [
+      "Mandarin",
+      "Bergamot",
+      "Coriander",
+      "Orange",
+      "Jasmine",
+      "Geranium",
+      "Rose",
+      "Saffron",
+      "Orange Blossom",
+      "Vanilla",
+      "Tonka Bean",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Bergamot",
+        "Coriander",
+        "Orange"
+      ],
+      "middle": [
+        "Jasmine",
+        "Geranium",
+        "Rose",
+        "Saffron",
+        "Orange Blossom"
+      ],
+      "base": [
+        "Vanilla",
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ZAFFERANOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw67fad105/images/hi-res-1/ADPADP083013-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/zafferano/ZAFFERANOEDP.html",
+    "sourceProductId": "ZAFFERANOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Ambery Woody Top Notes: Mandarine, Bergamot, Coriander, Orange Heart Notes: Jasmine Sambac, Geranium, Rose, Saffron, Orange Blossom Base Notes: Vaniglia, Tonka Bean, Patchouli",
+    "olfactiveFamily": "Ambery Woody Top Notes: Mandarine, Bergamot, Coriander, Orange Heart Notes: Jasmine Sambac, Geranium, Rose, Saffron, Orange Blossom Base Notes: Vaniglia, Tonka Bean, Patchouli",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081336",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Zafferano",
+        "size": "20ML",
+        "url": "https://www.acquadiparma.com/en/kr/zafferano/ZAFFERANOEDP.html?dwvar_ZAFFERANOEDP_size=20ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP081909",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Zafferano",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/zafferano/ZAFFERANOEDP.html?dwvar_ZAFFERANOEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083014",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Zafferano",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/zafferano/ZAFFERANOEDP.html?dwvar_ZAFFERANOEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Mandarin",
+        "Bergamot",
+        "Coriander",
+        "Orange"
+      ],
+      "middle": [
+        "Jasmine Sambac",
+        "Geranium",
+        "Rose",
+        "Saffron",
+        "Orange Blossom"
+      ],
+      "base": [
+        "Vanilla",
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-zafferanoambrosiaedp",
+    "name": "Zafferano Ambrosia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Extrait De Parfum",
+    "description": "Inspired by the mythical elixir of the gods, Zafferano Ambrosia is a fragrance that captures the essence of eternity—an unmistakable composition defined by its intensity and greater concentration.",
+    "notes": [
+      "Mandarin",
+      "Bergamot",
+      "Ginger",
+      "Saffron",
+      "Orange Blossom",
+      "Jasmine",
+      "Vanilla",
+      "Patchouli",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Bergamot",
+        "Ginger"
+      ],
+      "middle": [
+        "Saffron",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "base": [
+        "Vanilla",
+        "Patchouli",
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ZAFFERANOAMBROSIAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw3cd17b9b/images/hi-res-1/ADPADP082757-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/zafferano-ambrosia/ZAFFERANOAMBROSIAEDP.html",
+    "sourceProductId": "ZAFFERANOAMBROSIAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Floramber Spicy\nTop Notes: Italian Red Mandarin, Calabrian Bergamot, Ginger\nHeart Notes: Saffron, Orange Flower, Jasmine Sambac\nBase Notes: Vanilla, Patchouli, Amber accord",
+    "olfactiveFamily": "Floramber Spicy",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Red Mandarin",
+        "Calabrian Bergamot",
+        "Ginger"
+      ],
+      "middle": [
+        "Saffron",
+        "Orange Flower",
+        "Jasmine Sambac"
+      ],
+      "base": [
+        "Vanilla",
+        "Patchouli",
+        "Amber accord"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-gelsominoedp",
+    "name": "Gelsomino A Freddo",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A vibrant and bold fragrance, Gelsomino a Freddo is crafted from the ancient technique of cold enfleurage, a thorough and time-consuming process that gently captures the purest olfactive essence of jasmine.",
+    "notes": [
+      "Lemon",
+      "Pink Pepper",
+      "Artemesia",
+      "Jasmine",
+      "Black Tea",
+      "Orris",
+      "Guaiac Wood",
+      "Patchouli",
+      "Cypriol"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Pink Pepper",
+        "Artemesia"
+      ],
+      "middle": [
+        "Jasmine",
+        "Black Tea",
+        "Orris"
+      ],
+      "base": [
+        "Guaiac Wood",
+        "Patchouli",
+        "Cypriol"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/GELSOMINOEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwe2fdec5a/images/hi-res-1/ADPADP082744-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/gelsomino-a-freddo/GELSOMINOEDP.html",
+    "sourceProductId": "GELSOMINOEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Floral Woody\nTop notes: Italian Lemon Essence, Pink Pepper Essence, Artemesia Essence\nHeart notes: Jasmine Enfleurage Essence, Black Tea Essence, Orris concrete\nBottom notes: Gaiacwood Essence, Patchouli Fraction Essence, Cypriol Essence",
+    "olfactiveFamily": "Floral Woody",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082743",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Gelsomino a Freddo",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/gelsomino-a-freddo/GELSOMINOEDP.html?dwvar_GELSOMINOEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082745",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Gelsomino a Freddo",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/gelsomino-a-freddo/GELSOMINOEDP.html?dwvar_GELSOMINOEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Lemon Essence",
+        "Pink Pepper Essence",
+        "Artemesia Essence"
+      ],
+      "middle": [
+        "Jasmine Enfleurage Essence",
+        "Black Tea Essence",
+        "Orris concrete"
+      ],
+      "base": [
+        "Gaiacwood Essence",
+        "Patchouli Fraction Essence",
+        "Cypriol Essence"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-gelsominoambrosiaedp",
+    "name": "Gelsomino A Freddo Ambrosia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Extrait De Parfum",
+    "description": "Inspired by the mythical elixir of the gods, Gelsomino a Freddo Ambrosia is a fragrance crafted from the ancient technique of cold enfleurage that captures the essence of eternity—an unmistakable composition defined by its intensity and greater concentration.",
+    "notes": [
+      "Cardamom",
+      "Lemon",
+      "Olibanum",
+      "Jasmine",
+      "Black Tea",
+      "Orris",
+      "Myrrh",
+      "Sandalwood",
+      "Vetiver",
+      "Cedarwood",
+      "Guaiac Wood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cardamom",
+        "Lemon",
+        "Olibanum"
+      ],
+      "middle": [
+        "Jasmine",
+        "Black Tea",
+        "Orris",
+        "Myrrh"
+      ],
+      "base": [
+        "Sandalwood",
+        "Vetiver",
+        "Cedarwood",
+        "Guaiac Wood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/GELSOMINOAMBROSIAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwc2122806/images/hi-res-1/ADPADP082755-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/gelsomino-a-freddo-ambrosia/GELSOMINOAMBROSIAEDP.html",
+    "sourceProductId": "GELSOMINOAMBROSIAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Woody Floral\nTop Notes: Cardamom, Italian Lemon, Olibanum\nHeart Notes: Jasmine Enfleurage Extract, Black Tea, Orris, Myrrh\nBase Notes: Sandalwood, Vetiver, Cedarwood, Gaiacwood",
+    "olfactiveFamily": "Woody Floral",
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Cardamom",
+        "Italian Lemon",
+        "Olibanum"
+      ],
+      "middle": [
+        "Jasmine Enfleurage Extract",
+        "Black Tea",
+        "Orris",
+        "Myrrh"
+      ],
+      "base": [
+        "Sandalwood",
+        "Vetiver",
+        "Cedarwood",
+        "Gaiacwood"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-oudedpspray",
+    "name": "Oud",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A precious and intense fragrance, Oud captures the rare essence of agarwood, where its complexity contrasts with Acqua di Parma’s signature citrus notes.",
+    "notes": [
+      "Bergamot",
+      "Orange",
+      "Amyris",
+      "Coriander",
+      "Oud",
+      "Cedarwood",
+      "Leather",
+      "Patchouli",
+      "Sandalwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange"
+      ],
+      "middle": [
+        "Amyris",
+        "Coriander",
+        "Oud"
+      ],
+      "base": [
+        "Cedarwood",
+        "Leather",
+        "Patchouli",
+        "Sandalwood",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/OUDEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwcd0cfbfd/images/hi-res-1/ADPADP082999-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/oud/OUDEDPSPRAY.html",
+    "sourceProductId": "OUDEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "\"\"\"Olfactive Family: Woody Top: Bergamot, Orange Heart: Haitian Amyris Oil, Russian Coriander, Agarwood Oil (Oud) Base: Cedarwood, Leather Accord, Patchouli Oil, Sandalwood, Musk\"\"\"",
+    "olfactiveFamily": "Woody Top: Bergamot, Orange Heart: Haitian Amyris Oil, Russian Coriander, Agarwood Oil (Oud) Base: Cedarwood, Leather Accord, Patchouli Oil, Sandalwood, Musk\"\"\"",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081906",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Oud",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/oud/OUDEDPSPRAY.html?dwvar_OUDEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083000",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Oud",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/oud/OUDEDPSPRAY.html?dwvar_OUDEDPSPRAY_size=180ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083001",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Oud",
+        "size": "500ML",
+        "url": "https://www.acquadiparma.com/en/kr/oud/OUDEDPSPRAY.html?dwvar_OUDEDPSPRAY_size=500ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange"
+      ],
+      "middle": [
+        "Haitian Amyris Oil",
+        "Russian Coriander",
+        "Agarwood Oil (Oud)"
+      ],
+      "base": [
+        "Cedarwood",
+        "Leather Accord",
+        "Patchouli Oil",
+        "Sandalwood",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-oudspiceedp",
+    "name": "Oud & Spice",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A fragrance that unfolds like an unexpected discovery, Oud & Spice combines rare agarwood with vibrant spices and citrus brightness in an olfactory play of distinct sensations.",
+    "notes": [
+      "Bergamot",
+      "Raspberry",
+      "Rose",
+      "Cinnamon",
+      "Pink Pepper",
+      "Clove",
+      "Oud",
+      "Patchouli",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Raspberry",
+        "Rose"
+      ],
+      "middle": [
+        "Cinnamon",
+        "Pink Pepper",
+        "Clove"
+      ],
+      "base": [
+        "Oud",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/OUDSPICEEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dweb26d4b6/images/hi-res-1/ADPADP083009-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/oud-spice/OUDSPICEEDP.html",
+    "sourceProductId": "OUDSPICEEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "\"Olfactive Family: Spicy Woody\nHead Notes: Bergamot, Raspberry, Rose\nHeart Notes: Cinnamon, Pink Pepper, Cloves\nBase Notes: Agarwood Oil, Pathouli, Cisto Labdanum\"",
+    "olfactiveFamily": "Spicy Woody",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081908",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Oud & Spice",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/oud-spice/OUDSPICEEDP.html?dwvar_OUDSPICEEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083010",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Oud & Spice",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/oud-spice/OUDSPICEEDP.html?dwvar_OUDSPICEEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Raspberry",
+        "Rose"
+      ],
+      "middle": [
+        "Cinnamon",
+        "Pink Pepper",
+        "Cloves"
+      ],
+      "base": [
+        "Agarwood Oil",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-querciaedpspray",
+    "name": "Quercia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A statuesque fragrance, Quercia evokes a morning walk through a magnificent forest of oak trees where the mysterious green scent in the air inspires a luminous yet earthy sensation.",
+    "notes": [
+      "Lemon",
+      "Bergamot",
+      "Petitgrain",
+      "Pink Pepper",
+      "Cardamom",
+      "Geranium",
+      "Cedarwood",
+      "Tonka Bean",
+      "Patchouli",
+      "Oakmoss"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Bergamot",
+        "Petitgrain",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Cardamom",
+        "Geranium",
+        "Cedarwood"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Patchouli",
+        "Oakmoss"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/QUERCIAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw08b9e060/images/hi-res-1/ADPADP083005-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/quercia/QUERCIAEDPSPRAY.html",
+    "sourceProductId": "QUERCIAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Woody Aromatic\nTop Notes:Lemon, Bergamot, Petitgrain, Pink Pepper\nHeart Notes: Cardamom, Geranium, Cedarwood\nBase Notes:Tonka Bean, Patchouli, Oakmoss",
+    "olfactiveFamily": "Woody Aromatic",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081905",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Quercia",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/quercia/QUERCIAEDPSPRAY.html?dwvar_QUERCIAEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083006",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Quercia",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/quercia/QUERCIAEDPSPRAY.html?dwvar_QUERCIAEDPSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Lemon",
+        "Bergamot",
+        "Petitgrain",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Cardamom",
+        "Geranium",
+        "Cedarwood"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Patchouli",
+        "Oakmoss"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-sandaloedpspray",
+    "name": "Sandalo",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An aromatic and opulent fragrance, Sandalo reveals the creamy richness of sandalwood from New Caledonia, one of perfumery’s most precious woods known for its velvety texture and enveloping depth.",
+    "notes": [
+      "Bergamot",
+      "Lemon",
+      "Orange",
+      "Petitgrain",
+      "Lavender",
+      "Cardamom",
+      "Sandalwood",
+      "Amber",
+      "Tonka Bean"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Lemon",
+        "Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Lavender",
+        "Cardamom"
+      ],
+      "base": [
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/SANDALOEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw41e0b992/images/hi-res-1/ADPADP083007-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/sandalo/SANDALOEDPSPRAY.html",
+    "sourceProductId": "SANDALOEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Woody Aromatic Top Notes:Bergamot, Lemon, Orange, Petitgrain Heart Notes: Lavender, Cardamom Base Notes: Sandalwood, Amber, Tonka Bean",
+    "olfactiveFamily": "Woody Aromatic Top Notes:Bergamot, Lemon, Orange, Petitgrain Heart Notes: Lavender, Cardamom Base Notes: Sandalwood, Amber, Tonka Bean",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081907",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Sandalo",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/sandalo/SANDALOEDPSPRAY.html?dwvar_SANDALOEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083008",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Sandalo",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/sandalo/SANDALOEDPSPRAY.html?dwvar_SANDALOEDPSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Lemon",
+        "Orange",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Lavender",
+        "Cardamom"
+      ],
+      "base": [
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-lucedirosaedp",
+    "name": "Luce Di Rosa",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "Sculpted by light, Luce di Rosa is a contrasting and dynamic fragrance whose vibrant, clean, and bright notes are reminiscent of a symphony that alternates between piano and forte, adagio and vivace.",
+    "notes": [
+      "Bergamot",
+      "Longoza",
+      "Pink Pepper",
+      "Rose",
+      "Geranium",
+      "Black Pepper",
+      "Vetiver",
+      "Guaiac Wood",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Longoza",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Rose",
+        "Geranium",
+        "Black Pepper"
+      ],
+      "base": [
+        "Vetiver",
+        "Guaiac Wood",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/LUCEDIROSAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwe4ae1325/images/hi-res-1/ADPADP083016-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/luce-di-rosa/LUCEDIROSAEDP.html",
+    "sourceProductId": "LUCEDIROSAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "\"Olfactive Family: Floral Woody Rose\nTop Notes: Bergamot, Longoza Oil, Pink Pepper\nHeart Notes: Rose Bulgaria Oil, Geranium, Fresh Black Pepper\nBottom Notes: Vetiver Oil, Gaiac Wood, Cedarwood\"",
+    "olfactiveFamily": "Floral Woody Rose",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081919",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN LUCE DI ROSA",
+        "size": "20ML",
+        "url": "https://www.acquadiparma.com/en/kr/luce-di-rosa/LUCEDIROSAEDP.html?dwvar_LUCEDIROSAEDP_size=20ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083015",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Luce di Rosa",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/luce-di-rosa/LUCEDIROSAEDP.html?dwvar_LUCEDIROSAEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083017",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Luce di Rosa",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/luce-di-rosa/LUCEDIROSAEDP.html?dwvar_LUCEDIROSAEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Longoza Oil",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Rose Bulgaria Oil",
+        "Geranium",
+        "Black Pepper"
+      ],
+      "base": [
+        "Vetiver Oil",
+        "Gaiac Wood",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-yuzuedprp",
+    "name": "Yuzu",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A sparkling and energising fragrance, Yuzu celebrates the singular character of the yuzu, considered the rarest citrus of Japan, and one of Acqua di Parma’s selections of ‘frutti d’oro’ – our golden fruits.",
+    "notes": [
+      "Yuzu",
+      "Bergamot",
+      "Sichuan Pepper",
+      "Lotus",
+      "Mimosa",
+      "Violet Leaf",
+      "Jasmine",
+      "Musk",
+      "Liquorice",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Yuzu",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middle": [
+        "Lotus",
+        "Mimosa",
+        "Violet Leaf",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Liquorice",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/YUZUEDPRP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwc62127b9/images/hi-res-1/ADPADP082997-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/yuzu/YUZUEDPRP.html",
+    "sourceProductId": "YUZUEDPRP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nYuzu, Bergamot, Sichuan Pepper\nHeart Notes:\nLotus, Mimosa, Violet Leaves, Jasmine\nBase Notes:\nMusk, Liquorice, Sandalwood",
+    "olfactiveFamily": null,
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081910",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Yuzu",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/yuzu/YUZUEDPRP.html?dwvar_YUZUEDPRP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082998",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Yuzu",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/yuzu/YUZUEDPRP.html?dwvar_YUZUEDPRP_size=180ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "81010",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Yuzu",
+        "size": "20ML",
+        "url": "https://www.acquadiparma.com/en/kr/yuzu/YUZUEDPRP.html?dwvar_YUZUEDPRP_size=20ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Yuzu",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middle": [
+        "Lotus",
+        "Mimosa",
+        "Violet Leaves",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Liquorice",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-osmanthusedpspray",
+    "name": "Osmanthus",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A luminous and sensual fragrance, Osmanthus captures the flower’s radiant depth with citrus brightness, reflecting the rock forests of Southeast Asia where the elusive flower blooms with a rich and powerful fragrance.",
+    "notes": [
+      "Mandarin",
+      "Neroli",
+      "Peony",
+      "Pink Pepper",
+      "Ambrette",
+      "Osmanthus",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Neroli"
+      ],
+      "middle": [
+        "Peony",
+        "Pink Pepper",
+        "Ambrette"
+      ],
+      "base": [
+        "Osmanthus",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/OSMANTHUSEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw827f0e62/images/hi-res-1/ADPADP082995-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/osmanthus/OSMANTHUSEDPSPRAY.html",
+    "sourceProductId": "OSMANTHUSEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "\"Olfactive Family: Floral Fruity\nTop Notes: Green Mandarin, Neroli\nHeart Notes:  Peony, Pink Pepper, Ambrette\nBase Notes: Osmanthus, Patchouli\"",
+    "olfactiveFamily": "Floral Fruity",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "81000",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Osmanthus",
+        "size": "20ML",
+        "url": "https://www.acquadiparma.com/en/kr/osmanthus/OSMANTHUSEDPSPRAY.html?dwvar_OSMANTHUSEDPSPRAY_size=20ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP081911",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Osmanthus",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/osmanthus/OSMANTHUSEDPSPRAY.html?dwvar_OSMANTHUSEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082996",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Osmanthus",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/osmanthus/OSMANTHUSEDPSPRAY.html?dwvar_OSMANTHUSEDPSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Green Mandarin",
+        "Neroli"
+      ],
+      "middle": [
+        "Peony",
+        "Pink Pepper",
+        "Ambrette"
+      ],
+      "base": [
+        "Osmanthus",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-magnoliainfinitaedpspray",
+    "name": "Magnolia Infinita",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A fragrance that continuously surprises, Magnolia Infinita celebrates the lush petals of the grand magnolia flower flourishing in prismatic rays of light, revealing a perfume of infinite beauty that perpetually fascinates.",
+    "notes": [
+      "Bergamot",
+      "Orange",
+      "Lemon",
+      "Jasmine",
+      "Magnolia",
+      "Rose",
+      "Ylang-Ylang",
+      "Musk",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange",
+        "Lemon"
+      ],
+      "middle": [
+        "Jasmine",
+        "Magnolia",
+        "Rose",
+        "Ylang-Ylang"
+      ],
+      "base": [
+        "Musk",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MAGNOLIAINFINITAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw352e42d0/images/hi-res-1/ADPADP083011-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/magnolia-infinita/MAGNOLIAINFINITAEDPSPRAY.html",
+    "sourceProductId": "MAGNOLIAINFINITAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "\"Olfactive Family: Floral Citrus\nTop Notes: Calabrian Bergamot, Orange, Lemon\nHeart Notes: Jasmine Sambac, Magnolia, Rose, Ylang\nBase Notes: Musk, Patchouli\"",
+    "olfactiveFamily": "Floral Citrus",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081913",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Magnolia Infinita",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/magnolia-infinita/MAGNOLIAINFINITAEDPSPRAY.html?dwvar_MAGNOLIAINFINITAEDPSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083012",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN Magnolia Infinita",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/magnolia-infinita/MAGNOLIAINFINITAEDPSPRAY.html?dwvar_MAGNOLIAINFINITAEDPSPRAY_size=180ML"
+      },
+      {
+        "name": "Magnolia Infinita",
+        "sourceUrl": "https://www.acquadiparma.com/en/kr/magnolia-infinita/MAGNOLIAINFINITAEDPCNY.html",
+        "sourceProductId": "MAGNOLIAINFINITAEDPCNY",
+        "officialNotesRaw": "Olfactive Family: Floral Citrus\nTop Notes: Calabrian Bergamot, Orange, Lemon\nHeart Notes: Jasmine Sambac, Magnolia, Rose, Ylang\nBase Notes: Musk, Patchouli",
+        "kind": "size-or-packaging"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot",
+        "Orange",
+        "Lemon"
+      ],
+      "middle": [
+        "Jasmine Sambac",
+        "Magnolia",
+        "Rose",
+        "Ylang"
+      ],
+      "base": [
+        "Musk",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-lilyofthevalleyedp",
+    "name": "Lily Of The Valley",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An artistic combination of two olfactive sensations: the lively and powerful scent of Lily of the Valley enhanced by vibrant and luminous citrus notes. The scent of this delicate flower is combined with grapefruit, petit grain, a touch of blackcurrant and Italian bergamot to create an unforgettable and addictive discovery.",
+    "notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Blackcurrant",
+      "Petitgrain",
+      "Lily of the Valley",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit",
+        "Blackcurrant"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Lily of the Valley"
+      ],
+      "base": [
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/LILYOFTHEVALLEYEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw70126954/images/hi-res-1/ADPADP081121-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/lily-of-the-valley/LILYOFTHEVALLEYEDP.html",
+    "sourceProductId": "LILYOFTHEVALLEYEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "LIGHT FLORAL\nHead Notes: Bergamot, Grapefruit, Black Currant\nHeart Notes: Petitgrain, Lily of the Valley\nBase Notes: Cedarwood, Musk",
+    "olfactiveFamily": null,
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP081120",
+        "name": "Eau de Parfum Signatures of the Sun LILY OF THE VALLEY",
+        "size": "20ML",
+        "url": "https://www.acquadiparma.com/en/kr/lily-of-the-valley/LILYOFTHEVALLEYEDP.html?dwvar_LILYOFTHEVALLEYEDP_size=20ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP081122",
+        "name": "Eau de Parfum Signatures of the Sun LILY OF THE VALLEY",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/lily-of-the-valley/LILYOFTHEVALLEYEDP.html?dwvar_LILYOFTHEVALLEYEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit",
+        "Black Currant"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Lily of the Valley"
+      ],
+      "base": [
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-crystalincenseedp",
+    "name": "Crystal Incense",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A fragrance inspired by the transparency and light of Olibanum incense crystals and the warmth and depth of its essence.",
+    "notes": [
+      "Grapefruit",
+      "Black Pepper",
+      "Ginger",
+      "Cardamom",
+      "Olibanum",
+      "Cedarwood",
+      "Patchouli",
+      "Benzoin",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Grapefruit",
+        "Black Pepper",
+        "Ginger"
+      ],
+      "middle": [
+        "Cardamom",
+        "Olibanum",
+        "Cedarwood"
+      ],
+      "base": [
+        "Patchouli",
+        "Benzoin",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Signatures of the Sun",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/CRYSTALINCENSEEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwce13df09/images/hi-res-1/ADPADP082777-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/crystal-incense/CRYSTALINCENSEEDP.html",
+    "sourceProductId": "CRYSTALINCENSEEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "OLFACTIVE FAMILY: Woody spicy\nTop Notes: Grapefruit oil, Pepper black Madagascar oil, ginger oil\nHeart Notes: Cardamom oil, olibanum co2. Cedarwood Atlas oil\nBase Notes: Patchouli, Benzoin Siam, Musk",
+    "olfactiveFamily": "Woody spicy",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082778",
+        "name": "EAU DE PARFUM SIGNATURES OF THE SUN CRYSTAL INCENSE",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/crystal-incense/CRYSTALINCENSEEDP.html?dwvar_CRYSTALINCENSEEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Grapefruit oil",
+        "Black Pepper",
+        "ginger oil"
+      ],
+      "middle": [
+        "Cardamom oil",
+        "olibanum co2",
+        "Cedarwood Atlas oil"
+      ],
+      "base": [
+        "Patchouli",
+        "Benzoin Siam",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-bergamottolaspugnaturaedp",
+    "name": "Bergamotto La Spugnatura",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "A precious limited-edition Eau de Parfum crafted from the ancient La Spugnatura technique, featuring a soft rounded bottle cap with a hand-finished organic effect.  Designed by Laura Gonzalez, it is inspired by La Caletta — an ode to independence, the freedom of choosing one’s own rhythm, and finding elegance in restraint and gestures that are unmistakably authentic.",
+    "notes": [
+      "Bergamot",
+      "Mandarin",
+      "Bitter Orange",
+      "Grapefruit",
+      "Geranium",
+      "Galbanum",
+      "Cedarwood",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Mandarin",
+        "Bitter Orange",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Geranium",
+        "Galbanum"
+      ],
+      "base": [
+        "Cedarwood",
+        "Vetiver"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BERGAMOTTOLASPUGNATURAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw288c27f5/images/hi-res-1/ADPADP083372-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/bergamotto-la-spugnatura /BERGAMOTTOLASPUGNATURAEDP.html",
+    "sourceProductId": "BERGAMOTTOLASPUGNATURAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Fragrance Family: Citrus\nHead Notes: Bergamotto \"Spugnato\" DOP, Mandarin, Bitter Orange, Grapefruit\nHeart Notes: Geranium, Galbanum\nBase Notes: Cedrwood, Vetiver",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamotto \"Spugnato\" DOP",
+        "Mandarin",
+        "Bitter Orange",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Geranium",
+        "Galbanum"
+      ],
+      "base": [
+        "Cedarwood",
+        "Vetiver"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ficodiamalfilariservaedp",
+    "name": "Fico Di Amalfi La Riserva",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An intense and multi-nuanced fragrance from a two-month maceration process, in an ode to the rich aroma of fig pulp which meets the unmistakable vibrancy of lemon, elements distinctive to the Amalfi coast.",
+    "notes": [
+      "Mandarin",
+      "Blood Orange",
+      "Grapefruit",
+      "Lemon",
+      "Orris",
+      "Infusion of Fig and Lemon",
+      "Fig Pulp",
+      "Tonka Bean",
+      "Ambrettolide",
+      "Ambroxan"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Blood Orange",
+        "Grapefruit",
+        "Lemon"
+      ],
+      "middle": [
+        "Orris",
+        "Infusion of Fig and Lemon",
+        "Fig Pulp"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Ambrettolide",
+        "Ambroxan"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/FICODIAMALFILARISERVAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwb924f691/images/hi-res-1/ADPADP082588-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/fico-di-amalfi-la-riserva/FICODIAMALFILARISERVAEDP.html",
+    "sourceProductId": "FICODIAMALFILARISERVAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Citrus Green\nTop notes: Italian Mandarin Essence, Italian Blood Orange Essence, Grapefruit Essence, Lemon Essence\nHeart notes: Orris Concentré, Infusion of Fig and Lemon, Fig Pulp Accord\nBottom notes: Tonka Beans Absolute, Ambrettolide, Orcanox",
+    "olfactiveFamily": "Citrus Green",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082587",
+        "name": "EAU DE PARFUM Blu Mediterraneo Fico di Amalfi La Riserva",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/fico-di-amalfi-la-riserva/FICODIAMALFILARISERVAEDP.html?dwvar_FICODIAMALFILARISERVAEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082589",
+        "name": "EAU DE PARFUM Blu Mediterraneo Fico di Amalfi La Riserva",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/fico-di-amalfi-la-riserva/FICODIAMALFILARISERVAEDP.html?dwvar_FICODIAMALFILARISERVAEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Mandarin Essence",
+        "Italian Blood Orange Essence",
+        "Grapefruit Essence",
+        "Lemon Essence"
+      ],
+      "middle": [
+        "Orris Concentré",
+        "Infusion of Fig and Lemon",
+        "Fig Pulp Accord"
+      ],
+      "base": [
+        "Tonka Beans Absolute",
+        "Ambrettolide",
+        "Orcanox"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-aranciadicaprilariservaedp",
+    "name": "Arancia Di Capri La Riserva",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An intense and multi-nuanced fragrance from a two-month maceration process, evoking the succulent sensation of a freshly hand-peeled ripe orange on a breezy morning with hints of wild rosemary.",
+    "notes": [
+      "Blood Orange",
+      "Mandarin",
+      "Petitgrain",
+      "Rosemary",
+      "Basil",
+      "Mineral Notes",
+      "Cedarwood",
+      "Ambrettolide",
+      "Suede"
+    ],
+    "noteGroups": {
+      "top": [
+        "Blood Orange",
+        "Mandarin",
+        "Petitgrain"
+      ],
+      "middle": [
+        "Rosemary",
+        "Basil",
+        "Mineral Notes"
+      ],
+      "base": [
+        "Cedarwood",
+        "Ambrettolide",
+        "Suede"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ARANCIADICAPRILARISERVAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwcafe9973/images/hi-res-1/ADPADP082585-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/arancia-di-capri-la-riserva/ARANCIADICAPRILARISERVAEDP.html",
+    "sourceProductId": "ARANCIADICAPRILARISERVAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Citrus Aromatic\nTop notes: Italian Blood Orange Essence, Mandarin Essence, Petitgrain Bigarade Essence\nHeart notes: Rosemary Essence, Italian Basil Essence, Salty Mineral Accord\nBottom notes: Cedarwood Essence, Ambrettolide, Suede Accord",
+    "olfactiveFamily": "Citrus Aromatic",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082584",
+        "name": "EAU DE PARFUM Blu Mediterraneo Arancia di Capri La Riserva",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/arancia-di-capri-la-riserva/ARANCIADICAPRILARISERVAEDP.html?dwvar_ARANCIADICAPRILARISERVAEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082586",
+        "name": "EAU DE PARFUM Blu Mediterraneo Arancia di Capri La Riserva",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/arancia-di-capri-la-riserva/ARANCIADICAPRILARISERVAEDP.html?dwvar_ARANCIADICAPRILARISERVAEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Blood Orange Essence",
+        "Mandarin Essence",
+        "Petitgrain Bigarade Essence"
+      ],
+      "middle": [
+        "Rosemary Essence",
+        "Italian Basil Essence",
+        "Salty Mineral Accord"
+      ],
+      "base": [
+        "Cedarwood Essence",
+        "Ambrettolide",
+        "Suede Accord"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-mirtodipanarealariservaedp",
+    "name": "Mirto Di Panarea La Riserva",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "An intense and multi-nuanced fragrance from a 2-month maceration process, where rich myrtle and lavender essences interweave with the resinous warmth of myrrh and labdanum.",
+    "notes": [
+      "Cedrat",
+      "Sage",
+      "Juniper",
+      "Myrtle",
+      "Lavender",
+      "Myrrh",
+      "Patchouli",
+      "Labdanum",
+      "Mastic"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cedrat",
+        "Sage",
+        "Juniper"
+      ],
+      "middle": [
+        "Myrtle",
+        "Lavender",
+        "Myrrh"
+      ],
+      "base": [
+        "Patchouli",
+        "Labdanum",
+        "Mastic"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MIRTODIPANAREALARISERVAEDP.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwf413043b/images/hi-res-1/ADPADP082591-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/mirto-di-panarea-la-riserva/MIRTODIPANAREALARISERVAEDP.html",
+    "sourceProductId": "MIRTODIPANAREALARISERVAEDP",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Citrus Aromatic\nTop notes: Cedrat Essence, Sage Essence, Juniper Berries Essence\nHeart notes: Myrtle Essence, Lavender Essence, Myrrh Absolute\nBottom notes: Patchouli Fraction, Labdanum Absolute, Lentiscus Absolute",
+    "olfactiveFamily": "Citrus Aromatic",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082590",
+        "name": "EAU DE PARFUM Blu Mediterraneo Mirto di Panarea La Riserva",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/mirto-di-panarea-la-riserva/MIRTODIPANAREALARISERVAEDP.html?dwvar_MIRTODIPANAREALARISERVAEDP_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082592",
+        "name": "EAU DE PARFUM Blu Mediterraneo Mirto di Panarea La Riserva",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/mirto-di-panarea-la-riserva/MIRTODIPANAREALARISERVAEDP.html?dwvar_MIRTODIPANAREALARISERVAEDP_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Cedrat Essence",
+        "Sage Essence",
+        "Juniper Berries Essence"
+      ],
+      "middle": [
+        "Myrtle Essence",
+        "Lavender Essence",
+        "Myrrh Absolute"
+      ],
+      "base": [
+        "Patchouli Fraction",
+        "Labdanum Absolute",
+        "Lentiscus Absolute"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-mandarinoedt",
+    "name": "Mandarino Di Sicilia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Blu Mediterraneo Mandarino di Sicilia is a fragrance inspired by Sicily's sun-drenched landscapes, where architecture and culture merge with nature's splendor, encapsulating the Italian Arte di Vivere as a state of mind. The fragrance blends fresh, green notes of mandarin with a heart of Italian citrus, creating a lively and refreshing sensation.",
+    "notes": [
+      "Mandarin",
+      "Bergamot",
+      "Lemon",
+      "Blood Orange",
+      "Petitgrain",
+      "Spearmint",
+      "Patchouli",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Bergamot",
+        "Lemon",
+        "Blood Orange"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Spearmint"
+      ],
+      "base": [
+        "Patchouli",
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MANDARINOEDT.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw38063275/images/hi-res-1/ADPADP082916-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/mandarino-di-sicilia/MANDARINOEDT.html",
+    "sourceProductId": "MANDARINOEDT",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive family: Aromatic Citrus\nTop notes: Green Mandarin, Bergamot, Lemon, Blood orange\nHeart notes: Petitgrain, Spearmint\nBase notes: Patchouli, Cedarwood, Musk",
+    "olfactiveFamily": "Aromatic Citrus",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082915",
+        "name": "Eau de Toilette Blu Mediterraneo Mandarino di Sicilia",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/mandarino-di-sicilia/MANDARINOEDT.html?dwvar_MANDARINOEDT_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082917",
+        "name": "Eau de Toilette Blu Mediterraneo Mandarino di Sicilia",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/mandarino-di-sicilia/MANDARINOEDT.html?dwvar_MANDARINOEDT_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Green Mandarin",
+        "Bergamot",
+        "Lemon",
+        "Blood orange"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Spearmint"
+      ],
+      "base": [
+        "Patchouli",
+        "Cedarwood",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ficoedtspray",
+    "name": "Fico Di Amalfi",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Blu Mediterraneo Fico di Amalfi offers a vitalising  scent that continuously surprises just like the spectacular view of the Amalfi coast.",
+    "notes": [
+      "Lemon",
+      "Bergamot",
+      "Grapefruit",
+      "Fig Nectar",
+      "Pink Pepper",
+      "Jasmine",
+      "Fig Wood",
+      "Cedarwood",
+      "Benzoin"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Fig Nectar",
+        "Pink Pepper",
+        "Jasmine"
+      ],
+      "base": [
+        "Fig Wood",
+        "Cedarwood",
+        "Benzoin"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/FICOEDTSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw0d58fb0b/images/hi-res-1/ADPADP082907-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/fico-di-amalfi/FICOEDTSPRAY.html",
+    "sourceProductId": "FICOEDTSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Woody Green\nTop Notes: Italian Lemon, Italian Bergamot, Grapefruit\nHeart Notes: Fig Nectar, Pink Pepper, Jasmine Petals\nBase Notes: Fig Wood, Cedarwood, Benzoin",
+    "olfactiveFamily": "Woody Green",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082906",
+        "name": "Eau de Toilette Blu Mediterraneo Fico di Amalfi",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/fico-di-amalfi/FICOEDTSPRAY.html?dwvar_FICOEDTSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082908",
+        "name": "Eau de Toilette Blu Mediterraneo Fico di Amalfi",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/fico-di-amalfi/FICOEDTSPRAY.html?dwvar_FICOEDTSPRAY_size=180ML"
+      },
+      {
+        "name": "Fico Di Amalfi",
+        "sourceUrl": "https://www.acquadiparma.com/en/kr/fico-di-amalfi/FICODIAMALFISUMMEREDT.html",
+        "sourceProductId": "FICODIAMALFISUMMEREDT",
+        "officialNotesRaw": "Fragrance Family: Woody Green\nHead Notes: Calabrian Bergamot, Italian Lemon, Grapefruit\nHeart Notes: Fig Nectar, Pink Pepper, Jasmine Petals\nBase Notes: Fig Tree Wood, Cedarwood, Benzoin",
+        "kind": "size-or-packaging"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Lemon",
+        "Italian Bergamot",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Fig Nectar",
+        "Pink Pepper",
+        "Jasmine Petals"
+      ],
+      "base": [
+        "Fig Wood",
+        "Cedarwood",
+        "Benzoin"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-aranciaedtspray",
+    "name": "Arancia Di Capri",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Discover the energetic and bright Arancia di Capri, a fragrance encapsulating the scents of mandarin, lemon essential oils and oranges.",
+    "notes": [
+      "Orange",
+      "Mandarin",
+      "Lemon",
+      "Petitgrain",
+      "Cardamom",
+      "Caramel",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Orange",
+        "Mandarin",
+        "Lemon"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Cardamom"
+      ],
+      "base": [
+        "Caramel",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ARANCIAEDTSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw466f66b5/images/hi-res-1/ADPADP082904-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/arancia-di-capri/ARANCIAEDTSPRAY.html",
+    "sourceProductId": "ARANCIAEDTSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Citrus Musk\nTop Notes: Italian Sweet Orange, Italian Mandarin, Italian Lemon\nHeart Notes: Petit Grain, Cardamom\nBase Notes: Caramel, Musk",
+    "olfactiveFamily": "Citrus Musk",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082903",
+        "name": "Eau de Toilette Blu Mediterraneo Arancia di Capri",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082905",
+        "name": "Eau de Toilette Blu Mediterraneo Arancia di Capri",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/arancia-di-capri/ARANCIAEDTSPRAY.html?dwvar_ARANCIAEDTSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Italian Sweet Orange",
+        "Italian Mandarin",
+        "Italian Lemon"
+      ],
+      "middle": [
+        "Petitgrain",
+        "Cardamom"
+      ],
+      "base": [
+        "Caramel",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-mirtoedtspray",
+    "name": "Mirto Di Panarea",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Blu Mediterraneo Mirto di Panarea is a fragrance inspired by Panarea, an island suspended in time. The fragrance is an ode to the volcanic landscape and a representation of the wild spirit of the Mediterranean through a blend of sparkling citrus notes with myrtle and fresh juniper notes.",
+    "notes": [
+      "Myrtle",
+      "Basil",
+      "Lemon",
+      "Bergamot",
+      "Marine Breeze",
+      "Jasmine",
+      "Rose",
+      "Mastic",
+      "Juniper",
+      "Cedarwood",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [
+        "Myrtle",
+        "Basil",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middle": [
+        "Marine Breeze",
+        "Jasmine",
+        "Rose"
+      ],
+      "base": [
+        "Mastic",
+        "Juniper",
+        "Cedarwood",
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MIRTOEDTSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw43968b94/images/hi-res-1/ADPADP082910-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/mirto-di-panarea/MIRTOEDTSPRAY.html",
+    "sourceProductId": "MIRTOEDTSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Aromatic Citrus\nTop Notes: Myrtle, Basil, Italian Lemon, Italian Bergamot\nHeart Notes: Marine Breeze, Jasmine Absolute, Damask Rose Absolute\nBase Notes: Lentisk Absolute, Juniper, Virginian Cedarwood, Amber",
+    "olfactiveFamily": "Aromatic Citrus",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082909",
+        "name": "Eau de Toilette Blu Mediterraneo Mirto di Panarea",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/mirto-di-panarea/MIRTOEDTSPRAY.html?dwvar_MIRTOEDTSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082911",
+        "name": "Eau de Toilette Blu Mediterraneo Mirto di Panarea",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/mirto-di-panarea/MIRTOEDTSPRAY.html?dwvar_MIRTOEDTSPRAY_size=180ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP083343",
+        "name": "Eau de Toilette Blu Mediterraneo Mirto di Panarea",
+        "size": "500ML",
+        "url": "https://www.acquadiparma.com/en/kr/mirto-di-panarea/MIRTOEDTSPRAY.html?dwvar_MIRTOEDTSPRAY_size=500ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Myrtle",
+        "Basil",
+        "Italian Lemon",
+        "Italian Bergamot"
+      ],
+      "middle": [
+        "Marine Breeze",
+        "Jasmine Absolute",
+        "Damask Rose Absolute"
+      ],
+      "base": [
+        "Lentisk Absolute",
+        "Juniper",
+        "Virginian Cedarwood",
+        "Amber"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-bergamottoedtspray",
+    "name": "Bergamotto Di Calabria",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Blu Mediterraneo Bergamotto di Calabria, an enchanting eau de toilette that celebrates the majestic Calabria and its golden  Bergamot fruit.",
+    "notes": [
+      "Bergamot",
+      "Citron",
+      "Cedarwood",
+      "Red Ginger",
+      "Vetiver",
+      "Benzoin",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Citron"
+      ],
+      "middle": [
+        "Cedarwood",
+        "Red Ginger"
+      ],
+      "base": [
+        "Vetiver",
+        "Benzoin",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/BERGAMOTTOEDTSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw95bbca7a/images/hi-res-1/ADPADP082913-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/bergamotto-di-calabria/BERGAMOTTOEDTSPRAY.html",
+    "sourceProductId": "BERGAMOTTOEDTSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Citrus Woody\nTop Notes: Calabrian Bergamot PDO, Citron\nHeart Notes: Cedarwood, Red Ginger\nBase Notes: Vetiver, Benzoin, Musk",
+    "olfactiveFamily": "Citrus Woody",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082912",
+        "name": "Eau de Toilette Blu Mediterraneo Bergamotto di Calabria",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/bergamotto-di-calabria/BERGAMOTTOEDTSPRAY.html?dwvar_BERGAMOTTOEDTSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082914",
+        "name": "Eau de Toilette Blu Mediterraneo Bergamotto di Calabria",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/bergamotto-di-calabria/BERGAMOTTOEDTSPRAY.html?dwvar_BERGAMOTTOEDTSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot PDO",
+        "Citron"
+      ],
+      "middle": [
+        "Cedarwood",
+        "Red Ginger"
+      ],
+      "base": [
+        "Vetiver",
+        "Benzoin",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-mandorloedtspray",
+    "name": "Mandorlo Di Sicilia",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Toilette",
+    "description": "Mandorlo di Sicilia eau de toilette embodies the warmth of Sicily and its native Avola almond, celebrated for its distinctively refined flavour.",
+    "notes": [
+      "Star Anise",
+      "Bergamot",
+      "Orange",
+      "Green Almonds",
+      "Ylang-Ylang",
+      "Vanilla",
+      "Cedarwood",
+      "Tolu Balsam",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Star Anise",
+        "Bergamot",
+        "Orange"
+      ],
+      "middle": [
+        "Green Almonds",
+        "Ylang-Ylang"
+      ],
+      "base": [
+        "Vanilla",
+        "Cedarwood",
+        "Tolu Balsam",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Blu Mediterraneo",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MANDORLOEDTSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwbbe50948/images/hi-res-1/ADPADP082919-100ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/mandorlo-di-sicilia/MANDORLOEDTSPRAY.html",
+    "sourceProductId": "MANDORLOEDTSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Olfactive Family: Ambery Citrus\nTop Notes: Star Anis, Italian Bergamot, Italian Orange\nHeart Notes: Green Almonds, Ylang Ylang\nBase Notes: Madagascar Vanilla, Cedarwood, Tolu Balsam, Musk",
+    "olfactiveFamily": "Ambery Citrus",
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "ADP082918",
+        "name": "Eau de Toilette Blu Mediterraneo Mandorlo di Sicilia",
+        "size": "50ML",
+        "url": "https://www.acquadiparma.com/en/kr/mandorlo-di-sicilia/MANDORLOEDTSPRAY.html?dwvar_MANDORLOEDTSPRAY_size=50ML"
+      },
+      {
+        "@type": "Product",
+        "sku": "ADP082920",
+        "name": "Eau de Toilette Blu Mediterraneo Mandorlo di Sicilia",
+        "size": "180ML",
+        "url": "https://www.acquadiparma.com/en/kr/mandorlo-di-sicilia/MANDORLOEDTSPRAY.html?dwvar_MANDORLOEDTSPRAY_size=180ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Star Anise",
+        "Italian Bergamot",
+        "Italian Orange"
+      ],
+      "middle": [
+        "Green Almonds",
+        "Ylang Ylang"
+      ],
+      "base": [
+        "Madagascar Vanilla",
+        "Cedarwood",
+        "Tolu Balsam",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ndciedc",
+    "name": "Note Di Colonia I",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The Note di Colonia I cologne for men and women is an homage to the opera \"La Traviata\" by Giuseppe Verdi, reflected in a fragrance that celebrates the aristocratic parties of the early 18s.",
+    "notes": [
+      "Bergamot",
+      "Neroli",
+      "Lavender",
+      "Rose",
+      "Violet",
+      "Patchouli",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Neroli"
+      ],
+      "middle": [
+        "Lavender",
+        "Rose",
+        "Violet"
+      ],
+      "base": [
+        "Patchouli",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Note di Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/NDCIEDC.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw239779cc/images/hi-res-1/ADP29001-150ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/note-di-colonia-i/NDCIEDC.html",
+    "sourceProductId": "NDCIEDC",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nBergamot, Neroli\nHeart Notes:\nLavender, Rose, Violet Accord\nBase Notes:\nPatchouli, Cedarwood",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Neroli"
+      ],
+      "middle": [
+        "Lavender",
+        "Rose",
+        "Violet Accord"
+      ],
+      "base": [
+        "Patchouli",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ndciiedc",
+    "name": "Note Di Colonia Ii",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "The cologne scent of the Note di Colonia II eau de cologne by Acqua di Parma is a tribute to 'Nessun Dorma' by Giacomo Puccini in an intensely sophisticated fragrance with a bold personality.",
+    "notes": [
+      "Bergamot",
+      "Orange",
+      "Grapefruit",
+      "Cardamom",
+      "Basil",
+      "Sandalwood",
+      "Guaiac Wood",
+      "Musk",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange",
+        "Grapefruit",
+        "Cardamom",
+        "Basil"
+      ],
+      "middle": [
+        "Sandalwood",
+        "Guaiac Wood"
+      ],
+      "base": [
+        "Musk",
+        "Vetiver"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Note di Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/NDCIIEDC.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw183cad01/images/hi-res-1/ADP29002-150ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/note-di-colonia-ii/NDCIIEDC.html",
+    "sourceProductId": "NDCIIEDC",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nBergamot, Orange, Grapefruit, Cardamom, Basil\nHeart Notes:\nSandalwood, Guaiac\nBase Notes:\nMusk, Vetiver",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Orange",
+        "Grapefruit",
+        "Cardamom",
+        "Basil"
+      ],
+      "middle": [
+        "Sandalwood",
+        "Guaiac"
+      ],
+      "base": [
+        "Musk",
+        "Vetiver"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ndciiiedc",
+    "name": "Note Di Colonia Iii",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "With the refined fragrance of the Note di Colonia III eau de cologne for men and women, Acqua di Parma revisits one of the most famous acts of Giuseppe Verdi's \"Aida\".",
+    "notes": [
+      "Mandarin",
+      "Ginger",
+      "Vetiver",
+      "Olibanum",
+      "Jasmine",
+      "Tonka Bean",
+      "Myrrh",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Ginger"
+      ],
+      "middle": [
+        "Vetiver",
+        "Olibanum",
+        "Jasmine"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Myrrh",
+        "Labdanum"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Note di Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/NDCIIIEDC.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwd66466a8/images/hi-res-1/ADP29003-150ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/note-di-colonia-iii/NDCIIIEDC.html",
+    "sourceProductId": "NDCIIIEDC",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nMandarin, Ginger\nHeart Notes:\nVetiver, Olibanum, Jasmine\nBase Notes:\nTonka Bean, Myrrh, Ciste",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Mandarin",
+        "Ginger"
+      ],
+      "middle": [
+        "Vetiver",
+        "Olibanum",
+        "Jasmine"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Myrrh",
+        "Ciste"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ndcivedc",
+    "name": "Note Di Colonia Iv",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "Time to enjoy the wonderful homage to Giacomo Puccini's “Manon Lescaut” that Acqua di Parma created with the cologne fragrance Note di Colonia IV, reflecting the power of love and passion.",
+    "notes": [
+      "Bergamot",
+      "Mandarin",
+      "Rose",
+      "Orange Blossom",
+      "Opoponax",
+      "Labdanum",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Mandarin"
+      ],
+      "middle": [
+        "Rose",
+        "Orange Blossom"
+      ],
+      "base": [
+        "Opoponax",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Note di Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/NDCIVEDC.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw17cdef9c/images/hi-res-1/ADP29005-150ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/note-di-colonia-iv/NDCIVEDC.html",
+    "sourceProductId": "NDCIVEDC",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nBergamot, Green Mandarin\nHeart Notes:\nTurkish Rose, Orange Flower\nBase Notes:\nOpoponax, Cisto Ladbanum, Patchouli",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Green Mandarin"
+      ],
+      "middle": [
+        "Turkish Rose",
+        "Orange Flower"
+      ],
+      "base": [
+        "Opoponax",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-ndcvedc",
+    "name": "Note Di Colonia V",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Cologne",
+    "description": "A tribute to the joie de vivre and the light-heartedness of love represented in 'La Donna è Mobile' from the 'Rigoletto' by Giuseppe Verdi.  The accents of Pink Pepper mark the cheerful waltz of Lemon and Bergamot, that develops in a crescendo that finds its utmost expression in the contrast between the spicy accents of Ginger and the aromatic tones of Juniper. The ambery warm notes of Sandalwood and Cedar complete the harmony of this luminous and vibrant fragrance.",
+    "notes": [
+      "Lemon",
+      "Bergamot",
+      "Pink Pepper",
+      "Ginger",
+      "Juniper",
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Lemon",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Ginger",
+        "Juniper"
+      ],
+      "base": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Note di Colonia",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/NDCVEDC.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw13552eee/images/hi-res-1/ADP29008-150ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/note-di-colonia-v/NDCVEDC.html",
+    "sourceProductId": "NDCVEDC",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Head Note:\nCalabrian Lemon, Calabrian Bergamot, Pink Pepper\nHeart Note:\nGinger, Juniper\nBase Notes:\nSandalwood, Cedarwood",
+    "olfactiveFamily": null,
+    "variants": [],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Lemon",
+        "Calabrian Bergamot",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Ginger",
+        "Juniper"
+      ],
+      "base": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-peoniaedpspray",
+    "name": "Peonia Nobile",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "Discover the sophisticated fragrance of the eau de parfum Peonia Nobile by Acqua di Parma: an elegantly sublime scent with a graceful sillage that expresses assertive femininity and sensuality.",
+    "notes": [
+      "Black Pepper",
+      "Raspberry",
+      "Peony",
+      "Geranium",
+      "Freesia",
+      "Rose",
+      "Ambery",
+      "Patchouli",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Black Pepper",
+        "Raspberry"
+      ],
+      "middle": [
+        "Peony",
+        "Geranium",
+        "Freesia",
+        "Rose"
+      ],
+      "base": [
+        "Ambery",
+        "Patchouli",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Le Nobili",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/PEONIAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dw2ca4cec9/images/hi-res-1/ADP40001-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/peonia-nobile/PEONIAEDPSPRAY.html",
+    "sourceProductId": "PEONIAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nBlack Pepper, Raspberry Accord\nHeart Notes:\nPeony Accord, Egyptian Geranium, Freesia Accord, Turkish Rose\nBase Notes:\nAmbery Accord, Patchouli Indonesia, Musk",
+    "olfactiveFamily": null,
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "40002",
+        "name": "Eau de Parfum Le Nobili Peonia Nobile",
+        "size": "100ML",
+        "url": "https://www.acquadiparma.com/en/kr/peonia-nobile/PEONIAEDPSPRAY.html?dwvar_PEONIAEDPSPRAY_size=100ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Black Pepper",
+        "Raspberry Accord"
+      ],
+      "middle": [
+        "Peony Accord",
+        "Egyptian Geranium",
+        "Freesia Accord",
+        "Turkish Rose"
+      ],
+      "base": [
+        "Ambery Accord",
+        "Patchouli Indonesia",
+        "Musk"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-rosaedpspray",
+    "name": "Rosa Nobile",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "As a tribute to the \"queen of flowers\", Acqua di Parma has created the eau de parfum spray Rosa Nobile, a preciously elegant fragrance celebrating the charm of innate femininity. A delight for all senses!",
+    "notes": [
+      "Tangerine",
+      "Bergamot",
+      "Pepper",
+      "Rose",
+      "Peony",
+      "Violet",
+      "Lily of the Valley",
+      "Musk",
+      "Cedarwood",
+      "Ambergris"
+    ],
+    "noteGroups": {
+      "top": [
+        "Tangerine",
+        "Bergamot",
+        "Pepper"
+      ],
+      "middle": [
+        "Rose",
+        "Peony",
+        "Violet",
+        "Lily of the Valley"
+      ],
+      "base": [
+        "Musk",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Le Nobili",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/ROSAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwf6fe99b2/images/hi-res-1/ADP49001-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/rosa-nobile/ROSAEDPSPRAY.html",
+    "sourceProductId": "ROSAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nTangerine, Calabrian Bergamot, Pepper\nHeart Notes:\nCentifolia Rose Absolute, Peony Violet Lily-of-the-valley Accord\nBase Notes:\nMusk, Virginian Cedarwood, Ambergris",
+    "olfactiveFamily": null,
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "49002",
+        "name": "Eau de Parfum Le Nobili Rosa Nobile",
+        "size": "100ML",
+        "url": "https://www.acquadiparma.com/en/kr/rosa-nobile/ROSAEDPSPRAY.html?dwvar_ROSAEDPSPRAY_size=100ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Tangerine",
+        "Calabrian Bergamot",
+        "Pepper"
+      ],
+      "middle": [
+        "Centifolia Rose Absolute",
+        "Peony Violet Lily-of-the-valley Accord"
+      ],
+      "base": [
+        "Musk",
+        "Virginian Cedarwood",
+        "Ambergris"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "adp-magnoliaedpspray",
+    "name": "Magnolia Nobile",
+    "brand": "Acqua di Parma",
+    "gender": null,
+    "concentration": "Eau De Parfum",
+    "description": "The women's eau de parfum Magnolia Nobile by Acqua di Parma is a luminous and modern fragrance expressing femininity. Discover this composition of bewitchingly sophisticated floral scents!",
+    "notes": [
+      "Bergamot",
+      "Lemon",
+      "Citron",
+      "Magnolia",
+      "Rose",
+      "Tuberose",
+      "Jasmine",
+      "Sandalwood",
+      "Patchouli",
+      "Vetiver",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Lemon",
+        "Citron"
+      ],
+      "middle": [
+        "Magnolia",
+        "Rose",
+        "Tuberose",
+        "Jasmine"
+      ],
+      "base": [
+        "Sandalwood",
+        "Patchouli",
+        "Vetiver",
+        "Vanilla"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Le Nobili",
+    "image": "../perfume-atlas-data/images-r/acqua-di-parma/MAGNOLIAEDPSPRAY.png",
+    "imageSourceUrl": "https://www.acquadiparma.com/on/demandware.static/-/Sites-adp-master-catalog/default/dwcaf9ca2e/images/hi-res-1/ADP47001-50ML.master.1.H1.jpg",
+    "sourceUrl": "https://www.acquadiparma.com/en/kr/magnolia-nobile/MAGNOLIAEDPSPRAY.html",
+    "sourceProductId": "MAGNOLIAEDPSPRAY",
+    "fetchedAt": "2026-09-13",
+    "officialNotesRaw": "Top Notes:\nCalabrian Bergamot, Sicilian Lemon, Sicilian Citron\nHeart Notes:\nMagnolia, Bulgarian Rose, Tuberose absolute, Jasmine Sambac absolute\nBase Notes:\nSandalwood, Patchouli, Vetiver, Madagascar Vanilla",
+    "olfactiveFamily": null,
+    "variants": [
+      {
+        "@type": "Product",
+        "sku": "47002",
+        "name": "Eau de Parfum Le Nobili Magnolia Nobile",
+        "size": "100ML",
+        "url": "https://www.acquadiparma.com/en/kr/magnolia-nobile/MAGNOLIAEDPSPRAY.html?dwvar_MAGNOLIAEDPSPRAY_size=100ML"
+      }
+    ],
+    "qualityFlags": [],
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Sicilian Citron"
+      ],
+      "middle": [
+        "Magnolia",
+        "Bulgarian Rose",
+        "Tuberose absolute",
+        "Jasmine Sambac absolute"
+      ],
+      "base": [
+        "Sandalwood",
+        "Patchouli",
+        "Vetiver",
+        "Madagascar Vanilla"
+      ],
+      "unspecified": []
+    }
+  },
+  {
+    "id": "fm-50241",
+    "name": "Portrait Of A Lady",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "2026 Fragrance Foundation Hall of Fame Award Winner.\nAn exceptional fragrance by Dominique Ropion, PORTRAIT OF A LADY enhances the opulence and voluptuousness of the Turkish rose in extravagant proportions.\nWith PORTRAIT OF A LADY, Frédéric Malle and perfumer Dominique Ropion mark a new stage in the great timeline of perfumery. With this immoderate rose, magnified by woody tones, amber and incense, the designers are redrawing the contours of the cypress, an olfactory family synonymous with the finest eras of 20th-century perfumery. Their play of light and shadow, their elegance and extreme refinement. From this expert craftsmanship, there emerges a splendour created to outlast time.\nMore than fifteen years after its creation, Portrait of a Lady was inducted into The Fragrance Foundation Hall of Fame, recognizing its enduring influence on modern perfumery.\nRaspberry, Rose, Patchouli\nTop notes: Raspberry, Cumin, Pink pepper\nMiddle notes: Rose\nBase notes: Patchouli, Labdanum, Incense",
+    "notes": [
+      "Raspberry",
+      "Cumin",
+      "Pink Pepper",
+      "Rose",
+      "Patchouli",
+      "Labdanum",
+      "Incense"
+    ],
+    "noteGroups": {
+      "top": [
+        "Raspberry",
+        "Cumin",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Rose"
+      ],
+      "base": [
+        "Patchouli",
+        "Labdanum",
+        "Incense"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Raspberry",
+        "Cumin",
+        "Pink pepper"
+      ],
+      "middle": [
+        "Rose"
+      ],
+      "base": [
+        "Patchouli",
+        "Labdanum",
+        "Incense"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4G101_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion",
+    "sourceProductId": "50241",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86698,
+        "size": "50 ml",
+        "productCode": "H4FE01"
+      },
+      {
+        "sku": 86697,
+        "size": "100 ml",
+        "productCode": "H4G101"
+      },
+      {
+        "sku": 208661,
+        "size": "10 ml",
+        "productCode": "H8MB01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50241.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50210",
+    "name": "Carnal Flower",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "A mesmerising fragrance by Dominique Ropion, CARNAL FLOWER exalts the ambivalence of a natural tuberose absolute in very high concentration.\nAmong all the flowers, this is certainly the most fatal. The tuberose, extremely concentrated in this signature creation by Dominique Ropion, shows the full force of its seductive secret: its duality. The initial impression it leaves on the skin is one of innocence. The botanical freshness of a bouquet of flowers. It is then followed by its more animalic aspect. With emphasis from camphor and the darkness of spices, the indomitable character of the tuberose is tempered by milky notes with the soft and mellow comfort of white musk. At once respectable and challenging, CARNAL FLOWER is a flower with a thousand faces, which becomes one with its wearer... and leaves nobody indifferent.\nMelon, tuberose, white musk, milky notes\nbr>Top notes: watermelon\nMiddle notes: tuberose\nBase notes: musk",
+    "notes": [
+      "Watermelon",
+      "Tuberose",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Watermelon"
+      ],
+      "middle": [
+        "Tuberose"
+      ],
+      "base": [
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "watermelon"
+      ],
+      "middle": [
+        "tuberose"
+      ],
+      "base": [
+        "musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FL01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50210/parfums/carnal-flower/by-dominique-ropion",
+    "sourceProductId": "50210",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86690,
+        "size": "50 ml Spray",
+        "productCode": "H4F201"
+      },
+      {
+        "sku": 86689,
+        "size": "100 ml Spray",
+        "productCode": "H4FL01"
+      },
+      {
+        "sku": 208662,
+        "size": "10 ml Spray",
+        "productCode": "H8MC01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50210.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50126",
+    "name": "Musc Ravageur",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Maurice Roucel",
+    "description": "MUSC RAVAGEUR, the hottest amber fragrance, by Maurice Roucel.\nHot stuff coming through: this signature amber blend created by a master of the genre, Maurice Roucel, releases uncompromising eroticism. Bergamot and mandarin provide a luminous introduction to this floral-free formula, as if to better make way for its sexy, musky amber base, which combines the allure of vanilla, the unctuous texture of sandalwood and the temptation of musk. An honest, confident and straightforward appeal. An immense scent, burning like an irrepressible desire.\nBergamot, vanilla, white musk\nTop notes: vanilla\nMiddle notes: cinnamon\nBase notes: musk",
+    "notes": [
+      "Vanilla",
+      "Cinnamon",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Vanilla"
+      ],
+      "middle": [
+        "Cinnamon"
+      ],
+      "base": [
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "vanilla"
+      ],
+      "middle": [
+        "cinnamon"
+      ],
+      "base": [
+        "musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4G001_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50126/parfums/musc-ravageur/by-maurice-roucel",
+    "sourceProductId": "50126",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86671,
+        "size": "50 ml Spray",
+        "productCode": "H4FC01"
+      },
+      {
+        "sku": 86670,
+        "size": "100 ml Spray",
+        "productCode": "H4G001"
+      },
+      {
+        "sku": 208663,
+        "size": "10 ml",
+        "productCode": "H8MD01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50126.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50265",
+    "name": "The Night",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "Dominique Ropion",
+    "description": "A fragrance by Dominique Ropion, not for the uninitiated, THE NIGHT is a fragrance masterpiece with an exceptional quantity of concentrated natural oud.\nIn the Middle East, the sunset represents the start of a new life, when the absolute emerges. THE NIGHT is an extraordinary, radical work of art. The ultimate, immoderate oud, clothed in saffron and an ocean of Turkish rose. The ingredient rolls in scrolls of incense and sandalwood. This oud, probably the most precious on the market, is the ultimate celebration of the night and its infinite mysteries, for the most discerning of connoisseurs.\nRose, saffron, natural oud, incense, sandalwood\nTop notes:\nrose\n; saffron\nMiddle note: 100% natural\noud\nBase notes:\nfrankincense\n;\nsandalwood",
+    "notes": [
+      "Rose",
+      "Saffron",
+      "100% Natural",
+      "Oud",
+      "Frankincense",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Rose",
+        "Saffron"
+      ],
+      "middle": [
+        "100% Natural",
+        "Oud"
+      ],
+      "base": [
+        "Frankincense",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "rose",
+        "saffron"
+      ],
+      "middle": [
+        "100% natural",
+        "oud"
+      ],
+      "base": [
+        "frankincense",
+        "sandalwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H3WL01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50265/parfums/the-night/by-dominique-ropion",
+    "sourceProductId": "50265",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 82574,
+        "size": "50 ml Spray",
+        "productCode": "H3WK01"
+      },
+      {
+        "sku": 82575,
+        "size": "100 ml Spray",
+        "productCode": "H3WL01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50265.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-126119",
+    "name": "Acne Studios Par Frédéric Malle",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "Acne Studios par Frédéric Malle",
+    "description": "Acne Studios is not just a look. If anything, it is many looks, an ethos not easily encapsulated: functional, but eclectic, the opposite of basic.\nFrédéric Malle tried to put Acne Studios in a bottle. For this special collaboration, he asked perfume prodigy Suzy Le Helley to author a powerful manifesto.\nThe composition is as such: a large amount of aldehydes, rose, violet and a touch of orange blossom; accords of vanilla and peach; generous notes of sandalwood; a touch of frankincense, and a sea of musk.\nFrom utilitarian comfort to eccentric elegance, this seemed like an olfactory rendering of Acne Studios.\nAldehydes, Rose, Peach, Vanilla, Sandalwood, Musk\nTop notes: peach\nMiddle notes: aldehydes\nBase notes: incense\nTry It First service is subject to availability.\nPlease see the General Terms and Conditions of Sale and the return policy",
+    "notes": [
+      "Peach",
+      "Aldehydes",
+      "Incense",
+      "Try It First Service Is Subject To Availability",
+      "Please See the General Terms and Conditions of Sale and the Return Policy"
+    ],
+    "noteGroups": {
+      "top": [
+        "Peach"
+      ],
+      "middle": [
+        "Aldehydes"
+      ],
+      "base": [
+        "Incense",
+        "Try It First Service Is Subject To Availability",
+        "Please See the General Terms and Conditions of Sale and the Return Policy"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "peach"
+      ],
+      "middle": [
+        "aldehydes"
+      ],
+      "base": [
+        "incense",
+        "Try It First service is subject to availability",
+        "Please see the General Terms and Conditions of Sale and the return policy"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H0D701_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/126119/perfume/acne-studios-par-frederic-malle/par-suzy-le-helley",
+    "sourceProductId": "126119",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 184123,
+        "size": "50 ml Spray",
+        "productCode": "H0D701"
+      },
+      {
+        "sku": 184012,
+        "size": "100 ml Spray",
+        "productCode": "H0D801"
+      },
+      {
+        "sku": 194416,
+        "size": "10 ml Spray",
+        "productCode": "H5WQ01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/126119.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-148389",
+    "name": "Northern Love",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": null,
+    "description": "NORTHERN LOVE is a warm and intimate fragrance. Signed by Bruno Jovanovic, this amber-woody composition elevates a creamy sandalwood, layered with cinnamon as a nod to speculoos cookies.\nInspired by a yearning for emotional truth, Northern Love writes a love letter to modern romanticism. A warm, comforting embrace contrasted by a cold and nostalgic feeling — like a bittersweet hug. The courage to feel.\nMaster perfumer Bruno Jovanovic signs an amber-woody composition oscillating between opulence and refinement, classicism and modernity. NORTHERN LOVE elevates an exceptional sandalwood essence by amplifying the naturally creamy facets of this precious wood. Lifted by warm spices, the sandalwood gently gives way to the enveloping roundness of vanilla, leaving behind an intimate and deeply comforting trail.\nBlending visionary creativity with an enlightened appreciation of tradition, Bruno Jovanovic showcases his craft in this fragrance with its exquisitely sculpted textures.\nTop note: Spicy accord\nHeart note:  Sandalwood\nBase note: Vanilla",
+    "notes": [
+      "Spicy",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [
+        "Spicy"
+      ],
+      "middle": [
+        "Sandalwood"
+      ],
+      "base": [
+        "Vanilla"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Spicy accord"
+      ],
+      "middle": [
+        "Sandalwood"
+      ],
+      "base": [
+        "Vanilla"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H9H301_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/148389/perfume/northern-love/par-bruno-jovanovic",
+    "sourceProductId": "148389",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 216750,
+        "size": "100 ml",
+        "productCode": "H9H301"
+      },
+      {
+        "sku": 216749,
+        "size": "50 ml",
+        "productCode": "H9H501"
+      },
+      {
+        "sku": 216748,
+        "size": "10 ml ",
+        "productCode": "H9H901"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/148389.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-54296",
+    "name": "Promise",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "An olfactory illusion, PROMISE is a masterly perfume by Dominique Ropion for the Desert Gems collection, which recreates the alluring power of oud.\nEmblematic of Middle Eastern culture, oud is a natural treasure. A \"black gold\" with a deep, faceted scent that fascinates master perfumer Dominique Ropion. With PROMISE, he recreates all of its nobility with cypriol, a plant native to India, accompanied by precious essences of Turkish and Bulgarian roses. An olfactory celebration of the strongest bonds that can join two people, this scent induces an irrepressible appeal that connoisseurs of fragrance would be able to recognise from a crowd of a thousand.\nRose, apple, patchouli, cypriol\nTop notes: Pink Pepper, Rosemary Oil, Apple Accord\nMiddle notes: Bulgarian Rose Oil, Turkish Rose Absolute, Clove Oil\nBase notes:\nPatchouli\nHeart,\nAmbroxan\n, Labdanum, Cypriol Heart",
+    "notes": [
+      "Pink Pepper",
+      "Rosemary",
+      "Apple",
+      "Rose",
+      "Clove",
+      "Patchouli",
+      "Heart",
+      "Ambroxan",
+      "Labdanum",
+      "Cypriol Heart"
+    ],
+    "noteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Rosemary",
+        "Apple"
+      ],
+      "middle": [
+        "Rose",
+        "Clove"
+      ],
+      "base": [
+        "Patchouli",
+        "Heart",
+        "Ambroxan",
+        "Labdanum",
+        "Cypriol Heart"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Rosemary Oil",
+        "Apple Accord"
+      ],
+      "middle": [
+        "Bulgarian Rose Oil",
+        "Turkish Rose Absolute",
+        "Clove Oil"
+      ],
+      "base": [
+        "Patchouli",
+        "Heart",
+        "Ambroxan",
+        "Labdanum",
+        "Cypriol Heart"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4MX01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/54296/parfums/promise/by-dominique-ropion",
+    "sourceProductId": "54296",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 89380,
+        "size": "50 ml Spray",
+        "productCode": "H4MW01"
+      },
+      {
+        "sku": 89381,
+        "size": "100 ml SPRAY",
+        "productCode": "H4MX01"
+      },
+      {
+        "sku": 208671,
+        "size": "10 ml Spray",
+        "productCode": "H8MM01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/54296.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-127736",
+    "name": "Hope",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "HOPE",
+    "description": "Created by Dominique Ropion for the Desert Gems collection, HOPE fragrance exalts the nobility of an exceptional oud essence.\nThey say that it’s the pillar of the world. Others whisper about it giving life. Hope has always been right there at the heart of humanity. The third masterpiece by Dominique Ropion for the Desert Gems collection, HOPE is an amber and woody fragrance that highlights the absolute nobility of an exceptional oud essence. The smoky, leathery notes of incense and vetiver mingle with the spicy freshness of pink peppercorn, cypress and juniper to reveal oud in all its purity. A scent of unparalleled elegance.\nOud, vetiver, incense",
+    "notes": [
+      "Created By Dominique Ropion For the Desert Gems Collection",
+      "Hope Fragrance Exalts the Nobility of An Exceptional Oud",
+      "Oud",
+      "Vetiver",
+      "Incense"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Created By Dominique Ropion For the Desert Gems Collection",
+        "Hope Fragrance Exalts the Nobility of An Exceptional Oud",
+        "Oud",
+        "Vetiver",
+        "Incense"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Created by Dominique Ropion for the Desert Gems collection",
+        "HOPE fragrance exalts the nobility of an exceptional oud essence",
+        "Oud",
+        "vetiver",
+        "incense"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H6C501_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/127736/parfums/hope/by-dominique-ropion",
+    "sourceProductId": "127736",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 186192,
+        "size": "50 ml Spray",
+        "productCode": "H6C501"
+      },
+      {
+        "sku": 186191,
+        "size": "100 ml Spray",
+        "productCode": "H6C401"
+      },
+      {
+        "sku": 208672,
+        "size": "10 ml Spray",
+        "productCode": "H8MN01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/127736.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-97338",
+    "name": "Rose Tonnerre",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "Edouard Fléchier",
+    "description": "Edouard Fléchier's masterful fragrance, ROSE TONNERRE features a paradoxical interaction of rose and truffle.\nIn the middle of a misty garden, at night, a rose gives its most beautiful scent. The air is stormy, stimulating the darkest scents of nature... ROSE TONNERRE is the result of a personal project by Edouard Fléchier. A new base, a sort of olfactory sketch, which he presented to Frédéric Malle, and which reproduced the fragrance of a Périgord truffle. This blend of dark, woody and animalic notes was intended for men's fragrances, but the two partners came up with the seemingly paradoxical idea of marrying it with the quintessential feminine note: rose. In the hands of the master perfumer, the queen of flowers becomes dark and sensual. Bewitching.\nRose, wine lees, truffle blend, honey, patchouli\nbr>Top notes: rose\nMiddle notes: truffle accord\nBase notes: patchouli",
+    "notes": [
+      "Rose",
+      "Truffle",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [
+        "Rose"
+      ],
+      "middle": [
+        "Truffle"
+      ],
+      "base": [
+        "Patchouli"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "rose"
+      ],
+      "middle": [
+        "truffle accord"
+      ],
+      "base": [
+        "patchouli"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_HY4301_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/97338/parfums/rose-tonnerre/by-edouard-flechier",
+    "sourceProductId": "97338",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 150229,
+        "size": "50 ml Spray",
+        "productCode": "HY4201"
+      },
+      {
+        "sku": 150230,
+        "size": "100 ml Spray",
+        "productCode": "HY4301"
+      },
+      {
+        "sku": 208664,
+        "size": "10 ml Spray",
+        "productCode": "H8ME01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/97338.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50174",
+    "name": "Angeliques Sous La Pluie",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "Jean-Claude Ellena",
+    "description": "An impressionist perfume by Jean-Claude Ellena, ANGÉLIQUES SOUS LA PLUIE captures the fleeting beauty of a bouquet of angelica shimmering with droplets of water.\nMore than a fragrance, this is a feeling. The fragile beauty of a bouquet of angelica picked after the rain, captured in a subtle trail that blends with the skin. Like a painter, Jean-Claude Ellena sketches his subject in minimal strokes: he takes the herbaceous notes of angelica, and he adds the spice of juniper berries. The spicy coolness of pink peppercorns. The clear vibrancy of cedar. And the fluffy cotton texture of white musk blurring it all together, suggestive of watercolours in faded shades of mauve and grey. An elusive sensory feeling, an awareness of rare poetry.\nJuniper, angelica, pink peppercorn, cedar, white musk",
+    "notes": [
+      "Juniper",
+      "Angelica",
+      "Pink Pepper",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Juniper",
+        "Angelica",
+        "Pink Pepper",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Juniper",
+        "angelica",
+        "pink peppercorn",
+        "cedar",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FH01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50174/parfums/angeliques-sous-la-pluie/by-jean-claude-ellena",
+    "sourceProductId": "50174",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86680,
+        "size": "100 ml Spray",
+        "productCode": "H4FH01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50174.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-121412",
+    "name": "Heaven Can Wait",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "par Jean-Claude Ellena",
+    "description": "HEAVEN CAN WAIT, the fragrance of a spicy sensual journey, by Jean-Claude Ellena.\nIt has the timeless appeal of a great classic. With the proud demeanour of the iris, this precious rhizome has gauzy, powdery notes. The exotic charm of spices - cloves and capsicum - and the enticing sweetness of peach and plum notes. Beneath its spicy opening, there unfolds an endless trail of vanilla and white musk, with sparsely honeyed notes of velvet, like an infinite caress. Paradise right next to your skin.\nClove, iris, vetiver, vanilla, white musk",
+    "notes": [
+      "Heaven Can Wait",
+      "The Fragrance of A Spicy Sensual Journey",
+      "By Jean-Claude Ellena",
+      "Clove",
+      "Iris",
+      "Vetiver",
+      "Vanilla",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Heaven Can Wait",
+        "The Fragrance of A Spicy Sensual Journey",
+        "By Jean-Claude Ellena",
+        "Clove",
+        "Iris",
+        "Vetiver",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "HEAVEN CAN WAIT",
+        "the fragrance of a spicy sensual journey",
+        "by Jean-Claude Ellena",
+        "Clove",
+        "iris",
+        "vetiver",
+        "vanilla",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_HY4K01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/121412/parfums/heaven-can-wait/by-jean-claude-ellena",
+    "sourceProductId": "121412",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 177263,
+        "size": "50 ml",
+        "productCode": "HY4K01"
+      },
+      {
+        "sku": 177261,
+        "size": "100 ml",
+        "productCode": "HY4H01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/121412.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-109418",
+    "name": "Uncut Gem",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "par Maurice Roucel",
+    "description": "UNCUT GEM is a fresh amber fragrance inspired by the eau de Cologne worn by master perfumer Maurice Roucel.\nA raw jewel. On the skin, the tone is set by a first note luminous with bergamot and mandarin, faceted by ginger and angelica root. Then the core reveals its sensuality at full volume: a warm, leathery blend, combining the nobility of vetiver and incense with the comfort of musk. Warm and intense, the vibrancy of amber woods will last for hours on the skin, without losing any of its power. A scent of character for an uncompromising man.\nGinger, bergamot, angelica root, vetiver, musk, amber woods",
+    "notes": [
+      "Ginger",
+      "Bergamot",
+      "Angelica Root",
+      "Vetiver",
+      "Musk",
+      "Amber Woods"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ginger",
+        "Bergamot",
+        "Angelica Root",
+        "Vetiver",
+        "Musk",
+        "Amber Woods"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Ginger",
+        "bergamot",
+        "angelica root",
+        "vetiver",
+        "musk",
+        "amber woods"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_HY5P01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/109418/parfums/uncut-gem/by-maurice-roucel",
+    "sourceProductId": "109418",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 161431,
+        "size": "50 ml",
+        "productCode": "HY5T01"
+      },
+      {
+        "sku": 161430,
+        "size": "100 ml",
+        "productCode": "HY5P01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/109418.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50181",
+    "name": "Bigarade Concentree",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "perfumer": "by Jean-Claude Ellena",
+    "description": "A perfume by Jean-Claude Ellena, BIGARADE CONCENTRÉE enhances the purity of a bitter orange essence obtained by molecular distillation.\nThis is simplicity in all its splendour. A reinvented eau de Cologne, formed around a bitter orange of exceptional quality - this essence, obtained by molecular distillation, reveals a cool and vibrant crystalline quality, along with a slight bitterness resembling the zest of the fruit. A jewel of lucidity that doesn’t need anything to dress it up: Jean-Claude Ellena has chosen pink peppercorns and cardamom to enhance its effervescence, with the elegance of cedar wood for a more lasting pleasure on your skin. A scent that is literally essential, naturally vibrant. For her, for him, anytime, anywhere.\nBitter orange, cardamom, pink peppercorn, cedar wood",
+    "notes": [
+      "A Perfume By Jean-Claude Ellena",
+      "Bigarade Concentrée Enhances the Purity of A Bitter Orange Essence Obtained By Molecular Distillation",
+      "Bitter Orange",
+      "Cardamom",
+      "Pink Pepper",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A Perfume By Jean-Claude Ellena",
+        "Bigarade Concentrée Enhances the Purity of A Bitter Orange Essence Obtained By Molecular Distillation",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Cedarwood"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A perfume by Jean-Claude Ellena",
+        "BIGARADE CONCENTRÉE enhances the purity of a bitter orange essence obtained by molecular distillation",
+        "Bitter orange",
+        "cardamom",
+        "pink peppercorn",
+        "cedar wood"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FJ01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50181/parfums/bigarade-concentree/by-jean-claude-ellena",
+    "sourceProductId": "50181",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86684,
+        "size": "50 ml Spray",
+        "productCode": "H4F001"
+      },
+      {
+        "sku": 86683,
+        "size": "100 ml Spray",
+        "productCode": "H4FJ01"
+      },
+      {
+        "sku": 208667,
+        "size": "10 ml Spray",
+        "productCode": "H8MH01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50181.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50272",
+    "name": "Cologne Indelebile",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "COLOGNE INDELÉBILE, an eternally fresh fragrance by Dominique Ropion.\nInnocence on one side, temptation on the other: white musk has two faces, and this dualistic perfume shows both simultaneously. Everything starts with a deep breath of luminous freshness. Lemon, bergamot, rosemary and orange blossom mingle together in an ideal eau de Cologne. But don't be fooled by its innocent appearance: it’s set against an ocean of white musk. The two together create a clean, seductive scent on the skin, which lasts for hours and is eternally intriguing. And so, slowly but surely, COLOGNE INDELÉBILE draws you in irresistibly, like a moth to the flame.\nBergamot, orange blossom, narcissus absolute, white musk",
+    "notes": [
+      "Cologne Indelébile",
+      "An Eternally Fresh Fragrance By Dominique Ropion",
+      "Bergamot",
+      "Orange Blossom",
+      "Narcissus",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Cologne Indelébile",
+        "An Eternally Fresh Fragrance By Dominique Ropion",
+        "Bergamot",
+        "Orange Blossom",
+        "Narcissus",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "COLOGNE INDELÉBILE",
+        "an eternally fresh fragrance by Dominique Ropion",
+        "Bergamot",
+        "orange blossom",
+        "narcissus absolute",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4GX01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50272/parfums/cologne-indelebile/by-dominique-ropion",
+    "sourceProductId": "50272",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86666,
+        "size": "50 ml Spray",
+        "productCode": "H4GT01"
+      },
+      {
+        "sku": 86665,
+        "size": "100 ml Spray",
+        "productCode": "H4GX01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50272.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50228",
+    "name": "Dans Tes Bras",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "DANS TES BRAS ",
+    "description": "DANS TES BRAS, the power of tenderness brought into a fragrance by Maurice Roucel.\nIt feels like an embrace. The alchemy of the magical moment when two bodies come together. A master of the olfactory expression of sensuality, Maurice Roucel orchestrates unforgettable love at first sight between Cashmeran, a woody note with a warm, velvety vibration, and the subtlety of a violet with powdery accents. This is a clear, perfect, and highly addictive relationship, wrapped in the lascivious seduction of sandalwood, musk and heliotrope. DANS TES BRAS captures the irresistible magnetism of the skin of the one you can't live without.\nViolet, cashmeran, heliotrope, sandalwood",
+    "notes": [
+      "Dans Tes Bras",
+      "The Power of Tenderness Brought Into A Fragrance By Maurice Roucel",
+      "Violet",
+      "Cashmeran",
+      "Heliotrope",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Dans Tes Bras",
+        "The Power of Tenderness Brought Into A Fragrance By Maurice Roucel",
+        "Violet",
+        "Cashmeran",
+        "Heliotrope",
+        "Sandalwood"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "DANS TES BRAS",
+        "the power of tenderness brought into a fragrance by Maurice Roucel",
+        "Violet",
+        "cashmeran",
+        "heliotrope",
+        "sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FN01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50228/parfums/dans-tes-bras/by-maurice-roucel",
+    "sourceProductId": "50228",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86693,
+        "size": "100 ml Spray",
+        "productCode": "H4FN01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50228.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-62947",
+    "name": "Dawn",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Carlos Benaïm",
+    "description": "An amber fragrance with oud, DAWN is a tribute to the colours of the sunrise, created by Carlos Benaïm for the Desert Gems collection.\nIn the first light of morning, dawn brings its promise and the world vibrates with new energy. The early light grows serenely and steadily with the beating of your heart, heralding the arrival of the sun god. Everything becomes possible. At the centre of this image, a block of oud wood is encircled by pink peppercorns, cedar wood, labdanum and frankincense, joined by a generous wave of Turkish rose absolute. A reflective fragrance. An ode to the colours of the dawn.\nTurkish rose, natural oud, amber wood, oakmoss, frankincense\nTop notes: Turkish Rose Oil, Pink Pepper\nMiddle notes : Turkish Rose Absolute, Olibanum\nBase notes:\nOak-Moss\n,\nVetiver\n, Labdanum,\nOud",
+    "notes": [
+      "Rose",
+      "Pink Pepper",
+      "Olibanum",
+      "Oak-Moss",
+      "Vetiver",
+      "Labdanum",
+      "Oud"
+    ],
+    "noteGroups": {
+      "top": [
+        "Rose",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Rose",
+        "Olibanum"
+      ],
+      "base": [
+        "Oak-Moss",
+        "Vetiver",
+        "Labdanum",
+        "Oud"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Turkish Rose Oil",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Turkish Rose Absolute",
+        "Olibanum"
+      ],
+      "base": [
+        "Oak-Moss",
+        "Vetiver",
+        "Labdanum",
+        "Oud"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H52N01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/62947/parfums/dawn/by-carlos-benaim",
+    "sourceProductId": "62947",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 113386,
+        "size": "100 ml Spray",
+        "productCode": "H52N01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/62947.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50256",
+    "name": "Eau De Magnolia",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "perfumer": "by Carlos Benaïm",
+    "description": "EAU DE MAGNOLIA, a sunlit fragrance of flowers, wood and citrus, by Carlos Benaïm.\nIt's a fragrance all of its own. A natural wonder. With its citrus and rose tones, the magnolia flower is as seductive as it is surprising. Carlos Benaïm reveals this astonishing complexity in this fragrance woven around an exceptional essence. Bergamot, lemon and grapefruit are there to enhance its sparkling, luminous character, with added notes of peach and apricot to bring a welcoming sweetness. Oakmoss and patchouli offer a contrast to this summery impression, summoning an enchanting image: the delicate white petals of magnolia, reaching towards the azure of the sky. A gentle, invigorating scent.\nCitrus, oakmoss, patchouli",
+    "notes": [
+      "Eau de Magnolia",
+      "A Sunlit Fragrance of Flowers",
+      "Wood and Citrus",
+      "By Carlos Benaïm",
+      "Citrus",
+      "Oakmoss",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Eau de Magnolia",
+        "A Sunlit Fragrance of Flowers",
+        "Wood and Citrus",
+        "By Carlos Benaïm",
+        "Citrus",
+        "Oakmoss",
+        "Patchouli"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "EAU DE MAGNOLIA",
+        "a sunlit fragrance of flowers",
+        "wood and citrus",
+        "by Carlos Benaïm",
+        "Citrus",
+        "oakmoss",
+        "patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4GH01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50256/parfums/eau-de-magnolia/by-carlos-benaim",
+    "sourceProductId": "50256",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86664,
+        "size": "50 ml Spray",
+        "productCode": "H4GE01"
+      },
+      {
+        "sku": 86663,
+        "size": "100 ml Spray",
+        "productCode": "H4GH01"
+      },
+      {
+        "sku": 208666,
+        "size": "10 ml Spray",
+        "productCode": "H8MG01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50256.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-49919",
+    "name": "En Passant",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Olivia Giacobetti",
+    "description": "EN PASSANT, a virtuoso fragrance by Olivia Giacobetti that captures all the purity of lilac.\nParis, on a bright morning in May. At the bend of an alleyway, a light breeze carries the scent of lilac. This so-called \"quiet\" flower, which does not have any natural essence, is recreated here by Olivia Giacobetti, with remarkable realism. EN PASSANT makes a feature of its flowers, delicately sun-kissed and dusted. The greenness of their leaves and the crispness of their stems. A final trace of cucumber brings airy freshness, like a veil of crystalline dew. A touch of cedar and white musk, and the skin sings a song of spring.\nLilac, cedar wood, white musk",
+    "notes": [
+      "En Passant",
+      "A Virtuoso Fragrance By Olivia Giacobetti That Captures All the Purity of Lilac",
+      "Lilac",
+      "Cedarwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "En Passant",
+        "A Virtuoso Fragrance By Olivia Giacobetti That Captures All the Purity of Lilac",
+        "Lilac",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "EN PASSANT",
+        "a virtuoso fragrance by Olivia Giacobetti that captures all the purity of lilac",
+        "Lilac",
+        "cedar wood",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4GK01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/49919/parfums/en-passant/by-olivia-giacobetti",
+    "sourceProductId": "49919",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86660,
+        "size": "50 ml Spray",
+        "productCode": "H4GJ01"
+      },
+      {
+        "sku": 86659,
+        "size": "100 ml Spray",
+        "productCode": "H4GK01"
+      },
+      {
+        "sku": 208665,
+        "size": "10 ml Spray",
+        "productCode": "H8MF01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/49919.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50222",
+    "name": "French Lover",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Pierre Bourdon",
+    "description": "Pierre Bourdon's signature fragrance of the masculine ideal, FRENCH LOVER weaves an irresistible sensuality around angelica.\nIn contrast to contemporary archetypes of men's fragrance, Pierre Bourdon is opening up a different path. The path of an intuitively self-evident virility. Genuine enhancement for your skin, with the sophistication that arises from the exceptional quality of its raw materials, FRENCH LOVER captures the innate seduction of a man who has nothing to prove.  With the enhancement of capsicum and galbanum, angelica brings its aromatic, spicy notes together with the sleek elegance of iris, cedar and vetiver. A background of patchouli and white musk exudes an almost animal sensuality, bringing new life to the incense.\nAngelica, capsicum, galbanum, incense, vetiver, patchouli",
+    "notes": [
+      "Pierre Bourdon's Signature Fragrance of the Masculine Ideal",
+      "French Lover Weaves An Irresistible Sensuality Around Angelica",
+      "Angelica",
+      "Capsicum",
+      "Galbanum",
+      "Incense",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pierre Bourdon's Signature Fragrance of the Masculine Ideal",
+        "French Lover Weaves An Irresistible Sensuality Around Angelica",
+        "Angelica",
+        "Capsicum",
+        "Galbanum",
+        "Incense",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pierre Bourdon's signature fragrance of the masculine ideal",
+        "FRENCH LOVER weaves an irresistible sensuality around angelica",
+        "Angelica",
+        "capsicum",
+        "galbanum",
+        "incense",
+        "vetiver",
+        "patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FP01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50222/parfums/french-lover/by-pierre-bourdon",
+    "sourceProductId": "50222",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86692,
+        "size": "50 ml Spray",
+        "productCode": "H4F501"
+      },
+      {
+        "sku": 86691,
+        "size": "100 ml Spray",
+        "productCode": "H4FP01"
+      },
+      {
+        "sku": 208670,
+        "size": "10 ml Spray",
+        "productCode": "H8ML01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50222.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50234",
+    "name": "Geranium Pour Monsieur",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "GÉRANIUM POUR MONSIEUR, the wild charm of a fragrance that plays with tones of fougère.\nForget everything you thought you knew about men's fragrances. Its bold structure and handpicked materials serve to reinvent the fougère, that olfactory archetype of virility with shaving foam accents. Top note: an aromatic frisson of mint and anise, cold and sharp, awakens the spirit. Then the Chinese geranium emerges, with its rosy, spicy notes, which gradually melt into a sensual, warm and enticing scent. Sandalwood, Benzoin Siam and incense add seductive sophistication to this deceptively classic fragrance with pop elegance. Crazy charm.\nMint, anise, geranium, white musk, sandalwood",
+    "notes": [
+      "An Aromatic Frisson of Mint and Anise",
+      "Cold and Sharp",
+      "Awakens the Spirit. Then the Chinese Geranium Emerges",
+      "With Its Rosy",
+      "Spicy Notes",
+      "Which Gradually Melt Into A Sensual",
+      "Warm and Enticing Scent. Sandalwood",
+      "Benzoin Siam and Incense Add Seductive Sophistication To This Deceptively Classic Fragrance with Pop Elegance. Crazy Charm",
+      "Mint",
+      "Anise",
+      "Geranium",
+      "Musk",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "An Aromatic Frisson of Mint and Anise",
+        "Cold and Sharp",
+        "Awakens the Spirit. Then the Chinese Geranium Emerges",
+        "With Its Rosy",
+        "Spicy Notes",
+        "Which Gradually Melt Into A Sensual",
+        "Warm and Enticing Scent. Sandalwood",
+        "Benzoin Siam and Incense Add Seductive Sophistication To This Deceptively Classic Fragrance with Pop Elegance. Crazy Charm",
+        "Mint",
+        "Anise",
+        "Geranium",
+        "Musk",
+        "Sandalwood"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "an aromatic frisson of mint and anise",
+        "cold and sharp",
+        "awakens the spirit. Then the Chinese geranium emerges",
+        "with its rosy",
+        "spicy notes",
+        "which gradually melt into a sensual",
+        "warm and enticing scent. Sandalwood",
+        "Benzoin Siam and incense add seductive sophistication to this deceptively classic fragrance with pop elegance. Crazy charm",
+        "Mint",
+        "anise",
+        "geranium",
+        "white musk",
+        "sandalwood"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FR01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50234/parfums/geranium-pour-monsieur/by-dominique-ropion",
+    "sourceProductId": "50234",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86696,
+        "size": "50 ml Spray",
+        "productCode": "H4F601"
+      },
+      {
+        "sku": 86695,
+        "size": "100 ml Spray",
+        "productCode": "H4FR01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50234.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50168",
+    "name": "Iris Poudre",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Pierre Bourdon",
+    "description": "IRIS POUDRE, the timeless femininity of the great aldehydic floral fragrances, reinvented by Pierre Bourdon.\nA tribute to the great aldehydic florals of the 20th century, IRIS POUDRE revisits their classic elegance in a contemporary and contrasting creation. The ultimate flower of seduction and a genuine treasure in the perfumer's palette, the iris blends its powdery notes with the creamy vanilla of tonka bean and the silky comfort of white musk. Wreathed in aldehydes, this tender heart radiates clean, sparkling effects. A few flowers with cosmetic accents - the rose and the violet - bring the tones of the eternal feminine into this refined creation, oscillating between sophisticated seduction and infinite softness.\nAldehydes, iris, rose, tonka bean, white musk",
+    "notes": [
+      "Iris Poudre",
+      "The Timeless Femininity of the Great Aldehydic Floral Fragrances",
+      "Reinvented By Pierre Bourdon",
+      "Aldehydes",
+      "Iris",
+      "Rose",
+      "Tonka Bean",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Iris Poudre",
+        "The Timeless Femininity of the Great Aldehydic Floral Fragrances",
+        "Reinvented By Pierre Bourdon",
+        "Aldehydes",
+        "Iris",
+        "Rose",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "IRIS POUDRE",
+        "the timeless femininity of the great aldehydic floral fragrances",
+        "reinvented by Pierre Bourdon",
+        "Aldehydes",
+        "iris",
+        "rose",
+        "tonka bean",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FT01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50168/parfums/iris-poudre/by-pierre-bourdon",
+    "sourceProductId": "50168",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86679,
+        "size": "50 ml Spray",
+        "productCode": "H4F701"
+      },
+      {
+        "sku": 86678,
+        "size": "100 ml Spray",
+        "productCode": "H4FT01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50168.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-49921",
+    "name": "L'Eau D'Hiver",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "perfumer": "by Jean-Claude Ellena",
+    "description": "L'EAU D'HIVER, the absolute poetry of a minimalist, comforting fragrance, by Jean-Claude Ellena.\nHere's a fragrance like a perfect scarf, warm and light at the same time, inviting you to curl up with it. \"Warm water\" that takes its lucid minimalism from eau de Cologne, and warms you at the same time. The freshness of bergamot and Hedione unveils a tender, powdery cloud of heliotrope and hawthorn. A fluffy sensation like a mimosa pompom, with notes of sweet almond and honey, that seems weightless on the skin. A subtle, poetic expression of inner comfort.\nBergamot, hedione, hawthorn, heliotrope, hay",
+    "notes": [
+      "L'eau D'hiver",
+      "The Absolute Poetry of A Minimalist",
+      "Comforting Fragrance",
+      "By Jean-Claude Ellena",
+      "Bergamot",
+      "Hedione",
+      "Hawthorn",
+      "Heliotrope",
+      "Hay"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "L'eau D'hiver",
+        "The Absolute Poetry of A Minimalist",
+        "Comforting Fragrance",
+        "By Jean-Claude Ellena",
+        "Bergamot",
+        "Hedione",
+        "Hawthorn",
+        "Heliotrope",
+        "Hay"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "L'EAU D'HIVER",
+        "the absolute poetry of a minimalist",
+        "comforting fragrance",
+        "by Jean-Claude Ellena",
+        "Bergamot",
+        "hedione",
+        "hawthorn",
+        "heliotrope",
+        "hay"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4GR01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/49921/parfums/leau-dhiver/by-jean-claude-ellena",
+    "sourceProductId": "49921",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86662,
+        "size": "50 ml Spray",
+        "productCode": "H4GN01"
+      },
+      {
+        "sku": 86661,
+        "size": "100 ml Spray",
+        "productCode": "H4GR01"
+      },
+      {
+        "sku": 208668,
+        "size": "10 ml Spray",
+        "productCode": "H8MJ01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/49921.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50136",
+    "name": "Le Parfum De Therese",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Edmond Roudnitska",
+    "description": "LE PARFUM DE THÉRÈSE, a timeless declaration of love by Edmond Roudnitska.\nThis is a declaration. The long kept secret of a fragrance created in the early 1950s by the greatest perfumer of the 20th century: Edmond Roudnitska. Designed especially for his wife Thérèse, this is a harmonious blend of plum, with a hint of melon and cucumber, with prophetic modernity. A floral heart of rose and jasmine, sensual and carnal, set against a leathery base of timeless elegance. Worn by only one woman for nearly half a century, then entrusted to Frédéric Malle, this hidden masterpiece of perfumery is rediscovered anew every time it is worn. Like a love affair that never stops surprising you, day after day.\nMelon, rose, jasmine, plum, leather",
+    "notes": [
+      "Le Parfum de Thérèse",
+      "A Timeless Declaration of Love By Edmond Roudnitska",
+      "Melon",
+      "Rose",
+      "Jasmine",
+      "Plum",
+      "Leather"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Le Parfum de Thérèse",
+        "A Timeless Declaration of Love By Edmond Roudnitska",
+        "Melon",
+        "Rose",
+        "Jasmine",
+        "Plum",
+        "Leather"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "LE PARFUM DE THÉRÈSE",
+        "a timeless declaration of love by Edmond Roudnitska",
+        "Melon",
+        "rose",
+        "jasmine",
+        "plum",
+        "leather"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FW01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50136/parfums/le-parfum-de-therese/by-edmond-roudnitska",
+    "sourceProductId": "50136",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86672,
+        "size": "100 ml Spray",
+        "productCode": "H4FW01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50136.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50155",
+    "name": "Lipstick Rose",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Ralf Schweiger",
+    "description": "LIPSTICK ROSE, the fragrance of timeless glamour, by Ralf Schwieger.\nAn eternal gesture of seduction, that intimate moment when a star, in the quiet comfort of her dressing room, looks in the mirror and glides her lipstick over her lips. The powdery fragrances produced by the violet and the iris, two flowers associated with eye shadow and other make-up products, whose scents conjure up the magnetic appeal of the eternal feminine. To elicit a smile, a playful, juicy note of raspberry counters the effervescence of the grapefruit. And for sweetness, there are velvet threads of vanilla and white musk. It's all there. Showtime.\nViolet, rose, white musk, sandalwood",
+    "notes": [
+      "Lipstick Rose",
+      "The Fragrance of Timeless Glamour",
+      "By Ralf Schwieger",
+      "Violet",
+      "Rose",
+      "Musk",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lipstick Rose",
+        "The Fragrance of Timeless Glamour",
+        "By Ralf Schwieger",
+        "Violet",
+        "Rose",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "LIPSTICK ROSE",
+        "the fragrance of timeless glamour",
+        "by Ralf Schwieger",
+        "Violet",
+        "rose",
+        "white musk",
+        "sandalwood"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FX01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50155/parfums/lipstick-rose/by-ralf-schwieger",
+    "sourceProductId": "50155",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86675,
+        "size": "50 ml Spray",
+        "productCode": "H4F901"
+      },
+      {
+        "sku": 86674,
+        "size": "100 ml Spray",
+        "productCode": "H4FX01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50155.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50162",
+    "name": "Lys Mediterranee",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Edouard Fléchier",
+    "description": "A landscape fragrance by Edouard Fléchier, LYS MEDITERRANÉE recreates the scent of a sea flower.\nIt's a summer evening on the shores of the Mediterranean. A delicately salty scent from the sea is mingling with the fragrance of lilies reaching towards the sky. These majestic flowers, which do not have any natural essence, inspired Edouard Fléchier to create this radiant, virtuoso composition. The sun-kissed, spicy fragrance of their pearly petals emerges, with the botanical moisture of their stems, represented by angelica with a hint of sea spray. A figurative, romantic and elegant scent. Ideal for terraces at the zenith or in the heart of starry nights.\nAngelica, orange blossom, marine blend, white musk",
+    "notes": [
+      "A Landscape Fragrance By Edouard Fléchier",
+      "Lys Mediterranée Recreates the Scent of A Sea Flower",
+      "Angelica",
+      "Orange Blossom",
+      "Marine Blend",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A Landscape Fragrance By Edouard Fléchier",
+        "Lys Mediterranée Recreates the Scent of A Sea Flower",
+        "Angelica",
+        "Orange Blossom",
+        "Marine Blend",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A landscape fragrance by Edouard Fléchier",
+        "LYS MEDITERRANÉE recreates the scent of a sea flower",
+        "Angelica",
+        "orange blossom",
+        "marine blend",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FY01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50162/parfums/lys-mediterranee/by-edouard-flechier",
+    "sourceProductId": "50162",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86677,
+        "size": "50 ml Spray",
+        "productCode": "H4FA01"
+      },
+      {
+        "sku": 86676,
+        "size": "100 ml Spray",
+        "productCode": "H4FY01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50162.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-49934",
+    "name": "Monsieur.",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Bruno Jovanovic",
+    "description": "MONSIEUR. An uncompromising fragrance that sublimates a patchouli dosed to excess, by Bruno Jovanovic.\nWoody, exotic, sensual, full of mystery... Patchouli is the favourite ingredient of many perfumers. Bruno Jovanovic dedicates this radical score to it, built around an exceptional dosage of patchouli obtained by molecular distillation, an extraction technique that retains only its finest facets. The top notes include mandarin offering a zesty, luminous counterpoint to the patchouli, which blossoms fully in the luscious, vanilla notes of a rum absolute. Cedar and incense infuse the ensemble with a mystical vibrancy, rounded out by musk on the skin, for perfect comfort. Raw but sophisticated, civilised with a wild streak... That's MONSIEUR. That's all there is to it.\nMandarin, patchouli, rum, incense, cedar",
+    "notes": [
+      "Monsieur. An Uncompromising Fragrance That Sublimates A Patchouli Dosed To Excess",
+      "By Bruno Jovanovic",
+      "Mandarin",
+      "Patchouli",
+      "Rum",
+      "Incense",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Monsieur. An Uncompromising Fragrance That Sublimates A Patchouli Dosed To Excess",
+        "By Bruno Jovanovic",
+        "Mandarin",
+        "Patchouli",
+        "Rum",
+        "Incense",
+        "Cedarwood"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "MONSIEUR. An uncompromising fragrance that sublimates a patchouli dosed to excess",
+        "by Bruno Jovanovic",
+        "Mandarin",
+        "patchouli",
+        "rum",
+        "incense",
+        "cedar"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4HJ01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/49934/parfums/monsieur/by-bruno-jovanovic",
+    "sourceProductId": "49934",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 113122,
+        "size": "50 ml Spray",
+        "productCode": "H4HH01"
+      },
+      {
+        "sku": 113124,
+        "size": "100 ml Spray",
+        "productCode": "H4HJ01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/49934.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-57108",
+    "name": "Music For A While",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Carlos Benaïm",
+    "description": "MUSIC FOR A WHILE, a lively fruity fragrance by Carlos Benaïm.\nLike music, perfumery is all about finding harmony. Carlos Benaïm has created an olfactory hit with an unforgettable melody: a warm and cool combination of lavender and vanilla, both lively and sensual, feminine and masculine. Resolutely paradoxical, MUSIC FOR A WHILE plays between light and shade, from the joyous delight of pineapple to the mysterious woody character of patchouli. Part classical, part contemporary, elegant yet provocative, its sensual effect adheres to your skin, like an irresistible refrain you want to listen to on loop. Over and over.\nCitrus, pineapple, lavender, vanilla, patchouli",
+    "notes": [
+      "Music For A While",
+      "A Lively Fruity Fragrance By Carlos Benaïm",
+      "Citrus",
+      "Pineapple",
+      "Lavender",
+      "Vanilla",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Music For A While",
+        "A Lively Fruity Fragrance By Carlos Benaïm",
+        "Citrus",
+        "Pineapple",
+        "Lavender",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "MUSIC FOR A WHILE",
+        "a lively fruity fragrance by Carlos Benaïm",
+        "Citrus",
+        "pineapple",
+        "lavender",
+        "vanilla",
+        "patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4PK01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/57108/parfums/music-for-a-while/by-carlos-benaim",
+    "sourceProductId": "57108",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 113125,
+        "size": "50 ml Spray",
+        "productCode": "H4PJ01"
+      },
+      {
+        "sku": 113126,
+        "size": "100 ml Spray",
+        "productCode": "H4PK01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/57108.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50288",
+    "name": "Outrageous",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de toilette",
+    "perfumer": "by Sophia Grojsman",
+    "description": "An Eau de toilette by Sophia Grojsman, Outrageous! is a cocktail of energy, light and freedom. Summer joy in a bottle.\nA Night in Rio. The electrifying momentum of a Brazilian dance. The feeling of freedom on the beach. Sophia Grojsman, always alert to the possibilities of an innovative idea, decided to interpret the scent of a glass of caipirinha. Outrageous! A youthful explosion of bergamot, mandarin and green apple; a lush burst of cinnamon on a mesmerising base of musk and ambroxan.\nNeroli, bergamot, apple, orange blossom, white musk",
+    "notes": [
+      "An Eau de Toilette By Sophia Grojsman",
+      "Outrageous! Is A Cocktail of Energy",
+      "Light and Freedom. Summer Joy in A Bottle",
+      "Neroli",
+      "Bergamot",
+      "Apple",
+      "Orange Blossom",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "An Eau de Toilette By Sophia Grojsman",
+        "Outrageous! Is A Cocktail of Energy",
+        "Light and Freedom. Summer Joy in A Bottle",
+        "Neroli",
+        "Bergamot",
+        "Apple",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "An Eau de toilette by Sophia Grojsman",
+        "Outrageous! is a cocktail of energy",
+        "light and freedom. Summer joy in a bottle",
+        "Neroli",
+        "bergamot",
+        "apple",
+        "orange blossom",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4H501_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50288/parfums/outrageous/by-sophia-grojsman",
+    "sourceProductId": "50288",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86667,
+        "size": "100 ml Spray",
+        "productCode": "H4H501"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50288.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-71255",
+    "name": "Rose & Cuir",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Jean-Claude Ellena",
+    "description": "ROSE & CUIR, a fragrance of contrasts between flower and skin, by Jean-Claude Ellena.\nOne is the queen of flowers, delicate and sensual. The other is a sleek, noble, animalic material. Where they meet, Jean-Claude Ellena works to create a perfect balance between them. Enhanced with exceptional extracts of Timut pepper and bourbon geranium, the rose appears pure, wonderfully streamlined. From its fresh notes, there gradually emerges a dark, mysterious leather blend, patinated with vetiver essence that accentuates its earthy effects. Floral in character, ROSE & CUIR asserts itself over time, revealing an androgynous sensuality of absolute mastery.\nBlackcurrant, pepper, rose, leather, vetiver",
+    "notes": [
+      "Rose & Cuir",
+      "A Fragrance of Contrasts Between Flower and Skin",
+      "By Jean-Claude Ellena",
+      "Blackcurrant",
+      "Pepper",
+      "Rose",
+      "Leather",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Rose & Cuir",
+        "A Fragrance of Contrasts Between Flower and Skin",
+        "By Jean-Claude Ellena",
+        "Blackcurrant",
+        "Pepper",
+        "Rose",
+        "Leather",
+        "Vetiver"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "ROSE & CUIR",
+        "a fragrance of contrasts between flower and skin",
+        "by Jean-Claude Ellena",
+        "Blackcurrant",
+        "pepper",
+        "rose",
+        "leather",
+        "vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H50T01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/71255/parfums/rose-cuir/by-jean-claude-ellena",
+    "sourceProductId": "71255",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 113315,
+        "size": "50 ml Spray",
+        "productCode": "H50W01"
+      },
+      {
+        "sku": 113367,
+        "size": "100 ml Spray",
+        "productCode": "H50T01"
+      },
+      {
+        "sku": 113387,
+        "size": "30 ml Spray",
+        "productCode": "H51001"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/71255.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-54294",
+    "name": "Sale Gosse",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de toilette",
+    "perfumer": "Fanny Bal",
+    "description": "With Sale Gosse, Fanny Bal has created an eau de toilette for women and men, as irresistible as a cuddly toy and as cheeky as bubble gum.\nAn ode to the French movie,\nLes Enfants Terribles\nby Jean Cocteau, their naughty manners, scribbles and pranks of all kinds. This eau de toilette is a tribute to those who know how to make amends thanks to that mischievous look that nobody can resist.\nThe notes of Sale Gosse oscillate between the tenderness of petitgrain and neroli, and the ingenuity of a raspberry and violet pairing. A fragrance as playful as a quickly forgiven mistake, and as tender as a kiss on the neck.\nNeroli, petitgrain, bergamot, rosemary, violet, Bubble gum",
+    "notes": [
+      "Les Enfants Terribles",
+      "Neroli",
+      "Petitgrain",
+      "Bergamot",
+      "Rosemary",
+      "Violet",
+      "Bubble Gum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Les Enfants Terribles",
+        "Neroli",
+        "Petitgrain",
+        "Bergamot",
+        "Rosemary",
+        "Violet",
+        "Bubble Gum"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Les Enfants Terribles",
+        "Neroli",
+        "petitgrain",
+        "bergamot",
+        "rosemary",
+        "violet",
+        "Bubble gum"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4JM01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/54294/parfums/sale-gosse/by-fanny-bal",
+    "sourceProductId": "54294",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 87813,
+        "size": "100 ml Spray",
+        "productCode": "H4JM01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/54294.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-125716",
+    "name": "Synthetic Nature",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "par Anne Flipo",
+    "description": "SYNTHETIC NATURE, a dazzling floral tribute to the iconic fragrances of the seventies, by Anne Flipo.\nThis ultra-contemporary floral portrays lush, stylised nature in saturated colors. As the first of Anne Flipo's creations for Frédéric Malle, SYNTHETIC NATURE revisits some cult fragrances of the 1970s with a newly dazzling modernity, where synthesis recreates the poetry of nature. Jasmine and ylang-ylang mingle their sunny scents with the crisp botanical note of hyacinth, underscored by basil. A note of blackcurrant and styrallyl acetate brings a fluorescent glow to this bouquet, set against a dark base of patchouli, a mythical ingredient in the perfumers' palette and emblematic of the green cypresses of the seventies.\nBasil, lily of the valley, jasmine, patchouli",
+    "notes": [
+      "Synthetic Nature",
+      "A Dazzling Floral Tribute To the Iconic Fragrances of the Seventies",
+      "By Anne Flipo",
+      "Basil",
+      "Lily of the Valley",
+      "Jasmine",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Synthetic Nature",
+        "A Dazzling Floral Tribute To the Iconic Fragrances of the Seventies",
+        "By Anne Flipo",
+        "Basil",
+        "Lily of the Valley",
+        "Jasmine",
+        "Patchouli"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "SYNTHETIC NATURE",
+        "a dazzling floral tribute to the iconic fragrances of the seventies",
+        "by Anne Flipo",
+        "Basil",
+        "lily of the valley",
+        "jasmine",
+        "patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H7K301_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/125716/parfums/synthetic-nature/by-anne-flipo",
+    "sourceProductId": "125716",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 183472,
+        "size": "50 ml",
+        "productCode": "H7K301"
+      },
+      {
+        "sku": 183470,
+        "size": "100 ml",
+        "productCode": "H7K101"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/125716.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-71158",
+    "name": "The Moon",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Julien Rasquinet",
+    "description": "A blend of oud and red fruits, THE MOON fragrance is a tribute to the moon created by Julien Rasquinet for the Desert Gems collection.\nIn the Middle East, the pace of life is marked by the moon. Veiled, unveiled: its clear halo signals the beginning and end of all festivities. The Arabic language also calls on the moon to speak of love. There's no sweeter, more subtle way to declare your love, to talk about the beauty of your beloved and to confess your eternal devotion. A sumptuous, warm and refined blend of rose, oud and incense, THE MOON can still bring a surprise - a profusion of blackberry and redcurrant. The magic of these red berries, with their soft and colourful fragrances, evokes the fruity scents of hookahs and the sweetness of eastern nights.\nNutmeg, rose, natural oud, leather blend, raspberry\nTop notes: Raspberry, Lychee, Saffron\nMiddle notes:\nFrankincense\n, Turkish Rose\nBase notes:\nOud\n,\nLeather",
+    "notes": [
+      "Raspberry",
+      "Lychee",
+      "Saffron",
+      "Frankincense",
+      "Rose",
+      "Oud",
+      "Leather"
+    ],
+    "noteGroups": {
+      "top": [
+        "Raspberry",
+        "Lychee",
+        "Saffron"
+      ],
+      "middle": [
+        "Frankincense",
+        "Rose"
+      ],
+      "base": [
+        "Oud",
+        "Leather"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Raspberry",
+        "Lychee",
+        "Saffron"
+      ],
+      "middle": [
+        "Frankincense",
+        "Turkish Rose"
+      ],
+      "base": [
+        "Oud",
+        "Leather"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4PF01_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/71158/parfums/the-moon/by-julien-rasquinet",
+    "sourceProductId": "71158",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 110498,
+        "size": "50 ml Spray",
+        "productCode": "H4PE01"
+      },
+      {
+        "sku": 110497,
+        "size": "100 ml Spray",
+        "productCode": "H4PF01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/71158.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-49915",
+    "name": "Une Fleur De Cassie",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion",
+    "description": "UNE FLEUR DE CASSIE, the fragrance of boundless elegance by Dominique Ropion.\nA rare flower in the mimosa family, cassia gives an intense, captivating fragrance. Powdery, honeyed, slightly animalic... a marvel, recreated with precision by Dominique Ropion - known as the master of flowers - in this immensely elegant fragrance, evoking a silhouette from the Paris of the Roaring Twenties. As downy as a feather boa, the cassia's yellow tassels curl up in a sensual sheath woven of precious materials: jasmine, sandalwood and vanilla, rounded off by musk. An haute couture design, created using aldehydes that highlight its timeless modernity.\nCassia, mimosa, sandalwood, vanilla",
+    "notes": [
+      "Une Fleur de Cassie",
+      "The Fragrance of Boundless Elegance By Dominique Ropion",
+      "Cassia",
+      "Mimosa",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Une Fleur de Cassie",
+        "The Fragrance of Boundless Elegance By Dominique Ropion",
+        "Cassia",
+        "Mimosa",
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "UNE FLEUR DE CASSIE",
+        "the fragrance of boundless elegance by Dominique Ropion",
+        "Cassia",
+        "mimosa",
+        "sandalwood",
+        "vanilla"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4H101_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/49915/parfums/une-fleur-de-cassie/by-dominique-ropion",
+    "sourceProductId": "49915",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86655,
+        "size": "100 ml Spray",
+        "productCode": "H4H101"
+      },
+      {
+        "sku": 86656,
+        "size": "50 ml Spray",
+        "productCode": "H4H001"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/49915.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "fm-50189",
+    "name": "Vetiver Extraordinaire",
+    "brand": "Frédéric Malle",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "perfumer": "by Dominique Ropion\t",
+    "description": "VETIVER EXTRAORDINAIRE, the very essence of charm, by Dominique Ropion.\nA masculine ingredient par excellence, vetiver distills an unprecedented charm at the heart of this fragrance, thanks to a Haitian essence of exceptional quality. Contrary to the stereotypes of the genre, Dominique Ropion gives this precious root the irresistible lightness of those who don't take themselves too seriously. Bergamot, bitter orange and pink peppercorn give it that playful something, while the sandalwood, oakmoss and musk multiply its power of attraction and anchor it on the skin. Elegant and sophisticated, but also original and witty, this vetiver is the image of the man who chooses to wear it. In a word: extraordinary.\nBitter orange, vetiver, sandalwood, oakmoss, amber",
+    "notes": [
+      "Vetiver Extraordinaire",
+      "The Very Essence of Charm",
+      "By Dominique Ropion",
+      "Bitter Orange",
+      "Vetiver",
+      "Sandalwood",
+      "Oakmoss",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Vetiver Extraordinaire",
+        "The Very Essence of Charm",
+        "By Dominique Ropion",
+        "Bitter Orange",
+        "Vetiver",
+        "Sandalwood",
+        "Oakmoss",
+        "Amber"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "VETIVER EXTRAORDINAIRE",
+        "the very essence of charm",
+        "by Dominique Ropion",
+        "Bitter orange",
+        "vetiver",
+        "sandalwood",
+        "oakmoss",
+        "amber"
+      ]
+    },
+    "accords": [],
+    "collection": "Perfume",
+    "imageSourceUrl": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4G301_630x615_0.jpg",
+    "sourceUrl": "https://www.fredericmalle.com/product/19566/50189/parfums/vetiver-extraordinaire/by-dominique-ropion",
+    "sourceProductId": "50189",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "sku": 86686,
+        "size": "50 ml Spray",
+        "productCode": "H4FG01"
+      },
+      {
+        "sku": 86685,
+        "size": "100 ml Spray",
+        "productCode": "H4G301"
+      },
+      {
+        "sku": 208669,
+        "size": "10 ml Spray",
+        "productCode": "H8MK01"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/frederic-malle/50189.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099017",
+    "name": "Velvet Violet",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Velvet Violet reveals an unexpected facet of violet. Inspired by velvet, the fragrance pairs the woody freshness of violet with the warm nuances of sesame. Its semi-transparent glass in deep purple hue reflects the tones of the flower and the sheen of velvet. At its base, a graphic motif inspired by sesame expresses the dialogue between colour, texture, and fragrance.\n88% naturally-derived ingredients\nAn unexpected pairing of a fresh flower and a roasted seed. Defined by contrasts and plays of texture, Velvet Violet belongs to a woody floral gourmand family. From the first notes, the duality is present. Focusing more on the leaf than the flower, violet – green, fresh and subtly – takes on a modern profile. In contrast, sesame unfolds as a toasted accord with rich, nutty facets. This interplay evolves seamlessly on the skin. The opening is vibrant, as the violet is sharpened by pink pepper. The heart introduces a deeper dimension through sesame and barley. Within the base, vetiver and tonka bean anchor the fragrance and leave a lasting glow.\nHow to refill",
+    "notes": [
+      "Pink Pepper",
+      "Violet Leaf",
+      "Clary Sage",
+      "Toasted Sesame",
+      "Barley Roasted",
+      "Grilled Tonka Beans",
+      "Benzoin Resinoide",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Violet Leaf",
+        "Clary Sage"
+      ],
+      "middle": [
+        "Toasted Sesame",
+        "Barley Roasted"
+      ],
+      "base": [
+        "Grilled Tonka Beans",
+        "Benzoin Resinoide",
+        "Vetiver"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Violet Leaf",
+        "Clary Sage Essence"
+      ],
+      "middle": [
+        "Toasted Sesame Absolute",
+        "Barley Roasted"
+      ],
+      "base": [
+        "Grilled Tonka Beans",
+        "Benzoin Resinoide",
+        "Vetiver Essence"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN-VELVETMOMENTUM2026-EDPFRONT_3x4_32f96b81-cb16-4f37-9810-25f738e0ee91.jpg?v=1783525000",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099017",
+    "sourceProductId": "16140853379450",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "57036532711802",
+        "title": "100 ML",
+        "sku": "8411061096284"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099017.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099009",
+    "name": "Soie Malaquais",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Soie Malaquais. A sensorial journey through texture, an olfactory fabric. In a play of dualities, the balsamic addiction of chestnut wrapped in a delicate silk accord, and the unexpected harmony of glass and porcelain in a refined artisanal piece.\n88% naturally-derived ingredients\nSilky and intimate, like a second skin, the fragrance recalls the fluid, sensual touch of the silk dresses from the Parisian boutique on Quai Malaquais. In a play of dualities, the balsamic addiction of chestnut wraps itself in a delicate silk accord. On the bottle, another journey unfolds. A voyage into the art of ceramics, with an artisanal porcelain piece adorned with a dreamlike bird motif. In a poetry of contrasts, glass and porcelain come together to form a surprising and refined combination.\nHow to refill",
+    "notes": [
+      "Bergamot",
+      "Blackcurrant",
+      "Rose",
+      "Silk",
+      "Chestnut",
+      "Cocoa"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Blackcurrant"
+      ],
+      "middle": [
+        "Rose",
+        "Silk"
+      ],
+      "base": [
+        "Chestnut",
+        "Cocoa"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Blackcurrant"
+      ],
+      "middle": [
+        "Rose",
+        "Silk"
+      ],
+      "base": [
+        "Chestnut",
+        "Cocoa"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_220_007_soie_malaquais_digit_B_3x4_bb3d8895-71bc-4592-ac89-cff5bfba669a.jpg?v=1722955581",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099009",
+    "sourceProductId": "7059873956036",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227453071556",
+        "title": "100 ML",
+        "sku": "8411061992616"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099009.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099016",
+    "name": "Havana Gold",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "A journey, evoking the atmosphere of Havana bars where the air is steeped in smoke, joy, and sensuality. An unexpected combination: the nostalgic addiction of liquorice and the hypnotic warmth of tobacco absolute. The fragrance opens on a cool, aniseed breeze with gourmand, liquorous notes. In contrast, tobacco leaves unfold in smoky, spicy, leathery, woody tones, fading into balsamic warmth — benzoïn, cistus, roasted tonka bean. A golden opulence settles on the skin: intoxicating yet refined, deep and full of nuance.\nAmber-tinted glass merges with an aged brass base, finely crafted with a patina that adds a nuanced and unique beauty.\n90% naturally-derived ingredients\n“Havana Gold is a surprising alchemy between nostalgic, gourmand liquorice and the darkest, leathery facets of tobacco.” — Jordi Fernandez, Perfumer\nHow to refill",
+    "notes": [
+      "Mandarin",
+      "Liquorice",
+      "Star Anise",
+      "Cinnamon",
+      "Tobacco Leaves",
+      "Benzoin",
+      "Roasted Tonka",
+      "Leather",
+      "Cypriol"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin",
+        "Liquorice",
+        "Star Anise"
+      ],
+      "middle": [
+        "Cinnamon",
+        "Tobacco Leaves",
+        "Benzoin"
+      ],
+      "base": [
+        "Roasted Tonka",
+        "Leather",
+        "Cypriol"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Mandarin",
+        "Liquorice Accord",
+        "Star Anise"
+      ],
+      "middle": [
+        "Cinnamon",
+        "Tobacco Leaves Absolute",
+        "Benzoin"
+      ],
+      "base": [
+        "Roasted Tonka",
+        "Leather Accord",
+        "Cypriol"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/HG_SOLO_3X4_RESIZED.jpg?v=1752240016",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099016",
+    "sourceProductId": "15211157258618",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "55627939971450",
+        "title": "100 ML",
+        "sku": "8411061092088"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099016.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099005",
+    "name": "Fleur du Mal",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Fleur du Mal, a leather flower. The osmanthus from Dries Van Noten’s garden is draped in suede and reveals a captivating animality. Echoing this, the bottle combines a deep purple glass with a tortoiseshell pattern. A vision of exquisite refinement.\n88% naturally-derived ingredients\nDraped in velvety leather, this imagined flower reveals its most carnal petals and a captivating animality. In echo of this seemingly innocent bloom, an animal-inspired bottle reflects Dries Van Noten’s wardrobe, with a tortoiseshell motif and deep violet glass. In extreme refinement, expressive prints and solid colour come together, with subtle plays of transparency.\nFleur du Mal keeps its secrets. Beneath its delicate corolla, the osmanthus alone exudes an intense fragrance, balanced between angelic floral notes and soft animal undertones. A leather-like caress of apricot, the milky freshness of peach, the velvety texture of a petal. With the suede accord, sensuality unfolds and becomes almost intoxicating, leaving iridescent, musky traces on the skin. Opulent yet intimate, the sillage becomes almost tactile.\nHow to refill",
+    "notes": [
+      "Peach Juice",
+      "Osmanthus",
+      "Jasmine",
+      "Suede",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [
+        "Peach Juice"
+      ],
+      "middle": [
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "base": [
+        "Suede",
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Peach Juice"
+      ],
+      "middle": [
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "base": [
+        "Suede",
+        "Amber"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_240_008_fleur_du_mal_digit_B_3x4_ce67970e-4488-4ac5-88cf-f937f3b6938c.jpg?v=1722955639",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099005",
+    "sourceProductId": "7059870613700",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227446059204",
+        "title": "100 ML",
+        "sku": "8411061992494"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099005.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099001",
+    "name": "Jardin de l'Orangerie",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Solar and sensual. The bottle brings together a bright yellow glass with a fragile rose base.\n90% naturally derived ingredients\n“A beautiful duality of nature-inspired orange blossom with the contrast of sweet, opulent, milky, mature orange blossom; this flower can express so many different faces.” — Daniela Andrier, Perfumer\nHow to refill",
+    "notes": [
+      "Neroli Buds",
+      "Jasmine",
+      "Ylang-Ylang",
+      "Orange Blossom Milk",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Neroli Buds"
+      ],
+      "middle": [
+        "Jasmine",
+        "Ylang-Ylang"
+      ],
+      "base": [
+        "Orange Blossom Milk",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Neroli Buds"
+      ],
+      "middle": [
+        "Jasmine",
+        "Ylang Ylang"
+      ],
+      "base": [
+        "Orange Blossom Milk",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_210_010_jardin_orangerie_digit_B_3x4_1211c316-b4ae-41a0-b493-8a32535ce49a.jpg?v=1722955817",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099001",
+    "sourceProductId": "7048479015108",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41178512851140",
+        "title": "100 ML",
+        "sku": "8411061991459"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099001.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099007",
+    "name": "Neon Garden",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Elegant and joyful. A color block bottle featuring a neon green base with sky blue glass.\n89% naturally-derived ingredients\n“I wanted to express unconventional classicism through using orris, from iris root, which is so elegant and haute couture. But I wanted to shake it, to heckle it, with the energy of mint.”  — Fanny Bal, Perfumer\nHow to refill",
+    "notes": [
+      "Mint Essence Duo (spearmint & Peppermint)",
+      "Carrot Heart",
+      "Iris",
+      "Musk",
+      "Ambroxan"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mint Essence Duo (spearmint & Peppermint)"
+      ],
+      "middle": [
+        "Carrot Heart",
+        "Iris"
+      ],
+      "base": [
+        "Musk",
+        "Ambroxan"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Mint Essence Duo (Spearmint & Peppermint)"
+      ],
+      "middle": [
+        "Carrot Heart",
+        "Iris Accord"
+      ],
+      "base": [
+        "Musk",
+        "Ambroxan"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_180_005_neon_garden_digit_B_3x4_ad4c0468-9406-4200-b3f2-92e97df0d01c.jpg?v=1722955723",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099007",
+    "sourceProductId": "7059870777540",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227446354116",
+        "title": "100 ML",
+        "sku": "8411061992593"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099007.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099006",
+    "name": "Raving Rose",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "In Dries Van Noten’s garden, not all roses are what they seem. This one is bold, modern, explosive. Raving Rose defies expectations, transforming the classic bloom into something thrillingly modern. A lush, opulent rose is electrified by the intensity of pepper that exudes a fresh yet fiery sensation - sensual yet unexpected.\nThe bottle is a study in contrast with a vivid bubblegum pink cap set against a striking metallic red base that offers a modernist composition both sleek and captivating.\n90% naturally-derived ingredients\n“The rose is an icon for Dries but I wanted to disrupt its classicism to create a rose that is not a rose, not taking itself too seriously, ultra-modern and spicy.” — Louise Turner, Perfumer\nHow to refill",
+    "notes": [
+      "Pink Pepper",
+      "Black Pepper",
+      "Rosa Water",
+      "Rose",
+      "Cashmeran",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middle": [
+        "Rosa Water",
+        "Rose"
+      ],
+      "base": [
+        "Cashmeran",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middle": [
+        "Rosa Water",
+        "Rose Absolute"
+      ],
+      "base": [
+        "Cashmeran",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY03_290_032_raving_rose_digit_B_3x4_0.jpg?v=1723553471",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099006",
+    "sourceProductId": "7059875463364",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227455201476",
+        "title": "100 ML",
+        "sku": "8411061992531"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099006.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099011",
+    "name": "Crazy Basil",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "An intensely green fragrance where basil is given centre stage. Crazy Basil is an overdose of freshness, as the use of absolu results in an aromatic generosity that wraps around a hot core of cedarwood. Like a vibrant expression of a herb garden amplified by amber richness and resinous accents, it brings new dynamism to this sun-drenched plant.\nWith chromatic intensity and affirming the master of colour that is true to Dries Van Noten, the bottle boasts a minimalist duet of green; clear and cool, warm and saturated.\n90% naturally-derived ingredients\n“A true-to-nature aromatic note of basil getting crazy with the vibration of cedarwood and amber.” — Jean-Christophe Hérault, Perfumer\nHow to refill",
+    "notes": [
+      "Basil",
+      "Bergamot",
+      "Mandarin",
+      "Geranium",
+      "Lavandin",
+      "Rosemary",
+      "Cedarwood​",
+      "Musks​",
+      "Hinoki Wood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Basil",
+        "Bergamot",
+        "Mandarin"
+      ],
+      "middle": [
+        "Geranium",
+        "Lavandin",
+        "Rosemary"
+      ],
+      "base": [
+        "Cedarwood​",
+        "Musks​",
+        "Hinoki Wood"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Basil Absolute",
+        "Bergamot",
+        "Mandarin"
+      ],
+      "middle": [
+        "Geranium",
+        "Lavandin",
+        "Rosemary"
+      ],
+      "base": [
+        "Cedarwood​",
+        "Musks​",
+        "Hinoki Wood Accord"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_240424_JMBI_DAY02_270_008_crazy_basil_Print.jpg?v=1723045303",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099011",
+    "sourceProductId": "9895537770840",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "49655074193752",
+        "title": "100 ML",
+        "sku": "8411061073896"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099011.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099004",
+    "name": "Santal Greenery",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Addictive and elegant. A delicate white opaque glass bottle with a green base, decorated with shadows of nature.\n90% naturally-derived ingredients\n“The union of two opposites, yet perfectly and poetically balanced: resilient sandalwood with the lively, green leaf of fig - the everlasting and the ephemeral together.” — Nisrine Grillie, Perfumer\nHow to refill",
+    "notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Violet Leaf",
+      "Creamy Fig",
+      "Sandalwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Violet Leaf",
+        "Creamy Fig"
+      ],
+      "base": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middle": [
+        "Violet Leaves",
+        "Creamy Fig Accord"
+      ],
+      "base": [
+        "Sandalwood",
+        "White Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY03_300_009_santal_greenery_digit_D_3x4_f800a87d-d0e2-413e-b3e7-1864b8e34f92.jpg?v=1722955981",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099004",
+    "sourceProductId": "7059876020420",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227455955140",
+        "title": "100 ML",
+        "sku": "8411061992487"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099004.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099013",
+    "name": "Camomille Satin",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Camomille Satin reimagines the wildflower’s soft innocence by dousing it with the gourmand and leathery facets of vanilla. The bucolic day flower shifts to night mode. Like the fluid drape of precious satin, a tactile charm surfaces as an aromatic, amber juice that is at once softly decadent and sophisticated. An enveloping evocation of savoir-faire.\nThe bottle brings together powder pink glass and brushed metal covered in a gold brocade-inspired pattern.\n87% naturally-derived ingredients\n“The extreme addiction of vanilla bean, coloured by the bucolic charm of chamomile.” — Julien Rasquinet and Paul Guerlain, Perfumers\nHow to refill",
+    "notes": [
+      "Chamomile",
+      "Petit Grain Bigarade",
+      "Lavender Absolute​",
+      "Orange Flower Absolute​",
+      "Rose",
+      "Vanilla Bean​",
+      "Musk​",
+      "Galbanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Chamomile",
+        "Petit Grain Bigarade"
+      ],
+      "middle": [
+        "Lavender Absolute​",
+        "Orange Flower Absolute​",
+        "Rose"
+      ],
+      "base": [
+        "Vanilla Bean​",
+        "Musk​",
+        "Galbanum"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Chamomile",
+        "Petit Grain Bigarade"
+      ],
+      "middle": [
+        "Lavender Absolute​",
+        "Orange Flower Absolute​",
+        "Rose Turkish Absolute"
+      ],
+      "base": [
+        "Vanilla Bean​",
+        "Musk​",
+        "Galbanum"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_240424_JMBI_DAY02_230_011_Camomille_Satin_print.jpg?v=1723045298",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099013",
+    "sourceProductId": "9894167970136",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "49649789501784",
+        "title": "100 ML",
+        "sku": "8411061073926"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099013.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099008",
+    "name": "Rock The Myrrh",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Rock the Myrrh captures the mystique of Parisian boutiques. Myrrh is crafted in all its richness, wrapped in precious resins and a hint of leathery animality. Hand-painted ceramic pairs with amber glass, creating surprising effects of texture and light.\n90% naturally-derived ingredients\nThe woodwork, the mystical and intimate ambiance, and the eclectic spirit of the neighbourhood between churches and art galleries. Through the lens of impossible combinations, myrrh is explored in all its dimensions to capture the richness of this fascinating ingredient, adorned here with precious resins and a hint of leather animality. As an ode to artisanal craftsmanship, the bottle pairs a beautifully hand-painted ceramic base with subtly graduated amber glass. A play of contrasts where texture and light unfold in unexpected ways.\nHow to refill",
+    "notes": [
+      "Cypress",
+      "Pink Pepper",
+      "Myrrh",
+      "Patchouli",
+      "Suede",
+      "Benzoin"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cypress",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Myrrh",
+        "Patchouli"
+      ],
+      "base": [
+        "Suede",
+        "Benzoin"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Cypress",
+        "Pink Pepper"
+      ],
+      "middle": [
+        "Myrrh",
+        "Patchouli"
+      ],
+      "base": [
+        "Suede",
+        "Benzoin"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_170_035_rock_the_myrrh_digit_C_3x4_8addbedc-d13a-43c1-af19-19ef90d56b3d.jpg?v=1729081139",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099008",
+    "sourceProductId": "7059872645316",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227449761988",
+        "title": "100 ML",
+        "sku": "8411061992609"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099008.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099012",
+    "name": "Bitter Splash",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "An invitation to escape, Bitter Splash charts a journey of exotic exploration. Cool, juicy pomelo and warm vegetal leather emerge as a sophisticated duality of freshness and sensuality. A sumptuous voyage into Dries Van Noten’s love for orientalism, where additional notes of powdery iris and vetiver enhance this chic evocation of texture and light.\nThe bottle marries the simplicity of glossy pop yellow glass with a decorative pattern inspired by the detailed art of Asian lacquer woodwork, suggesting a contrast between tradition and modernity.\n90% naturally-derived ingredients\n“I chose to explore a paradoxical yet balanced play of light and texture – the sparkling radiance of grapefruit veiled in the matte softness of leather.” — Suzy Le Helley, Perfumer\nHow to refill",
+    "notes": [
+      "Grapefruit",
+      "Cypress",
+      "Orris Accord​",
+      "Carrot Seeds Accord​",
+      "Geranium",
+      "Leather Accord​",
+      "Vetiver",
+      "Cedarwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Grapefruit",
+        "Cypress"
+      ],
+      "middle": [
+        "Orris Accord​",
+        "Carrot Seeds Accord​",
+        "Geranium"
+      ],
+      "base": [
+        "Leather Accord​",
+        "Vetiver",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Grapefruit",
+        "Cypress"
+      ],
+      "middle": [
+        "Orris Accord​",
+        "Carrot Seeds Accord​",
+        "Geranium"
+      ],
+      "base": [
+        "Leather Accord​",
+        "Vetiver",
+        "Cedarwood"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_240424_JMBI_DAY02_280_010_bitter_splash_Print.jpg?v=1723045263",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099012",
+    "sourceProductId": "9894168002904",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "49649789534552",
+        "title": "100 ML",
+        "sku": "8411061073902"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099012.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099003",
+    "name": "Voodoo Chile",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Bold and ambiguous. A midnight blue glass bottle with a metal base engraved with leaves.\n87% naturally-derived ingredients\n“I was inspired by the iconic Jimi Hendrix track. Rosemary and patchouli are the opposite forces in action here but the rosemary – like Hendrix’s guitar – is distorted to make it hot and dense.” — Nicolas Beaulieu, Perfumer\nHow to refill",
+    "notes": [
+      "Cannabis",
+      "Rosemary",
+      "Lentisque",
+      "Patchouli",
+      "Cedarwood",
+      "Sandalwood"
+    ],
+    "noteGroups": {
+      "top": [
+        "Cannabis",
+        "Rosemary"
+      ],
+      "middle": [
+        "Lentisque",
+        "Patchouli"
+      ],
+      "base": [
+        "Cedarwood",
+        "Sandalwood"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Cannabis Accord",
+        "Rosemary"
+      ],
+      "middle": [
+        "Lentisque",
+        "Patchouli"
+      ],
+      "base": [
+        "Cedarwood",
+        "Sandalwood Essence"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_250_003_voohoo_chile_digit_B_3x4_6dd47d4e-bc20-4ea5-9e9d-9c03bc799f6d.jpg?v=1722955861",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099003",
+    "sourceProductId": "7059870974148",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227446812868",
+        "title": "100 ML",
+        "sku": "8411061992135"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099003.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099014",
+    "name": "Vanille Camouflage",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "The artful illusion of a green vanilla, Vanille Camouflage creates the sensation of softness on the skin. The green, resinous facets of galbanum transform a duo vanilla – the liquor notes of bourbon vanilla and the creamy, almond aspect of the Tahitensis – sublimating its complexity and richness. A unique and subtle layering that turns more and more intense.\nA dual expression of fashion and art, the bottle fuses deep green glass and precious porcelain patterned with poetic, watercolour-style flowers as though lifted from a painting.\n90% naturally-derived ingredients\n“It’s so unusual to see a vanilla in its very original shape, and so green! This is exactly what the fragrance translates.” — Alexandra Monet, Perfumer\nHow to refill",
+    "notes": [
+      "Galbanum​",
+      "Cypress​",
+      "Fig",
+      "Lentisque Absolute​",
+      "Ylang-Ylang",
+      "Sandalwood",
+      "Vanilla Bourbon Absolute​",
+      "Vanilla Tahitensis​",
+      "Benzoin ​& Ambery Woods"
+    ],
+    "noteGroups": {
+      "top": [
+        "Galbanum​",
+        "Cypress​",
+        "Fig"
+      ],
+      "middle": [
+        "Lentisque Absolute​",
+        "Ylang-Ylang",
+        "Sandalwood"
+      ],
+      "base": [
+        "Vanilla Bourbon Absolute​",
+        "Vanilla Tahitensis​",
+        "Benzoin ​& Ambery Woods"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Galbanum​",
+        "Cypress​",
+        "Fig Accord"
+      ],
+      "middle": [
+        "Lentisque Absolute​",
+        "Ylang Ylang",
+        "Sandalwood"
+      ],
+      "base": [
+        "Vanilla Bourbon Absolute​",
+        "Vanilla Tahitensis​",
+        "Benzoin ​& Ambery Woods"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_240424_JMBI_DAY02_200_009_Vanille_Camouflage_Print.jpg?v=1723045307",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099014",
+    "sourceProductId": "9894168625496",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "49649790779736",
+        "title": "100 ML",
+        "sku": "8411061073919"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099014.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099002",
+    "name": "Cannabis Patchouli",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "Wild and sensitive. A unique crafted bottle made from certified PEFC® wood and forest green glass.\n91% naturally-derived ingredients\n“In Dries’ world, antagonistic elements are combined to create surprise. This fragrance is like a light and dark olfactive pattern of fresh green leaves of clary sage aromatics rubbing against the woody leaves of patchouli.” — Nicolas Bonneville, Perfumer\nHow to refill",
+    "notes": [
+      "Bergamot",
+      "Cedar Leaves",
+      "Sage Incense",
+      "Patchouli",
+      "Vetiver",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Cedar Leaves"
+      ],
+      "middle": [
+        "Sage Incense",
+        "Patchouli"
+      ],
+      "base": [
+        "Vetiver",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Cedar Leaves"
+      ],
+      "middle": [
+        "Sage Incense",
+        "Patchouli"
+      ],
+      "base": [
+        "Vetiver",
+        "Musk"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_190_009_canabis_patchouli_digit_B_3x4_8830e187-deef-499b-b14d-0c5a972a4e29.jpg?v=1722955775",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099002",
+    "sourceProductId": "7048478949572",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41178512785604",
+        "title": "100 ML",
+        "sku": "8411061992098"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099002.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099010",
+    "name": "Rosa Carnivora",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Parfum",
+    "description": "In Dries Van Noten’s garden, the last petals of autumn’s Centifolia Rose unfold, revealing a beauty that is both raw and refined. Rosa Carnivora is a velvet rose crafted in chiaroscuro. A rose in its wild, beautifully imperfect nature, rooted in the noble earthy depth of vetiver.\nThe bottle pairs powdery pink glass with an animal-print pattern on porcelain, creating a delicate contrast.\n90% naturally-derived ingredients\n“This is nature: unfiltered, with all its little flaws. This rose is not romantic: it is strangely beautiful, real, imperfect and ambiguous.” — Daphne Bugey, Perfumer\nHow to refill",
+    "notes": [
+      "Pink Pepper",
+      "Rose",
+      "Vetiver",
+      "Floral Bouquet",
+      "Patchouli",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Rose"
+      ],
+      "middle": [
+        "Vetiver",
+        "Floral Bouquet"
+      ],
+      "base": [
+        "Patchouli",
+        "Labdanum"
+      ],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Pink Pepper",
+        "Rose"
+      ],
+      "middle": [
+        "Vetiver",
+        "Floral Bouquet"
+      ],
+      "base": [
+        "Patchouli",
+        "Cistus"
+      ],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/010940_C_DRIESVANNOTEN_240424_JMBI_DAY02_260_004_rose_carnivora_digit_B_3x4_88dffc0d-9359-4c88-9eda-b1545ed98e21.jpg?v=1722955930",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099010",
+    "sourceProductId": "7059869761732",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227443634372",
+        "title": "100 ML",
+        "sku": "8411061992623"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099010.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099022",
+    "name": "Mystic Moss",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "description": "Vibrant & Enigmatic\n91% of natural ingredients\n“For this collection I wanted to offer a new vision of Cannabis Patchouli. I transposed the earth effect of patchouli into a salty minerality.”\n— NICOLAS BONNEVILLE",
+    "notes": [
+      "Salt",
+      "Mandarin"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Salt",
+        "Mandarin"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Salt",
+        "Mandarin"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_X1_EDT_MM_R5E3x4.jpg?v=1710171238",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099022",
+    "sourceProductId": "9050833420632",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "47899705934168",
+        "title": "200 ML",
+        "sku": "8411061074121"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099022.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099021",
+    "name": "Sur ma peau",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "description": "Delicate & Sensual\n89% of natural ingredients\n“I wanted a big contrast between two strong sensations: bursting freshness versus pure, sensual addiction. In Sur Ma Peau, the warm facet of vanilla meets the sensual texture of tonka under a burst of citrus. Bergamot, full of zest, with a tear of benzoin, a precious resin sourced responsibly in the mountains of Laos, play against one another: as benzoin melts on the skin, it’s illuminated by the extreme backlight of citrus.”\n— QUENTIN BISCH",
+    "notes": [
+      "Bergamot",
+      "Vanilla"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_Beauty_Colognes_005.jpg?v=1710437300",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099021",
+    "sourceProductId": "7059873267908",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41227452154052",
+        "title": "200 ML",
+        "sku": "8411061992586"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099021.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "dvn-001-099020",
+    "name": "Orange smoke",
+    "brand": "Dries Van Noten",
+    "gender": null,
+    "concentration": "Eau de Toilette",
+    "description": "Bright & Mysterious\n89% of natural ingredients\n“When the sky touches the earth: the pureness of an orange flower with the mineral facet of incense. I chose to play with the chiaroscuro – light and shade – quality of incense, combining its fresh mineral nature with the luminous sweetness of orange blossom.”\n— ANNICK MENARDO",
+    "notes": [
+      "Orange Blossom",
+      "Incense"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Blossom",
+        "Incense"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Orange Blossom",
+        "Incense"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0589/7473/2484/files/DVN_Beauty_Colognes_013.jpg?v=1710437324",
+    "sourceUrl": "https://www.driesvannoten.com/en-kr/products/001-099020",
+    "sourceProductId": "7048478687428",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "41178511671492",
+        "title": "200 ML",
+        "sku": "8411061992470"
+      }
+    ],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/dries-van-noten/001-099020.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1356",
+    "name": "Neutral Paradoxe Sweet Chemistry",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Prada Paradoxe Sweet Chemistry is a fruity floral fragrance that reimagines sweetness through a sophisticated and contemporary balance. The Blackcurrant Syrup Accord blends with the radiance of Orange Blossom Absolute and the enveloping creaminess of the Neroli Milk Accord, creating a modern and irresistible trail. Housed in Prada’s iconic refillable bottle, it celebrates a femininity that is intense, multifaceted, and constantly evolving.",
+    "notes": [
+      "Blackcurrant Syrup"
+    ],
+    "noteGroups": {
+      "top": [
+        "Blackcurrant Syrup"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Blackcurrant Syrup Accord"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1356/B00AF0Z99/1A1356_B00A_F0Z99_P_ML090_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/paradoxe-sweet-chemistry-edp-90ml/1A1356_B00A_F0Z99_P_ML090",
+    "sourceProductId": "1A1356",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1356.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1351",
+    "name": "Neutral Paradoxe",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "A floral ambery fragrance that embraces the paradoxes of iconic ingredients to reveal new scented sensations. Reinventing freshness with the first Neroli bud extraction for Prada, to capture the flower’s fresh dimension. Reinventing sensuality with Ambrofix™, a bio-converted amber, revealing a vibrant warmth. Reinventing intensity through a new revolutionary musk molecule: the Serenolide™, for an intense yet subtle and comfortable trail noticeable right from the top.",
+    "notes": [
+      "Calabrian Bergamot Heart",
+      "Tangerine",
+      "Pear"
+    ],
+    "noteGroups": {
+      "top": [
+        "Calabrian Bergamot Heart",
+        "Tangerine",
+        "Pear"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot Heart",
+        "Tangerine Essence",
+        "Pear Accord"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1351/2HDZF0Z99/1A1351_2HDZ_F0Z99_P_ML090_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/paradoxe-edp-90-ml/1A1351_2HDZ_F0Z99_P_ML090",
+    "sourceProductId": "1A1351",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1351.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1355",
+    "name": "Neutral Paradoxe Radical Essence 90ml",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Paradoxe Radical Essence, the new feminine fragrance by Prada. This new signature rethinks gourmand scents with the most addictive Paradoxe: a concentration of unexpected gourmand notes in a sophisticated Parfum.",
+    "notes": [
+      "Neroli Oil and Orange Flower Heart"
+    ],
+    "noteGroups": {
+      "top": [
+        "Neroli Oil and Orange Flower Heart"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Neroli Oil and Orange Flower Heart Absolute"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1355/2H0PF0Z99/1A1355_2H0P_F0Z99_P_ML090_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/paradoxe-radical-essence-90ml/1A1355_2H0P_F0Z99_P_ML090",
+    "sourceProductId": "1A1355",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1355.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1319",
+    "name": "Neutral Olfactories - Day For Night",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "A modern encounter with ancient nature, Day For Night is a fragrance that opens with Styrax and Patchouli's notes, it warms to a rich Amber core powdery, woody and softly sweet, that gives way to a strong yet smooth blend of Musk and Leather.",
+    "notes": [
+      "A Modern Encounter with Ancient Nature",
+      "Day For Night Is A Fragrance That Opens with Styrax and Patchouli's Notes",
+      "It Warms To A Rich Amber Core Powdery",
+      "Woody and Softly Sweet",
+      "That Gives Way To A Strong Yet Smooth Blend of Musk and Leather"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A Modern Encounter with Ancient Nature",
+        "Day For Night Is A Fragrance That Opens with Styrax and Patchouli's Notes",
+        "It Warms To A Rich Amber Core Powdery",
+        "Woody and Softly Sweet",
+        "That Gives Way To A Strong Yet Smooth Blend of Musk and Leather"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A modern encounter with ancient nature",
+        "Day For Night is a fragrance that opens with Styrax and Patchouli's notes",
+        "it warms to a rich Amber core powdery",
+        "woody and softly sweet",
+        "that gives way to a strong yet smooth blend of Musk and Leather"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1319/2HCEF0Z99/1A1319_2HCE_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-day-for-night-edp-100-ml/1A1319_2HCE_F0Z99_P_ML100",
+    "sourceProductId": "1A1319",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1319.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1323",
+    "name": "Neutral Olfactories - Un Chant D'amour",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Un Chant d'Amour is the fragrance of the human essence, seductive, intimate and carnal. Neroli combines with a touch of seducing orange blossom and powdery and sensual Musks.",
+    "notes": [
+      "Un Chant D'amour Is the Fragrance of the Human",
+      "Seductive",
+      "Intimate and Carnal. Neroli Combines with A Touch of Seducing Orange Blossom and Powdery and Sensual Musks"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Un Chant D'amour Is the Fragrance of the Human",
+        "Seductive",
+        "Intimate and Carnal. Neroli Combines with A Touch of Seducing Orange Blossom and Powdery and Sensual Musks"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Un Chant d'Amour is the fragrance of the human essence",
+        "seductive",
+        "intimate and carnal. Neroli combines with a touch of seducing orange blossom and powdery and sensual Musks"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1323/2HDKF0Z99/1A1323_2HDK_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-un-chant-damour-edp-100-ml/1A1323_2HDK_F0Z99_P_ML100",
+    "sourceProductId": "1A1323",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1323.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1322",
+    "name": "Neutral Olfactories - Marienbad",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Elegant and decadent, Marienbad is a baroque and distinguished fragrance, with vanilla top notes, an heart of Incense and Styrax and base notes of musky Amber.",
+    "notes": [
+      "Elegant and Decadent",
+      "Marienbad Is A Baroque and Distinguished Fragrance",
+      "With Vanilla Top Notes",
+      "An Heart of Incense and Styrax and Base Notes of Musky Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Elegant and Decadent",
+        "Marienbad Is A Baroque and Distinguished Fragrance",
+        "With Vanilla Top Notes",
+        "An Heart of Incense and Styrax and Base Notes of Musky Amber"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Elegant and decadent",
+        "Marienbad is a baroque and distinguished fragrance",
+        "with vanilla top notes",
+        "an heart of Incense and Styrax and base notes of musky Amber"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1322/2HDAF0Z99/1A1322_2HDA_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-marienbad-edp-100-ml/1A1322_2HDA_F0Z99_P_ML100",
+    "sourceProductId": "1A1322",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1322.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1326",
+    "name": "Neutral Olfactories Les Mirages - Dark Light",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "The warmth of amber and the cool cleanliness of aldehydes, Dark Light is a mix of synthetic and natural notes. The components are older than memory: Musk, Madagascar vanilla, Myrrh, Angelique and the deeply complex aura of opoponax gum.",
+    "notes": [
+      "The Warmth of Amber and the Cool Cleanliness of Aldehydes",
+      "Dark Light Is A Mix of Synthetic and Natural Notes. the Components Are Older Than Memory: Musk",
+      "Madagascar Vanilla",
+      "Myrrh",
+      "Angelique and the Deeply Complex Aura of Opoponax Gum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The Warmth of Amber and the Cool Cleanliness of Aldehydes",
+        "Dark Light Is A Mix of Synthetic and Natural Notes. the Components Are Older Than Memory: Musk",
+        "Madagascar Vanilla",
+        "Myrrh",
+        "Angelique and the Deeply Complex Aura of Opoponax Gum"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The warmth of amber and the cool cleanliness of aldehydes",
+        "Dark Light is a mix of synthetic and natural notes. The components are older than memory: Musk",
+        "Madagascar vanilla",
+        "Myrrh",
+        "Angelique and the deeply complex aura of opoponax gum"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1326/2HCDF0Z99/1A1326_2HCD_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-les-mirages-dark-light-edp-100-ml/1A1326_2HCD_F0Z99_P_ML100",
+    "sourceProductId": "1A1326",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1326.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1327",
+    "name": "Neutral Olfactories Les Mirages - Some Velvet Morning",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "The story of a sensuous melody composed by a blend of Musk, Benzoin, Vanilla, Peach and Patchouli.",
+    "notes": [
+      "The Story of A Sensuous Melody Composed By A Blend of Musk",
+      "Benzoin",
+      "Vanilla",
+      "Peach and Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The Story of A Sensuous Melody Composed By A Blend of Musk",
+        "Benzoin",
+        "Vanilla",
+        "Peach and Patchouli"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "The story of a sensuous melody composed by a blend of Musk",
+        "Benzoin",
+        "Vanilla",
+        "Peach and Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1327/2HDIF0Z99/1A1327_2HDI_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-les-mirages-some-velvet-morning-edp-100-ml/1A1327_2HDI_F0Z99_P_ML100",
+    "sourceProductId": "1A1327",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1327.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1324",
+    "name": "Neutral Olfactories Les Mirages - Miracle Of The Rose",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Smells of leather, agarwood and tobacco surround an heart, delicate yet potent, of Rose Absolute and Patchouli. Miracle of the Rose is a sensation of a passage through multiple, labyrinthine rooms, each is infused with a different scent.",
+    "notes": [
+      "Rose-Oud"
+    ],
+    "noteGroups": {
+      "top": [
+        "Rose-Oud"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Rose-Oud Accord"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1324/2HDCF0Z99/1A1324_2HDC_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-les-mirages-miracle-of-the-rose-edp-100-ml/1A1324_2HDC_F0Z99_P_ML100",
+    "sourceProductId": "1A1324",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1324.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1325",
+    "name": "Neutral Olfactories Les Mirages - Soleil Au Zenith",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "A deep, dark base of vanilla, nutmeg, cinnamon, pimento and cumin gets along with ylang ylang, peach and sophisticated essences of sandalwood. Soleil au Zenith is an overload of sensation, the discovery of multiple cultures.",
+    "notes": [
+      "A Deep",
+      "Dark Base of Vanilla",
+      "Nutmeg",
+      "Cinnamon",
+      "Pimento and Cumin Gets Along with Ylang Ylang",
+      "Peach and Sophisticated Essences of Sandalwood. Soleil Au Zenith Is An Overload of Sensation",
+      "The Discovery of Multiple Cultures"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A Deep",
+        "Dark Base of Vanilla",
+        "Nutmeg",
+        "Cinnamon",
+        "Pimento and Cumin Gets Along with Ylang Ylang",
+        "Peach and Sophisticated Essences of Sandalwood. Soleil Au Zenith Is An Overload of Sensation",
+        "The Discovery of Multiple Cultures"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A deep",
+        "dark base of vanilla",
+        "nutmeg",
+        "cinnamon",
+        "pimento and cumin gets along with ylang ylang",
+        "peach and sophisticated essences of sandalwood. Soleil au Zenith is an overload of sensation",
+        "the discovery of multiple cultures"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1325/2HDHF0Z99/1A1325_2HDH_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/olfactories-les-mirages-soleil-au-zenith-edp-100-ml/1A1325_2HDH_F0Z99_P_ML100",
+    "sourceProductId": "1A1325",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1325.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1053",
+    "name": "Neutral Infusion De Gingembre",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Infusion de Gingembre Eau de Parfum encapsulates the lively personality of the ginger in a citrus woody fragrance. Ginger is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin.",
+    "notes": [
+      "Mandarin"
+    ],
+    "noteGroups": {
+      "top": [
+        "Mandarin"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Green Mandarin"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1053/2HEDF0Z99/1A1053_2HED_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/prada-infusion-de-gingembre-edp-100-ml/1A1053_2HED_F0Z99_P_ML100",
+    "sourceProductId": "1A1053",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1053.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1054",
+    "name": "Neutral Infusion De Rhubarbe",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Infusion de Rhubarbe Eau de Parfum captures the playful personality of rhubarb in an unexpected floral fruity fragrance, pink and green, sweet and acidulous. A vegetable by definition, yet renowned for its fruity tones, rhubarb challenges our expectations, settling upon a facet of our personality that is both effervescent and irreverent. Infused within Prada´s “Esprit d’Infusion”, rhubarb represents the quintessential contradiction at the heart of Prada, being incisively fresh yet subtle, delicate yet addictive. The pink-tinted hue of the fragrance appears in a luxurious bottle with an iconic Saffiano leather cap in a bright shade of pink: a playful nod to the star ingredient within.",
+    "notes": [
+      "Vert de Bergamot",
+      "Italian Green Mandarin Superessence",
+      "Bitter Orange"
+    ],
+    "noteGroups": {
+      "top": [
+        "Vert de Bergamot",
+        "Italian Green Mandarin Superessence",
+        "Bitter Orange"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Vert de Bergamot",
+        "Italian Green Mandarin Superessence",
+        "Bitter Orange Oil"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1054/2HEEF0Z99/1A1054_2HEE_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/prada-infusion-de-rhubarbe-edp-100-ml/1A1054_2HEE_F0Z99_P_ML100",
+    "sourceProductId": "1A1054",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1054.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1041",
+    "name": "Neutral Infusion D’iris",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Infusion d’Iris Eau de Parfum encapsulates the elegant personality of the iris in a floral woody fragrance. The elegant iris is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you. The luxurious bottle of Infusion d’Iris is highlighted in a green-tinted hue, evoking the fusion of the signature ingredient in the fragrance. The sophisticated green cap in iconic Saffiano symbolizes the iris and the elegance of the fragrance.",
+    "notes": [
+      "Iris Pallida"
+    ],
+    "noteGroups": {
+      "top": [
+        "Iris Pallida"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Iris Pallida"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1041/2HCQF0Z99/1A1041_2HCQ_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/prada-infusion-diris-edp-100ml/1A1041_2HCQ_F0Z99_P_ML100",
+    "sourceProductId": "1A1041",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1041.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1044",
+    "name": "Neutral Infusion D’amande",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Infusion d’Amande Eau de Parfum encapsulates the delicate personality of the almond in a floral powdery fragrance. The delicate almond accord is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you. The luxurious bottle of Infusion d’Amande is highlighted in a blue-tinted hue, evoking the fusion of the signature ingredient in the fragrance. The tender blue cap in iconic Saffiano symbolizes the delicacy of the almond in the fragrance.",
+    "notes": [
+      "Bergamot"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1044/2HCIF0Z99/1A1044_2HCI_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/prada-infusion-damande-edp-100ml/1A1044_2HCI_F0Z99_P_ML100",
+    "sourceProductId": "1A1044",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1044.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-1a1048",
+    "name": "Neutral Infusion De Rose",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "This sublime and luxurious scent is inspired by apparent contradictions. Imagine garden roses of ancient variety, highly scented, infusing in a perfumed water of Neroli, Mandarin and Galbanum... This is the Rose's very essence.",
+    "notes": [
+      "This Sublime and Luxurious Scent Is Inspired By Apparent Contradictions. Imagine Garden Roses of Ancient Variety",
+      "Highly Scented",
+      "Infusing in A Perfumed Water of Neroli",
+      "Mandarin and Galbanum... This Is the Rose's Very"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "This Sublime and Luxurious Scent Is Inspired By Apparent Contradictions. Imagine Garden Roses of Ancient Variety",
+        "Highly Scented",
+        "Infusing in A Perfumed Water of Neroli",
+        "Mandarin and Galbanum... This Is the Rose's Very"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "This sublime and luxurious scent is inspired by apparent contradictions. Imagine garden roses of ancient variety",
+        "highly scented",
+        "infusing in a perfumed water of Neroli",
+        "Mandarin and Galbanum... This is the Rose's very essence"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/1/1A1/1A1048/2HCMF0Z99/1A1048_2HCM_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/prada-infusion-de-rose-edp-100ml/1A1048_2HCM_F0Z99_P_ML100",
+    "sourceProductId": "1A1048",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/1A1048.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1451",
+    "name": "Neutral Paradigme",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Paradigme Eau de Parfum expresses sophistication and avant-garde in an unexpected masculine Ambery Woody scent. Opening a new olfactive paradigm, oscillating between enveloping warmth and exhilarating freshness. The warm sensuality of ambery woods is entwined with a green Bourbon Geranium, uplifted by a fusing Calabrian Bergamot Heart. ",
+    "notes": [
+      "Calabrian Bergamot Heart"
+    ],
+    "noteGroups": {
+      "top": [
+        "Calabrian Bergamot Heart"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Calabrian Bergamot Heart"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1451/2H0QF0Z99/2A1451_2H0Q_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/paradigme-edp-100-ml/2A1451_2H0Q_F0Z99_P_ML100",
+    "sourceProductId": "2A1451",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1451.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1156",
+    "name": "Neutral Luna Rossa Ocean",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Formulated by IFF Master Perfumers Anne Flipo and Carlos Benaim, Prada Luna Rossa Ocean has a unique neo-fresh olfactory signature that reinvents the emblematic fougère family. Sublimating notes of aromatic freshness mixed with the sophisticated sensuality of bergamot, a contrast is created with the sophisticated essence of vetiver. Everything intertwines in the heart notes with an elegant iris accord. The fragrance unveils a luminous cocktail of citrus combined with a lively duo of lavender and sage to add a fresh, clean sensation. The unique leather heart creates a second skin effect, exploring a sensual accord of suede and saffron combined with the elegant creamy notes of iris root. Enveloped in a masterful blend of patchouli, vetiver and musks, the fragrance leaves an addictive and masculine scent.",
+    "notes": [
+      "Bergamot",
+      "Pink Pepper",
+      "Artemisia"
+    ],
+    "noteGroups": {
+      "top": [
+        "Bergamot",
+        "Pink Pepper",
+        "Artemisia"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Bergamot",
+        "Pink Pepper",
+        "Artemisia"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1156/2D00F0Z99/2A1156_2D00_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/luna-rossa-ocean-edt-100-ml/2A1156_2D00_F0Z99_P_ML100",
+    "sourceProductId": "2A1156",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1156.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1151",
+    "name": "Neutral Luna Rossa",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Blended by Daniela Andrier, Prada Luna Rossa is a fragrance without compromise that reinterprets traditional ingredients with a innovative mood. A unique interpretation of lavender, the heart note, with a masculine and fresh appeal.",
+    "notes": [
+      "Blended By Daniela Andrier",
+      "Prada Luna Rossa Is A Fragrance Without Compromise That Reinterprets Traditional Ingredients with A Innovative Mood. A Unique Interpretation of Lavender",
+      "The Heart Note",
+      "With A Masculine and Fresh Appeal"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Blended By Daniela Andrier",
+        "Prada Luna Rossa Is A Fragrance Without Compromise That Reinterprets Traditional Ingredients with A Innovative Mood. A Unique Interpretation of Lavender",
+        "The Heart Note",
+        "With A Masculine and Fresh Appeal"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Blended by Daniela Andrier",
+        "Prada Luna Rossa is a fragrance without compromise that reinterprets traditional ingredients with a innovative mood. A unique interpretation of lavender",
+        "the heart note",
+        "with a masculine and fresh appeal"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1151/2HC8F0Z99/2A1151_2HC8_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/luna-rossa-edt-100-ml/2A1151_2HC8_F0Z99_P_ML100",
+    "sourceProductId": "2A1151",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1151.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1154",
+    "name": "Neutral Luna Rossa Carbon",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "A fragrance that brings together steam-distilled botanicals and synthetics in a mineral-forward mix. Launched in 2017 is an aromatic fougere fragrance that combines the energy of the darkest rock, with the freshness of the air.",
+    "notes": [
+      "A Fragrance That Brings Together Steam-Distilled Botanicals and Synthetics in A Mineral-Forward Mix. Launched in 2017 Is An Aromatic Fougere Fragrance That Combines the Energy of the Darkest Rock",
+      "With the Freshness of the Air"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A Fragrance That Brings Together Steam-Distilled Botanicals and Synthetics in A Mineral-Forward Mix. Launched in 2017 Is An Aromatic Fougere Fragrance That Combines the Energy of the Darkest Rock",
+        "With the Freshness of the Air"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "A fragrance that brings together steam-distilled botanicals and synthetics in a mineral-forward mix. Launched in 2017 is an aromatic fougere fragrance that combines the energy of the darkest rock",
+        "with the freshness of the air"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1154/2HC6F0Z99/2A1154_2HC6_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/luna-rossa-carbon-edt-100-ml/2A1154_2HC6_F0Z99_P_ML100",
+    "sourceProductId": "2A1154",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1154.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1155",
+    "name": "Neutral Luna Rossa Black",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Prada Black starts with vivacious notes of Bergamot and Angelica, arriving at the sweetness of Amber Wood passing through the intensity of Coumarin and Patchouli.---Even the completely opaque bottle, where the iconic red line was replaced for the very first time by a black one, denotes the strength and intensity of this new Eau de Parfum.",
+    "notes": [
+      "Prada Black Starts with Vivacious Notes of Bergamot and Angelica",
+      "Arriving At the Sweetness of Amber Wood Passing Through the Intensity of Coumarin and Patchouli.---Even the Completely Opaque Bottle",
+      "Where the Iconic Red Line Was Replaced For the Very First Time By A Black One",
+      "Denotes the Strength and Intensity of This New Eau de Parfum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Prada Black Starts with Vivacious Notes of Bergamot and Angelica",
+        "Arriving At the Sweetness of Amber Wood Passing Through the Intensity of Coumarin and Patchouli.---Even the Completely Opaque Bottle",
+        "Where the Iconic Red Line Was Replaced For the Very First Time By A Black One",
+        "Denotes the Strength and Intensity of This New Eau de Parfum"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Prada Black starts with vivacious notes of Bergamot and Angelica",
+        "arriving at the sweetness of Amber Wood passing through the intensity of Coumarin and Patchouli.---Even the completely opaque bottle",
+        "where the iconic red line was replaced for the very first time by a black one",
+        "denotes the strength and intensity of this new Eau de Parfum"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1155/2HC5F0Z99/2A1155_2HC5_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/luna-rossa-black-edp-100-ml/2A1155_2HC5_F0Z99_P_ML100",
+    "sourceProductId": "2A1155",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1155.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "prada-2a1157",
+    "name": "Neutral Luna Rossa Ocean",
+    "brand": "Prada",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Luna Rossa Ocean Eau de Parfum combines intense sophistication and sensuality through pioneering technology and nature’s finest ingredients. Opening with an invigorating burst of grapefruit essence, contrasted with the woody vibrancy of incense and a rich Vanilla Bean accord. A composition augmented by the cutting-edge molecule of AmberXtreme™ boosting the ingredients’ intensity and diffusing a powerful trail.",
+    "notes": [
+      "Grapefruit"
+    ],
+    "noteGroups": {
+      "top": [
+        "Grapefruit"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "originalNoteGroups": {
+      "top": [
+        "Grapefruit Essence"
+      ],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.prada.com/content/dam/pradabkg_products/2/2A1/2A1157/2HEBF0Z99/2A1157_2HEB_F0Z99_P_ML100_SLF.jpg",
+    "sourceUrl": "https://www.prada.com/kr/en/p/luna-rossa-ocean-edp-100-ml/2A1157_2HEB_F0Z99_P_ML100",
+    "sourceProductId": "2A1157",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-pyramid",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/prada/2A1157.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "loewe-p000011xad-0000",
+    "name": "Verdant Grove",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Verdant Grove EDP is a warm and sunlit fragrance that blends notes of pistachio and vanilla. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: pistachio, iris, vanilla, bergamot, chocolate *Olfactory family: gourmand and woody",
+    "notes": [
+      "Pistachio",
+      "Iris",
+      "Vanilla",
+      "Bergamot",
+      "Chocolate"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pistachio",
+        "Iris",
+        "Vanilla",
+        "Bergamot",
+        "Chocolate"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "pistachio",
+        "iris",
+        "vanilla",
+        "bergamot",
+        "chocolate"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwe926064b/images_rd/P000011XAD/P000011XAD-0000/P000011XAD_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-verdant-grove-eau-de-parfum-100-ml/P000011XAD-0000.html",
+    "sourceProductId": "P000011XAD-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011XAD-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011XAD-0000.png"
+  },
+  {
+    "id": "loewe-p000011xag-0000",
+    "name": "Sweet Woodland",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Sweet Woodland EDP mixes top notes of ginger and spicy cognac with base notes of patchouli wood and vanilla for a nature-inspired scent. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: spicy cognac, mandarin, patchouli wood, vanilla, orange flower *Olfactory family: spicy and woody ",
+    "notes": [
+      "Spicy Cognac",
+      "Mandarin",
+      "Patchouli Wood",
+      "Vanilla",
+      "Orange Flower"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Spicy Cognac",
+        "Mandarin",
+        "Patchouli Wood",
+        "Vanilla",
+        "Orange Flower"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "spicy cognac",
+        "mandarin",
+        "patchouli wood",
+        "vanilla",
+        "orange flower"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwce2e97aa/images_rd/P000011XAG/P000011XAG-0000/P000011XAG_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-sweet-woodland-eau-de-parfum-100-ml/P000011XAG-0000.html",
+    "sourceProductId": "P000011XAG-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011XAG-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011XAG-0000.png"
+  },
+  {
+    "id": "loewe-p000011xaf-0000",
+    "name": "Rosetopia",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Rosetopia EDP blends notes of grapefruit, peony and amber musk to create a scent that celebrates the beauty and allure of the rose. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: grapefruit, rose damas, peony, amber musk *Olfactory family: floral and musky",
+    "notes": [
+      "Grapefruit",
+      "Rose Damas",
+      "Peony",
+      "Amber Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Grapefruit",
+        "Rose Damas",
+        "Peony",
+        "Amber Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "grapefruit",
+        "rose damas",
+        "peony",
+        "amber musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw6226bc6f/images_rd/P000011XAF/P000011XAF-0000/P000011XAF_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-rosetopia-eau-de-parfum-100-ml/P000011XAF-0000.html",
+    "sourceProductId": "P000011XAF-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011XAF-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011XAF-0000.png"
+  },
+  {
+    "id": "loewe-p000011xae-0000",
+    "name": "Smoky Rain",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Smoky Rain EDP is a powerful, energetic fragrance with notes of pink pepper, cedarwood, amber and white musk. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: pink pepper, Italian bergamot, Virginian cedarwood, amber, white musk *Olfactory family: spicy and amber",
+    "notes": [
+      "Pink Pepper",
+      "Italian Bergamot",
+      "Virginian Cedarwood",
+      "Amber",
+      "White Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pink Pepper",
+        "Italian Bergamot",
+        "Virginian Cedarwood",
+        "Amber",
+        "White Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "pink pepper",
+        "Italian bergamot",
+        "Virginian cedarwood",
+        "amber",
+        "white musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw5eb583ac/images_rd/P000011XAE/P000011XAE-0000/P000011XAE_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-smoky-rain-eau-de-parfum-100-ml/P000011XAE-0000.html",
+    "sourceProductId": "P000011XAE-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011XAE-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011XAE-0000.png"
+  },
+  {
+    "id": "loewe-p000011xac-0000",
+    "name": "Field Diary",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Field Diary EDP is a woody and transportive fragrance that features notes of lychee, orange flower and musk. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: lychee, orange flower, sandalwood, musk, mandarin *Olfactory family: fruity and floral",
+    "notes": [
+      "Lychee",
+      "Orange Flower",
+      "Sandalwood",
+      "Musk",
+      "Mandarin"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lychee",
+        "Orange Flower",
+        "Sandalwood",
+        "Musk",
+        "Mandarin"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "lychee",
+        "orange flower",
+        "sandalwood",
+        "musk",
+        "mandarin"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw988f9b51/images_rd/P000011XAC/P000011XAC-0000/P000011XAC_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-field-diary-eau-de-parfum-100-ml/P000011XAC-0000.html",
+    "sourceProductId": "P000011XAC-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011XAC-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011XAC-0000.png"
+  },
+  {
+    "id": "loewe-p000011x98-0000",
+    "name": "Bittersweet Oud",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Bittersweet Oud EDP is an elegant fragrance based on contrasted notes of oud and orange. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: warming, rounded, zesty *Olfactory family: amber",
+    "notes": [
+      "Warming",
+      "Rounded",
+      "Zesty"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Warming",
+        "Rounded",
+        "Zesty"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "warming",
+        "rounded",
+        "zesty"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw9ef8d23a/images_rd/P000011X98/P000011X98-0000/P000011X98_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/bittersweet-oud-eau-de-parfum-100-ml/P000011X98-0000.html",
+    "sourceProductId": "P000011X98-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X98-0000.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "loewe-p000011x96-0000",
+    "name": "Roasted Vanilla",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Roasted Vanilla EDP is an addictive fragrance based on contrasted notes of vanilla and oakwood. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: sweet, sensual, woody, spicy *Olfactory family: amber, woody",
+    "notes": [
+      "Sweet",
+      "Sensual",
+      "Woody",
+      "Spicy"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Sweet",
+        "Sensual",
+        "Woody",
+        "Spicy"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "sweet",
+        "sensual",
+        "woody",
+        "spicy"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw531efae9/images_rd/P000011X96/P000011X96-0000/P000011X96_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/roasted-vanilla-eau-de-parfum-100-ml/P000011X96-0000.html",
+    "sourceProductId": "P000011X96-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X96-0000.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "loewe-p000011x97-0000",
+    "name": "Iris Root",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "Iris Root EDP is a sparkling fragrance based on contrasted notes of iris and Timur pepper. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: sweet, silky, powdery, zesty *Olfactory family: floral",
+    "notes": [
+      "Sweet",
+      "Silky",
+      "Powdery",
+      "Zesty"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Sweet",
+        "Silky",
+        "Powdery",
+        "Zesty"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "sweet",
+        "silky",
+        "powdery",
+        "zesty"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwc1139d0e/images_rd/P000011X97/P000011X97-0000/P000011X97_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/iris-root-eau-de-parfum-100-ml-/P000011X97-0000.html",
+    "sourceProductId": "P000011X97-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X97-0000.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "loewe-p000487x04-0000",
+    "name": "001 Woman",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "LOEWE 001 Woman EDP is a fresh yet warm fragrance that combines notes of jasmine, linen and musk. *The scent comes in a block-shaped translucent glass flask *50 ml *Notes: jasmine, linen, musk *Olfactory family: floral, oriental",
+    "notes": [
+      "Jasmine",
+      "Linen",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Jasmine",
+        "Linen",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "jasmine",
+        "linen",
+        "musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwe5a51deb/images_rd/P000487X04/P000487X04-0000/P000487X04_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-001-woman-eau-de-parfum-50-ml/P000487X04-0000.html",
+    "sourceProductId": "P000487X04-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000487x06-0000",
+        "name": "Loewe 001 Woman",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-001-woman-eau-de-parfum-100-ml/P000487X06-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000487X04-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000487X04-0000.png"
+  },
+  {
+    "id": "loewe-p000011x31-0000",
+    "name": "Solo Ella",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "LOEWE Solo Ella EDP is a fragrance inspired by sunset with an array of floral and fruity notes, complemented by a woody amber base. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: green tea, neroli, red apple *Olfactory family: fruity, floral, fresh",
+    "notes": [
+      "Green Tea",
+      "Neroli",
+      "Red Apple"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Green Tea",
+        "Neroli",
+        "Red Apple"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "green tea",
+        "neroli",
+        "red apple"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwbdb239e8/images_rd/P000011X31/P000011X31-0000/P000011X31_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-solo-ella-eau-de-parfum-50-ml/P000011X31-0000.html",
+    "sourceProductId": "P000011X31-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000011x32-0000",
+        "name": "Solo Ella",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-solo-ella-eau-de-parfum-100-ml/P000011X32-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X31-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X31-0000.png"
+  },
+  {
+    "id": "loewe-p000011x84-0000",
+    "name": "Solo Ella",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Elixir",
+    "description": "LOEWE Solo Ella Elixir is a leathery and floral fragrance that blends notes of apple, pear, jasmine and amber. This elixir version offers a higher concentration of essential oils for a more intense scent. *The scent comes in a gradient orange-tinted block-shaped glass flask *50 ml *Notes: apple, pear, amber, orange blossom, jasmine *Olfactory family: leathery",
+    "notes": [
+      "Apple",
+      "Pear",
+      "Amber",
+      "Orange Blossom",
+      "Jasmine"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Apple",
+        "Pear",
+        "Amber",
+        "Orange Blossom",
+        "Jasmine"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "apple",
+        "pear",
+        "amber",
+        "orange blossom",
+        "jasmine"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwd2875792/images_rd/P000011X84/P000011X84-0000/P000011X84_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-solo-ella-elixir-50-ml/P000011X84-0000.html",
+    "sourceProductId": "P000011X84-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000011x83-0000",
+        "name": "Solo Ella",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-solo-ella-elixir-100-ml/P000011X83-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X84-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X84-0000.png"
+  },
+  {
+    "id": "loewe-p000011x50-0000",
+    "name": "Aire Sutileza",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "LOEWE Aire Sutileza EDT is a floral and delicate fragrance that combines notes of pear, muguet and jasmine. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: pear, lily of the valley, jasmine *Olfactory family: floral, hesperidic",
+    "notes": [
+      "Pear",
+      "Lily of the Valley",
+      "Jasmine"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pear",
+        "Lily of the Valley",
+        "Jasmine"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "pear",
+        "lily of the valley",
+        "jasmine"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw13afb413/images_rd/P000011X50/P000011X50-0000/P000011X50_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-aire-sutileza-eau-de-toilette-50-ml/P000011X50-0000.html",
+    "sourceProductId": "P000011X50-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X50-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X50-0000.png"
+  },
+  {
+    "id": "loewe-p000011x68-6100",
+    "name": "Earth",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "LOEWE Earth EDP is a floral and musky fragrance that combines violet, mimosa and grey amber with notes of musk, truffle and pear. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: truffle, gray amber, elemi *Olfactory family: floral, amber, musky",
+    "notes": [
+      "Truffle",
+      "Gray Amber",
+      "Elemi"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Truffle",
+        "Gray Amber",
+        "Elemi"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "truffle",
+        "gray amber",
+        "elemi"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw151bfd9e/images_rd/P000011X68/P000011X68-6100/P000011X68_6100_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-earth-eau-de-parfum-50-ml/P000011X68-6100.html",
+    "sourceProductId": "P000011X68-6100",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000487x19-6100",
+        "name": "Earth",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-earth-eau-de-parfum-100-ml/P000487X19-6100.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X68-6100.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X68-6100.png"
+  },
+  {
+    "id": "loewe-p000011x85-0000",
+    "name": "Agua Drop",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Parfum",
+    "description": "LOEWE Agua Drop Eau de Parfum is a floral and refreshing fragrance that combines notes of bergamot and orange flower. *The scent comes in a blue-tinted blurred block-shaped glass flask *50 ml *Noted: bergamot, orange flower *Olfactory family: floral, woody",
+    "notes": [
+      "Loewe Agua Drop Eau de Parfum Is A Floral and Refreshing Fragrance That Combines Notes of Bergamot and Orange Flower. the Scent Comes in A Blue-Tinted Blurred Block-Shaped Glass Flask 50 Ml Noted: Bergamot",
+      "Orange Flower Olfactory Family: Floral",
+      "Woody"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Loewe Agua Drop Eau de Parfum Is A Floral and Refreshing Fragrance That Combines Notes of Bergamot and Orange Flower. the Scent Comes in A Blue-Tinted Blurred Block-Shaped Glass Flask 50 Ml Noted: Bergamot",
+        "Orange Flower Olfactory Family: Floral",
+        "Woody"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "LOEWE Agua Drop Eau de Parfum is a floral and refreshing fragrance that combines notes of bergamot and orange flower. *The scent comes in a blue-tinted blurred block-shaped glass flask *50 ml *Noted: bergamot",
+        "orange flower *Olfactory family: floral",
+        "woody"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dwb761d3f1/images_rd/P000011X85/P000011X85-0000/P000011X85_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-drop-eau-de-parfum-50-ml/P000011X85-0000.html",
+    "sourceProductId": "P000011X85-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000011x86-0000",
+        "name": "Agua Drop",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-drop-eau-de-parfum-100-ml/P000011X86-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X85-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X85-0000.png"
+  },
+  {
+    "id": "loewe-p000011x11-0000",
+    "name": "Agua Ella",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "Feminine and dynamic, LOEWE Agua Ella Eau de Toilette combines notes of lemon, rose and waterlily. The scent comes in a translucent glass flask in a natural shade of pink. *50 ml",
+    "notes": [
+      "Feminine and Dynamic",
+      "Loewe Agua Ella Eau de Toilette Combines Notes of Lemon",
+      "Rose and Waterlily. the Scent Comes in A Translucent Glass Flask in A Natural Shade of Pink. 50 Ml"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Feminine and Dynamic",
+        "Loewe Agua Ella Eau de Toilette Combines Notes of Lemon",
+        "Rose and Waterlily. the Scent Comes in A Translucent Glass Flask in A Natural Shade of Pink. 50 Ml"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Feminine and dynamic",
+        "LOEWE Agua Ella Eau de Toilette combines notes of lemon",
+        "rose and waterlily. The scent comes in a translucent glass flask in a natural shade of pink. *50 ml"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw6206c73c/images_rd/P000011X11/P000011X11-0000/P000011X11_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-ella-eau-de-toilette-50-ml/P000011X11-0000.html",
+    "sourceProductId": "P000011X11-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000011x12-0000",
+        "name": "Agua Ella EDT 100 ml Colourless - International official website",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-ella-edt-100-ml/P000011X12-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X11-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X11-0000.png"
+  },
+  {
+    "id": "loewe-p000011x15-0000",
+    "name": "Agua Mar de Coral",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "Aquatic and refreshing, LOEWE Agua Mar de Coral combines notes of tangerine, lily of the valley and grapefruit. The scent comes in a translucent glass flask in light pink. *50 ml",
+    "notes": [
+      "Aquatic and Refreshing",
+      "Loewe Agua Mar de Coral Combines Notes of Tangerine",
+      "Lily of the Valley and Grapefruit. the Scent Comes in A Translucent Glass Flask in Light Pink. 50 Ml"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aquatic and Refreshing",
+        "Loewe Agua Mar de Coral Combines Notes of Tangerine",
+        "Lily of the Valley and Grapefruit. the Scent Comes in A Translucent Glass Flask in Light Pink. 50 Ml"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Aquatic and refreshing",
+        "LOEWE Agua Mar de Coral combines notes of tangerine",
+        "lily of the valley and grapefruit. The scent comes in a translucent glass flask in light pink. *50 ml"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw9e685792/images_rd/P000011X15/P000011X15-0000/P000011X15_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-mar-de-coral-eau-de-toilette-50-ml/P000011X15-0000.html",
+    "sourceProductId": "P000011X15-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [
+      {
+        "id": "loewe-p000011x16-0000",
+        "name": "Agua Mar de Coral",
+        "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-mar-de-coral-eau-de-toilette-100-ml/P000011X16-0000.html",
+        "kind": "size-variant"
+      }
+    ],
+    "qualityFlags": [
+      "size-variants-merged"
+    ],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X15-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X15-0000.png"
+  },
+  {
+    "id": "loewe-53969-0000",
+    "name": "001 Woman",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "LOEWE 001 Woman EDT is a fresh and feminine fragrance that combines sensual and relaxed notes of musk, linen and pink peony with refreshing citrussy accents. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: linen, peony, musk *Olfactory family: fruity, floral",
+    "notes": [
+      "Linen",
+      "Peony",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Linen",
+        "Peony",
+        "Musk"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "linen",
+        "peony",
+        "musk"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw3eafa2db/images_rd/53969/53969-0000/53969_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-001-woman-eau-de-toilette-100-ml/53969-0000.html",
+    "sourceProductId": "53969-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/53969-0000.png",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched"
+  },
+  {
+    "id": "loewe-p000011x37-0000",
+    "name": "Solo Ella",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "Spicy and genuine, LOEWE Solo Eau de Toilette contrasts notes of guava, cumin, musk and Italian mandarin. The scent comes in a translucent glass flask in a vibrant shade of burnt umber. *50 ml",
+    "notes": [
+      "Spicy and Genuine",
+      "Loewe Solo Eau de Toilette Contrasts Notes of Guava",
+      "Cumin",
+      "Musk and Italian Mandarin. the Scent Comes in A Translucent Glass Flask in A Vibrant Shade of Burnt Umber. 50 Ml"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Spicy and Genuine",
+        "Loewe Solo Eau de Toilette Contrasts Notes of Guava",
+        "Cumin",
+        "Musk and Italian Mandarin. the Scent Comes in A Translucent Glass Flask in A Vibrant Shade of Burnt Umber. 50 Ml"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Spicy and genuine",
+        "LOEWE Solo Eau de Toilette contrasts notes of guava",
+        "cumin",
+        "musk and Italian mandarin. The scent comes in a translucent glass flask in a vibrant shade of burnt umber. *50 ml"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw83b52faf/images_rd/P000011X37/P000011X37-0000/P000011X37_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-solo-ella-eau-de-toilette-50-ml/P000011X37-0000.html",
+    "sourceProductId": "P000011X37-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X37-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X37-0000.png"
+  },
+  {
+    "id": "loewe-p000011x07-0000",
+    "name": "Agua",
+    "brand": "LOEWE",
+    "gender": "Unisex",
+    "concentration": "Eau de Toilette",
+    "description": "Dynamic and refreshing, LOEWE Agua Eau de Toilette combines notes of bergamot, yuzu and Ceylon tea. The scent comes in a translucent glass flask in a cool shade of yellow. *50 ml",
+    "notes": [
+      "Dynamic and Refreshing",
+      "Loewe Agua Eau de Toilette Combines Notes of Bergamot",
+      "Yuzu and Ceylon Tea. the Scent Comes in A Translucent Glass Flask in A Cool Shade of Yellow. 50 Ml"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Dynamic and Refreshing",
+        "Loewe Agua Eau de Toilette Combines Notes of Bergamot",
+        "Yuzu and Ceylon Tea. the Scent Comes in A Translucent Glass Flask in A Cool Shade of Yellow. 50 Ml"
+      ]
+    },
+    "originalNoteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Dynamic and refreshing",
+        "LOEWE Agua Eau de Toilette combines notes of bergamot",
+        "yuzu and Ceylon tea. The scent comes in a translucent glass flask in a cool shade of yellow. *50 ml"
+      ]
+    },
+    "accords": [],
+    "collection": "Fragrance",
+    "imageSourceUrl": "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw354d7ff4/images_rd/P000011X07/P000011X07-0000/P000011X07_0000_1F.jpg?sw=500&q=100",
+    "sourceUrl": "https://www.loewe.com/int/en/women/fragrance/loewe-agua-eau-de-toilette-50-ml/P000011X07-0000.html",
+    "sourceProductId": "P000011X07-0000",
+    "fetchedAt": "2026-09-13",
+    "descriptionType": "official-product-page",
+    "imageRights": "Brand copyrighted; public reuse permission not verified",
+    "noteExtraction": "official-key-notes",
+    "noteQcStatus": "normalized-2026-09-13",
+    "variants": [],
+    "qualityFlags": [],
+    "image": "../perfume-atlas-data/images-r/loewe/P000011X07-0000.png",
+    "imageStatus": "retouched-local",
+    "retouchStatus": "retouched",
+    "imageOriginal": "../perfume-atlas-data/images-r/loewe/P000011X07-0000.png"
+  },
+  {
+    "id": "lelabo-aldehyde-44",
+    "name": "ALDEHYDE 44",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   알데하이드 44는 텍사스 댈러스 매장에서만 만날 수 있는 향수입니다. 알데하이드 원료를 아낌없이 듬뿍 넣은 결과 이 향은 독특하면서도 깨끗한 매력을 갖게 됐습니다. 첫 만남엔 수선화, 재스민, 튜베로즈 앱솔루트의 웅장한 플로럴 향이 풍성하게 감싸 안아 주지만 헤어질 땐 머스크와 은근한 바닐라로 잔잔한 여운을 남깁니다. 이 향을 우연히 맡은 뒤 난데없이 댈러스가 휴양지 후보로 끼어들어 고민을 가중시켰다는 항의 메일을 종종 받곤 하는데요… 저희 잘못은 아닌 거죠?,  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-aldehyde-44.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0NT01R000__PRODUCT_01--IMG_1200--44ALDEHYDE44-579920124.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/aldehyde-44-728.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-ambrette-9",
+    "name": "AMBRETTE 9",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "히비스커스 꽃의 씨앗인 암브레트 씨드는 매우 드물고 희귀한 머스크 원료입니다. 암브레트 9은 암브레트 시드에 사과와 배의 시트러스, 프루티한 향이 더해져 아기처럼 부드럽고 순수한 향을 완성합니다. 아기 피부처럼 순수하고 여린 머스크에 사과와 배의 프루티 노트가 더해진 향이 특징입니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-ambrette-9.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PA09100__PRODUCT_01--IMG_1200--AMBRETTE9--657710601.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/ambrette-9-735.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-another-13",
+    "name": "ANOTHER 13",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "2010년, 르 라보는 어나더 매거진으로부터 독점적인 향수 작업을 제안받았습니다. 이 프로젝트는 르 라보와 어나더 매거진의 편집장 Jefferson Hack 간의 창의적인 콜라보레이션을 시작한 Colette의 Sarah 덕분에 탄생했습니다. 이 콜라보레이션의 결과로 매혹적이고 독특한 어나더 13이 완성되었습니다. 어나더 13은 뇌쇄적이면서도 유니크한 암브록스 베이스 머스크 노트의 중독성 강한 묘약에 자스민, 모스 등 세심하게 선정된 성분들로 강렬함과 매혹을 더해 구성됩니다. 세상 모두가 알다시피, Colette는 2017년 12월 문을 닫았지만, 다행히 우리는 전 세계의 랩에서 클래식 컬렉션에 어나더 13을 기쁘게 맞이할 수 있었습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-another-13.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PA13100__PRODUCT_01--IMG_1200--ANOTHER13--1482494231.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/another-13-747.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-baie-19",
+    "name": "BAIE 19",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "사실 베이 19는 ‘WATER 19’로 불릴 뻔했습니다. 아무 향기도 나지 않아서가 아니라(물론 어떤 것도 물과 같은 향기가 나진 않죠.), 비가 내린 뒤 물이 땅에 선사하는 상쾌하고, 촉촉하면서도 흠뻑 젖어 드는 느낌을 담아냈기 때문입니다. 이를 의미하는 “페트리코”라는 단어도 있죠. 페트리코는 긴 가뭄 뒤 강한 비를 맞이했을 때 생기는 마법 같은 현상으로, 자연의 가장 아름다운 현상 중 하나입니다.페트리코는 공기 중 오존, 음이온 등 다양한 이유로 인해 발생하지만, 가장 주요한 이유는 특정 식물이 긴 건기 내내 쌓인 기름을 분출하며 향을 만들어낸다는 것입니다.   베이 19는 긴 가뭄 끝에 내린 아름답고 반짝거리는 매력적인 비에 젖은 주니퍼베리(베이는 불어로 ‘베리’를 뜻합니다), 패출리, 초록 잎사귀들의 향… 그리고 이에 따른 즐거움을 담고 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-baie-19.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J2JX01R000__PRODUCT_01--IMG_1200--BAIE19--1721859346.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/baie-19-1132.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-baie-rose-26",
+    "name": "BAIE ROSE 26",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.    이 베이 로즈 26은 시카고 하면 생각나는 대표적인 음악, 재즈에서 영감을 받은 향수입니다. 페퍼의 톡 쏘는 듯한 향은 재즈의 흥겨운 선율을 떠올리게 하고, 페퍼의 부드러운 이면은 재즈의 애잔한 매력을 연상시킵니다. 재즈의 선율이 당신을 사로잡듯이 , 이 향수의 스파이스 향 (핑크 페퍼와 어우러진 알데하이드, 머스크) 역시도 당신의 마음을 완전히 사로잡을 것입니다. 시카고를 위한 향수인 베이 로즈 26은 핑크 페퍼를 르 라보만의 스타일로 재해석해 우아하면서도 유니크한 매력을 선사합니다. (‘베이 로즈’는 프랑스어로 ‘핑크 페퍼‘를 뜻합니다.) 핑크 페퍼에 클로브(정향)이 더해지고, 시더와 알데하이드의 향이 번갈아 찾아오다 마지막엔 프랑스 그라스 지방에서 온 아름다운 로즈 앱솔루트 향과 만나게 됩니다. 맨 마지막에는 머스크와 암브록스 잔향이 머뭅니다. 세련되면서도 개성있고, 기억에 남는 향수입니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-baie-rose-26.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0NY01R000__PRODUCT_01--IMG_1200--26BAIEROSE26--318127181.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/baie-rose-26-758.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-benjoin-19",
+    "name": "BENJOIN 19",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   모스크바의 시티 익스클루시브 향수인 벤조인 19는 어떤 ‘순간’을 말하는 향수입니다. 세기의 작가 톨스토이의 소설  의 주인공 안나가 모스크바 기차역 앞에서 브롱스키 백작을 만나게 되는 바로 그 운명 같은 순간 말입니다. 모든 것이 변해버리는 어떤 분기점, 인생이 와르르 무너지는 순간, 전과는 완전히 달라지는 인생의 전환점을 담은 향입니다. 톨스토이는 모스크바를 배경으로 이 운명적인 순간을 그려냈지만, 사실 이러한 ‘순간’은 언제 어디서나 일어날 수 있다는 것을 우리 모두 알고 있습니다. 이러한 보편성은 안나 까레리나를 명작으로 만드는 데에 일조하기도 했죠. 벤조인 19도 마찬가지입니다. 뜨거운 인생을 살아가는 사람들, 스스로 인생을 개척해가는 모두에게 바치는 우리의 보편적인 헌사입니다. 900여 페이지에 달하는  가 그랬듯, 벤조인 19는 벤조인을 중심으로 다양한 노트(올리바넘, 앰버, 시더, 머스크…) 들이 한 데 엮여 깊고 강렬한 관능미와 동시에 반항적인 매력을 전합니다. 그리고 우리가 안나 까레리나를 읽고 느꼈던 긴 여운처럼 벤조인 19  또한 그 지속력이 매우 뛰어납니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-benjoin-19.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0P201R000__PRODUCT_01--IMG_1200--19BENJOIN19-1813826119.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/benjoin-19-764.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-bergamote-22",
+    "name": "BERGAMOTE 22",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "베르가못 22는 신선함, 달콤함, 그리고 센슈얼한 느낌을 모두 담은 시트러스 프레쉬 계열의 향수입니다. 이 놀라운 조합은 이 향수의 원래 코드명이었던 \"파이어 코롱(Fire Cologne)\"에서 연상할 수 있습니다. 페티그레인의 섬세한 플로럴 향, 자몽의 쌉싸래한 향, 앰버와 머스크의 풍성한 달콤함, 그리고 베티버의 남성미 넘치는 터치가 더해져 베르가못 22의 독특한 개성을 완성합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-bergamote-22.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PB22100__PRODUCT_01--IMG_1200--BERGAMOTE22--470601953.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/bergamote-22-771.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-bigarade-18",
+    "name": "BIGARADE 18",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   비가라드 18은 복합적인 매력을 갖고 있는 향수입니다. 매우 클래식한 향이라 생각할 수 있지만 사실은 그렇지 않습니다. 비가라드 18은 밝으면서 굉장한 힘이 느껴지는 향입니다. 베르가못, 네롤리 꽃잎을 머스크와 섞고, 여기에 한두 방울의 나무 향을 더했습니다. 그 결과는 굉장합니다. 마치 시트러스의 클래식한 향과 따뜻하고 초월적인 힘을 지닌 어두운 노트와 나무 향이 팽팽하게 줄다리기를 하듯 서로의 매력을 뽐냅니다. 비가라드 18은 단단하지만 편안하며, 클래식하지만 현대적이고, 밝고 오래 지속되는 향입니다. 이렇게 상반되는 매력은 예스러움과 현대적인 모습이 공존하는 향기로운 항구도시, 홍콩과 잘 어울립니다. 클래식한 화이트 플로럴과 시트러스 향의 웅장함을 지닌 비가라드 18은 홍콩에 대한 우리의 오래된 추억을 불러일으킵니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-bigarade-18.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J2L001R000__PRODUCT_01--IMG_1200--18BIGARADE18-1596447181.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/bigarade-18-1127.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-cedrat-37",
+    "name": "CEDRAT 37",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   자유! 세드라와 진저의 섬세한 균형이 돋보이는 세드라 37은 상쾌함, 애시딕한 뉘앙스의 새콤함 그리고, 설탕에 절인 듯 중독적인 달콤함을 느낄 수 있습니다. 물론 이 향은 진정한 르 라보만의 개성을 완성하는 노트인 우드, 머스크, 풍성한 앰버그리스를 기초로 합니다. 이 향기가 도시라면, 아마 베를린 같을 겁니다. 그 어느 것에도 구애받지 않고 자유로움이 주는 기쁨을 만끽할 수 있는 도시죠. 우선 경험해보세요. 이 향을 경험하고 나면 우리의 설명에 동의하지 않을 수 없을 겁니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-cedrat-37.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J35E01R000__PRODUCT_01--IMG_1200--37CEDRAT37--1370085599.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/cedrat-37-1176.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-citron-28",
+    "name": "CITRON 28",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   시트롱 28의 초기 코드네임은 시트롱 보엠 (Citron Boheme)이었습니다. 르 라보는 평범한 레몬 향이 아닌 기존의 시트러스가 가진 매력에 반전을 더하는 새로운 레몬 향을 고민하고 재구성했습니다. 시더와 머스크에 기초를 둔 레몬, 진저, 그리고 자스민이 어우러진 신선하고 특별한 구성, 시트롱 28. 이 향기는 전 통과 보존 사이의 적절한 균형을 맞춰줍니다. 시트롱 28 은 순수함과 간결함을 기반으로 보편적이고 이해하기 쉬운 메시지를 전달하지만, 여전히 불가사의한 매력을 지니고 있어 더욱 특별합니다. 이렇듯 복잡한 구성을 지닌 시트롱 28은 아이코닉한 도시 ‘서울’에 대한 헌사입니다. 전통과 역사에 뿌리를 두고 있지만, 그 어느 도시보다 현대적이고 진보적인 사고방식의 선두에서 있는 서울. 자신만의 모순을 가진 서울의 대조적인 힘과 매력은 오직 보헤미안 시트러스만이 표현해 낼 수 있 습니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-citron-28.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J2TK01R000__PRODUCT_01--IMG_1200--28CITRON28--1945802309.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/citron-28-1168.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-cuir-28",
+    "name": "CUIR 28",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   두바이를 위한 향수인 퀴르 28은 사막을 가로지르는 모터사이클 라이더를 연상시키는 향입니다. 데니스 호퍼의 영화 ‘ 이지 라이더’가 떠올랐다면 거기서 땀과 가솔린 냄새만 지워 보세요! 그게 바로 퀴르 28입니다. 가죽과 우드, 애니멀 노트가 한데 어우러져 파워풀하고 다크한, 한번 맡으면 잊을 수 없는 개성을 지녔습니다. 천연 바닐라 앱솔루트 (우리가 알고 있는 바닐라의 스파이시하고 동물적인 타르 버전이죠)가 가죽의 향취와 어우러져 오리엔탈 계열의 중독적인 향을 완성합니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-cuir-28.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0P501R000__PRODUCT_01--IMG_1200--28CUIR28-887385036.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/cuir-28-793.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-fleur-d-oranger-27",
+    "name": "FLEUR D'ORANGER 27",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "희귀한 천연 오렌지 블로썸 원료로 무려 3년이 넘는 시간에 걸쳐 완성했습니다. 여기에 프레쉬 플로럴, 레몬 향을 더해 오렌지 블로썸 본연의 우아함을 더욱 살렸습니다. 머스크, 베르가못, 페티그레인, 레몬의 따뜻하고 화창한 느낌이 전체를 풍성하게 감싸줍니다. 깊이 있고 매력적인 향으로 남녀 모두에게 센슈얼한 느낌을 더합니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-fleur-d-oranger-27.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PF27100__PRODUCT_01--IMG_1200--FLEURDORANGER27--2037444049.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/fleur-doranger-27-810.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-gaiac-10",
+    "name": "GAIAC 10",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   가이악은 단단한 그린 계열의 나무로, 시더우드처럼 드라이한 향은 아니지만 은은하며 깊고 차분한 느낌을 줍니다. 르 라보 가이악 10은 가이악 우드를 베이스로 4가지의 다른 머스크가 그를 감싸고, 여기에 약간의 시더와 올리바넘(유향)이 더해졌습니다. 이 우디 머스크 향은 당신 주위에 누구나 느낄 수 있는 강한 잔향을 남기지 않습니다. 하지만 은은한 향으로 당신에게 온전히 남아 낮이든 밤이든 당신과 함께할 것입니다  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-gaiac-10.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0P801R000__PRODUCT_01--IMG_1200--10GAIAC10-1767695242.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/gaiac-10-823.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-jasmin-17",
+    "name": "JASMIN 17",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "자스민 17은 기존의 흔한 플로럴 계열의 자스민이 아니라, 더욱 모던하게 재해석한 독창적인 자스민을 선보입니다. 심플한 원료의 조합이지만 매우 독창적인 향으로, 한 번 뿌리면 절대 잊을 수 없는 매력을 전합니다. 센슈얼하면서도 여성스러운 플로럴 향에, 머스크, 샌달우드, 바닐라를 더해 더욱 장엄하고 풍성해집니다. 이 향수를 뿌리면 당신 주위의 이성 친구들의 마음이 복잡해질 수도 있다는 사실을 기억해두세요. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-jasmin-17.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PJ17100__PRODUCT_01--IMG_1200--JASMIN17-1797062708.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/jasmin-17-842.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-labdanum-18",
+    "name": "LABDANUM 18",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "LABDANUM 18 은 수수께끼 같은 매력의 향수입니다. 기존 향수에 대한 그 어떤 룰도 따르지 않습니다. 강렬하게 응축된 앰버 노트에, 사향과 카스토럼의 동물적인 향이 더해져, 피부에는 캐시미어처럼 부드럽게 남아 있지만 사실은 폭발적인 잠재력을 가진 향수입니다.  당신의 후각, 그리고 당신 곁에 가까이 올 수 있는 사람들의 감각에 속삭이는 이 향을 느껴보세요. 한 번 빠지면 헤어나올 수 없는 매력을 선사합니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-labdanum-18.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PL18100__PRODUCT_01--IMG_1200--LABDANUM18--1320480263.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/labdanum-18-856.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-limette-37",
+    "name": "LIMETTE 37",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   리메트 37이 그저 샌프란시스코의 쌀쌀한 여름 안개나 골든 게이트의 느낌을 담았을 거라고 속단하진 말아 주세요. 리메트 37은 샌프란시스코라는 도시가 주는 어떤 추상적인 매력에서 영감을 받았습니다. 이를테면 필모어 스트릿에 있는 르 라보 부티크에서 노스 비치 해안까지 이어진 구불구불한 언덕길을 쭈욱 내달릴 때 느낄 수 있는 상쾌함 같은 거죠. 자, 이렇게 상상해보세요. 베르가못의 산뜻하고 가벼운 느낌이 언덕 위의 멋진 풍경처럼 펼쳐지고, 자스민과 페티그레인, 클로브의 따스한 매력에 풍덩 빠진 다음 베티버와 통카 빈, 머스크의 풍성하고 부드러운 느낌으로 마무리되는 여정! 리메트 37은 후각을 위한 롤러코스터입니다. 깨끗하고, 신선하고, 건강한 향이면서도 당신에게 특별한 향이 난다는 느낌을 주는 향수입니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-limette-37.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PC01R000__PRODUCT_01--IMG_1200--37LIMETTE37-1318966142.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/limette-37-871.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-lys-41",
+    "name": "LYS 41",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "리스 41은 릴리, 튜베로즈, 자스민 등 풍성한 화이트 플라워들이 어우러진 중독적인 플로럴 향입니다. 자스민, 튜베로즈 앱솔루트, 릴리의 우아하면서도 따뜻한 향이 마법처럼 펼쳐지며, 우아한 우드 향, 바닐라와 머스크가 더해져 한 번 빠지면 헤어 나올 수 없는 매력에 사로잡힙니다. 리스 41은 중독적인 플로럴 향으로 매력적인 여운을 남겨 사람들이 당신의 주위를 맴돌게 할 것입니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-lys-41.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PL41100__PRODUCT_01--IMG_1200--LYS41--1691656979.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/lys-41-878.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-mousse-de-chene-30",
+    "name": "MOUSSE DE CHENE 30",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   무스 드 쉔은 ‘네오 쉬프레 ‘ 계열의 향으로, 전통적인 분위기와 진보적인 느낌을 동시에 담았습니다. 마치 암스테르담 도시 그 자체의 느낌처럼요. 모스(이끼류)와 패출리의 향에 합성 원료인 크리스탈 모스, 클리어 우드 향이 더해졌습니다. 시나몬, 피멘토(피망과 비슷한 작고 맵지 않은 고추), 핑크 페퍼가 더해져 스파이시하면서도 우아하고, 강렬함과 중독적인 매력을 선사합니다. 무스 드 쉔 : 프랑스어로 오크 모스, 이끼류 식물을 뜻함. 짙고 풍부한 흙내음을 연상시키는 향  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-mousse-de-chene-30.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PG01R000__PRODUCT_01--IMG_1200--30MOUSSEDECHENE30-1168517478.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/mousse-de-chene-30-891.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-musc-25",
+    "name": "MUSC 25",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   머스크가 왜 LA의 향수냐고 물으시겠죠? 왜냐하면 LA는 천사의 도시이고 (Los Angeles, 스페인어로 천사들), 머스크야말로 천사들도 매료 당할만한 향이기 때문입니다. 머스크 25는 진한 머스크와 알데하이드가 어우러져, 하얀 천사처럼 눈부시게 빛나는 향입니다. 천상의 순백색으로 빛나면서도 동시에 깊은 중심에는 어두침침하고 악마적인 어둠이 자리하고 있어, 당신 안의 숨겨진 마성을 끌어냅니다. 동물적인 감각의 노트로 센슈얼하고, 섹시하고, 어딘지 퇴폐적인 매력의 향입니다. 베티버, 앰버그리스(용연향), 머스크, 시벳(물론 동물성이 아닌 인공 성분) 역시 또 다른 매력을 자아냅니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-musc-25.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PK01R000__PRODUCT_01--IMG_1200--25MUSC25-61610773.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/musc-25-897.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-myrrhe-55",
+    "name": "MYRRHE 55",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   미르(몰약)는 한때 매우 신성시되고 금보다 귀중하게 여겨졌던 수지로, 중국에서는 오래전 전통적으로 사용된 것으로 알려져 있습니다.  때문에 미르 55가 상하이에서 영감을 받은 시티 익스클루시브 향이고, 우리 마음을 두근거리게 할 것이라는 게 그렇게 놀라운 일은 아니죠. 강력한 인센스에 감초가 살짝 가미된 것 같은 몰약 향이 바로 이 제품의 “핵심”입니다. 이에 자스민과 패출리가 오우드, 앰버그리스 그리고 머스크(걱정마세요, 모두 비건 노트니까요)의 베이스와 잘 어우러집니다. 미르 55는 절제된 우아함과 현대적이면서도 클래식한 면모까지 두루 담고 있어 한번 맡으면 쉽게 잊기 어렵습니다. 신사 숙녀를 위한 시프레 계열의 향수. 어두우면서도 찬란한, 예스럽지만 새로운. 마치 상하이 같은 향수.   \n사용방법  \n맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-myrrhe-55.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J33501R000__PRODUCT_01--IMG_1200--55MYRRHE55-336518130.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/myrrhe-55-eau-de-parfum.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-neroli-36",
+    "name": "NEROLI 36",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "네롤리는 오렌지 블로썸 에센스의 또 다른 이름입니다. 르 라보의 네롤리 36은 따뜻하고 싱그러운 플로럴 향에 센슈얼한 베이스를 더해 독창적으로 만들어졌습니다. 로즈, 머스크, 만다린 오렌지, 자스민, 바닐라에 네롤리가 어우러져 톡 쏘는 듯하면서도 편안하고 열정적이고, 따뜻한 향을 완성합니다. 웰빙과 우아함, 매력을 한 병에 담은 향수입니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-neroli-36.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PN36100__PRODUCT_01--IMG_1200--NEROLI36--1184684923.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/neroli-36-904.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-patchouli-24",
+    "name": "PATCHOULI 24",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "자작나무의 스모키한 향과 센슈얼한 바닐라 향이 어우러진 개성 넘치는 향인 패출리 24는 후각적으로 독특하고 상상하지 못했던 향을 선사하지만, 정작 향에서 패출리를 찾아내긴 쉽지 않습니다. 자작나무의 스모키한 가죽 향이 처음 몇 초를 완전히 지배하며 이 향수를 매우 독창적이고 개성 넘치게 만듭니다. 다행히 곧이어 바닐라 향이 다가와 평화롭고, 부드럽고, 센슈얼하게 이 야성적인 향을 감싸줍니다. 외줄타기를 하는 것처럼 아슬아슬한 스릴을 느낄 수 있는 위험한 매력의 향수입니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-patchouli-24.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PP24100__PRODUCT_01--IMG_1200--PATCHOULI24-1414072501.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/patchouli-24-935.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-poivre-23",
+    "name": "POIVRE 23",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.  프아브르 23을 번역하면 “페퍼 (Pepper) 23 ”이라고 할 수 있으며, 이 향수는 르 라보를 대표하는 페퍼 베이스 향수입니다. 왜 하필 페퍼냐구요? (여기서 말하는 페퍼는 진짜 버번 페퍼로 수 많은 페퍼 중에서도 최상급이자 페퍼 계의 롤스로이스로 불립니다) 왜냐하면 페퍼는 향료의 왕이자 다양한 향수에 널리 사용되고 있으며, 무엇보다 세상의 각광을 받을만한, 그 자격이 충분한 향료이기 때문이죠. 페퍼는 따스하면서도 스파이시한, 진정한 오리엔탈을 몸소 느끼게 합니다. 그리고 오직 런던을 위한 향수이고요  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [
+      "Pepper"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Pepper"
+      ]
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-poivre-23.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PN01R000__PRODUCT_01--IMG_1200--23POIVRE23--410655051.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/poivre-23-954.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-rose-31",
+    "name": "ROSE 31",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "이 향수를 만든 이유는 분명합니다. 관능미와 여성미의 상징인 그라스의 장미 원료로 남성적인 향을 만들어, 남녀 모두 사용할 수 있도록 하는 것입니다. 그 결과 탄생한 로즈 31은, 센티폴리아 로즈의 모호한 매력으로 남성성/여성성의 경계를 뛰어넘었습니다. 여기에 커민, 올리바넘, 시더우드와 앰버의 노트가 더해져 따뜻하면서도 스파이시한 우디 향을 선사합니다. 베이스 노트로 가이악 우드와 시스투스가 센슈얼한 느낌을 주며 동물적이고 관능적인 향이 신비로움을 더합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-rose-31.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PR31100__PRODUCT_01--IMG_1200--ROSE31-917341418.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/rose-31-962.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-santal-33",
+    "name": "SANTAL 33",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "미 서부의 와일드한 평원에 고독하게 앉아있다고 상상해 보세요. 모닥불의 불빛이 드리우고 머리 위로는 인디고블루의 밤하늘이 펼쳐집니다. 주변에는 사막의 부드러운 바람을 제외하고 아무것도 없습니다. 당신은 자유로워요. 상탈 33은 바로 이 부분에서 영감을 받아 탄생한 센슈얼한 향수입니다. 도취적이죠. 카다멈, 아이리스, 바이올렛, 암브록스에 스모키한 우드 향(호주산 샌달우드와 시더우드)이 어우러져 스파이시하고, 가죽 향이 맴도는 머스크 노트를 완성합니다. 상탈 33을 한마디로 요약하면 이렇습니다: 타오르는 모닥불과 스모키하게 날리는 연기, 빛이 사라지고 난 이후에 느껴지는 센슈얼한 무드.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-santal-33.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PS33100__PRODUCT_01--IMG_1200--SANTAL33--1030674724.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/santal-33-987.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-tabac-28",
+    "name": "TABAC 28",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   때때로 시가는 본연의 매력을 넘어 향수가 되기도 합니다. 매혹적이고 유혹적인 스모키 향으로 마이애미를 담아낸 타박 28처럼요. 깊고 향기로운 타바코 앱솔루트는 풍부한 우드, 매력적인 시더우드 블렌드와 어우러져 부드럽고 그을린 듯한 느낌을 줍니다. 여기에 가이악 우드와 럼이 그린 카다멈 주변을 감싸듯 중독적인 따스함을 선사합니다. 타박 28은 생기 있고, 활기차고, 관능적이고 풍요로우면서 퇴폐적이기까지 합니다. 그래피티 예술로 유명한 윈우드 (Wynwood) 에 타박 28을 주제로 한 작품이 생길 것 같네요. 하지만 타박 28은 오롯이 당신의 후각만을 위한 향수라는 것을 잊지 마세요.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-tabac-28.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J29J01R000__PRODUCT_01--IMG_1200--28TABAC28--2053256978.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/tabac-28-1125.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-th-matcha-26",
+    "name": "THÉ MATCHA 26",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "말차가 일본 문화에서 단순한 음료 이상의 의미를 지닌 것처럼, 떼 마차 26은 향기 이상의 의미를 담고 있습니다. 떼 마차 26은 깊은 지성의 순간이며, 지혜와 영혼의 아름다움을 감사히 되돌아보는 조용한 자아의 순간입니다. 이 향은 한 번의 들이킴으로 우리를 외부의 소란으로부터 벗어나게 하고 내면으로 '돌아오게' 합니다. 크리미한 무화과 노트가 스며든 마차 티 어코드는 부드러운 베티버와 입체적인 질감의 시더우드를 베이스로 하며 매혹적인 비터 오렌지와 어우러져 기분 좋은 균형을 이룹니다. 천성적으로 내향적이며 깊은 성격의 떼 마차 26 은 살 내음처럼 은은하게 당신 주위를 맴돌고 당신 곁에 가까이 다가갈 수 있는 행운을 가진 몇 사람만을 위한 향임을 의미합니다. 이 향은 고귀한 고요를 담고 있으며 나의 집과 반가운 고독 그리고 친숙하고 소중한 모든 것을 상기시켜줍니다.   사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-th-matcha-26.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J34301R000__Product_01--IMG_1200--THMATCHA26--1277312391.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/th-matcha-26-1186.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-th-noir-29",
+    "name": "THÉ NOIR 29",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "떼 누아 29는 블랙 티 잎의 우아하고 아름다운 향에 바치는 찬가와도 같은 향수입니다. 베르가못, 무화과, 월계수잎의 밝은 느낌과, 시더우드, 베티버, 머스크의 다크함이 어우러져 깊이 있으면서도 산뜻하고, 부드러우면서도 강한 반전 매력을 갖고 있습니다. 르 라보만의 특별한 비법으로 추출한 블랙 티 향이 온몸을 감싸줍니다. 드라이한 나뭇잎과 건초향, 토바코의 쌉싸래한 향으로 센슈얼하고 중독적인 잔향을 남깁니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-th-noir-29.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PT29100__PRODUCT_01--IMG_1200--THNOIR29--1338033806.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/th-noir-29-1003.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-tonka-25",
+    "name": "TONKA 25",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "통카 25는 아주 어두운 매력을 지닌 향입니다. 물론 좋은 의미로요. 어둑어둑하면서도 어딘가 따스한 살결을 떠올리게 하는 향으로 젖은 나무 덤불과 레진, 씨앗이 겹겹이 머스크와 어우러지고 여기에 바닐라로 희미하게 달콤함을 몇 방울 더합니다. 오렌지 플라워 앱솔루트와 시더 아틀라스, 때죽나무 레진, 통카 앱솔루트와 머스크… 우리는 이 아름다운 조화를 ‘통카 25’라 부릅니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-tonka-25.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PT25100__PRODUCT_01--IMG_1200--TONKA25--880596687.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/tonka-25-1105.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-tubereuse-40",
+    "name": "TUBEREUSE 40",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   르 라보의 대다수 향수가 그렇듯, 튜베로즈 40도 평범하게 이름 그대로인 향은 아닙니다. 당연히 여기에는 튜베로즈 앱솔루트가 아주 많이 들어가지만, 이 향을 처음 맡았을 때 가장 먼저 다가오는 것은 의외로 산뜻한 오 드 코롱을 뿌린 듯 프레쉬한 베르가못, 텐저린, 오렌지 플라워 향입니다. (사실 30% 나 되는 높은 부향률 때문에 이 향은 진한 ‘익스트레 드 퍼퓸’에 가깝지만) 그렇기 때문에 첫 향은 완전히 웰-빙의 신선한 느낌입니다. 그 후 서서히 이 향 만의 독 특한 캐 릭터와 포 근함을주는 우디/플로럴한 향이 느껴집니다. 그리고 마침내 튜베로즈와 함께 화이트 플로럴 향이 찾아오고, 우드(시더우드와 샌달우드)가 오크 모스 및 머스크와 함께 다가옵니다. 또한 암브레트 앱솔루트의 향이 강렬하면서도 순수한 느낌을 더합니다. 빛이 있는 한 인생이 있듯이 , 뉴욕이 있는 한, 튜베로즈 40이 있을 것입니다.  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-tubereuse-40.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PT01R000__PRODUCT_01--IMG_1200--40TUBEREUSE40--621912830.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/tubereuse-40-1016.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-vanille-44",
+    "name": "VANILLE 44",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "9월 1일 – 9월 30일 기간 동안만 한정적으로 구매 가능합니다.   우리는 모두 파리가 로맨틱한 사랑의 도시라는 것을 잘 알고 있죠. 하지만 파리는 바닐 44의 도시이기도 합니다! 르 라보의 로즈 향수가 단순히 로즈 향만 내지 않고, 아이리스 향수 역시 아이리스 향만 나지 않는다는 것을 이미 잘 아실 겁니다. 마찬가지로 르 라보의 바닐라도 평범한 바닐라 향은 아닙니다. 바닐 44는 앰버, 인센스, 우디 향이 어우러진 관능적인 향으로, 파시미나 스웨터에 스며들면 당신이 여태껏 경험해본 적 없는 최고급 버번 바닐라 향을 뿜어낼 것입니다. 오직 파리에서만 이 향을 살 수 있게 한 건 르 라보의 큰 실수라고 말하는 이가 있는 반면, 어떤 이는 평범한 바닐라 같지 않은 이 향이 바닐이란 이름을 달고 있는 걸 용납할 수 없다고 합니다. 하지만 대관절 요즘 같은 세상에 평범함을 가르는 기준이란… 뭐죠?  사용방법  맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-vanille-44.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/J0PY01R000__PRODUCT_01--IMG_1200--44VANILLE44--695555460.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/vanille-44-1022.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-vetiver-46",
+    "name": "VETIVER 46",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "아이티에서 자란 최상급의 베티버를 원료로 해 만들어진 베티버 46은, 르 라보의 향수 컬렉션 중 가장 남성적인 매력의 향수입니다. 함께 블렌딩된 46가지의 원료들에는 남성적인 향이 가득합니다 : 페퍼, 가이악, 라다넘, 시더우드 각각이 강렬한 캐릭터를 드러냅니다. 여기에 신비로운 유향이 더해져 흥미롭고 유혹적인 잔향을 남깁니다. 사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등)",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-vetiver-46.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PV46100__PRODUCT_01--IMG_1200--VETIVER46--363459925.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/vetiver-46-1029.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "lelabo-ylang-49",
+    "name": "YLANG 49",
+    "brand": "Le Labo",
+    "gender": null,
+    "description": "일랑 49는 시프레 플로럴 계열의 향수로, 일랑일랑에 타히티 가드니아를 더해 더욱 관능적인 플로럴을 완성합니다. 패출리, 오크모스, 베티버, 샌달우드와 벤조인이 이 조합을 더욱 센슈얼하게 만듭니다.  사용방법 맥박이 뛰는 곳에 뿌려줍니다. (손목, 귀 뒤 등) 단독으로 사용하거나, 같은 라인의 바디 제품과 함께 사용할 수 있습니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": "Classic Collection",
+    "image": "../perfume-atlas-data/images-r/le-labo/lelabo-ylang-49.png",
+    "imageSourceUrl": "https://lelabokorea-java.s3.amazonaws.com/images/skus/050PY49100__PRODUCT_01--IMG_1200--YLANG49-1134123156.jpg",
+    "sourceUrl": "https://www.lelabofragrances.co.kr/ylang-49-1043.html",
+    "sourceProductId": null,
+    "imageStatus": "downloaded-original-1200",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description"
+  },
+  {
+    "id": "creed-absolu-aventus",
+    "name": "Absolu Aventus",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Absolu Aventus is the most intense and striking expression of Aventus. The fragrance opens with a precise burst of Calabrian bergamot paired with the signature pineapple accord, immediately commanding attention. Cardamom introduces warmth and tension before giving way to a rich, spiced, smoky trail anchored by labdanum, which creates depth and lasting intensity. Absolu Aventus leaves a distinctive impression: powerful, not by declaration, but by presence.\n\nA Testament To Time-Honoured Art\nAbsolu Aventus epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Absolu Aventus reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume.\n\nThe Aventus Collection\nAbsolu Aventus is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "notes": [
+      "Bergamot",
+      "Pineapple",
+      "Cardamom",
+      "Labdanum"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Pineapple",
+        "Cardamom",
+        "Labdanum"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-absolu-aventus.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/16281794-1795247591060156.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/absolu-aventus/16281794",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/absolu-aventus/16281794",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-aventus",
+    "name": "Aventus",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Aventus is bold and confident: the ultimate olfactive expression that has stood the test of time. The fragrance opens with fresh Calabrian bergamot harmonising effortlessly with a signature pineapple accord for a bright and luminous introduction. As it evolves, smoky, leathery birch brings depth and structure, creating a composition that is both powerful and precisely balanced. A fragrance defined by clarity, confidence and enduring craft, Aventus leaves a refined yet assertive lasting impression.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Signature That Endures\nLeave your mark with Aventus, a fragrance defined by permanence and resolve since 2010. Born of passion, shaped by savoir-faire and rooted in a deep respect for the finest natural ingredients, Aventus is as an enduring icon from The House of Creed, set against the shifting sands of an ever-changing world.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus reflects The House of Creed's uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, France, ensuring the consistency and integrity of every perfume. Left unfiltered, its full essence is preserved.\n\nThe Aventus Collection\nOver the years, Aventus has evolved into a complete collection with the addition of Aventus For Her, Aventus Cologne and Absolu Aventus. Freshness, depth and concentration may vary; occasions, seasons and moments may change; however, the unmistakable imprint of the original creation remains.",
+    "notes": [
+      "Bergamot",
+      "Pineapple",
+      "Birch"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Pineapple",
+        "Birch"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-aventus.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870029-1145337306138828.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/aventus/12870029",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/aventus/12870029",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-green-irish-tweed",
+    "name": "Green Irish Tweed",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Inspired by The House of Creed's rich couturier legacy, Green Irish Tweed Eau de Parfum is a precision-crafted fougère as timeless as a sharp tailored suit that masterfully weaves together fresh and aromatic notes. Conjuring verdant scenes, this classic gentleman's fragrance opens with refreshing notes of bergamot and lemon, cooled by a breath of invigorating peppermint. Layers of fresh geranium are pitched against soothing lavender, while earthy oakmoss and woods entwine at the base, leaving a unique arboreal impression.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before.\n\nA Millésime Creation\nGreen Irish Tweed is a fragrance of \"Millésime\"quality, a French term from the wine industry that denotes a great vintage. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the layers of fresh lavender at its heart to the crisp oakmoss at its base.\n\nA Refined Design\nGreen Irish Tweed is housed in The House of Creed's signature bottle that traces the shape of a classic gentleman's hip flask. The deep, almost blackened green bottle mirrors the fresh and natural composition within. It also evokes a sense of refinement, reinforcing the fragrance's enduring appeal.\n\nAn Ode To The Great Outdoors\nGreen Irish Tweed was inspired by the lush greenery of the Emerald Isle while also honouring the house's historical ties to Linton Tweed Mills in the Cumbrian countryside. With notes that conjure the earthy tones of hand-woven yarns, it encapsulates the connection between nature and craftsmanship.",
+    "notes": [
+      "Bergamot",
+      "Lemon",
+      "Peppermint",
+      "Geranium",
+      "Lavender",
+      "Oakmoss",
+      "Woods"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Lemon",
+        "Peppermint",
+        "Geranium",
+        "Lavender",
+        "Oakmoss",
+        "Woods"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-green-irish-tweed.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870035-8495164180496709.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/green-irish-tweed/12870035",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/green-irish-tweed/12870035",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-eladaria",
+    "name": "Eladaria",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Discover Eladaria, an enchanting floral rose fragrance from The House of Creed that blooms with modernity. Capturing a dreamlike garden reawakening in the silvery mist of dawn, it opens with radiant and refreshing mandarin, gently warmed by the soft spice of pink pepper. As the fragrance blossoms, a trilogy of rose unfolds at its heart, dancing with delicate peony and lily of the valley, before settling into a sumptuous base of cashmere wood, vanilla and musk. This luxurious layer lends a subtle sweetness and grounding warmth, surrounding the wearer with enduring sensuality.\nA Millésime Creation Eladaria is a fragrance of “Millésime” quality, a French wine term that translates to “a great vintage”. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the vibrant mandarin in its debut to the trilogy of roses that bloom at its heart.\n\nAn Elegant Design Eladaria is presented in the signature perfume bottle of The House of Creed, a timeless symbol of elegance that traces the shape of a classic hip flask. The design is both feminine and enchanting in a gentle petal pink hue that echoes the modern floral rose perfume contained within.\nA Modern Expression Of Rose Eladaria is a modern rose fragrance that defies convention, with a plush bouquet blossoming alongside the brightness of radiant citrus and the allure of sensual musk. This multi-faceted impression masterfully embodies modern femininity with its characteristic depth and complexity.\n\n\n &nbsp;",
+    "notes": [
+      "Mandarin",
+      "Pink Pepper",
+      "Rose",
+      "Peony",
+      "Lily of the Valley",
+      "Cashmere Wood",
+      "Vanilla",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Mandarin",
+        "Pink Pepper",
+        "Rose",
+        "Peony",
+        "Lily of the Valley",
+        "Cashmere Wood",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-eladaria.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/15795436-6085216008061904.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/eladaria/15795436",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/eladaria/15795436",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-aventus-for-her",
+    "name": "Aventus For Her",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Aventus For Her is empowering and radiant: a confident expression of modern individuality defined by elegance and distinction. It opens with luminous Sicilian lemon, offering a fresh, vivid brightness. At the heart, alluring Bulgarian rose unfolds with grace and depth, bringing balance and refinement to the composition. As the fragrance settles, grounding patchouli introduces a rich, woody touch, creating a smooth, structured trail that lingers on the skin. Refined yet assertive, Aventus For Her leaves a lasting impression: a fragrance of presence, elegance and timeless confidence.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Testament To Time-Honoured Art\nAventus For Her epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus For Her reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume.\n\nThe Aventus Collection\nAventus For Her is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "notes": [
+      "Lemon",
+      "Rose",
+      "Patchouli"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Rose",
+        "Patchouli"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-aventus-for-her.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870031-9665337306355095.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/aventus-for-her/12870031",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/aventus-for-her/12870031",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-queen-of-silk",
+    "name": "Queen Of Silk",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Queen of Silk emerges as a captivating new fragrance for women from The House of Creed embodying the opulent lustre and ethereal softness of silk, a precious fabric treasured since time immemorial for its beauty and delicate touch. This spellbinding Eau de Parfum gently embraces the skin, leaving an enchanted trail in the air that shimmers with luminous energy. Transporting you to the distant lands through which this ancient treasure once journeyed, Queen of Silk weaves together sublime Chinese osmanthus, decadent tuberose and ethereal Javanese patchouli. These heady notes dance over complex cedar, agarwood and smoulderingly soft Madagascan vanilla in a lingering, sensual testament to timeless refinement.\n\nA Noble Passion Queen of Silk is presented in The House of Creed signature bottle, in a rich purple hue that honours the treasured purple silks once reserved for the highest echelons of the nobility - a fitting colour for this most majestic of perfumes.\n\nA Treasured Symbol of Elegance Queen of Silk embodies the richness and allure of silk, a symbol of luxury both then and now. Coveted since time immemorial, silk's rich colours and ethereal lightness cast a spell on all those who encounter it, leaving a trail of sensual allure that captivates the senses.\n\n&nbsp;\nExotic Fruit with Soft Woods Queen of Silk weaves sublime Chinese osmanthus with a seductively light and modern tuberose, infused with a lusciously tart passionfruit. Ethereal Javanese patchouli drifts through deep, dry woods of cedar and agar, creating gentle undulations that merge seamlessly into the addictive softness of Madagascan vanilla and smouldering ambers.",
+    "notes": [
+      "Osmanthus",
+      "Tuberose",
+      "Passionfruit",
+      "Patchouli",
+      "Cedarwood",
+      "Oud",
+      "Vanilla",
+      "Amber"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Osmanthus",
+        "Tuberose",
+        "Passionfruit",
+        "Patchouli",
+        "Cedarwood",
+        "Oud",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-queen-of-silk.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/15227714-1735152791735504.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/queen-of-silk/15227714",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/queen-of-silk/15227714",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-wild-vetiver",
+    "name": "Wild Vetiver",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Experience untamed elegance with a vetiver expression inspired by an English garden party wandering into the wild. Wild Vetiver is a fragrance off the beaten path, walking the line between precise refinement and nature. Born from noble roots yet spirited in its freedom, this sculpted composition reveals a vibrant tension between sophistication and wilderness. Opening with the spiced vibrancy of hand-harvested timur berry, the heart unfolds as rose centifolia rambles freely. At the base, vetiver casts a woody trail, grounding the composition with modern elegance. This is an enchanting journey through an aristocratic garden, where halcyon moments and the joy of missing out drift through the air.\n\nA Statement Of Individuality\nWild Vetiver is presented in the signature fragrance bottle of The House of Creed that traces the shape of a classic hip flask. Flushed in a verdant green hue inspired by nature’s exuberance, it invites you to venture beyond the half-opened garden gates.\n\n&nbsp;\nJourney Through An Aristocratic Garden\nBe transported to a scene where halcyon moments unfold and the senses awaken wildly. Wander barefoot through the grass. On the picnic blanket, wit sharpens, and the art of conversation rules. Nothing and everything matters. Minutes and hours flow effortlessly, like elegance itself.",
+    "notes": [
+      "Timur Berry",
+      "Rose",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Timur Berry",
+        "Rose",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-wild-vetiver.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/16684202-1125319455659968.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/wild-vetiver/16684202/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/wild-vetiver/16684202/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-iris-debonair",
+    "name": " Iris Debonair ",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Unlock Iris Debonair, an addictive fougère floral capturing the allure of an aesthete's domain, where every room reveals an intentional art of living. Opening with a luminous stroke of bergamot co-infused with absinthe leaves, at the heart, crisp English lavender unfolds with cool, aromatic clarity. French iris pallida, suffused in pale blue, is magnetic and among perfumery's most precious materials.\nHow To Use: Apply Iris Debonair to clean, dry skin, focusing on pulse points such as the wrists, neck inner elbows and behind the ears for optimal diffusion. Use two to four sprays, or as desired, for a balanced and refined sillage.\n\nUnlock The Composition\nCharm is unlocked instantly through the British-French duality of ingredients, with crisp English lavender and alluring French iris pallida joining Creed’s distinguished palette of raw materials while echoing the very origins of the House. Both of exceptional provenance and cultivated with precision and patience, together they enrich the Maison’s Art of Millésime.\n\nA Cultivated Name\nThe name, “Iris Debonair”, spoken with a French accent, also reflects the House’s living British-French heritage. Born from the old French expression “de bon air”, meaning “of good disposition and lineage”, this term refers to someone captivating and quietly confident who needs no validation, just like the cultivated aesthetes who originally inspired this creation.\n\nDressing The Debonair\nDressed in soft grey tones infused with blue, Iris Debonair is presented in the House’s iconic bottle that traces the silhouette of a classic gentleman’s hip flask. These carefully chosen hues pay homage to the signature shades of visionary fashion designer and fifth generation of the Creed family, Charles Creed, who anticipated casual chic decades before its time.",
+    "notes": [
+      "Bergamot",
+      "Absinthe Leaves",
+      "Lavender",
+      "Iris"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Absinthe Leaves",
+        "Lavender",
+        "Iris"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-iris-debonair.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/17731653-1745364829583049.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/creed-iris-debonair/17731653/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/creed-iris-debonair/17731653/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-aventus-cologne",
+    "name": "Aventus Cologne",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Aventus Cologne is fresh, confident and contemporary: a modern expression of the Aventus signature. The fragrance opens with vibrant Calabrian bergamot, delivering an immediate burst of citrus freshness. At the heart, crisp ginger introduces a refined aromatic energy, adding brightness and contrast. As this settles, a smooth musk accord emerges, forming a clean base with a trail that is both light and assured. Effortless, modern and enduring, Aventus Cologne offers a fresh interpretation of confidence that leaves a mark.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Testament To Time-Honoured Art\nAventus Cologne epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus Cologne reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume\n\nThe Aventus Collection\nAventus Cologne is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "notes": [
+      "Bergamot",
+      "Ginger",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Ginger",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-aventus-cologne.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870030-2045337306247707.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/aventus-cologne/12870030/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/aventus-cologne/12870030/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-silver-mountain-water",
+    "name": "Silver Mountain Water",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Experience the exhilarating freshness of Silver Mountain Water, a clean and contemporary classic from The House of Creed crafted to perfection for the modern minimalist. Inspired byá the Alps, this Eau de Parfum opens with a bright burst of bergamot and blacákcurrant, reminiscent of an invigorating breath of mountain air, before unfolding to a heart of tea and a crisp ozonic accord. Meanwhile, base notes of sandalwood and musk are revealed, grounding the fragrance and enveloping the wearer with lasting warmth and sensuality.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before\n\nA Millésime Creation Silver Mountain Water is a fragrance of “Millésime” quality, a French wine term that translates to “a great vintage”. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from its bracing breeze of opening citrus notes to the grounding musk at its base.\n\nA Clean Design Silver Mountain Water is presented in the signature fragrance bottle of The House of Creed that traces the shape of a classic gentleman’s hip flask. Its bright white hue mirrors the minimalist nature of the fragrance contained within while paying tribute to the snow-covered peaks that inspired it.\n\nThe Ultimate Alpine Essence Silver Mountain Water brings to life the extensive and pristine beauty of the breathtaking Alps. With a masterful blend of sharp citrus notes, it instantly conjures the exhilarating crispness of high-altitude air and the purity of icy streams coursing through snow-capped mountains.",
+    "notes": [
+      "Bergamot",
+      "Blackcurrant",
+      "Tea",
+      "Ozonic Accord",
+      "Sandalwood",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Bergamot",
+        "Blackcurrant",
+        "Tea",
+        "Ozonic Accord",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-silver-mountain-water.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870049-1875303061449466.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/silver-mountain-water/12870049",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/silver-mountain-water/12870049",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-carmina",
+    "name": "Carmina",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Floral Amber, Woody, Musk. Carmina is a sensual celebration of feminine allure, captured through exquisite Rose de Mai and luxurious cashmere wood, smouldering over a seductive base of amber and musk.\n\nInspired by the haute couture fashion sketches of Henry Creed that were discovered within our original Paris maison, Carmina recreates the sumptuous swirls and undulating cascades of these virtuoso designs in an intoxicating new scent for modern women.\n\nOpening with the sultry seduction of plump black cherry and the soft spice of saffron which bloom into the delicate femininity of exquisite Rose de Mai, warmed by indulgent cashmere wood, cushioned by a sensual base composed of amber and precious myrrh.\n\nWith a name that hints at the rich and decadent colours long associated with haute couture Carmina is a shimmering evocation of the House's abiding connection to the world of fashion and clad in a modern raspberry hue with flecks of muted rose.",
+    "notes": [
+      "Black Cherry",
+      "Saffron",
+      "Rose",
+      "Cashmere Wood",
+      "Amber",
+      "Myrrh",
+      "Musk"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Black Cherry",
+        "Saffron",
+        "Rose",
+        "Cashmere Wood",
+        "Amber",
+        "Myrrh",
+        "Musk"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-carmina.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/14882499-2465132254479546.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/carmina/14882499/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/carmina/14882499/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-oud-zarian",
+    "name": "Oud Zarian",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Enter a rarefied realm with an unparalleled oud masterpiece from The House of Creed, exquisitely crafted using some of nature's most elusive gifts. Oud Zarian unfurls with a spellbinding air of mystique brought by resinous and resplendent frankincense intertwined with a warming spice accord. This soon drifts away to reveal a radiant heart of rare Rose Centifolia blooming atop a base of creamy sandalwood, patchouli and myrrh. Crowned with the most precious 80-year-aged Oud Choron that bestows an unmatched aromatic intensity and woody depth, this is more than just a fragrance; it is a testament to patience and the pursuit of perfection.\n\nThe Finest Expression Of Oud\nAt the soul of Oud Zarian lies Oud Choron, the most treasured 80-year-aged oud, harvested from the heart of Aquilaria trees deep in the Sylhet forests. Prized for its quality and scarcity, this unequalled oud lends a velvety, resinous depth and complexity to Oud Zarian that is nothing short of exceptional.\n\nA Celebration Of Rarity\nIt is not just the highest quality oud that makes Oud Zarian so extraordinary; it is its pairing with other sought-after ingredients, above all the Rose Centifolia that blossoms at its heart. The harvest of this plush bloom is so fleeting - a mere three weeks in May at dawn - that its essence is unrivalled in its rarity.\n\nA Tribute To True Craftsmanship\nWith a rich heritage of craftsmanship dating back to 1760, The House of Creed has come together with Jalali oud cultivators who share its profound respect for artisanal customs that have transcended time. The result is a fragrance that honours the quiet work of generations driven by a quest for perfection.",
+    "notes": [
+      "Frankincense",
+      "Spice Accord",
+      "Rose",
+      "Sandalwood",
+      "Patchouli",
+      "Myrrh",
+      "Oud"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Frankincense",
+        "Spice Accord",
+        "Rose",
+        "Sandalwood",
+        "Patchouli",
+        "Myrrh",
+        "Oud"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-oud-zarian.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/16391036-2235259258789441.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/oud-zarian/16391036/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/oud-zarian/16391036/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "creed-original-vetiver",
+    "name": "Original Vetiver",
+    "brand": "Creed",
+    "gender": null,
+    "description": "Original Vetiver offers a fresh and timeless interpretation of vetiver, defined by character and clarity. Green, refined and distinctly contemporary, the composition delivers a universal freshness. Crisp, invigorating lemon lifts the senses, balanced by verdant aromatic greenery. Spicy ginger and gentle musk introduce warmth beneath the freshness, forming a balanced structure that is both effortless and impeccably clean, as the vibrant, classic character of vetiver anchors the base. A sophisticated everyday signature, Original Vetiver combines the clarity of a modern cologne with the depth of a classic vetiver, resulting in an original and timeless expression.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before.\n\nEncased In Green\nOriginal Vetiver is presented in the signature fragrance bottle of The House of Creed, a timeless symbol of aristocratic refinement that traces the shape of a classic hip flask. Cloaked in a vibrant green hue, its façade echoes the crisp, natural notes contained within.\n\nA Celebration Of Vetiver\nOriginal Vetiver is a tribute to vetiver, an ingredient rich in history and revered in The House of Creed’s creations for generations. Slowly distilled, this distinguished essence lends the fragrance a layered complexity and an unmatched green, woody sophistication.",
+    "notes": [
+      "Lemon",
+      "Ginger",
+      "Musk",
+      "Vetiver"
+    ],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": [
+        "Lemon",
+        "Ginger",
+        "Musk",
+        "Vetiver"
+      ]
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/creed/creed-original-vetiver.png",
+    "imageSourceUrl": "https://main.thgimages.com/?url=https://static.thcdn.com/productimg/original/12870044-1435216837513418.jpg&format=webp&width=1500&height=1500&fit=cover",
+    "sourceUrl": "https://www.creedfragrance.com/p/original-vetiver/12870044/",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-manually-reviewed",
+    "noteQC": {
+      "scope": "Explicit notes in stored official description; not a complete note pyramid",
+      "sourceUrl": "https://www.creedfragrance.com/p/original-vetiver/12870044/",
+      "reviewedAt": "2026-09-13",
+      "normalization": "Common English note names; ingredient provenance and rose/oud varieties retained in description"
+    }
+  },
+  {
+    "id": "byredo-blanche-absolu",
+    "name": "Blanche Absolu",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "사랑과 친밀함, 살결의 향기, 신선한 린넨의 부드러움이 녹아드는 새로운 차원의\n강렬함, 블랑쉬 앱솔뤼 드 퍼퓸.\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로\n구성됩니다.\n기존 블랑쉬 오 드 퍼퓸의 시그니처 노트를 증폭시킨 앱솔뤼 드 퍼퓸은 각각의\n노트를 새롭게 해석하며 순수함과 따스함의 대조를 보여줍니다. \n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은\n목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과\n앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은\n유지하면서도 인더스트리얼한 요소를 가미해\n바이레도의 고심과 밸런스를 반영합니다.\r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-blanche-absolu.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_25_absolu_blanche_06_2800x2800_copy_1.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/blanche-absolu-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-rose-of-no-man-s-land",
+    "name": "Rose Of No Man's Land  ",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로,  이타적이고도 헌신적이었던 그들에 대한 찬사를 담아낸 향수입니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-rose-of-no-man-s-land.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000079_1_full_no.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/rose-of-no-mans-land-eau-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-mg-absolu",
+    "name": "MG Absolu",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "모하비 고스트의 반항적인 정신을 더욱 풍부한 깊이와 매력으로 구현한 모하비 고스트 앱솔뤼 오 드 퍼퓸\r\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하여 응축된 포뮬러로 구성됩니다.\n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다.\r\n기존 모하비 고스트 오 드 퍼퓸의 아이코닉한 노트를 강렬하게 재해석한 앱솔뤼 오 드 퍼퓸은 각각의 노트를 매혹적으로 강조하며 한층 더 강회된 잔향을 자랑합니다.\r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-mg-absolu.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_25_fragrance_absolu_100ml_mojaveghost_absolu_50ml_mojaveghost_front_2800x2800px.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/mojave-absolu",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-desert-dawn",
+    "name": "Desert Dawn",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "새벽녘 첫 햇살의 따스함과 사막의 뜨거운 열기를 닮은 데저트 던 오 드 퍼퓸\r\n우디 올팩티브 패밀리 (Woody olfactive family)의 새로운 대표작이 될 데저트 던 오 드 퍼퓸은 창조적인 대자연에 대한 찬사입니다.\r\n새로운 것의 신선함에서 균형을 찾은 이 향은 매혹적으로 달콤한 카다멈으로 시작해 샌달우드와 시더우드의 따뜻함으로 이어지며 베티버, 실크 머스크, 깨끗한 파피루스의 향기로 매력적인 잔향이 지속되는 생동감을 더합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-desert-dawn.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/0/0/0065201825_1_full_no.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/desert-dawn",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-black-saffron-absolu",
+    "name": "Black Saffron Absolu",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "Inspired by the sacred and transformative symbolism of saffron, Black Saffron Absolu de Parfum honours the precious spice’s enduring legacy, embodying an ever evolving red thread between cultural heritage and modern identity.\n\nThe Absolu de Parfum amplifies the fragrance’s mystical warmth, revealing more opulent spicy and leathery facets. Vibrant nutmeg and juicy blackcurrant introduce a bright, dynamic opening, which softens into a lush floral heart. At the base, bold notes of black leather, incense, patchouli, and agarwood bring depth, offering a richer, more addictive expression of Black Saffron’s signature. \n\nBeyond the fragrance, the homage to craftsmanship is reflected in the newly redesigned Absolu de Parfum bottle. The textured cap, inspired by Yakisugi, the Japanese art of charring wood, embodies the deep intensity, transformation, and enduring strength that mirrors the essence of the Absolu. The silver and gold atomizer spray, with its industrial edge, complements the bottle’s elemental design and the clean curves of the glass. Within the bottle, the hue of the Absolu de Parfum is intensified, offering a visual hint at the rich concentration of fragrance inside.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-black-saffron-absolu.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_25_absolu_bs_50ml_1_2800_x_2800_1_.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/black-saffron-absolu-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-mumbai-noise",
+    "name": "Mumbai Noise",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "벤 고햄의 기억 속에 각인된 뭄바이의 감각적인 대중들, \n그리고 다면적인 현대성에 대한 찬사를 표현한 뭄바이 노이즈 오 드 퍼퓸.\r\n풍부하고 따뜻한 나무와 화사한 앰버, 자두의 향을 담은 다바나와 레더, \n진한 커피와 뒤섞인 달콤한 통카 빈과 같이 대비로 가득한 이 향은\n쳄부르 거리 속 인센스 향과 커피 가판대가 공존하는 불협화음을 매혹적으로 그려냅니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-mumbai-noise.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000018_1_full_no.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/mumbai-noise-eau-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-de-los-santos",
+    "name": "De Los Santos",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "모두가 한 마음으로 추모의 의식을 치루는 멕시코 '죽은 자들의 날(Día de los Muertos)', \n그리고 스페인 '올 세인츠 데이(Al Saints' Day)'의 대한 오마주로 탄생한 데 로스 산토스 오 드 퍼퓸. \r\n삶과 죽음, 그리고 남겨진 자들의 기억과 망각을 표현한 이 향은 세이지의 선명함이 곁든 향긋한 머스크의 구름 위로 앰버의 화려함, 아이리스 루트와 미라벨 자두",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-de-los-santos.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/0/10000190_1_full_no.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/de-los-santos-eau-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  },
+  {
+    "id": "byredo-rose-of-no-man-s-land-absolu-de-parfum",
+    "name": "Rose of No Man's Land Absolu de Parfum",
+    "brand": "Byredo",
+    "gender": null,
+    "description": "험난한 땅위에 짙고 우아하게 피어나는 장미에 대한 경의, 로즈 오브 노 맨즈 랜드 앱솔뤼 드 퍼퓸\r\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로 구성됩니다.\r\n로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로, 이타적이고도 헌신적이었던 그들에 대한 찬사를 담은 향입니다. 기존 로즈 오브 노 맨즈 랜드 오 드 퍼퓸을 재해석한 앱솔뤼 드 퍼퓸은 더욱 화려하고 스모키한 강렬함을 더했습니다.\r\n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다. \r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "notes": [],
+    "noteGroups": {
+      "top": [],
+      "middle": [],
+      "base": [],
+      "unspecified": []
+    },
+    "accords": [],
+    "collection": null,
+    "image": "../perfume-atlas-data/images-r/byredo/byredo-rose-of-no-man-s-land-absolu-de-parfum.png",
+    "imageSourceUrl": "https://www.byredo.com/cdn-cgi/image/format=auto,quality=70/https://www.byredo.com/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/b/y/byr_ecom_25_absolu_bs_15_2800x2800_1.jpg",
+    "sourceUrl": "https://www.byredo.com/ko_kr/p/rose-of-no-mans-land-absolu-de-parfum",
+    "imageStatus": "downloaded-original",
+    "retouchStatus": "not-retouched",
+    "noteExtraction": "official-product-description-pending-qc"
+  }
+];

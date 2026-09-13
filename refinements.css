@@ -1,0 +1,94 @@
+.bar,.hero-head,.section-label,.connection-label,.connection-head{box-sizing:border-box;height:auto;min-height:0;padding:8px;font:400 12px/1.3 Inter,Helvetica,Arial,sans-serif;white-space:normal;overflow-wrap:anywhere;text-align:left}
+.hero-head{text-transform:capitalize}
+.hero-head{height:auto;min-height:32px;align-items:center}
+.connection-label{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;width:100%;border:0;background:var(--panel);cursor:pointer}
+.connection-label b,.connection-head b{font:inherit;flex-shrink:0}
+.connection-items{display:flex;flex-direction:column;gap:8px;overflow:hidden}
+.connection-items>.empty{margin:0;padding:8px}
+.connections{max-height:calc(100vh - 40px);overflow-y:auto;overscroll-behavior:contain}
+.connections>.connection-group>.connection-label{position:sticky;top:0;z-index:2}
+.image-loading{filter:blur(8px);opacity:.35}
+.hero-image,.bottle,.result,.collection-item,.connection{position:relative;overflow:hidden}
+.bitmap-preview{position:absolute;object-fit:contain;opacity:1;image-rendering:pixelated;z-index:2;pointer-events:none}
+.bitmap-preview.is-visible{opacity:1}
+.is-dither-loading{opacity:0!important}
+.floating-bottles .bottle{overflow:visible}
+.note-particles{position:absolute;left:-150%;top:-150%;width:400%;height:400%;pointer-events:none}
+.floating-bottles .bottle img{display:none}
+.back-to-previous{position:absolute;left:0;top:-32px;z-index:4;padding:0;border:0;outline:0;background:transparent;box-shadow:none;color:inherit;font:inherit;line-height:24px;cursor:pointer;text-align:left}
+.floating-bottles{overflow:hidden;perspective:1000px;cursor:grab;touch-action:none}
+.floating-bottles.is-dragging{cursor:grabbing}
+.floating-bottles .bottle{width:var(--size,160px)!important;height:var(--size,160px)!important;animation:none;transform:translate3d(calc(-50% + var(--field-x,0px) + var(--parallax-x,0px)),calc(-50% + var(--field-y,0px) + var(--parallax-y,0px)),0) scale(var(--field-scale,1));transition:opacity 120ms linear;will-change:transform,opacity;contain:layout paint}
+.floating-bottles .bottle:hover{transform:translate3d(calc(-50% + var(--field-x,0px) + var(--parallax-x,0px)),calc(-50% + var(--field-y,0px) + var(--parallax-y,0px)),0) scale(var(--field-scale,1))!important;filter:brightness(.92);z-index:50!important}
+.atlas.is-focused .floating-bottles{pointer-events:none}
+.atlas.is-focused .floating-bottles .bottle{pointer-events:none;filter:none}
+.floating-bottles .bottle img{width:100%;height:100%;object-fit:contain}
+.search-area{top:50%;transform:translate(-50%,-50%);transition:top 600ms ease-in-out,transform 600ms ease-in-out,opacity 250ms ease}
+/* Keep the search control anchored; only the result list becomes scrollable
+   when there are more matches than the viewport can show. */
+.atlas.has-search-results .search-area{top:20%;transform:translate(-50%,0)}
+.search-bar,.hero-head,.collections .bar{height:32px;min-height:32px}
+.hero-head{height:auto}
+.search-results{max-height:calc(100vh - 340px);overflow-y:auto;gap:8px;background:transparent;box-shadow:none;scrollbar-width:none;-ms-overflow-style:none;transform-origin:top;animation:search-results-reveal 420ms ease-in-out both}
+.search-results::-webkit-scrollbar{display:none}
+.result{align-items:center;content-visibility:auto;contain-intrinsic-size:170px}
+.atlas .search-results{background:transparent!important;gap:8px}
+.atlas .search-results .result{border-bottom:0!important;margin:0}
+.atlas .search-results .result img{display:block;width:150px!important;height:150px!important;max-width:150px;aspect-ratio:1!important;object-fit:contain!important;background:transparent!important}
+.result>span,.result>i{align-self:center}
+.result-notes{display:block;margin-top:8px;opacity:.4;line-height:1.3}
+.empty{padding:0;background:transparent}
+.atlas:is(.is-searching,.is-focused) .floating-bottles{filter:blur(34px) saturate(1.24) contrast(1.08);opacity:.84;transition:filter 360ms ease-in-out,opacity 360ms ease-in-out}
+.atlas:is(.is-searching,.is-focused) .floating-bottles .bottle{opacity:.82!important}
+
+.hero-card{max-height:calc(100vh - 40px);overflow-y:auto;scrollbar-width:none}
+.hero-card::-webkit-scrollbar{display:none}
+.hero-card .hero-head{position:sticky;top:0;z-index:3}
+.hero-image{width:100%;height:auto!important;aspect-ratio:1!important}
+.hero-image img{display:block;width:100%!important;height:100%!important;max-width:100%;object-fit:contain!important}
+.connection img{display:block;width:100%!important;height:auto!important;aspect-ratio:1!important;object-fit:contain!important}
+.collections .bar{padding:8px}
+.description{min-height:0;height:auto}
+/* Unified translucent surface treatment for every information panel. Keep the
+   hero artwork itself clear while ensuring nested collection/connection boxes
+   receive the same 1% tint and 50px backdrop blur. */
+/* Final surface pass: tint only elements that already had the gray panel
+   surface; artwork and white container areas remain unchanged. */
+.atlas .bar,
+.atlas .hero-head,
+.atlas .search-bar,
+.atlas .result,
+.atlas .section-label,
+.atlas .section-body,
+.atlas .connection-label,
+.atlas .connection-head,
+.atlas .description,
+.atlas .empty {
+  background: rgba(0,0,0,.01) !important;
+  backdrop-filter: blur(75px) !important;
+  -webkit-backdrop-filter: blur(75px) !important;
+}
+.atlas .section-label{border-bottom:0!important}
+@keyframes search-results-reveal{from{max-height:0;opacity:0;filter:blur(4px)}to{max-height:calc(100vh - 340px);opacity:1;filter:blur(0)}}
+@media(prefers-reduced-motion:reduce){.image-loading{filter:none;opacity:1}}
+.note-button:hover,.note-button.is-selected,[aria-expanded="true"]{text-decoration:none}
+.collections .toggle{transition:width 240ms ease-in-out}
+.collection-grid{overflow-y:hidden}
+#mobileNoteContent>.connection-group>.connection-label{position:sticky;top:0;z-index:1}
+@media(max-width:650px){.bottle:nth-child(n+7){display:block}.back-to-previous{position:sticky;top:0;align-self:flex-start;order:0;z-index:10;background:rgba(255,255,255,.01);backdrop-filter:blur(50px);-webkit-backdrop-filter:blur(50px)}.detail-workspace>.hero-card .hero-head{position:sticky;top:32px;z-index:9}.hero-image{height:auto!important;aspect-ratio:1!important}.collections .toggle,.collections .toggle.is-open{width:100%}#mobileNoteContent{width:100%}}
+@media(prefers-reduced-motion:reduce){.collections .toggle{transition:none}}
+
+.result{color:var(--ink);-webkit-text-fill-color:var(--ink)}
+.result b,.result small,.result i{color:inherit}
+@media(max-width:650px){
+  .search-area,.atlas.has-search-results .search-area{top:50%;left:50%;transform:translate(-50%,-50%);width:calc(100% - 24px)}
+  .search-bar input{font-size:16px}
+  .detail-workspace{padding:12px;top:0}
+  .detail-workspace>.connections{display:flex;position:static;width:100%;grid-column:1;grid-row:auto!important;order:99!important}
+  .details-panel>.connections{display:flex;flex-direction:column;gap:8px;width:100%;margin-top:0;max-height:none;order:99!important}
+  .details-panel>.connections>.connection-group{width:100%;overflow:hidden}
+  .details-panel>.connections .connection-items{display:flex;flex-direction:row;gap:8px;overflow-x:auto;overflow-y:hidden;padding-bottom:4px;scroll-snap-type:x mandatory}
+  .details-panel>.connections .connection{flex:0 0 150px;width:150px;scroll-snap-align:start}
+  .details-panel>.connections .connection-head{display:none}
+  .details-panel>.connections .connection img{display:block;width:150px!important;height:150px!important;aspect-ratio:1;object-fit:contain}
+}

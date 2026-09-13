@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fra — Note Review</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#eee;color:#111;font:15px/1.4 Arial,sans-serif}
+main{max-width:1100px;margin:0 auto;padding:28px 22px 60px}h1{font-size:28px;font-weight:400;margin:0 0 6px}.meta{color:#666;margin-bottom:22px}
+input{width:100%;padding:13px 14px;border:1px solid #999;background:#f8f8f8;font:inherit;margin-bottom:18px}
+table{width:100%;border-collapse:collapse;background:#f7f7f7}th,td{border-bottom:1px solid #ccc;padding:12px 10px;vertical-align:top;text-align:left}th{font-weight:400;background:#ddd;position:sticky;top:0}.count{width:70px;text-align:center}.examples{color:#444}.examples span{display:inline-block;margin:0 6px 5px 0}.note{font-size:16px}.proposal{font-size:16px;color:#174f2b}.actions{white-space:nowrap;width:120px}.actions button{border:1px solid #888;background:#eee;padding:6px 9px;margin-right:4px;cursor:pointer}.actions button.selected{background:#111;color:#fff}.status{font-size:12px;color:#666}.empty{padding:20px;color:#666;text-align:center}
+@media(max-width:650px){main{padding:20px 12px}th:nth-child(3),td:nth-child(3){display:none}}
+</style>
+</head>
+<body><main>
+<h1>Note Review</h1>
+<div class="meta" id="meta">Loading…</div>
+<input id="search" type="search" placeholder="Search note or perfume name…" autocomplete="off">
+<table><thead><tr><th>Current note name</th><th>Suggested standard name</th><th class="count">Count</th><th>Connected perfumes</th><th class="actions">QC</th></tr></thead><tbody id="rows"></tbody></table>
+</main>
+<script src="perfumes-data.js"></script>
+<script>
+const perfumes=window.PERFUMES||[], taxonomy=${taxonomy_json}, rows=document.querySelector('#rows'), search=document.querySelector('#search'), meta=document.querySelector('#meta');
+const notes=new Map();
+for(const p of perfumes) for(const n of (p.notes||[])){if(!notes.has(n))notes.set(n,[]);notes.get(n).push(p)}
+const all=[...notes].sort((a,b)=>a[0].localeCompare(b[0]));
+const decisions=JSON.parse(localStorage.getItem('fra-note-qc')||'{}');
+function proposal(n){const manual={'Black Pepper From Madagascar':'Black Pepper','Madagascan Pepper':'Black Pepper','Black Peppercorns':'Black Pepper','Peppercorns':'Black Pepper','Cedarwood':'Cedar','Virginian Cedarwood':'Cedar','Virginian Cedar':'Cedar','White Musk':'Musk','Musky Accord':'Musk','Synthetic Rose':'Rose','Pink Peppercorns':'Pink Pepper','Coriander Seeds':'Coriander'};if(manual[n])return manual[n];const exact=taxonomy.find(x=>x.toLowerCase()===n.toLowerCase());if(exact)return exact;const simplified=n.replace(/\s+(absolute|accord|oil|essence|extract|seeds?|leaves?|roots?|wood|wooden|concrete|crystals?)$/i,'').trim();const match=taxonomy.find(x=>x.toLowerCase()===simplified.toLowerCase());return match||n}
+meta.textContent=`${perfumes.length} perfumes · ${all.length} unique note names · QC decisions saved locally`;
+function render(){const q=search.value.trim().toLowerCase();const filtered=all.filter(([n,ps])=>(n+' '+ps.map(p=>p.name+' '+p.brand).join(' ')).toLowerCase().includes(q));rows.innerHTML=filtered.length?filtered.map(([n,ps])=>{const s=proposal(n),d=decisions[n]||'';return `<tr><td class="note">${escapeHtml(n)}</td><td class="proposal">${escapeHtml(s)}${s===n?'':'<div class="status">proposed</div>'}</td><td class="count">${ps.length}</td><td class="examples">${ps.map(p=>`<span>${escapeHtml(p.name)} · ${escapeHtml(p.brand)}</span>`).join('')}</td><td class="actions"><button class="${d==='yes'?'selected':''}" data-note="${escapeHtml(n)}" data-value="yes">Yes</button><button class="${d==='no'?'selected':''}" data-note="${escapeHtml(n)}" data-value="no">No</button></td></tr>`}).join(''):`<tr><td colspan="5" class="empty">No matching notes.</td></tr>`;rows.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{decisions[b.dataset.note]=b.dataset.value;localStorage.setItem('fra-note-qc',JSON.stringify(decisions));render()}))}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+search.addEventListener('input',render);render();
+</script></body></html>
