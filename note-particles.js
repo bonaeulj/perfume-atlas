@@ -1,5 +1,13 @@
 (() => {
   const fields=new WeakMap();
+  window.colorAtParticle=(button,x,y)=>{
+    const f=fields.get(button);if(!f)return '#b7c9c2';
+    const rect=f.canvas.getBoundingClientRect();
+    const px=(x-rect.left)/rect.width*440,py=(y-rect.top)/rect.height*440;
+    let nearest=null,distance=Infinity;
+    for(const p of f.points){const d=(p.x+165+p.dx*f.amount-px)**2+(p.y+165+p.dy*f.amount-py)**2;if(d<distance){nearest=p;distance=d;}}
+    return nearest?.color||'#b7c9c2';
+  };
   const reduced=matchMedia('(prefers-reduced-motion: reduce)');
   let lastScroll=-Infinity, strength=1, targetStrength=1, lastFrame=0,lastPaint=0,hasInteracted=false;
   window.scatterNotes=delta=>{

@@ -51,14 +51,15 @@ floatingBottles.addEventListener('pointerdown',event=>{
  touchPointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
  if(touchPointers.size===2){const pts=[...touchPointers.values()];pinchDistance=Math.hypot(pts[0].x-pts[1].x,pts[0].y-pts[1].y);return;}
  dragPointer=event.pointerId;dragStartX=event.clientX;dragStartY=event.clientY;dragOriginX=panTargetX;dragOriginY=panTargetY;didDrag=false;
- floatingBottles.setPointerCapture(event.pointerId);floatingBottles.classList.add('is-dragging');
+ // Preserve the bottle as the click target until an actual drag begins.
 });
 floatingBottles.addEventListener('pointermove',event=>{
  if(touchPointers.has(event.pointerId))touchPointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
  if(touchPointers.size>=2){const pts=[...touchPointers.values()];const next=Math.hypot(pts[0].x-pts[1].x,pts[0].y-pts[1].y);if(pinchDistance)scatterNotes((pinchDistance-next)*.7);pinchDistance=next;return;}
  if(event.pointerId!==dragPointer)return;
  const dx=event.clientX-dragStartX,dy=event.clientY-dragStartY;
- if(Math.hypot(dx,dy)>5)didDrag=true;
+ if(Math.hypot(dx,dy)>5&&!didDrag){didDrag=true;floatingBottles.setPointerCapture(event.pointerId);floatingBottles.classList.add('is-dragging');}
+ if(!didDrag)return;
  panTargetX=Math.max(-window.innerWidth*.35,Math.min(window.innerWidth*.35,dragOriginX+dx));
  panTargetY=Math.max(-window.innerHeight*.35,Math.min(window.innerHeight*.35,dragOriginY+dy));
 });
@@ -67,8 +68,8 @@ function finishCanvasDrag(event){
  if(event.pointerId!==dragPointer)return;
  dragPointer=null;floatingBottles.classList.remove('is-dragging');
 }
-floatingBottles.addEventListener('pointerup',finishCanvasDrag);
-floatingBottles.addEventListener('pointercancel',finishCanvasDrag);
+window.addEventListener('pointerup',finishCanvasDrag);
+window.addEventListener('pointercancel',finishCanvasDrag);
 window.addEventListener('wheel',event=>{
  if(selected||!results.hidden||event.target.closest('#searchArea'))return;
  event.preventDefault();
