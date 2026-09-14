@@ -1,4 +1,4 @@
-[
+window.PERFUME_DATA = [
   {
     "id": "cdg-amazingreen",
     "name": "Amazingreen",
@@ -19609,7 +19609,7 @@
     "name": "Green Irish Tweed",
     "brand": "Creed",
     "gender": null,
-    "description": "Inspired by The House of Creed's rich couturier legacy, Green Irish Tweed Eau de Parfum is a precision-crafted fougère as timeless as a sharp tailored suit that masterfully weaves together fresh and aromatic notes. Conjuring verdant scenes, this classic gentleman's fragrance opens with refreshing notes of bergamot and lemon, cooled by a breath of invigorating peppermint. Layers of fresh geranium are pitched against soothing lavender, while earthy oakmoss and woods entwine at the base, leaving a unique arboreal impression. A Millésime Creation Green Irish Tweed is a fragrance of \"Millésime\"quality, a French term from the wine industry that denotes a great vintage. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the layers of fresh lavender at its heart to the crisp oakmoss at its base. It also evokes a sense of refinement, reinforcing the fragrance's enduring appeal. An Ode To The Great Outdoors Green Irish Tweed was inspired by the lush greenery of the Emerald Isle while also honouring the house's historical ties to Linton Tweed Mills in the Cumbrian countryside. With notes that conjure the earthy tones of hand-woven yarns, it encapsulates the connection between nature and craftsmanship.",
+    "description": "Inspired by The House of Creed's rich couturier legacy, Green Irish Tweed Eau de Parfum is a precision-crafted fougère as timeless as a sharp tailored suit that masterfully weaves together fresh and aromatic notes. Conjuring verdant scenes, this classic gentleman's fragrance opens with refreshing notes of bergamot and lemon, cooled by a breath of invigorating peppermint. Layers of fresh geranium are pitched against soothing lavender, while earthy oakmoss and woods entwine at the base, leaving a unique arboreal impression. A Millésime Creation Green Irish Tweed is a fragrance of \"Millésime\"quality, a French term from the wine industry that denotes a great vintage. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the layers of fresh lavender at its heart to the crisp oakmoss at its base. The deep, almost blackened green bottle mirrors the fresh and natural composition within. It also evokes a sense of refinement, reinforcing the fragrance's enduring appeal. An Ode To The Great Outdoors Green Irish Tweed was inspired by the lush greenery of the Emerald Isle while also honouring the house's historical ties to Linton Tweed Mills in the Cumbrian countryside. With notes that conjure the earthy tones of hand-woven yarns, it encapsulates the connection between nature and craftsmanship.",
     "notes": [
       "Bergamot",
       "Lemon",
@@ -20147,7 +20147,7 @@
     "name": "Black Saffron Absolu",
     "brand": "Byredo",
     "gender": null,
-    "description": "Inspired by the sacred and transformative symbolism of saffron, Black Saffron Absolu de Parfum honours the precious spice’s enduring legacy, embodying an ever evolving red thread between cultural heritage and modern identity. The Absolu de Parfum amplifies the fragrance’s mystical warmth, revealing more opulent spicy and leathery facets. Vibrant nutmeg and juicy blackcurrant introduce a bright, dynamic opening, which softens into a lush floral heart. At the base, bold notes of black leather, incense, patchouli, and agarwood bring depth, offering a richer, more addictive expression of Black Saffron’s signature.",
+    "description": "Inspired by the sacred and transformative symbolism of saffron, Black Saffron Absolu de Parfum honours the precious spice’s enduring legacy, embodying an ever evolving red thread between cultural heritage and modern identity. The Absolu de Parfum amplifies the fragrance’s mystical warmth, revealing more opulent spicy and leathery facets. Vibrant nutmeg and juicy blackcurrant introduce a bright, dynamic opening, which softens into a lush floral heart. At the base, bold notes of black leather, incense, patchouli, and agarwood bring depth, offering a richer, more addictive expression of Black Saffron’s signature. Beyond the fragrance, the homage to craftsmanship is reflected in the newly redesigned Absolu de Parfum bottle.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20230,4 +20230,4 @@
     "retouchStatus": "not-retouched",
     "noteExtraction": "official-product-description-pending-qc"
   }
-]
+];

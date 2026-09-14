@@ -1,4 +1,4 @@
-[
+window.PERFUME_DATA = [
   {
     "id": "cdg-amazingreen",
     "name": "Amazingreen",
@@ -9191,7 +9191,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Cologne",
-    "description": "The sparkle of bergamot and the bright lift of lemon create the vibrant opening of Colonia C.L.U.B. A soft kick of pink and black pepper follows, carrying the same lively rush you feel as Parma wakes on a clear morning. Vibrant, contemporary, and radiant, Colonia C.L.U.B., is an invigorating Eau de Cologne that embodies self-assurance and individuality.",
+    "description": "The sparkle of bergamot and the bright lift of lemon create the vibrant opening of Colonia C.L.U.B. A soft kick of pink and black pepper follows, carrying the same lively rush you feel as Parma wakes on a clear morning. Vibrant, contemporary, and radiant, Colonia C.L.U.B., presented in a new restyled bottle, is an invigorating Eau de Cologne that embodies self-assurance and individuality.",
     "notes": [
       "Bergamot",
       "Lemon",
@@ -9274,7 +9274,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Cologne",
-    "description": "The sparkle of lemon, the crisp lift of orange and Calabrian bergamot, the vivid brightness of grapefruit and petitgrain — this is the confident opening of Colonia Essenza. Imagine stepping into the Teatro Regio in Parma. The air carries the scent of polished wood, velvet, and old scores. Vibrant, determined, and distinctive, Colonia Essenza is a citrus woody fragrance that reinterprets the iconic Colonia with a touch of authentic unconventionality. it speaks to those with a style that comes from within.",
+    "description": "The sparkle of lemon, the crisp lift of orange and Calabrian bergamot, the vivid brightness of grapefruit and petitgrain — this is the confident opening of Colonia Essenza. Imagine stepping into the Teatro Regio in Parma. The air carries the scent of polished wood, velvet, and old scores. Vibrant, determined, and distinctive, Colonia Essenza is a citrus woody fragrance that reinterprets the iconic Colonia with a touch of authentic unconventionality. Presented in a new restyled bottle, it speaks to those with a style that comes from within.",
     "notes": [
       "Lemon",
       "Orange",
@@ -9381,7 +9381,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Cologne",
-    "description": "The brightness of Calabrian bergamot and Sicilian lemon sets the tone, lifted by cardamom and ginger that give the opening its bold, spicy edge. At a romantic dinner in Parma, glasses touch, voices rise and fall, and the room carries familiar notes of local dishes. Vibrant, charismatic, and confident. Colonia Intensa exudes the essence of Italian light and life. it is an exciting fragrance that combines traditional and contemporary sophistication.",
+    "description": "The brightness of Calabrian bergamot and Sicilian lemon sets the tone, lifted by cardamom and ginger that give the opening its bold, spicy edge. At a romantic dinner in Parma, glasses touch, voices rise and fall, and the room carries familiar notes of local dishes. Vibrant, charismatic, and confident. Colonia Intensa exudes the essence of Italian light and life. Presented in a new restyled bottle, it is an exciting fragrance that combines traditional and contemporary sophistication.",
     "notes": [
       "Cardamom",
       "Bergamot",
@@ -9476,7 +9476,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Cologne",
-    "description": "The crisp radiance of bergamot, the sweetness of orange, and the gentle touch of petitgrain give Colonia Pura its airy, sunlit opening. Escape to the countryside just beyond Parma. You walk through sun-drenched fields where wildflowers sway and the scent of freshly cut grass floats on the air. Vibrant, pure, and simple, Colonia Pura illuminates the iconic Colonia with effortless bliss and ease. it captures a straightforward way of living with simplicity.",
+    "description": "The crisp radiance of bergamot, the sweetness of orange, and the gentle touch of petitgrain give Colonia Pura its airy, sunlit opening. Escape to the countryside just beyond Parma. You walk through sun-drenched fields where wildflowers sway and the scent of freshly cut grass floats on the air. Vibrant, pure, and simple, Colonia Pura illuminates the iconic Colonia with effortless bliss and ease. Presented in a new restyled bottle, it captures a straightforward way of living with simplicity.",
     "notes": [
       "Bergamot",
       "Orange",
@@ -11380,7 +11380,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Parfum",
-    "description": "Designed by Laura Gonzalez, it is inspired by La Caletta — an ode to independence, the freedom of choosing one’s own rhythm, and finding elegance in restraint and gestures that are unmistakably authentic.",
+    "description": "A precious limited-edition Eau de Parfum crafted from the ancient La Spugnatura technique, featuring a soft rounded bottle cap with a hand-finished organic effect.  Designed by Laura Gonzalez, it is inspired by La Caletta — an ode to independence, the freedom of choosing one’s own rhythm, and finding elegance in restraint and gestures that are unmistakably authentic.",
     "notes": [
       "Bergamot",
       "Mandarin",
@@ -11795,7 +11795,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Toilette",
-    "description": "Blu Mediterraneo Fico di Amalfi offers a vitalising scent that continuously surprises just like the spectacular view of the Amalfi coast.",
+    "description": "Blu Mediterraneo Fico di Amalfi offers a vitalising  scent that continuously surprises just like the spectacular view of the Amalfi coast.",
     "notes": [
       "Lemon",
       "Bergamot",
@@ -12067,7 +12067,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Toilette",
-    "description": "Blu Mediterraneo Bergamotto di Calabria, an enchanting eau de toilette that celebrates the majestic Calabria and its golden Bergamot fruit.",
+    "description": "Blu Mediterraneo Bergamotto di Calabria, an enchanting eau de toilette that celebrates the majestic Calabria and its golden  Bergamot fruit.",
     "notes": [
       "Bergamot",
       "Citron",
@@ -12502,7 +12502,7 @@
     "brand": "Acqua di Parma",
     "gender": null,
     "concentration": "Eau De Cologne",
-    "description": "A tribute to the joie de vivre and the light-heartedness of love represented in 'La Donna è Mobile' from the 'Rigoletto' by Giuseppe Verdi. The accents of Pink Pepper mark the cheerful waltz of Lemon and Bergamot, that develops in a crescendo that finds its utmost expression in the contrast between the spicy accents of Ginger and the aromatic tones of Juniper. The ambery warm notes of Sandalwood and Cedar complete the harmony of this luminous and vibrant fragrance.",
+    "description": "A tribute to the joie de vivre and the light-heartedness of love represented in 'La Donna è Mobile' from the 'Rigoletto' by Giuseppe Verdi.  The accents of Pink Pepper mark the cheerful waltz of Lemon and Bergamot, that develops in a crescendo that finds its utmost expression in the contrast between the spicy accents of Ginger and the aromatic tones of Juniper. The ambery warm notes of Sandalwood and Cedar complete the harmony of this luminous and vibrant fragrance.",
     "notes": [
       "Lemon",
       "Bergamot",
@@ -12812,7 +12812,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "2026 Fragrance Foundation Hall of Fame Award Winner. An exceptional fragrance by Dominique Ropion, PORTRAIT OF A LADY enhances the opulence and voluptuousness of the Turkish rose in extravagant proportions. With PORTRAIT OF A LADY, Frédéric Malle and perfumer Dominique Ropion mark a new stage in the great timeline of perfumery. With this immoderate rose, magnified by woody tones, amber and incense, the designers are redrawing the contours of the cypress, an olfactory family synonymous with the finest eras of 20th-century perfumery. Their play of light and shadow, their elegance and extreme refinement. From this expert craftsmanship, there emerges a splendour created to outlast time. More than fifteen years after its creation, Portrait of a Lady was inducted into The Fragrance Foundation Hall of Fame, recognizing its enduring influence on modern perfumery. Raspberry, Rose, Patchouli Top notes: Raspberry, Cumin, Pink pepper Middle notes: Rose Base notes: Patchouli, Labdanum, Incense",
+    "description": "2026 Fragrance Foundation Hall of Fame Award Winner.\nAn exceptional fragrance by Dominique Ropion, PORTRAIT OF A LADY enhances the opulence and voluptuousness of the Turkish rose in extravagant proportions.\nWith PORTRAIT OF A LADY, Frédéric Malle and perfumer Dominique Ropion mark a new stage in the great timeline of perfumery. With this immoderate rose, magnified by woody tones, amber and incense, the designers are redrawing the contours of the cypress, an olfactory family synonymous with the finest eras of 20th-century perfumery. Their play of light and shadow, their elegance and extreme refinement. From this expert craftsmanship, there emerges a splendour created to outlast time.\nMore than fifteen years after its creation, Portrait of a Lady was inducted into The Fragrance Foundation Hall of Fame, recognizing its enduring influence on modern perfumery.\nRaspberry, Rose, Patchouli\nTop notes: Raspberry, Cumin, Pink pepper\nMiddle notes: Rose\nBase notes: Patchouli, Labdanum, Incense",
     "notes": [
       "Raspberry",
       "Cumin",
@@ -12893,7 +12893,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "A mesmerising fragrance by Dominique Ropion, CARNAL FLOWER exalts the ambivalence of a natural tuberose absolute in very high concentration. Among all the flowers, this is certainly the most fatal. The tuberose, extremely concentrated in this signature creation by Dominique Ropion, shows the full force of its seductive secret: its duality. The initial impression it leaves on the skin is one of innocence. The botanical freshness of a bouquet of flowers. It is then followed by its more animalic aspect. With emphasis from camphor and the darkness of spices, the indomitable character of the tuberose is tempered by milky notes with the soft and mellow comfort of white musk. At once respectable and challenging, CARNAL FLOWER is a flower with a thousand faces, which becomes one with its wearer... and leaves nobody indifferent. Melon, tuberose, white musk, milky notes br>Top notes: watermelon Middle notes: tuberose Base notes: musk",
+    "description": "A mesmerising fragrance by Dominique Ropion, CARNAL FLOWER exalts the ambivalence of a natural tuberose absolute in very high concentration.\nAmong all the flowers, this is certainly the most fatal. The tuberose, extremely concentrated in this signature creation by Dominique Ropion, shows the full force of its seductive secret: its duality. The initial impression it leaves on the skin is one of innocence. The botanical freshness of a bouquet of flowers. It is then followed by its more animalic aspect. With emphasis from camphor and the darkness of spices, the indomitable character of the tuberose is tempered by milky notes with the soft and mellow comfort of white musk. At once respectable and challenging, CARNAL FLOWER is a flower with a thousand faces, which becomes one with its wearer... and leaves nobody indifferent.\nMelon, tuberose, white musk, milky notes\nbr>Top notes: watermelon\nMiddle notes: tuberose\nBase notes: musk",
     "notes": [
       "Watermelon",
       "Tuberose",
@@ -12962,7 +12962,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Maurice Roucel",
-    "description": "MUSC RAVAGEUR, the hottest amber fragrance, by Maurice Roucel. Hot stuff coming through: this signature amber blend created by a master of the genre, Maurice Roucel, releases uncompromising eroticism. Bergamot and mandarin provide a luminous introduction to this floral-free formula, as if to better make way for its sexy, musky amber base, which combines the allure of vanilla, the unctuous texture of sandalwood and the temptation of musk. An honest, confident and straightforward appeal. An immense scent, burning like an irrepressible desire. Bergamot, vanilla, white musk Top notes: vanilla Middle notes: cinnamon Base notes: musk",
+    "description": "MUSC RAVAGEUR, the hottest amber fragrance, by Maurice Roucel.\nHot stuff coming through: this signature amber blend created by a master of the genre, Maurice Roucel, releases uncompromising eroticism. Bergamot and mandarin provide a luminous introduction to this floral-free formula, as if to better make way for its sexy, musky amber base, which combines the allure of vanilla, the unctuous texture of sandalwood and the temptation of musk. An honest, confident and straightforward appeal. An immense scent, burning like an irrepressible desire.\nBergamot, vanilla, white musk\nTop notes: vanilla\nMiddle notes: cinnamon\nBase notes: musk",
     "notes": [
       "Vanilla",
       "Cinnamon",
@@ -13031,7 +13031,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "Dominique Ropion",
-    "description": "A fragrance by Dominique Ropion, not for the uninitiated, THE NIGHT is a fragrance masterpiece with an exceptional quantity of concentrated natural oud. In the Middle East, the sunset represents the start of a new life, when the absolute emerges. THE NIGHT is an extraordinary, radical work of art. The ultimate, immoderate oud, clothed in saffron and an ocean of Turkish rose. The ingredient rolls in scrolls of incense and sandalwood. This oud, probably the most precious on the market, is the ultimate celebration of the night and its infinite mysteries, for the most discerning of connoisseurs. Rose, saffron, natural oud, incense, sandalwood Top notes: rose ; saffron Middle note: 100% natural oud Base notes: frankincense ; sandalwood",
+    "description": "A fragrance by Dominique Ropion, not for the uninitiated, THE NIGHT is a fragrance masterpiece with an exceptional quantity of concentrated natural oud.\nIn the Middle East, the sunset represents the start of a new life, when the absolute emerges. THE NIGHT is an extraordinary, radical work of art. The ultimate, immoderate oud, clothed in saffron and an ocean of Turkish rose. The ingredient rolls in scrolls of incense and sandalwood. This oud, probably the most precious on the market, is the ultimate celebration of the night and its infinite mysteries, for the most discerning of connoisseurs.\nRose, saffron, natural oud, incense, sandalwood\nTop notes:\nrose\n; saffron\nMiddle note: 100% natural\noud\nBase notes:\nfrankincense\n;\nsandalwood",
     "notes": [
       "Rose",
       "Saffron",
@@ -13104,7 +13104,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "Acne Studios par Frédéric Malle",
-    "description": "Acne Studios is not just a look. If anything, it is many looks, an ethos not easily encapsulated: functional, but eclectic, the opposite of basic. Frédéric Malle tried to put Acne Studios in a bottle. For this special collaboration, he asked perfume prodigy Suzy Le Helley to author a powerful manifesto. The composition is as such: a large amount of aldehydes, rose, violet and a touch of orange blossom; accords of vanilla and peach; generous notes of sandalwood; a touch of frankincense, and a sea of musk. From utilitarian comfort to eccentric elegance, this seemed like an olfactory rendering of Acne Studios. Aldehydes, Rose, Peach, Vanilla, Sandalwood, Musk Top notes: peach Middle notes: aldehydes Base notes: incense Try It First service is subject to availability. Please see the General Terms and Conditions of Sale and the return policy",
+    "description": "Acne Studios is not just a look. If anything, it is many looks, an ethos not easily encapsulated: functional, but eclectic, the opposite of basic.\nFrédéric Malle tried to put Acne Studios in a bottle. For this special collaboration, he asked perfume prodigy Suzy Le Helley to author a powerful manifesto.\nThe composition is as such: a large amount of aldehydes, rose, violet and a touch of orange blossom; accords of vanilla and peach; generous notes of sandalwood; a touch of frankincense, and a sea of musk.\nFrom utilitarian comfort to eccentric elegance, this seemed like an olfactory rendering of Acne Studios.\nAldehydes, Rose, Peach, Vanilla, Sandalwood, Musk\nTop notes: peach\nMiddle notes: aldehydes\nBase notes: incense\nTry It First service is subject to availability.\nPlease see the General Terms and Conditions of Sale and the return policy",
     "notes": [
       "Peach",
       "Aldehydes",
@@ -13179,7 +13179,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": null,
-    "description": "NORTHERN LOVE is a warm and intimate fragrance. Signed by Bruno Jovanovic, this amber-woody composition elevates a creamy sandalwood, layered with cinnamon as a nod to speculoos cookies. Inspired by a yearning for emotional truth, Northern Love writes a love letter to modern romanticism. A warm, comforting embrace contrasted by a cold and nostalgic feeling — like a bittersweet hug. The courage to feel. Master perfumer Bruno Jovanovic signs an amber-woody composition oscillating between opulence and refinement, classicism and modernity. NORTHERN LOVE elevates an exceptional sandalwood essence by amplifying the naturally creamy facets of this precious wood. Lifted by warm spices, the sandalwood gently gives way to the enveloping roundness of vanilla, leaving behind an intimate and deeply comforting trail. Blending visionary creativity with an enlightened appreciation of tradition, Bruno Jovanovic showcases his craft in this fragrance with its exquisitely sculpted textures. Top note: Spicy accord Heart note: Sandalwood Base note: Vanilla",
+    "description": "NORTHERN LOVE is a warm and intimate fragrance. Signed by Bruno Jovanovic, this amber-woody composition elevates a creamy sandalwood, layered with cinnamon as a nod to speculoos cookies.\nInspired by a yearning for emotional truth, Northern Love writes a love letter to modern romanticism. A warm, comforting embrace contrasted by a cold and nostalgic feeling — like a bittersweet hug. The courage to feel.\nMaster perfumer Bruno Jovanovic signs an amber-woody composition oscillating between opulence and refinement, classicism and modernity. NORTHERN LOVE elevates an exceptional sandalwood essence by amplifying the naturally creamy facets of this precious wood. Lifted by warm spices, the sandalwood gently gives way to the enveloping roundness of vanilla, leaving behind an intimate and deeply comforting trail.\nBlending visionary creativity with an enlightened appreciation of tradition, Bruno Jovanovic showcases his craft in this fragrance with its exquisitely sculpted textures.\nTop note: Spicy accord\nHeart note:  Sandalwood\nBase note: Vanilla",
     "notes": [
       "Spicy",
       "Sandalwood",
@@ -13248,7 +13248,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "An olfactory illusion, PROMISE is a masterly perfume by Dominique Ropion for the Desert Gems collection, which recreates the alluring power of oud. Emblematic of Middle Eastern culture, oud is a natural treasure. A \"black gold\" with a deep, faceted scent that fascinates master perfumer Dominique Ropion. With PROMISE, he recreates all of its nobility with cypriol, a plant native to India, accompanied by precious essences of Turkish and Bulgarian roses. An olfactory celebration of the strongest bonds that can join two people, this scent induces an irrepressible appeal that connoisseurs of fragrance would be able to recognise from a crowd of a thousand. Rose, apple, patchouli, cypriol Top notes: Pink Pepper, Rosemary Oil, Apple Accord Middle notes: Bulgarian Rose Oil, Turkish Rose Absolute, Clove Oil Base notes: Patchouli Heart, Ambroxan , Labdanum, Cypriol Heart",
+    "description": "An olfactory illusion, PROMISE is a masterly perfume by Dominique Ropion for the Desert Gems collection, which recreates the alluring power of oud.\nEmblematic of Middle Eastern culture, oud is a natural treasure. A \"black gold\" with a deep, faceted scent that fascinates master perfumer Dominique Ropion. With PROMISE, he recreates all of its nobility with cypriol, a plant native to India, accompanied by precious essences of Turkish and Bulgarian roses. An olfactory celebration of the strongest bonds that can join two people, this scent induces an irrepressible appeal that connoisseurs of fragrance would be able to recognise from a crowd of a thousand.\nRose, apple, patchouli, cypriol\nTop notes: Pink Pepper, Rosemary Oil, Apple Accord\nMiddle notes: Bulgarian Rose Oil, Turkish Rose Absolute, Clove Oil\nBase notes:\nPatchouli\nHeart,\nAmbroxan\n, Labdanum, Cypriol Heart",
     "notes": [
       "Pink Pepper",
       "Rosemary",
@@ -13339,7 +13339,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "HOPE",
-    "description": "Created by Dominique Ropion for the Desert Gems collection, HOPE fragrance exalts the nobility of an exceptional oud essence. They say that it’s the pillar of the world. Others whisper about it giving life. Hope has always been right there at the heart of humanity. The third masterpiece by Dominique Ropion for the Desert Gems collection, HOPE is an amber and woody fragrance that highlights the absolute nobility of an exceptional oud essence. The smoky, leathery notes of incense and vetiver mingle with the spicy freshness of pink peppercorn, cypress and juniper to reveal oud in all its purity. A scent of unparalleled elegance. Oud, vetiver, incense",
+    "description": "Created by Dominique Ropion for the Desert Gems collection, HOPE fragrance exalts the nobility of an exceptional oud essence.\nThey say that it’s the pillar of the world. Others whisper about it giving life. Hope has always been right there at the heart of humanity. The third masterpiece by Dominique Ropion for the Desert Gems collection, HOPE is an amber and woody fragrance that highlights the absolute nobility of an exceptional oud essence. The smoky, leathery notes of incense and vetiver mingle with the spicy freshness of pink peppercorn, cypress and juniper to reveal oud in all its purity. A scent of unparalleled elegance.\nOud, vetiver, incense",
     "notes": [
       "Created By Dominique Ropion For the Desert Gems Collection",
       "Hope Fragrance Exalts the Nobility of An Exceptional Oud",
@@ -13410,7 +13410,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "Edouard Fléchier",
-    "description": "Edouard Fléchier's masterful fragrance, ROSE TONNERRE features a paradoxical interaction of rose and truffle. In the middle of a misty garden, at night, a rose gives its most beautiful scent. The air is stormy, stimulating the darkest scents of nature... ROSE TONNERRE is the result of a personal project by Edouard Fléchier. A new base, a sort of olfactory sketch, which he presented to Frédéric Malle, and which reproduced the fragrance of a Périgord truffle. This blend of dark, woody and animalic notes was intended for men's fragrances, but the two partners came up with the seemingly paradoxical idea of marrying it with the quintessential feminine note: rose. In the hands of the master perfumer, the queen of flowers becomes dark and sensual. Bewitching. Rose, wine lees, truffle blend, honey, patchouli br>Top notes: rose Middle notes: truffle accord Base notes: patchouli",
+    "description": "Edouard Fléchier's masterful fragrance, ROSE TONNERRE features a paradoxical interaction of rose and truffle.\nIn the middle of a misty garden, at night, a rose gives its most beautiful scent. The air is stormy, stimulating the darkest scents of nature... ROSE TONNERRE is the result of a personal project by Edouard Fléchier. A new base, a sort of olfactory sketch, which he presented to Frédéric Malle, and which reproduced the fragrance of a Périgord truffle. This blend of dark, woody and animalic notes was intended for men's fragrances, but the two partners came up with the seemingly paradoxical idea of marrying it with the quintessential feminine note: rose. In the hands of the master perfumer, the queen of flowers becomes dark and sensual. Bewitching.\nRose, wine lees, truffle blend, honey, patchouli\nbr>Top notes: rose\nMiddle notes: truffle accord\nBase notes: patchouli",
     "notes": [
       "Rose",
       "Truffle",
@@ -13479,7 +13479,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "Jean-Claude Ellena",
-    "description": "An impressionist perfume by Jean-Claude Ellena, ANGÉLIQUES SOUS LA PLUIE captures the fleeting beauty of a bouquet of angelica shimmering with droplets of water. More than a fragrance, this is a feeling. The fragile beauty of a bouquet of angelica picked after the rain, captured in a subtle trail that blends with the skin. Like a painter, Jean-Claude Ellena sketches his subject in minimal strokes: he takes the herbaceous notes of angelica, and he adds the spice of juniper berries. The spicy coolness of pink peppercorns. The clear vibrancy of cedar. And the fluffy cotton texture of white musk blurring it all together, suggestive of watercolours in faded shades of mauve and grey. An elusive sensory feeling, an awareness of rare poetry. Juniper, angelica, pink peppercorn, cedar, white musk",
+    "description": "An impressionist perfume by Jean-Claude Ellena, ANGÉLIQUES SOUS LA PLUIE captures the fleeting beauty of a bouquet of angelica shimmering with droplets of water.\nMore than a fragrance, this is a feeling. The fragile beauty of a bouquet of angelica picked after the rain, captured in a subtle trail that blends with the skin. Like a painter, Jean-Claude Ellena sketches his subject in minimal strokes: he takes the herbaceous notes of angelica, and he adds the spice of juniper berries. The spicy coolness of pink peppercorns. The clear vibrancy of cedar. And the fluffy cotton texture of white musk blurring it all together, suggestive of watercolours in faded shades of mauve and grey. An elusive sensory feeling, an awareness of rare poetry.\nJuniper, angelica, pink peppercorn, cedar, white musk",
     "notes": [
       "Juniper",
       "Angelica",
@@ -13540,7 +13540,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "par Jean-Claude Ellena",
-    "description": "HEAVEN CAN WAIT, the fragrance of a spicy sensual journey, by Jean-Claude Ellena. It has the timeless appeal of a great classic. With the proud demeanour of the iris, this precious rhizome has gauzy, powdery notes. The exotic charm of spices - cloves and capsicum - and the enticing sweetness of peach and plum notes. Beneath its spicy opening, there unfolds an endless trail of vanilla and white musk, with sparsely honeyed notes of velvet, like an infinite caress. Paradise right next to your skin. Clove, iris, vetiver, vanilla, white musk",
+    "description": "HEAVEN CAN WAIT, the fragrance of a spicy sensual journey, by Jean-Claude Ellena.\nIt has the timeless appeal of a great classic. With the proud demeanour of the iris, this precious rhizome has gauzy, powdery notes. The exotic charm of spices - cloves and capsicum - and the enticing sweetness of peach and plum notes. Beneath its spicy opening, there unfolds an endless trail of vanilla and white musk, with sparsely honeyed notes of velvet, like an infinite caress. Paradise right next to your skin.\nClove, iris, vetiver, vanilla, white musk",
     "notes": [
       "Heaven Can Wait",
       "The Fragrance of A Spicy Sensual Journey",
@@ -13615,7 +13615,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "par Maurice Roucel",
-    "description": "UNCUT GEM is a fresh amber fragrance inspired by the eau de Cologne worn by master perfumer Maurice Roucel. A raw jewel. On the skin, the tone is set by a first note luminous with bergamot and mandarin, faceted by ginger and angelica root. Then the core reveals its sensuality at full volume: a warm, leathery blend, combining the nobility of vetiver and incense with the comfort of musk. Warm and intense, the vibrancy of amber woods will last for hours on the skin, without losing any of its power. A scent of character for an uncompromising man. Ginger, bergamot, angelica root, vetiver, musk, amber woods",
+    "description": "UNCUT GEM is a fresh amber fragrance inspired by the eau de Cologne worn by master perfumer Maurice Roucel.\nA raw jewel. On the skin, the tone is set by a first note luminous with bergamot and mandarin, faceted by ginger and angelica root. Then the core reveals its sensuality at full volume: a warm, leathery blend, combining the nobility of vetiver and incense with the comfort of musk. Warm and intense, the vibrancy of amber woods will last for hours on the skin, without losing any of its power. A scent of character for an uncompromising man.\nGinger, bergamot, angelica root, vetiver, musk, amber woods",
     "notes": [
       "Ginger",
       "Bergamot",
@@ -13684,7 +13684,7 @@
     "gender": null,
     "concentration": "Eau de Toilette",
     "perfumer": "by Jean-Claude Ellena",
-    "description": "A perfume by Jean-Claude Ellena, BIGARADE CONCENTRÉE enhances the purity of a bitter orange essence obtained by molecular distillation. This is simplicity in all its splendour. A reinvented eau de Cologne, formed around a bitter orange of exceptional quality - this essence, obtained by molecular distillation, reveals a cool and vibrant crystalline quality, along with a slight bitterness resembling the zest of the fruit. A jewel of lucidity that doesn’t need anything to dress it up: Jean-Claude Ellena has chosen pink peppercorns and cardamom to enhance its effervescence, with the elegance of cedar wood for a more lasting pleasure on your skin. A scent that is literally essential, naturally vibrant. For her, for him, anytime, anywhere. Bitter orange, cardamom, pink peppercorn, cedar wood",
+    "description": "A perfume by Jean-Claude Ellena, BIGARADE CONCENTRÉE enhances the purity of a bitter orange essence obtained by molecular distillation.\nThis is simplicity in all its splendour. A reinvented eau de Cologne, formed around a bitter orange of exceptional quality - this essence, obtained by molecular distillation, reveals a cool and vibrant crystalline quality, along with a slight bitterness resembling the zest of the fruit. A jewel of lucidity that doesn’t need anything to dress it up: Jean-Claude Ellena has chosen pink peppercorns and cardamom to enhance its effervescence, with the elegance of cedar wood for a more lasting pleasure on your skin. A scent that is literally essential, naturally vibrant. For her, for him, anytime, anywhere.\nBitter orange, cardamom, pink peppercorn, cedar wood",
     "notes": [
       "A Perfume By Jean-Claude Ellena",
       "Bigarade Concentrée Enhances the Purity of A Bitter Orange Essence Obtained By Molecular Distillation",
@@ -13758,7 +13758,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "COLOGNE INDELÉBILE, an eternally fresh fragrance by Dominique Ropion. Innocence on one side, temptation on the other: white musk has two faces, and this dualistic perfume shows both simultaneously. Everything starts with a deep breath of luminous freshness. Lemon, bergamot, rosemary and orange blossom mingle together in an ideal eau de Cologne. But don't be fooled by its innocent appearance: it’s set against an ocean of white musk. The two together create a clean, seductive scent on the skin, which lasts for hours and is eternally intriguing. And so, slowly but surely, COLOGNE INDELÉBILE draws you in irresistibly, like a moth to the flame. Bergamot, orange blossom, narcissus absolute, white musk",
+    "description": "COLOGNE INDELÉBILE, an eternally fresh fragrance by Dominique Ropion.\nInnocence on one side, temptation on the other: white musk has two faces, and this dualistic perfume shows both simultaneously. Everything starts with a deep breath of luminous freshness. Lemon, bergamot, rosemary and orange blossom mingle together in an ideal eau de Cologne. But don't be fooled by its innocent appearance: it’s set against an ocean of white musk. The two together create a clean, seductive scent on the skin, which lasts for hours and is eternally intriguing. And so, slowly but surely, COLOGNE INDELÉBILE draws you in irresistibly, like a moth to the flame.\nBergamot, orange blossom, narcissus absolute, white musk",
     "notes": [
       "Cologne Indelébile",
       "An Eternally Fresh Fragrance By Dominique Ropion",
@@ -13827,7 +13827,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "DANS TES BRAS ",
-    "description": "DANS TES BRAS, the power of tenderness brought into a fragrance by Maurice Roucel. It feels like an embrace. The alchemy of the magical moment when two bodies come together. A master of the olfactory expression of sensuality, Maurice Roucel orchestrates unforgettable love at first sight between Cashmeran, a woody note with a warm, velvety vibration, and the subtlety of a violet with powdery accents. This is a clear, perfect, and highly addictive relationship, wrapped in the lascivious seduction of sandalwood, musk and heliotrope. DANS TES BRAS captures the irresistible magnetism of the skin of the one you can't live without. Violet, cashmeran, heliotrope, sandalwood",
+    "description": "DANS TES BRAS, the power of tenderness brought into a fragrance by Maurice Roucel.\nIt feels like an embrace. The alchemy of the magical moment when two bodies come together. A master of the olfactory expression of sensuality, Maurice Roucel orchestrates unforgettable love at first sight between Cashmeran, a woody note with a warm, velvety vibration, and the subtlety of a violet with powdery accents. This is a clear, perfect, and highly addictive relationship, wrapped in the lascivious seduction of sandalwood, musk and heliotrope. DANS TES BRAS captures the irresistible magnetism of the skin of the one you can't live without.\nViolet, cashmeran, heliotrope, sandalwood",
     "notes": [
       "Dans Tes Bras",
       "The Power of Tenderness Brought Into A Fragrance By Maurice Roucel",
@@ -13891,7 +13891,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Carlos Benaïm",
-    "description": "An amber fragrance with oud, DAWN is a tribute to the colours of the sunrise, created by Carlos Benaïm for the Desert Gems collection. In the first light of morning, dawn brings its promise and the world vibrates with new energy. The early light grows serenely and steadily with the beating of your heart, heralding the arrival of the sun god. Everything becomes possible. At the centre of this image, a block of oud wood is encircled by pink peppercorns, cedar wood, labdanum and frankincense, joined by a generous wave of Turkish rose absolute. A reflective fragrance. An ode to the colours of the dawn. Turkish rose, natural oud, amber wood, oakmoss, frankincense Top notes: Turkish Rose Oil, Pink Pepper Middle notes : Turkish Rose Absolute, Olibanum Base notes: Oak-Moss , Vetiver , Labdanum, Oud",
+    "description": "An amber fragrance with oud, DAWN is a tribute to the colours of the sunrise, created by Carlos Benaïm for the Desert Gems collection.\nIn the first light of morning, dawn brings its promise and the world vibrates with new energy. The early light grows serenely and steadily with the beating of your heart, heralding the arrival of the sun god. Everything becomes possible. At the centre of this image, a block of oud wood is encircled by pink peppercorns, cedar wood, labdanum and frankincense, joined by a generous wave of Turkish rose absolute. A reflective fragrance. An ode to the colours of the dawn.\nTurkish rose, natural oud, amber wood, oakmoss, frankincense\nTop notes: Turkish Rose Oil, Pink Pepper\nMiddle notes : Turkish Rose Absolute, Olibanum\nBase notes:\nOak-Moss\n,\nVetiver\n, Labdanum,\nOud",
     "notes": [
       "Rose",
       "Pink Pepper",
@@ -13964,7 +13964,7 @@
     "gender": null,
     "concentration": "Eau de Toilette",
     "perfumer": "by Carlos Benaïm",
-    "description": "EAU DE MAGNOLIA, a sunlit fragrance of flowers, wood and citrus, by Carlos Benaïm. It's a fragrance all of its own. A natural wonder. With its citrus and rose tones, the magnolia flower is as seductive as it is surprising. Carlos Benaïm reveals this astonishing complexity in this fragrance woven around an exceptional essence. Bergamot, lemon and grapefruit are there to enhance its sparkling, luminous character, with added notes of peach and apricot to bring a welcoming sweetness. Oakmoss and patchouli offer a contrast to this summery impression, summoning an enchanting image: the delicate white petals of magnolia, reaching towards the azure of the sky. A gentle, invigorating scent. Citrus, oakmoss, patchouli",
+    "description": "EAU DE MAGNOLIA, a sunlit fragrance of flowers, wood and citrus, by Carlos Benaïm.\nIt's a fragrance all of its own. A natural wonder. With its citrus and rose tones, the magnolia flower is as seductive as it is surprising. Carlos Benaïm reveals this astonishing complexity in this fragrance woven around an exceptional essence. Bergamot, lemon and grapefruit are there to enhance its sparkling, luminous character, with added notes of peach and apricot to bring a welcoming sweetness. Oakmoss and patchouli offer a contrast to this summery impression, summoning an enchanting image: the delicate white petals of magnolia, reaching towards the azure of the sky. A gentle, invigorating scent.\nCitrus, oakmoss, patchouli",
     "notes": [
       "Eau de Magnolia",
       "A Sunlit Fragrance of Flowers",
@@ -14041,7 +14041,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Olivia Giacobetti",
-    "description": "EN PASSANT, a virtuoso fragrance by Olivia Giacobetti that captures all the purity of lilac. Paris, on a bright morning in May. At the bend of an alleyway, a light breeze carries the scent of lilac. This so-called \"quiet\" flower, which does not have any natural essence, is recreated here by Olivia Giacobetti, with remarkable realism. EN PASSANT makes a feature of its flowers, delicately sun-kissed and dusted. The greenness of their leaves and the crispness of their stems. A final trace of cucumber brings airy freshness, like a veil of crystalline dew. A touch of cedar and white musk, and the skin sings a song of spring. Lilac, cedar wood, white musk",
+    "description": "EN PASSANT, a virtuoso fragrance by Olivia Giacobetti that captures all the purity of lilac.\nParis, on a bright morning in May. At the bend of an alleyway, a light breeze carries the scent of lilac. This so-called \"quiet\" flower, which does not have any natural essence, is recreated here by Olivia Giacobetti, with remarkable realism. EN PASSANT makes a feature of its flowers, delicately sun-kissed and dusted. The greenness of their leaves and the crispness of their stems. A final trace of cucumber brings airy freshness, like a veil of crystalline dew. A touch of cedar and white musk, and the skin sings a song of spring.\nLilac, cedar wood, white musk",
     "notes": [
       "En Passant",
       "A Virtuoso Fragrance By Olivia Giacobetti That Captures All the Purity of Lilac",
@@ -14112,7 +14112,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Pierre Bourdon",
-    "description": "Pierre Bourdon's signature fragrance of the masculine ideal, FRENCH LOVER weaves an irresistible sensuality around angelica. In contrast to contemporary archetypes of men's fragrance, Pierre Bourdon is opening up a different path. The path of an intuitively self-evident virility. Genuine enhancement for your skin, with the sophistication that arises from the exceptional quality of its raw materials, FRENCH LOVER captures the innate seduction of a man who has nothing to prove. With the enhancement of capsicum and galbanum, angelica brings its aromatic, spicy notes together with the sleek elegance of iris, cedar and vetiver. A background of patchouli and white musk exudes an almost animal sensuality, bringing new life to the incense. Angelica, capsicum, galbanum, incense, vetiver, patchouli",
+    "description": "Pierre Bourdon's signature fragrance of the masculine ideal, FRENCH LOVER weaves an irresistible sensuality around angelica.\nIn contrast to contemporary archetypes of men's fragrance, Pierre Bourdon is opening up a different path. The path of an intuitively self-evident virility. Genuine enhancement for your skin, with the sophistication that arises from the exceptional quality of its raw materials, FRENCH LOVER captures the innate seduction of a man who has nothing to prove.  With the enhancement of capsicum and galbanum, angelica brings its aromatic, spicy notes together with the sleek elegance of iris, cedar and vetiver. A background of patchouli and white musk exudes an almost animal sensuality, bringing new life to the incense.\nAngelica, capsicum, galbanum, incense, vetiver, patchouli",
     "notes": [
       "Pierre Bourdon's Signature Fragrance of the Masculine Ideal",
       "French Lover Weaves An Irresistible Sensuality Around Angelica",
@@ -14192,7 +14192,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "GÉRANIUM POUR MONSIEUR, the wild charm of a fragrance that plays with tones of fougère. Forget everything you thought you knew about men's fragrances. Its bold structure and handpicked materials serve to reinvent the fougère, that olfactory archetype of virility with shaving foam accents. Top note: an aromatic frisson of mint and anise, cold and sharp, awakens the spirit. Then the Chinese geranium emerges, with its rosy, spicy notes, which gradually melt into a sensual, warm and enticing scent. Sandalwood, Benzoin Siam and incense add seductive sophistication to this deceptively classic fragrance with pop elegance. Crazy charm. Mint, anise, geranium, white musk, sandalwood",
+    "description": "GÉRANIUM POUR MONSIEUR, the wild charm of a fragrance that plays with tones of fougère.\nForget everything you thought you knew about men's fragrances. Its bold structure and handpicked materials serve to reinvent the fougère, that olfactory archetype of virility with shaving foam accents. Top note: an aromatic frisson of mint and anise, cold and sharp, awakens the spirit. Then the Chinese geranium emerges, with its rosy, spicy notes, which gradually melt into a sensual, warm and enticing scent. Sandalwood, Benzoin Siam and incense add seductive sophistication to this deceptively classic fragrance with pop elegance. Crazy charm.\nMint, anise, geranium, white musk, sandalwood",
     "notes": [
       "An Aromatic Frisson of Mint and Anise",
       "Cold and Sharp",
@@ -14282,7 +14282,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Pierre Bourdon",
-    "description": "IRIS POUDRE, the timeless femininity of the great aldehydic floral fragrances, reinvented by Pierre Bourdon. A tribute to the great aldehydic florals of the 20th century, IRIS POUDRE revisits their classic elegance in a contemporary and contrasting creation. The ultimate flower of seduction and a genuine treasure in the perfumer's palette, the iris blends its powdery notes with the creamy vanilla of tonka bean and the silky comfort of white musk. Wreathed in aldehydes, this tender heart radiates clean, sparkling effects. A few flowers with cosmetic accents - the rose and the violet - bring the tones of the eternal feminine into this refined creation, oscillating between sophisticated seduction and infinite softness. Aldehydes, iris, rose, tonka bean, white musk",
+    "description": "IRIS POUDRE, the timeless femininity of the great aldehydic floral fragrances, reinvented by Pierre Bourdon.\nA tribute to the great aldehydic florals of the 20th century, IRIS POUDRE revisits their classic elegance in a contemporary and contrasting creation. The ultimate flower of seduction and a genuine treasure in the perfumer's palette, the iris blends its powdery notes with the creamy vanilla of tonka bean and the silky comfort of white musk. Wreathed in aldehydes, this tender heart radiates clean, sparkling effects. A few flowers with cosmetic accents - the rose and the violet - bring the tones of the eternal feminine into this refined creation, oscillating between sophisticated seduction and infinite softness.\nAldehydes, iris, rose, tonka bean, white musk",
     "notes": [
       "Iris Poudre",
       "The Timeless Femininity of the Great Aldehydic Floral Fragrances",
@@ -14357,7 +14357,7 @@
     "gender": null,
     "concentration": "Eau de Toilette",
     "perfumer": "by Jean-Claude Ellena",
-    "description": "L'EAU D'HIVER, the absolute poetry of a minimalist, comforting fragrance, by Jean-Claude Ellena. Here's a fragrance like a perfect scarf, warm and light at the same time, inviting you to curl up with it. \"Warm water\" that takes its lucid minimalism from eau de Cologne, and warms you at the same time. The freshness of bergamot and Hedione unveils a tender, powdery cloud of heliotrope and hawthorn. A fluffy sensation like a mimosa pompom, with notes of sweet almond and honey, that seems weightless on the skin. A subtle, poetic expression of inner comfort. Bergamot, hedione, hawthorn, heliotrope, hay",
+    "description": "L'EAU D'HIVER, the absolute poetry of a minimalist, comforting fragrance, by Jean-Claude Ellena.\nHere's a fragrance like a perfect scarf, warm and light at the same time, inviting you to curl up with it. \"Warm water\" that takes its lucid minimalism from eau de Cologne, and warms you at the same time. The freshness of bergamot and Hedione unveils a tender, powdery cloud of heliotrope and hawthorn. A fluffy sensation like a mimosa pompom, with notes of sweet almond and honey, that seems weightless on the skin. A subtle, poetic expression of inner comfort.\nBergamot, hedione, hawthorn, heliotrope, hay",
     "notes": [
       "L'eau D'hiver",
       "The Absolute Poetry of A Minimalist",
@@ -14440,7 +14440,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Edmond Roudnitska",
-    "description": "LE PARFUM DE THÉRÈSE, a timeless declaration of love by Edmond Roudnitska. This is a declaration. The long kept secret of a fragrance created in the early 1950s by the greatest perfumer of the 20th century: Edmond Roudnitska. Designed especially for his wife Thérèse, this is a harmonious blend of plum, with a hint of melon and cucumber, with prophetic modernity. A floral heart of rose and jasmine, sensual and carnal, set against a leathery base of timeless elegance. Worn by only one woman for nearly half a century, then entrusted to Frédéric Malle, this hidden masterpiece of perfumery is rediscovered anew every time it is worn. Like a love affair that never stops surprising you, day after day. Melon, rose, jasmine, plum, leather",
+    "description": "LE PARFUM DE THÉRÈSE, a timeless declaration of love by Edmond Roudnitska.\nThis is a declaration. The long kept secret of a fragrance created in the early 1950s by the greatest perfumer of the 20th century: Edmond Roudnitska. Designed especially for his wife Thérèse, this is a harmonious blend of plum, with a hint of melon and cucumber, with prophetic modernity. A floral heart of rose and jasmine, sensual and carnal, set against a leathery base of timeless elegance. Worn by only one woman for nearly half a century, then entrusted to Frédéric Malle, this hidden masterpiece of perfumery is rediscovered anew every time it is worn. Like a love affair that never stops surprising you, day after day.\nMelon, rose, jasmine, plum, leather",
     "notes": [
       "Le Parfum de Thérèse",
       "A Timeless Declaration of Love By Edmond Roudnitska",
@@ -14507,7 +14507,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Ralf Schweiger",
-    "description": "LIPSTICK ROSE, the fragrance of timeless glamour, by Ralf Schwieger. An eternal gesture of seduction, that intimate moment when a star, in the quiet comfort of her dressing room, looks in the mirror and glides her lipstick over her lips. The powdery fragrances produced by the violet and the iris, two flowers associated with eye shadow and other make-up products, whose scents conjure up the magnetic appeal of the eternal feminine. To elicit a smile, a playful, juicy note of raspberry counters the effervescence of the grapefruit. And for sweetness, there are velvet threads of vanilla and white musk. It's all there. Showtime. Violet, rose, white musk, sandalwood",
+    "description": "LIPSTICK ROSE, the fragrance of timeless glamour, by Ralf Schwieger.\nAn eternal gesture of seduction, that intimate moment when a star, in the quiet comfort of her dressing room, looks in the mirror and glides her lipstick over her lips. The powdery fragrances produced by the violet and the iris, two flowers associated with eye shadow and other make-up products, whose scents conjure up the magnetic appeal of the eternal feminine. To elicit a smile, a playful, juicy note of raspberry counters the effervescence of the grapefruit. And for sweetness, there are velvet threads of vanilla and white musk. It's all there. Showtime.\nViolet, rose, white musk, sandalwood",
     "notes": [
       "Lipstick Rose",
       "The Fragrance of Timeless Glamour",
@@ -14579,7 +14579,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Edouard Fléchier",
-    "description": "A landscape fragrance by Edouard Fléchier, LYS MEDITERRANÉE recreates the scent of a sea flower. It's a summer evening on the shores of the Mediterranean. A delicately salty scent from the sea is mingling with the fragrance of lilies reaching towards the sky. These majestic flowers, which do not have any natural essence, inspired Edouard Fléchier to create this radiant, virtuoso composition. The sun-kissed, spicy fragrance of their pearly petals emerges, with the botanical moisture of their stems, represented by angelica with a hint of sea spray. A figurative, romantic and elegant scent. Ideal for terraces at the zenith or in the heart of starry nights. Angelica, orange blossom, marine blend, white musk",
+    "description": "A landscape fragrance by Edouard Fléchier, LYS MEDITERRANÉE recreates the scent of a sea flower.\nIt's a summer evening on the shores of the Mediterranean. A delicately salty scent from the sea is mingling with the fragrance of lilies reaching towards the sky. These majestic flowers, which do not have any natural essence, inspired Edouard Fléchier to create this radiant, virtuoso composition. The sun-kissed, spicy fragrance of their pearly petals emerges, with the botanical moisture of their stems, represented by angelica with a hint of sea spray. A figurative, romantic and elegant scent. Ideal for terraces at the zenith or in the heart of starry nights.\nAngelica, orange blossom, marine blend, white musk",
     "notes": [
       "A Landscape Fragrance By Edouard Fléchier",
       "Lys Mediterranée Recreates the Scent of A Sea Flower",
@@ -14648,7 +14648,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Bruno Jovanovic",
-    "description": "MONSIEUR. An uncompromising fragrance that sublimates a patchouli dosed to excess, by Bruno Jovanovic. Woody, exotic, sensual, full of mystery... Patchouli is the favourite ingredient of many perfumers. Bruno Jovanovic dedicates this radical score to it, built around an exceptional dosage of patchouli obtained by molecular distillation, an extraction technique that retains only its finest facets. The top notes include mandarin offering a zesty, luminous counterpoint to the patchouli, which blossoms fully in the luscious, vanilla notes of a rum absolute. Cedar and incense infuse the ensemble with a mystical vibrancy, rounded out by musk on the skin, for perfect comfort. Raw but sophisticated, civilised with a wild streak... That's MONSIEUR. That's all there is to it. Mandarin, patchouli, rum, incense, cedar",
+    "description": "MONSIEUR. An uncompromising fragrance that sublimates a patchouli dosed to excess, by Bruno Jovanovic.\nWoody, exotic, sensual, full of mystery... Patchouli is the favourite ingredient of many perfumers. Bruno Jovanovic dedicates this radical score to it, built around an exceptional dosage of patchouli obtained by molecular distillation, an extraction technique that retains only its finest facets. The top notes include mandarin offering a zesty, luminous counterpoint to the patchouli, which blossoms fully in the luscious, vanilla notes of a rum absolute. Cedar and incense infuse the ensemble with a mystical vibrancy, rounded out by musk on the skin, for perfect comfort. Raw but sophisticated, civilised with a wild streak... That's MONSIEUR. That's all there is to it.\nMandarin, patchouli, rum, incense, cedar",
     "notes": [
       "Monsieur. An Uncompromising Fragrance That Sublimates A Patchouli Dosed To Excess",
       "By Bruno Jovanovic",
@@ -14720,7 +14720,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Carlos Benaïm",
-    "description": "MUSIC FOR A WHILE, a lively fruity fragrance by Carlos Benaïm. Like music, perfumery is all about finding harmony. Carlos Benaïm has created an olfactory hit with an unforgettable melody: a warm and cool combination of lavender and vanilla, both lively and sensual, feminine and masculine. Resolutely paradoxical, MUSIC FOR A WHILE plays between light and shade, from the joyous delight of pineapple to the mysterious woody character of patchouli. Part classical, part contemporary, elegant yet provocative, its sensual effect adheres to your skin, like an irresistible refrain you want to listen to on loop. Over and over. Citrus, pineapple, lavender, vanilla, patchouli",
+    "description": "MUSIC FOR A WHILE, a lively fruity fragrance by Carlos Benaïm.\nLike music, perfumery is all about finding harmony. Carlos Benaïm has created an olfactory hit with an unforgettable melody: a warm and cool combination of lavender and vanilla, both lively and sensual, feminine and masculine. Resolutely paradoxical, MUSIC FOR A WHILE plays between light and shade, from the joyous delight of pineapple to the mysterious woody character of patchouli. Part classical, part contemporary, elegant yet provocative, its sensual effect adheres to your skin, like an irresistible refrain you want to listen to on loop. Over and over.\nCitrus, pineapple, lavender, vanilla, patchouli",
     "notes": [
       "Music For A While",
       "A Lively Fruity Fragrance By Carlos Benaïm",
@@ -14792,7 +14792,7 @@
     "gender": null,
     "concentration": "Eau de toilette",
     "perfumer": "by Sophia Grojsman",
-    "description": "An Eau de toilette by Sophia Grojsman, Outrageous! is a cocktail of energy, light and freedom. Summer joy in a bottle. A Night in Rio. The electrifying momentum of a Brazilian dance. The feeling of freedom on the beach. Sophia Grojsman, always alert to the possibilities of an innovative idea, decided to interpret the scent of a glass of caipirinha. Outrageous! A youthful explosion of bergamot, mandarin and green apple; a lush burst of cinnamon on a mesmerising base of musk and ambroxan. Neroli, bergamot, apple, orange blossom, white musk",
+    "description": "An Eau de toilette by Sophia Grojsman, Outrageous! is a cocktail of energy, light and freedom. Summer joy in a bottle.\nA Night in Rio. The electrifying momentum of a Brazilian dance. The feeling of freedom on the beach. Sophia Grojsman, always alert to the possibilities of an innovative idea, decided to interpret the scent of a glass of caipirinha. Outrageous! A youthful explosion of bergamot, mandarin and green apple; a lush burst of cinnamon on a mesmerising base of musk and ambroxan.\nNeroli, bergamot, apple, orange blossom, white musk",
     "notes": [
       "An Eau de Toilette By Sophia Grojsman",
       "Outrageous! Is A Cocktail of Energy",
@@ -14862,7 +14862,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Jean-Claude Ellena",
-    "description": "ROSE & CUIR, a fragrance of contrasts between flower and skin, by Jean-Claude Ellena. One is the queen of flowers, delicate and sensual. The other is a sleek, noble, animalic material. Where they meet, Jean-Claude Ellena works to create a perfect balance between them. Enhanced with exceptional extracts of Timut pepper and bourbon geranium, the rose appears pure, wonderfully streamlined. From its fresh notes, there gradually emerges a dark, mysterious leather blend, patinated with vetiver essence that accentuates its earthy effects. Floral in character, ROSE & CUIR asserts itself over time, revealing an androgynous sensuality of absolute mastery. Blackcurrant, pepper, rose, leather, vetiver",
+    "description": "ROSE & CUIR, a fragrance of contrasts between flower and skin, by Jean-Claude Ellena.\nOne is the queen of flowers, delicate and sensual. The other is a sleek, noble, animalic material. Where they meet, Jean-Claude Ellena works to create a perfect balance between them. Enhanced with exceptional extracts of Timut pepper and bourbon geranium, the rose appears pure, wonderfully streamlined. From its fresh notes, there gradually emerges a dark, mysterious leather blend, patinated with vetiver essence that accentuates its earthy effects. Floral in character, ROSE & CUIR asserts itself over time, revealing an androgynous sensuality of absolute mastery.\nBlackcurrant, pepper, rose, leather, vetiver",
     "notes": [
       "Rose & Cuir",
       "A Fragrance of Contrasts Between Flower and Skin",
@@ -14942,7 +14942,7 @@
     "gender": null,
     "concentration": "Eau de toilette",
     "perfumer": "Fanny Bal",
-    "description": "With Sale Gosse, Fanny Bal has created an eau de toilette for women and men, as irresistible as a cuddly toy and as cheeky as bubble gum. An ode to the French movie, Les Enfants Terribles by Jean Cocteau, their naughty manners, scribbles and pranks of all kinds. This eau de toilette is a tribute to those who know how to make amends thanks to that mischievous look that nobody can resist. The notes of Sale Gosse oscillate between the tenderness of petitgrain and neroli, and the ingenuity of a raspberry and violet pairing. A fragrance as playful as a quickly forgiven mistake, and as tender as a kiss on the neck. Neroli, petitgrain, bergamot, rosemary, violet, Bubble gum",
+    "description": "With Sale Gosse, Fanny Bal has created an eau de toilette for women and men, as irresistible as a cuddly toy and as cheeky as bubble gum.\nAn ode to the French movie,\nLes Enfants Terribles\nby Jean Cocteau, their naughty manners, scribbles and pranks of all kinds. This eau de toilette is a tribute to those who know how to make amends thanks to that mischievous look that nobody can resist.\nThe notes of Sale Gosse oscillate between the tenderness of petitgrain and neroli, and the ingenuity of a raspberry and violet pairing. A fragrance as playful as a quickly forgiven mistake, and as tender as a kiss on the neck.\nNeroli, petitgrain, bergamot, rosemary, violet, Bubble gum",
     "notes": [
       "Les Enfants Terribles",
       "Neroli",
@@ -15009,7 +15009,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "par Anne Flipo",
-    "description": "SYNTHETIC NATURE, a dazzling floral tribute to the iconic fragrances of the seventies, by Anne Flipo. This ultra-contemporary floral portrays lush, stylised nature in saturated colors. As the first of Anne Flipo's creations for Frédéric Malle, SYNTHETIC NATURE revisits some cult fragrances of the 1970s with a newly dazzling modernity, where synthesis recreates the poetry of nature. Jasmine and ylang-ylang mingle their sunny scents with the crisp botanical note of hyacinth, underscored by basil. A note of blackcurrant and styrallyl acetate brings a fluorescent glow to this bouquet, set against a dark base of patchouli, a mythical ingredient in the perfumers' palette and emblematic of the green cypresses of the seventies. Basil, lily of the valley, jasmine, patchouli",
+    "description": "SYNTHETIC NATURE, a dazzling floral tribute to the iconic fragrances of the seventies, by Anne Flipo.\nThis ultra-contemporary floral portrays lush, stylised nature in saturated colors. As the first of Anne Flipo's creations for Frédéric Malle, SYNTHETIC NATURE revisits some cult fragrances of the 1970s with a newly dazzling modernity, where synthesis recreates the poetry of nature. Jasmine and ylang-ylang mingle their sunny scents with the crisp botanical note of hyacinth, underscored by basil. A note of blackcurrant and styrallyl acetate brings a fluorescent glow to this bouquet, set against a dark base of patchouli, a mythical ingredient in the perfumers' palette and emblematic of the green cypresses of the seventies.\nBasil, lily of the valley, jasmine, patchouli",
     "notes": [
       "Synthetic Nature",
       "A Dazzling Floral Tribute To the Iconic Fragrances of the Seventies",
@@ -15081,7 +15081,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Julien Rasquinet",
-    "description": "A blend of oud and red fruits, THE MOON fragrance is a tribute to the moon created by Julien Rasquinet for the Desert Gems collection. In the Middle East, the pace of life is marked by the moon. Veiled, unveiled: its clear halo signals the beginning and end of all festivities. The Arabic language also calls on the moon to speak of love. There's no sweeter, more subtle way to declare your love, to talk about the beauty of your beloved and to confess your eternal devotion. A sumptuous, warm and refined blend of rose, oud and incense, THE MOON can still bring a surprise - a profusion of blackberry and redcurrant. The magic of these red berries, with their soft and colourful fragrances, evokes the fruity scents of hookahs and the sweetness of eastern nights. Nutmeg, rose, natural oud, leather blend, raspberry Top notes: Raspberry, Lychee, Saffron Middle notes: Frankincense , Turkish Rose Base notes: Oud , Leather",
+    "description": "A blend of oud and red fruits, THE MOON fragrance is a tribute to the moon created by Julien Rasquinet for the Desert Gems collection.\nIn the Middle East, the pace of life is marked by the moon. Veiled, unveiled: its clear halo signals the beginning and end of all festivities. The Arabic language also calls on the moon to speak of love. There's no sweeter, more subtle way to declare your love, to talk about the beauty of your beloved and to confess your eternal devotion. A sumptuous, warm and refined blend of rose, oud and incense, THE MOON can still bring a surprise - a profusion of blackberry and redcurrant. The magic of these red berries, with their soft and colourful fragrances, evokes the fruity scents of hookahs and the sweetness of eastern nights.\nNutmeg, rose, natural oud, leather blend, raspberry\nTop notes: Raspberry, Lychee, Saffron\nMiddle notes:\nFrankincense\n, Turkish Rose\nBase notes:\nOud\n,\nLeather",
     "notes": [
       "Raspberry",
       "Lychee",
@@ -15157,7 +15157,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion",
-    "description": "UNE FLEUR DE CASSIE, the fragrance of boundless elegance by Dominique Ropion. A rare flower in the mimosa family, cassia gives an intense, captivating fragrance. Powdery, honeyed, slightly animalic... a marvel, recreated with precision by Dominique Ropion - known as the master of flowers - in this immensely elegant fragrance, evoking a silhouette from the Paris of the Roaring Twenties. As downy as a feather boa, the cassia's yellow tassels curl up in a sensual sheath woven of precious materials: jasmine, sandalwood and vanilla, rounded off by musk. An haute couture design, created using aldehydes that highlight its timeless modernity. Cassia, mimosa, sandalwood, vanilla",
+    "description": "UNE FLEUR DE CASSIE, the fragrance of boundless elegance by Dominique Ropion.\nA rare flower in the mimosa family, cassia gives an intense, captivating fragrance. Powdery, honeyed, slightly animalic... a marvel, recreated with precision by Dominique Ropion - known as the master of flowers - in this immensely elegant fragrance, evoking a silhouette from the Paris of the Roaring Twenties. As downy as a feather boa, the cassia's yellow tassels curl up in a sensual sheath woven of precious materials: jasmine, sandalwood and vanilla, rounded off by musk. An haute couture design, created using aldehydes that highlight its timeless modernity.\nCassia, mimosa, sandalwood, vanilla",
     "notes": [
       "Une Fleur de Cassie",
       "The Fragrance of Boundless Elegance By Dominique Ropion",
@@ -15226,7 +15226,7 @@
     "gender": null,
     "concentration": "Eau de Parfum",
     "perfumer": "by Dominique Ropion\t",
-    "description": "VETIVER EXTRAORDINAIRE, the very essence of charm, by Dominique Ropion. A masculine ingredient par excellence, vetiver distills an unprecedented charm at the heart of this fragrance, thanks to a Haitian essence of exceptional quality. Contrary to the stereotypes of the genre, Dominique Ropion gives this precious root the irresistible lightness of those who don't take themselves too seriously. Bergamot, bitter orange and pink peppercorn give it that playful something, while the sandalwood, oakmoss and musk multiply its power of attraction and anchor it on the skin. Elegant and sophisticated, but also original and witty, this vetiver is the image of the man who chooses to wear it. In a word: extraordinary. Bitter orange, vetiver, sandalwood, oakmoss, amber",
+    "description": "VETIVER EXTRAORDINAIRE, the very essence of charm, by Dominique Ropion.\nA masculine ingredient par excellence, vetiver distills an unprecedented charm at the heart of this fragrance, thanks to a Haitian essence of exceptional quality. Contrary to the stereotypes of the genre, Dominique Ropion gives this precious root the irresistible lightness of those who don't take themselves too seriously. Bergamot, bitter orange and pink peppercorn give it that playful something, while the sandalwood, oakmoss and musk multiply its power of attraction and anchor it on the skin. Elegant and sophisticated, but also original and witty, this vetiver is the image of the man who chooses to wear it. In a word: extraordinary.\nBitter orange, vetiver, sandalwood, oakmoss, amber",
     "notes": [
       "Vetiver Extraordinaire",
       "The Very Essence of Charm",
@@ -15305,7 +15305,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Velvet Violet reveals an unexpected facet of violet. Inspired by velvet, the fragrance pairs the woody freshness of violet with the warm nuances of sesame. At its base, a graphic motif inspired by sesame expresses the dialogue between colour, texture, and fragrance. An unexpected pairing of a fresh flower and a roasted seed. Defined by contrasts and plays of texture, Velvet Violet belongs to a woody floral gourmand family. From the first notes, the duality is present. Focusing more on the leaf than the flower, violet – green, fresh and subtly – takes on a modern profile. In contrast, sesame unfolds as a toasted accord with rich, nutty facets. This interplay evolves seamlessly on the skin. The opening is vibrant, as the violet is sharpened by pink pepper. The heart introduces a deeper dimension through sesame and barley. Within the base, vetiver and tonka bean anchor the fragrance and leave a lasting glow.",
+    "description": "Velvet Violet reveals an unexpected facet of violet. Inspired by velvet, the fragrance pairs the woody freshness of violet with the warm nuances of sesame. Its semi-transparent glass in deep purple hue reflects the tones of the flower and the sheen of velvet. At its base, a graphic motif inspired by sesame expresses the dialogue between colour, texture, and fragrance.\n88% naturally-derived ingredients\nAn unexpected pairing of a fresh flower and a roasted seed. Defined by contrasts and plays of texture, Velvet Violet belongs to a woody floral gourmand family. From the first notes, the duality is present. Focusing more on the leaf than the flower, violet – green, fresh and subtly – takes on a modern profile. In contrast, sesame unfolds as a toasted accord with rich, nutty facets. This interplay evolves seamlessly on the skin. The opening is vibrant, as the violet is sharpened by pink pepper. The heart introduces a deeper dimension through sesame and barley. Within the base, vetiver and tonka bean anchor the fragrance and leave a lasting glow.\nHow to refill",
     "notes": [
       "Pink Pepper",
       "Violet Leaf",
@@ -15378,7 +15378,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Soie Malaquais. A sensorial journey through texture, an olfactory fabric. Silky and intimate, like a second skin, the fragrance recalls the fluid, sensual touch of the silk dresses from the Parisian boutique on Quai Malaquais. In a play of dualities, the balsamic addiction of chestnut wraps itself in a delicate silk accord.",
+    "description": "Soie Malaquais. A sensorial journey through texture, an olfactory fabric. In a play of dualities, the balsamic addiction of chestnut wrapped in a delicate silk accord, and the unexpected harmony of glass and porcelain in a refined artisanal piece.\n88% naturally-derived ingredients\nSilky and intimate, like a second skin, the fragrance recalls the fluid, sensual touch of the silk dresses from the Parisian boutique on Quai Malaquais. In a play of dualities, the balsamic addiction of chestnut wraps itself in a delicate silk accord. On the bottle, another journey unfolds. A voyage into the art of ceramics, with an artisanal porcelain piece adorned with a dreamlike bird motif. In a poetry of contrasts, glass and porcelain come together to form a surprising and refined combination.\nHow to refill",
     "notes": [
       "Bergamot",
       "Blackcurrant",
@@ -15445,7 +15445,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "A journey, evoking the atmosphere of Havana bars where the air is steeped in smoke, joy, and sensuality. An unexpected combination: the nostalgic addiction of liquorice and the hypnotic warmth of tobacco absolute. The fragrance opens on a cool, aniseed breeze with gourmand, liquorous notes. In contrast, tobacco leaves unfold in smoky, spicy, leathery, woody tones, fading into balsamic warmth — benzoïn, cistus, roasted tonka bean. A golden opulence settles on the skin: intoxicating yet refined, deep and full of nuance. Amber-tinted glass merges with an aged brass base, finely crafted with a patina that adds a nuanced and unique beauty. “Havana Gold is a surprising alchemy between nostalgic, gourmand liquorice and the darkest, leathery facets of tobacco.” — Jordi Fernandez, Perfumer",
+    "description": "A journey, evoking the atmosphere of Havana bars where the air is steeped in smoke, joy, and sensuality. An unexpected combination: the nostalgic addiction of liquorice and the hypnotic warmth of tobacco absolute. The fragrance opens on a cool, aniseed breeze with gourmand, liquorous notes. In contrast, tobacco leaves unfold in smoky, spicy, leathery, woody tones, fading into balsamic warmth — benzoïn, cistus, roasted tonka bean. A golden opulence settles on the skin: intoxicating yet refined, deep and full of nuance.\nAmber-tinted glass merges with an aged brass base, finely crafted with a patina that adds a nuanced and unique beauty.\n90% naturally-derived ingredients\n“Havana Gold is a surprising alchemy between nostalgic, gourmand liquorice and the darkest, leathery facets of tobacco.” — Jordi Fernandez, Perfumer\nHow to refill",
     "notes": [
       "Mandarin",
       "Liquorice",
@@ -15521,7 +15521,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Fleur du Mal, a leather flower. The osmanthus from Dries Van Noten’s garden is draped in suede and reveals a captivating animality. A vision of exquisite refinement. Draped in velvety leather, this imagined flower reveals its most carnal petals and a captivating animality. In extreme refinement, expressive prints and solid colour come together, with subtle plays of transparency. Fleur du Mal keeps its secrets. Beneath its delicate corolla, the osmanthus alone exudes an intense fragrance, balanced between angelic floral notes and soft animal undertones. A leather-like caress of apricot, the milky freshness of peach, the velvety texture of a petal. With the suede accord, sensuality unfolds and becomes almost intoxicating, leaving iridescent, musky traces on the skin. Opulent yet intimate, the sillage becomes almost tactile.",
+    "description": "Fleur du Mal, a leather flower. The osmanthus from Dries Van Noten’s garden is draped in suede and reveals a captivating animality. Echoing this, the bottle combines a deep purple glass with a tortoiseshell pattern. A vision of exquisite refinement.\n88% naturally-derived ingredients\nDraped in velvety leather, this imagined flower reveals its most carnal petals and a captivating animality. In echo of this seemingly innocent bloom, an animal-inspired bottle reflects Dries Van Noten’s wardrobe, with a tortoiseshell motif and deep violet glass. In extreme refinement, expressive prints and solid colour come together, with subtle plays of transparency.\nFleur du Mal keeps its secrets. Beneath its delicate corolla, the osmanthus alone exudes an intense fragrance, balanced between angelic floral notes and soft animal undertones. A leather-like caress of apricot, the milky freshness of peach, the velvety texture of a petal. With the suede accord, sensuality unfolds and becomes almost intoxicating, leaving iridescent, musky traces on the skin. Opulent yet intimate, the sillage becomes almost tactile.\nHow to refill",
     "notes": [
       "Peach Juice",
       "Osmanthus",
@@ -15585,7 +15585,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Solar and sensual. “A beautiful duality of nature-inspired orange blossom with the contrast of sweet, opulent, milky, mature orange blossom; this flower can express so many different faces.” — Daniela Andrier, Perfumer",
+    "description": "Solar and sensual. The bottle brings together a bright yellow glass with a fragile rose base.\n90% naturally derived ingredients\n“A beautiful duality of nature-inspired orange blossom with the contrast of sweet, opulent, milky, mature orange blossom; this flower can express so many different faces.” — Daniela Andrier, Perfumer\nHow to refill",
     "notes": [
       "Neroli Buds",
       "Jasmine",
@@ -15649,7 +15649,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Elegant and joyful. “I wanted to express unconventional classicism through using orris, from iris root, which is so elegant and haute couture. But I wanted to shake it, to heckle it, with the energy of mint.” — Fanny Bal, Perfumer",
+    "description": "Elegant and joyful. A color block bottle featuring a neon green base with sky blue glass.\n89% naturally-derived ingredients\n“I wanted to express unconventional classicism through using orris, from iris root, which is so elegant and haute couture. But I wanted to shake it, to heckle it, with the energy of mint.”  — Fanny Bal, Perfumer\nHow to refill",
     "notes": [
       "Mint Essence Duo (spearmint & Peppermint)",
       "Carrot Heart",
@@ -15713,7 +15713,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "In Dries Van Noten’s garden, not all roses are what they seem. This one is bold, modern, explosive. Raving Rose defies expectations, transforming the classic bloom into something thrillingly modern. A lush, opulent rose is electrified by the intensity of pepper that exudes a fresh yet fiery sensation - sensual yet unexpected. “The rose is an icon for Dries but I wanted to disrupt its classicism to create a rose that is not a rose, not taking itself too seriously, ultra-modern and spicy.” — Louise Turner, Perfumer",
+    "description": "In Dries Van Noten’s garden, not all roses are what they seem. This one is bold, modern, explosive. Raving Rose defies expectations, transforming the classic bloom into something thrillingly modern. A lush, opulent rose is electrified by the intensity of pepper that exudes a fresh yet fiery sensation - sensual yet unexpected.\nThe bottle is a study in contrast with a vivid bubblegum pink cap set against a striking metallic red base that offers a modernist composition both sleek and captivating.\n90% naturally-derived ingredients\n“The rose is an icon for Dries but I wanted to disrupt its classicism to create a rose that is not a rose, not taking itself too seriously, ultra-modern and spicy.” — Louise Turner, Perfumer\nHow to refill",
     "notes": [
       "Pink Pepper",
       "Black Pepper",
@@ -15780,7 +15780,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "An intensely green fragrance where basil is given centre stage. Crazy Basil is an overdose of freshness, as the use of absolu results in an aromatic generosity that wraps around a hot core of cedarwood. Like a vibrant expression of a herb garden amplified by amber richness and resinous accents, it brings new dynamism to this sun-drenched plant. “A true-to-nature aromatic note of basil getting crazy with the vibration of cedarwood and amber.” — Jean-Christophe Hérault, Perfumer",
+    "description": "An intensely green fragrance where basil is given centre stage. Crazy Basil is an overdose of freshness, as the use of absolu results in an aromatic generosity that wraps around a hot core of cedarwood. Like a vibrant expression of a herb garden amplified by amber richness and resinous accents, it brings new dynamism to this sun-drenched plant.\nWith chromatic intensity and affirming the master of colour that is true to Dries Van Noten, the bottle boasts a minimalist duet of green; clear and cool, warm and saturated.\n90% naturally-derived ingredients\n“A true-to-nature aromatic note of basil getting crazy with the vibration of cedarwood and amber.” — Jean-Christophe Hérault, Perfumer\nHow to refill",
     "notes": [
       "Basil",
       "Bergamot",
@@ -15856,7 +15856,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Addictive and elegant. “The union of two opposites, yet perfectly and poetically balanced: resilient sandalwood with the lively, green leaf of fig - the everlasting and the ephemeral together.” — Nisrine Grillie, Perfumer",
+    "description": "Addictive and elegant. A delicate white opaque glass bottle with a green base, decorated with shadows of nature.\n90% naturally-derived ingredients\n“The union of two opposites, yet perfectly and poetically balanced: resilient sandalwood with the lively, green leaf of fig - the everlasting and the ephemeral together.” — Nisrine Grillie, Perfumer\nHow to refill",
     "notes": [
       "Bergamot",
       "Grapefruit",
@@ -15923,7 +15923,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Camomille Satin reimagines the wildflower’s soft innocence by dousing it with the gourmand and leathery facets of vanilla. The bucolic day flower shifts to night mode. Like the fluid drape of precious satin, a tactile charm surfaces as an aromatic, amber juice that is at once softly decadent and sophisticated. An enveloping evocation of savoir-faire. “The extreme addiction of vanilla bean, coloured by the bucolic charm of chamomile.” — Julien Rasquinet and Paul Guerlain, Perfumers",
+    "description": "Camomille Satin reimagines the wildflower’s soft innocence by dousing it with the gourmand and leathery facets of vanilla. The bucolic day flower shifts to night mode. Like the fluid drape of precious satin, a tactile charm surfaces as an aromatic, amber juice that is at once softly decadent and sophisticated. An enveloping evocation of savoir-faire.\nThe bottle brings together powder pink glass and brushed metal covered in a gold brocade-inspired pattern.\n87% naturally-derived ingredients\n“The extreme addiction of vanilla bean, coloured by the bucolic charm of chamomile.” — Julien Rasquinet and Paul Guerlain, Perfumers\nHow to refill",
     "notes": [
       "Chamomile",
       "Petit Grain Bigarade",
@@ -15996,7 +15996,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Rock the Myrrh captures the mystique of Parisian boutiques. Myrrh is crafted in all its richness, wrapped in precious resins and a hint of leathery animality. Hand-painted ceramic pairs with amber glass, creating surprising effects of texture and light. The woodwork, the mystical and intimate ambiance, and the eclectic spirit of the neighbourhood between churches and art galleries. Through the lens of impossible combinations, myrrh is explored in all its dimensions to capture the richness of this fascinating ingredient, adorned here with precious resins and a hint of leather animality. A play of contrasts where texture and light unfold in unexpected ways.",
+    "description": "Rock the Myrrh captures the mystique of Parisian boutiques. Myrrh is crafted in all its richness, wrapped in precious resins and a hint of leathery animality. Hand-painted ceramic pairs with amber glass, creating surprising effects of texture and light.\n90% naturally-derived ingredients\nThe woodwork, the mystical and intimate ambiance, and the eclectic spirit of the neighbourhood between churches and art galleries. Through the lens of impossible combinations, myrrh is explored in all its dimensions to capture the richness of this fascinating ingredient, adorned here with precious resins and a hint of leather animality. As an ode to artisanal craftsmanship, the bottle pairs a beautifully hand-painted ceramic base with subtly graduated amber glass. A play of contrasts where texture and light unfold in unexpected ways.\nHow to refill",
     "notes": [
       "Cypress",
       "Pink Pepper",
@@ -16063,7 +16063,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "An invitation to escape, Bitter Splash charts a journey of exotic exploration. Cool, juicy pomelo and warm vegetal leather emerge as a sophisticated duality of freshness and sensuality. A sumptuous voyage into Dries Van Noten’s love for orientalism, where additional notes of powdery iris and vetiver enhance this chic evocation of texture and light. “I chose to explore a paradoxical yet balanced play of light and texture – the sparkling radiance of grapefruit veiled in the matte softness of leather.” — Suzy Le Helley, Perfumer",
+    "description": "An invitation to escape, Bitter Splash charts a journey of exotic exploration. Cool, juicy pomelo and warm vegetal leather emerge as a sophisticated duality of freshness and sensuality. A sumptuous voyage into Dries Van Noten’s love for orientalism, where additional notes of powdery iris and vetiver enhance this chic evocation of texture and light.\nThe bottle marries the simplicity of glossy pop yellow glass with a decorative pattern inspired by the detailed art of Asian lacquer woodwork, suggesting a contrast between tradition and modernity.\n90% naturally-derived ingredients\n“I chose to explore a paradoxical yet balanced play of light and texture – the sparkling radiance of grapefruit veiled in the matte softness of leather.” — Suzy Le Helley, Perfumer\nHow to refill",
     "notes": [
       "Grapefruit",
       "Cypress",
@@ -16136,7 +16136,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Bold and ambiguous. “I was inspired by the iconic Jimi Hendrix track. Rosemary and patchouli are the opposite forces in action here but the rosemary – like Hendrix’s guitar – is distorted to make it hot and dense.” — Nicolas Beaulieu, Perfumer",
+    "description": "Bold and ambiguous. A midnight blue glass bottle with a metal base engraved with leaves.\n87% naturally-derived ingredients\n“I was inspired by the iconic Jimi Hendrix track. Rosemary and patchouli are the opposite forces in action here but the rosemary – like Hendrix’s guitar – is distorted to make it hot and dense.” — Nicolas Beaulieu, Perfumer\nHow to refill",
     "notes": [
       "Cannabis",
       "Rosemary",
@@ -16203,7 +16203,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "The artful illusion of a green vanilla, Vanille Camouflage creates the sensation of softness on the skin. The green, resinous facets of galbanum transform a duo vanilla – the liquor notes of bourbon vanilla and the creamy, almond aspect of the Tahitensis – sublimating its complexity and richness. A unique and subtle layering that turns more and more intense. “It’s so unusual to see a vanilla in its very original shape, and so green! This is exactly what the fragrance translates.” — Alexandra Monet, Perfumer",
+    "description": "The artful illusion of a green vanilla, Vanille Camouflage creates the sensation of softness on the skin. The green, resinous facets of galbanum transform a duo vanilla – the liquor notes of bourbon vanilla and the creamy, almond aspect of the Tahitensis – sublimating its complexity and richness. A unique and subtle layering that turns more and more intense.\nA dual expression of fashion and art, the bottle fuses deep green glass and precious porcelain patterned with poetic, watercolour-style flowers as though lifted from a painting.\n90% naturally-derived ingredients\n“It’s so unusual to see a vanilla in its very original shape, and so green! This is exactly what the fragrance translates.” — Alexandra Monet, Perfumer\nHow to refill",
     "notes": [
       "Galbanum​",
       "Cypress​",
@@ -16279,7 +16279,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "Wild and sensitive. “In Dries’ world, antagonistic elements are combined to create surprise. This fragrance is like a light and dark olfactive pattern of fresh green leaves of clary sage aromatics rubbing against the woody leaves of patchouli.” — Nicolas Bonneville, Perfumer",
+    "description": "Wild and sensitive. A unique crafted bottle made from certified PEFC® wood and forest green glass.\n91% naturally-derived ingredients\n“In Dries’ world, antagonistic elements are combined to create surprise. This fragrance is like a light and dark olfactive pattern of fresh green leaves of clary sage aromatics rubbing against the woody leaves of patchouli.” — Nicolas Bonneville, Perfumer\nHow to refill",
     "notes": [
       "Bergamot",
       "Cedar Leaves",
@@ -16346,7 +16346,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Parfum",
-    "description": "In Dries Van Noten’s garden, the last petals of autumn’s Centifolia Rose unfold, revealing a beauty that is both raw and refined. Rosa Carnivora is a velvet rose crafted in chiaroscuro. A rose in its wild, beautifully imperfect nature, rooted in the noble earthy depth of vetiver. “This is nature: unfiltered, with all its little flaws. This rose is not romantic: it is strangely beautiful, real, imperfect and ambiguous.” — Daphne Bugey, Perfumer",
+    "description": "In Dries Van Noten’s garden, the last petals of autumn’s Centifolia Rose unfold, revealing a beauty that is both raw and refined. Rosa Carnivora is a velvet rose crafted in chiaroscuro. A rose in its wild, beautifully imperfect nature, rooted in the noble earthy depth of vetiver.\nThe bottle pairs powdery pink glass with an animal-print pattern on porcelain, creating a delicate contrast.\n90% naturally-derived ingredients\n“This is nature: unfiltered, with all its little flaws. This rose is not romantic: it is strangely beautiful, real, imperfect and ambiguous.” — Daphne Bugey, Perfumer\nHow to refill",
     "notes": [
       "Pink Pepper",
       "Rose",
@@ -16413,7 +16413,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Toilette",
-    "description": "Vibrant & Enigmatic 91% of natural ingredients “For this collection I wanted to offer a new vision of Cannabis Patchouli. I transposed the earth effect of patchouli into a salty minerality.” — NICOLAS BONNEVILLE",
+    "description": "Vibrant & Enigmatic\n91% of natural ingredients\n“For this collection I wanted to offer a new vision of Cannabis Patchouli. I transposed the earth effect of patchouli into a salty minerality.”\n— NICOLAS BONNEVILLE",
     "notes": [
       "Salt",
       "Mandarin"
@@ -16464,7 +16464,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Toilette",
-    "description": "Delicate & Sensual 89% of natural ingredients “I wanted a big contrast between two strong sensations: bursting freshness versus pure, sensual addiction. In Sur Ma Peau, the warm facet of vanilla meets the sensual texture of tonka under a burst of citrus. Bergamot, full of zest, with a tear of benzoin, a precious resin sourced responsibly in the mountains of Laos, play against one another: as benzoin melts on the skin, it’s illuminated by the extreme backlight of citrus.” — QUENTIN BISCH",
+    "description": "Delicate & Sensual\n89% of natural ingredients\n“I wanted a big contrast between two strong sensations: bursting freshness versus pure, sensual addiction. In Sur Ma Peau, the warm facet of vanilla meets the sensual texture of tonka under a burst of citrus. Bergamot, full of zest, with a tear of benzoin, a precious resin sourced responsibly in the mountains of Laos, play against one another: as benzoin melts on the skin, it’s illuminated by the extreme backlight of citrus.”\n— QUENTIN BISCH",
     "notes": [
       "Bergamot",
       "Vanilla"
@@ -16515,7 +16515,7 @@
     "brand": "Dries Van Noten",
     "gender": null,
     "concentration": "Eau de Toilette",
-    "description": "Bright & Mysterious 89% of natural ingredients “When the sky touches the earth: the pureness of an orange flower with the mineral facet of incense. I chose to play with the chiaroscuro – light and shade – quality of incense, combining its fresh mineral nature with the luminous sweetness of orange blossom.” — ANNICK MENARDO",
+    "description": "Bright & Mysterious\n89% of natural ingredients\n“When the sky touches the earth: the pureness of an orange flower with the mineral facet of incense. I chose to play with the chiaroscuro – light and shade – quality of incense, combining its fresh mineral nature with the luminous sweetness of orange blossom.”\n— ANNICK MENARDO",
     "notes": [
       "Orange Blossom",
       "Incense"
@@ -16566,7 +16566,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Prada Paradoxe Sweet Chemistry is a fruity floral fragrance that reimagines sweetness through a sophisticated and contemporary balance. The Blackcurrant Syrup Accord blends with the radiance of Orange Blossom Absolute and the enveloping creaminess of the Neroli Milk Accord, creating a modern and irresistible trail.",
+    "description": "Prada Paradoxe Sweet Chemistry is a fruity floral fragrance that reimagines sweetness through a sophisticated and contemporary balance. The Blackcurrant Syrup Accord blends with the radiance of Orange Blossom Absolute and the enveloping creaminess of the Neroli Milk Accord, creating a modern and irresistible trail. Housed in Prada’s iconic refillable bottle, it celebrates a femininity that is intense, multifaceted, and constantly evolving.",
     "notes": [
       "Blackcurrant Syrup"
     ],
@@ -17100,7 +17100,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Infusion de Rhubarbe Eau de Parfum captures the playful personality of rhubarb in an unexpected floral fruity fragrance, pink and green, sweet and acidulous. A vegetable by definition, yet renowned for its fruity tones, rhubarb challenges our expectations, settling upon a facet of our personality that is both effervescent and irreverent. Infused within Prada´s “Esprit d’Infusion”, rhubarb represents the quintessential contradiction at the heart of Prada, being incisively fresh yet subtle, delicate yet addictive.",
+    "description": "Infusion de Rhubarbe Eau de Parfum captures the playful personality of rhubarb in an unexpected floral fruity fragrance, pink and green, sweet and acidulous. A vegetable by definition, yet renowned for its fruity tones, rhubarb challenges our expectations, settling upon a facet of our personality that is both effervescent and irreverent. Infused within Prada´s “Esprit d’Infusion”, rhubarb represents the quintessential contradiction at the heart of Prada, being incisively fresh yet subtle, delicate yet addictive. The pink-tinted hue of the fragrance appears in a luxurious bottle with an iconic Saffiano leather cap in a bright shade of pink: a playful nod to the star ingredient within.",
     "notes": [
       "Vert de Bergamot",
       "Italian Green Mandarin Superessence",
@@ -17148,7 +17148,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Infusion d’Iris Eau de Parfum encapsulates the elegant personality of the iris in a floral woody fragrance. The elegant iris is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you.",
+    "description": "Infusion d’Iris Eau de Parfum encapsulates the elegant personality of the iris in a floral woody fragrance. The elegant iris is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you. The luxurious bottle of Infusion d’Iris is highlighted in a green-tinted hue, evoking the fusion of the signature ingredient in the fragrance. The sophisticated green cap in iconic Saffiano symbolizes the iris and the elegance of the fragrance.",
     "notes": [
       "Iris Pallida"
     ],
@@ -17190,7 +17190,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Infusion d’Amande Eau de Parfum encapsulates the delicate personality of the almond in a floral powdery fragrance. The delicate almond accord is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you.",
+    "description": "Infusion d’Amande Eau de Parfum encapsulates the delicate personality of the almond in a floral powdery fragrance. The delicate almond accord is immersed in a signature solution of musks and citrus that recreates the enveloping scent of skin, allowing the personality of the ingredient to fuse with you. Les Infusions are second-skin fragrances that suit you right away and instantly feel like you. The luxurious bottle of Infusion d’Amande is highlighted in a blue-tinted hue, evoking the fusion of the signature ingredient in the fragrance. The tender blue cap in iconic Saffiano symbolizes the delicacy of the almond in the fragrance.",
     "notes": [
       "Bergamot"
     ],
@@ -17283,7 +17283,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Paradigme Eau de Parfum expresses sophistication and avant-garde in an unexpected masculine Ambery Woody scent. Opening a new olfactive paradigm, oscillating between enveloping warmth and exhilarating freshness. The warm sensuality of ambery woods is entwined with a green Bourbon Geranium, uplifted by a fusing Calabrian Bergamot Heart.",
+    "description": "Paradigme Eau de Parfum expresses sophistication and avant-garde in an unexpected masculine Ambery Woody scent. Opening a new olfactive paradigm, oscillating between enveloping warmth and exhilarating freshness. The warm sensuality of ambery woods is entwined with a green Bourbon Geranium, uplifted by a fusing Calabrian Bergamot Heart. ",
     "notes": [
       "Calabrian Bergamot Heart"
     ],
@@ -17469,7 +17469,7 @@
     "brand": "Prada",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "",
+    "description": "Prada Black starts with vivacious notes of Bergamot and Angelica, arriving at the sweetness of Amber Wood passing through the intensity of Coumarin and Patchouli.---Even the completely opaque bottle, where the iconic red line was replaced for the very first time by a black one, denotes the strength and intensity of this new Eau de Parfum.",
     "notes": [
       "Prada Black Starts with Vivacious Notes of Bergamot and Angelica",
       "Arriving At the Sweetness of Amber Wood Passing Through the Intensity of Coumarin and Patchouli.---Even the Completely Opaque Bottle",
@@ -17617,7 +17617,7 @@
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Sweet Woodland EDP mixes top notes of ginger and spicy cognac with base notes of patchouli wood and vanilla for a nature-inspired scent. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: spicy cognac, mandarin, patchouli wood, vanilla, orange flower *Olfactory family: spicy and woody",
+    "description": "Sweet Woodland EDP mixes top notes of ginger and spicy cognac with base notes of patchouli wood and vanilla for a nature-inspired scent. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: spicy cognac, mandarin, patchouli wood, vanilla, orange flower *Olfactory family: spicy and woody ",
     "notes": [
       "Spicy Cognac",
       "Mandarin",
@@ -18593,7 +18593,7 @@
     "name": "ALDEHYDE 44",
     "brand": "Le Labo",
     "gender": null,
-    "description": "ALDEHYDE 44 is only available in Dallas (Texas, that is). The scent is a small wonder ’ a mix of aldehyde overload that gives a unique cleanliness, a sublime floral composition built around narcissus, jasmin, and tuberose (all absolute, in case you wondered), and a bed of musk notes tied with a hint of vanilla. The result is esthetically admirable and unique.",
+    "description": "Available online September 1st through September 30th only. ALDEHYDE 44 is only available in Dallas (Texas, that is). The scent is a small wonder ’ a mix of aldehyde overload that gives a unique cleanliness, a sublime floral composition built around narcissus, jasmin, and tuberose (all absolute, in case you wondered), and a bed of musk notes tied with a hint of vanilla. The result is esthetically admirable and unique.",
     "notes": [
       "Musk",
       "Vanilla",
@@ -18701,7 +18701,7 @@
     "name": "BAIE ROSE 26",
     "brand": "Le Labo",
     "gender": null,
-    "description": "The main story behind this fragrance refers to music ’ jazz music, in particular. There is a direct correlation between the sharp pepper and some of the more upbeat sounds of jazz, and the soft back representing the simpler, soothing side of the music. Either way, the uplifting effect of the music seems to carry you away; the same way the music of the spices (aldehyde and musk playing along with the pink pepper) brings your spirit up.",
+    "description": "Available online September 1st through September 30th only. The main story behind this fragrance refers to music ’ jazz music, in particular. There is a direct correlation between the sharp pepper and some of the more upbeat sounds of jazz, and the soft back representing the simpler, soothing side of the music. Either way, the uplifting effect of the music seems to carry you away; the same way the music of the spices (aldehyde and musk playing along with the pink pepper) brings your spirit up.",
     "notes": [
       "Musk",
       "Pepper"
@@ -18731,7 +18731,7 @@
     "name": "BENJOIN 19",
     "brand": "Le Labo",
     "gender": null,
-    "description": "BENJOIN 19, our Moscow exclusive, is about a moment. A moment depicted by one of the most important writers of all time, Leo Tolstoy, in the eternal Anna Karenina, when Anna meets Count Vronsky in a Moscow train station. BENJOIN 19 is that moment, the moment when everything changes, when your life topples over, when nothing will ever be the same. In Tolstoy's masterpiece, this happens in Moscow, yet what makes Anna Karenina a work of art is its universality: it could have happened anywhere. This is what BENJOIN 19 is ’ a universal tribute to passionate spirits, to those determined to live their lives on their own terms.",
+    "description": "Available online September 1st through September 30th only. BENJOIN 19, our Moscow exclusive, is about a moment. A moment depicted by one of the most important writers of all time, Leo Tolstoy, in the eternal Anna Karenina, when Anna meets Count Vronsky in a Moscow train station. BENJOIN 19 is that moment, the moment when everything changes, when your life topples over, when nothing will ever be the same. In Tolstoy's masterpiece, this happens in Moscow, yet what makes Anna Karenina a work of art is its universality: it could have happened anywhere. This is what BENJOIN 19 is ’ a universal tribute to passionate spirits, to those determined to live their lives on their own terms.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18783,7 +18783,7 @@
     "name": "BIGARADE 18",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Bigarade is quite a scented enigma that somehow manages for strong olfactive clashes to co-exist harmoniously together despite their inherent oppositions. It’s very classical ’ yet isn't. It’s bright and very powerful; you can’t seem to breathe enough of it in’’",
+    "description": "Available online September 1st through September 30th only. Bigarade is quite a scented enigma that somehow manages for strong olfactive clashes to co-exist harmoniously together despite their inherent oppositions. It’s very classical ’ yet isn't. It’s bright and very powerful; you can’t seem to breathe enough of it in’’",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -18807,7 +18807,7 @@
     "name": "CEDRAT 37",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Freeeeeedom! CEDRAT 37 is a delicate balance of cedrat and ginger ’ fresh, acidic, and with an addictive candied sweetness ’ resting on a foundation of sensual Le Labo-ness which often means woods, musks, and a generous note of ambergris.",
+    "description": "Available online September 1st through September 30th only. Freeeeeedom! CEDRAT 37 is a delicate balance of cedrat and ginger ’ fresh, acidic, and with an addictive candied sweetness ’ resting on a foundation of sensual Le Labo-ness which often means woods, musks, and a generous note of ambergris.",
     "notes": [
       "Musk",
       "Ginger"
@@ -18837,7 +18837,7 @@
     "name": "CITRON 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "In the beginning, CITRON 28’s early code name was ’Citron Boheme’; we wanted a real lemon perfume that wasn’t just lemon, but a twist on this icon of citruses. A mix and match of freshness and structure (lemon, ginger, and jasmine, resting on cedar and musk notes), it strikes the right balance between the original and the conservative. CITRON 28 meets the need for purity and simplicity and, as such, delivers something almost universal and easy to understand ’ yet remains inscrutable.",
+    "description": "Available online September 1st through September 30th only. In the beginning, CITRON 28’s early code name was ’Citron Boheme’; we wanted a real lemon perfume that wasn’t just lemon, but a twist on this icon of citruses. A mix and match of freshness and structure (lemon, ginger, and jasmine, resting on cedar and musk notes), it strikes the right balance between the original and the conservative. CITRON 28 meets the need for purity and simplicity and, as such, delivers something almost universal and easy to understand ’ yet remains inscrutable.",
     "notes": [
       "Cedar",
       "Musk",
@@ -18873,7 +18873,7 @@
     "name": "CUIR 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "CUIR 28, our Dubai exclusive, is like a classic motorcycle without the sweat and gasoline ’ blending leather, wood, and musky notes to give it a very powerful, dark, and memorable personality.",
+    "description": "Available online September 1st through September 30th only. CUIR 28, our Dubai exclusive, is like a classic motorcycle without the sweat and gasoline ’ blending leather, wood, and musky notes to give it a very powerful, dark, and memorable personality.",
     "notes": [
       "Leather"
     ],
@@ -18935,7 +18935,7 @@
     "name": "GAIAC 10",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Gaiac is a very hard, greenish wood that isn’t as dry as cedar, but is as subtle, profound, and stable. GAIAC 10 is a tense formula built on gaiac wood and surrounded by musk notes (4 different types in all), with hints of cedar and olibanum (incense).",
+    "description": "Available online September 1st through September 30th only. Gaiac is a very hard, greenish wood that isn’t as dry as cedar, but is as subtle, profound, and stable. GAIAC 10 is a tense formula built on gaiac wood and surrounded by musk notes (4 different types in all), with hints of cedar and olibanum (incense).",
     "notes": [
       "Cedar",
       "Musk",
@@ -19025,7 +19025,7 @@
     "name": "LIMETTE 37",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Don't expect our San Francisco exclusive to be a chilly summer fog essence or the Golden Gate in a bottle. LIMETTE 37's reference to The City is abstract and delves into its olfactive construction that mimics the hilly ride from our Fillmore street store to the bay. You start off with a view, with bergamot's freshness and light, before plunging into the warm and welcoming effects of jasmin, petit grain, and clove that roll into luscious softness with vetiver, tonka beans, and musks...",
+    "description": "Available online September 1st through September 30th only. Don't expect our San Francisco exclusive to be a chilly summer fog essence or the Golden Gate in a bottle. LIMETTE 37's reference to The City is abstract and delves into its olfactive construction that mimics the hilly ride from our Fillmore street store to the bay. You start off with a view, with bergamot's freshness and light, before plunging into the warm and welcoming effects of jasmin, petit grain, and clove that roll into luscious softness with vetiver, tonka beans, and musks...",
     "notes": [
       "Bergamot",
       "Vetiver",
@@ -19093,7 +19093,7 @@
     "name": "MOUSSE DE CHENE 30",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Moss and patchouli are paired with their most incisive synthetic boosters ’ crystal moss and clearwood. Cinnamon, pimento bay oil, and pink pepper spice it up to create timeless elegance that is reassuring yet surprising, tense, and addictive.",
+    "description": "Available online September 1st through September 30th only. Moss and patchouli are paired with their most incisive synthetic boosters ’ crystal moss and clearwood. Cinnamon, pimento bay oil, and pink pepper spice it up to create timeless elegance that is reassuring yet surprising, tense, and addictive.",
     "notes": [
       "Patchouli",
       "Pepper",
@@ -19125,7 +19125,7 @@
     "name": "MUSC 25",
     "brand": "Le Labo",
     "gender": null,
-    "description": "You would ask ’why LA’’ Because angels have to be tempted into the smell of life. MUSC 25 is angelic, very musky, aldehydic, and so intensely luminous that you will need to wear shades to approach it.",
+    "description": "Available online September 1st through September 30th only. You would ask ’why LA’’ Because angels have to be tempted into the smell of life. MUSC 25 is angelic, very musky, aldehydic, and so intensely luminous that you will need to wear shades to approach it.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19149,7 +19149,7 @@
     "name": "MYRRHE 55",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Myrrh, a resin once considered to be so sacred that it was more valuable than gold, is known in Chinese traditional medicine as a ’blood mover.’ It should come as no surprise, then, that MYRRHE 55, Shanghai’s City Exclusive, is a creation that will get your heartbeat thumping.",
+    "description": "Available online September 1st through September 30th only. Myrrh, a resin once considered to be so sacred that it was more valuable than gold, is known in Chinese traditional medicine as a ’blood mover.’ It should come as no surprise, then, that MYRRHE 55, Shanghai’s City Exclusive, is a creation that will get your heartbeat thumping.",
     "notes": [
       "Myrrh"
     ],
@@ -19237,7 +19237,7 @@
     "name": "POIVRE 23",
     "brand": "Le Labo",
     "gender": null,
-    "description": "POIVRE 23 translates into Pepper 23, and it’s Le Labo’s pepper statement. Why pepper’ (And we’re talking true Bourbon Pepper, the crown jewel of peppers.)",
+    "description": "Available online September 1st through September 30th only. POIVRE 23 translates into Pepper 23, and it’s Le Labo’s pepper statement. Why pepper’ (And we’re talking true Bourbon Pepper, the crown jewel of peppers.)",
     "notes": [
       "Pepper"
     ],
@@ -19317,7 +19317,7 @@
     "name": "TABAC 28",
     "brand": "Le Labo",
     "gender": null,
-    "description": "Sometimes a cigar is just a cigar’ And sometimes, it becomes a perfume! Smoky, seductive, alluring ’ TABAC 28 is Miami in a bottle.",
+    "description": "Available online September 1st through September 30th only. Sometimes a cigar is just a cigar’ And sometimes, it becomes a perfume! Smoky, seductive, alluring ’ TABAC 28 is Miami in a bottle.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19421,7 +19421,7 @@
     "name": "TUBEREUSE 40",
     "brand": "Le Labo",
     "gender": null,
-    "description": "TUBEREUSE 40, like most of our scents, barely deserves its name. It is of course full of tuberose (absolute, and nothing less), but what hits you from the start is a wave of bergamot, tangerine, and orange flower that yields that surprising ’eau de cologne’ effect (despite its concentration of 30% which transforms this perfume into an extract).",
+    "description": "Available online September 1st through September 30th only. TUBEREUSE 40, like most of our scents, barely deserves its name. It is of course full of tuberose (absolute, and nothing less), but what hits you from the start is a wave of bergamot, tangerine, and orange flower that yields that surprising ’eau de cologne’ effect (despite its concentration of 30% which transforms this perfume into an extract).",
     "notes": [
       "Bergamot",
       "Tuberose"
@@ -19451,7 +19451,7 @@
     "name": "VANILLE 44",
     "brand": "Le Labo",
     "gender": null,
-    "description": "We all know that Paris is the city of love (and hence sex). But Paris is also the city of VANILLE 44!",
+    "description": "Available online September 1st through September 30th only. We all know that Paris is the city of love (and hence sex). But Paris is also the city of VANILLE 44!",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -19535,7 +19535,7 @@
     "name": "Absolu Aventus",
     "brand": "Creed",
     "gender": null,
-    "description": "Absolu Aventus is the most intense and striking expression of Aventus. The fragrance opens with a precise burst of Calabrian bergamot paired with the signature pineapple accord, immediately commanding attention. Cardamom introduces warmth and tension before giving way to a rich, spiced, smoky trail anchored by labdanum, which creates depth and lasting intensity. Absolu Aventus leaves a distinctive impression: powerful, not by declaration, but by presence. A Testament To Time-Honoured Art Absolu Aventus epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations. A Fragrance Of True Distinction Every step of creating Absolu Aventus reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume. The Aventus Collection Absolu Aventus is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "description": "Absolu Aventus is the most intense and striking expression of Aventus. The fragrance opens with a precise burst of Calabrian bergamot paired with the signature pineapple accord, immediately commanding attention. Cardamom introduces warmth and tension before giving way to a rich, spiced, smoky trail anchored by labdanum, which creates depth and lasting intensity. Absolu Aventus leaves a distinctive impression: powerful, not by declaration, but by presence.\n\nA Testament To Time-Honoured Art\nAbsolu Aventus epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Absolu Aventus reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume.\n\nThe Aventus Collection\nAbsolu Aventus is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
     "notes": [
       "Bergamot",
       "Pineapple",
@@ -19573,7 +19573,7 @@
     "name": "Aventus",
     "brand": "Creed",
     "gender": null,
-    "description": "Aventus is bold and confident: the ultimate olfactive expression that has stood the test of time. The fragrance opens with fresh Calabrian bergamot harmonising effortlessly with a signature pineapple accord for a bright and luminous introduction. As it evolves, smoky, leathery birch brings depth and structure, creating a composition that is both powerful and precisely balanced. A fragrance defined by clarity, confidence and enduring craft, Aventus leaves a refined yet assertive lasting impression. A Signature That Endures Leave your mark with Aventus, a fragrance defined by permanence and resolve since 2010. Born of passion, shaped by savoir-faire and rooted in a deep respect for the finest natural ingredients, Aventus is as an enduring icon from The House of Creed, set against the shifting sands of an ever-changing world. A Fragrance Of True Distinction Every step of creating Aventus reflects The House of Creed's uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, France, ensuring the consistency and integrity of every perfume. Left unfiltered, its full essence is preserved. The Aventus Collection Over the years, Aventus has evolved into a complete collection with the addition of Aventus For Her, Aventus Cologne and Absolu Aventus. Freshness, depth and concentration may vary; occasions, seasons and moments may change; however, the unmistakable imprint of the original creation remains.",
+    "description": "Aventus is bold and confident: the ultimate olfactive expression that has stood the test of time. The fragrance opens with fresh Calabrian bergamot harmonising effortlessly with a signature pineapple accord for a bright and luminous introduction. As it evolves, smoky, leathery birch brings depth and structure, creating a composition that is both powerful and precisely balanced. A fragrance defined by clarity, confidence and enduring craft, Aventus leaves a refined yet assertive lasting impression.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Signature That Endures\nLeave your mark with Aventus, a fragrance defined by permanence and resolve since 2010. Born of passion, shaped by savoir-faire and rooted in a deep respect for the finest natural ingredients, Aventus is as an enduring icon from The House of Creed, set against the shifting sands of an ever-changing world.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus reflects The House of Creed's uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, France, ensuring the consistency and integrity of every perfume. Left unfiltered, its full essence is preserved.\n\nThe Aventus Collection\nOver the years, Aventus has evolved into a complete collection with the addition of Aventus For Her, Aventus Cologne and Absolu Aventus. Freshness, depth and concentration may vary; occasions, seasons and moments may change; however, the unmistakable imprint of the original creation remains.",
     "notes": [
       "Bergamot",
       "Pineapple",
@@ -19609,7 +19609,7 @@
     "name": "Green Irish Tweed",
     "brand": "Creed",
     "gender": null,
-    "description": "Inspired by The House of Creed's rich couturier legacy, Green Irish Tweed Eau de Parfum is a precision-crafted fougère as timeless as a sharp tailored suit that masterfully weaves together fresh and aromatic notes. Conjuring verdant scenes, this classic gentleman's fragrance opens with refreshing notes of bergamot and lemon, cooled by a breath of invigorating peppermint. Layers of fresh geranium are pitched against soothing lavender, while earthy oakmoss and woods entwine at the base, leaving a unique arboreal impression. A Millésime Creation Green Irish Tweed is a fragrance of \"Millésime\"quality, a French term from the wine industry that denotes a great vintage. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the layers of fresh lavender at its heart to the crisp oakmoss at its base. It also evokes a sense of refinement, reinforcing the fragrance's enduring appeal. An Ode To The Great Outdoors Green Irish Tweed was inspired by the lush greenery of the Emerald Isle while also honouring the house's historical ties to Linton Tweed Mills in the Cumbrian countryside. With notes that conjure the earthy tones of hand-woven yarns, it encapsulates the connection between nature and craftsmanship.",
+    "description": "Inspired by The House of Creed's rich couturier legacy, Green Irish Tweed Eau de Parfum is a precision-crafted fougère as timeless as a sharp tailored suit that masterfully weaves together fresh and aromatic notes. Conjuring verdant scenes, this classic gentleman's fragrance opens with refreshing notes of bergamot and lemon, cooled by a breath of invigorating peppermint. Layers of fresh geranium are pitched against soothing lavender, while earthy oakmoss and woods entwine at the base, leaving a unique arboreal impression.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before.\n\nA Millésime Creation\nGreen Irish Tweed is a fragrance of \"Millésime\"quality, a French term from the wine industry that denotes a great vintage. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the layers of fresh lavender at its heart to the crisp oakmoss at its base.\n\nA Refined Design\nGreen Irish Tweed is housed in The House of Creed's signature bottle that traces the shape of a classic gentleman's hip flask. The deep, almost blackened green bottle mirrors the fresh and natural composition within. It also evokes a sense of refinement, reinforcing the fragrance's enduring appeal.\n\nAn Ode To The Great Outdoors\nGreen Irish Tweed was inspired by the lush greenery of the Emerald Isle while also honouring the house's historical ties to Linton Tweed Mills in the Cumbrian countryside. With notes that conjure the earthy tones of hand-woven yarns, it encapsulates the connection between nature and craftsmanship.",
     "notes": [
       "Bergamot",
       "Lemon",
@@ -19653,7 +19653,7 @@
     "name": "Eladaria",
     "brand": "Creed",
     "gender": null,
-    "description": "Discover Eladaria, an enchanting floral rose fragrance from The House of Creed that blooms with modernity. Capturing a dreamlike garden reawakening in the silvery mist of dawn, it opens with radiant and refreshing mandarin, gently warmed by the soft spice of pink pepper. As the fragrance blossoms, a trilogy of rose unfolds at its heart, dancing with delicate peony and lily of the valley, before settling into a sumptuous base of cashmere wood, vanilla and musk. This luxurious layer lends a subtle sweetness and grounding warmth, surrounding the wearer with enduring sensuality. A Millésime Creation Eladaria is a fragrance of “Millésime” quality, a French wine term that translates to “a great vintage”. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the vibrant mandarin in its debut to the trilogy of roses that bloom at its heart. The design is both feminine and enchanting in a gentle petal pink hue that echoes the modern floral rose perfume contained within. A Modern Expression Of Rose Eladaria is a modern rose fragrance that defies convention, with a plush bouquet blossoming alongside the brightness of radiant citrus and the allure of sensual musk. This multi-faceted impression masterfully embodies modern femininity with its characteristic depth and complexity. &nbsp;",
+    "description": "Discover Eladaria, an enchanting floral rose fragrance from The House of Creed that blooms with modernity. Capturing a dreamlike garden reawakening in the silvery mist of dawn, it opens with radiant and refreshing mandarin, gently warmed by the soft spice of pink pepper. As the fragrance blossoms, a trilogy of rose unfolds at its heart, dancing with delicate peony and lily of the valley, before settling into a sumptuous base of cashmere wood, vanilla and musk. This luxurious layer lends a subtle sweetness and grounding warmth, surrounding the wearer with enduring sensuality.\nA Millésime Creation Eladaria is a fragrance of “Millésime” quality, a French wine term that translates to “a great vintage”. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from the vibrant mandarin in its debut to the trilogy of roses that bloom at its heart.\n\nAn Elegant Design Eladaria is presented in the signature perfume bottle of The House of Creed, a timeless symbol of elegance that traces the shape of a classic hip flask. The design is both feminine and enchanting in a gentle petal pink hue that echoes the modern floral rose perfume contained within.\nA Modern Expression Of Rose Eladaria is a modern rose fragrance that defies convention, with a plush bouquet blossoming alongside the brightness of radiant citrus and the allure of sensual musk. This multi-faceted impression masterfully embodies modern femininity with its characteristic depth and complexity.\n\n\n &nbsp;",
     "notes": [
       "Mandarin",
       "Pink Pepper",
@@ -19699,7 +19699,7 @@
     "name": "Aventus For Her",
     "brand": "Creed",
     "gender": null,
-    "description": "Aventus For Her is empowering and radiant: a confident expression of modern individuality defined by elegance and distinction. It opens with luminous Sicilian lemon, offering a fresh, vivid brightness. At the heart, alluring Bulgarian rose unfolds with grace and depth, bringing balance and refinement to the composition. As the fragrance settles, grounding patchouli introduces a rich, woody touch, creating a smooth, structured trail that lingers on the skin. Refined yet assertive, Aventus For Her leaves a lasting impression: a fragrance of presence, elegance and timeless confidence. A Testament To Time-Honoured Art Aventus For Her epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations. A Fragrance Of True Distinction Every step of creating Aventus For Her reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume. The Aventus Collection Aventus For Her is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "description": "Aventus For Her is empowering and radiant: a confident expression of modern individuality defined by elegance and distinction. It opens with luminous Sicilian lemon, offering a fresh, vivid brightness. At the heart, alluring Bulgarian rose unfolds with grace and depth, bringing balance and refinement to the composition. As the fragrance settles, grounding patchouli introduces a rich, woody touch, creating a smooth, structured trail that lingers on the skin. Refined yet assertive, Aventus For Her leaves a lasting impression: a fragrance of presence, elegance and timeless confidence.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Testament To Time-Honoured Art\nAventus For Her epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus For Her reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume.\n\nThe Aventus Collection\nAventus For Her is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
     "notes": [
       "Lemon",
       "Rose",
@@ -19735,7 +19735,7 @@
     "name": "Queen Of Silk",
     "brand": "Creed",
     "gender": null,
-    "description": "Queen of Silk emerges as a captivating new fragrance for women from The House of Creed embodying the opulent lustre and ethereal softness of silk, a precious fabric treasured since time immemorial for its beauty and delicate touch. This spellbinding Eau de Parfum gently embraces the skin, leaving an enchanted trail in the air that shimmers with luminous energy. Transporting you to the distant lands through which this ancient treasure once journeyed, Queen of Silk weaves together sublime Chinese osmanthus, decadent tuberose and ethereal Javanese patchouli. These heady notes dance over complex cedar, agarwood and smoulderingly soft Madagascan vanilla in a lingering, sensual testament to timeless refinement. A Treasured Symbol of Elegance Queen of Silk embodies the richness and allure of silk, a symbol of luxury both then and now. Coveted since time immemorial, silk's rich colours and ethereal lightness cast a spell on all those who encounter it, leaving a trail of sensual allure that captivates the senses. &nbsp; Exotic Fruit with Soft Woods Queen of Silk weaves sublime Chinese osmanthus with a seductively light and modern tuberose, infused with a lusciously tart passionfruit. Ethereal Javanese patchouli drifts through deep, dry woods of cedar and agar, creating gentle undulations that merge seamlessly into the addictive softness of Madagascan vanilla and smouldering ambers.",
+    "description": "Queen of Silk emerges as a captivating new fragrance for women from The House of Creed embodying the opulent lustre and ethereal softness of silk, a precious fabric treasured since time immemorial for its beauty and delicate touch. This spellbinding Eau de Parfum gently embraces the skin, leaving an enchanted trail in the air that shimmers with luminous energy. Transporting you to the distant lands through which this ancient treasure once journeyed, Queen of Silk weaves together sublime Chinese osmanthus, decadent tuberose and ethereal Javanese patchouli. These heady notes dance over complex cedar, agarwood and smoulderingly soft Madagascan vanilla in a lingering, sensual testament to timeless refinement.\n\nA Noble Passion Queen of Silk is presented in The House of Creed signature bottle, in a rich purple hue that honours the treasured purple silks once reserved for the highest echelons of the nobility - a fitting colour for this most majestic of perfumes.\n\nA Treasured Symbol of Elegance Queen of Silk embodies the richness and allure of silk, a symbol of luxury both then and now. Coveted since time immemorial, silk's rich colours and ethereal lightness cast a spell on all those who encounter it, leaving a trail of sensual allure that captivates the senses.\n\n&nbsp;\nExotic Fruit with Soft Woods Queen of Silk weaves sublime Chinese osmanthus with a seductively light and modern tuberose, infused with a lusciously tart passionfruit. Ethereal Javanese patchouli drifts through deep, dry woods of cedar and agar, creating gentle undulations that merge seamlessly into the addictive softness of Madagascan vanilla and smouldering ambers.",
     "notes": [
       "Osmanthus",
       "Tuberose",
@@ -19781,7 +19781,7 @@
     "name": "Wild Vetiver",
     "brand": "Creed",
     "gender": null,
-    "description": "Experience untamed elegance with a vetiver expression inspired by an English garden party wandering into the wild. Wild Vetiver is a fragrance off the beaten path, walking the line between precise refinement and nature. Born from noble roots yet spirited in its freedom, this sculpted composition reveals a vibrant tension between sophistication and wilderness. Opening with the spiced vibrancy of hand-harvested timur berry, the heart unfolds as rose centifolia rambles freely. At the base, vetiver casts a woody trail, grounding the composition with modern elegance. This is an enchanting journey through an aristocratic garden, where halcyon moments and the joy of missing out drift through the air. Flushed in a verdant green hue inspired by nature’s exuberance, it invites you to venture beyond the half-opened garden gates. &nbsp; Journey Through An Aristocratic Garden Be transported to a scene where halcyon moments unfold and the senses awaken wildly. Wander barefoot through the grass. On the picnic blanket, wit sharpens, and the art of conversation rules. Nothing and everything matters. Minutes and hours flow effortlessly, like elegance itself.",
+    "description": "Experience untamed elegance with a vetiver expression inspired by an English garden party wandering into the wild. Wild Vetiver is a fragrance off the beaten path, walking the line between precise refinement and nature. Born from noble roots yet spirited in its freedom, this sculpted composition reveals a vibrant tension between sophistication and wilderness. Opening with the spiced vibrancy of hand-harvested timur berry, the heart unfolds as rose centifolia rambles freely. At the base, vetiver casts a woody trail, grounding the composition with modern elegance. This is an enchanting journey through an aristocratic garden, where halcyon moments and the joy of missing out drift through the air.\n\nA Statement Of Individuality\nWild Vetiver is presented in the signature fragrance bottle of The House of Creed that traces the shape of a classic hip flask. Flushed in a verdant green hue inspired by nature’s exuberance, it invites you to venture beyond the half-opened garden gates.\n\n&nbsp;\nJourney Through An Aristocratic Garden\nBe transported to a scene where halcyon moments unfold and the senses awaken wildly. Wander barefoot through the grass. On the picnic blanket, wit sharpens, and the art of conversation rules. Nothing and everything matters. Minutes and hours flow effortlessly, like elegance itself.",
     "notes": [
       "Timur Berry",
       "Rose",
@@ -19817,7 +19817,7 @@
     "name": " Iris Debonair ",
     "brand": "Creed",
     "gender": null,
-    "description": "Unlock Iris Debonair, an addictive fougère floral capturing the allure of an aesthete's domain, where every room reveals an intentional art of living. Opening with a luminous stroke of bergamot co-infused with absinthe leaves, at the heart, crisp English lavender unfolds with cool, aromatic clarity. French iris pallida, suffused in pale blue, is magnetic and among perfumery's most precious materials.",
+    "description": "Unlock Iris Debonair, an addictive fougère floral capturing the allure of an aesthete's domain, where every room reveals an intentional art of living. Opening with a luminous stroke of bergamot co-infused with absinthe leaves, at the heart, crisp English lavender unfolds with cool, aromatic clarity. French iris pallida, suffused in pale blue, is magnetic and among perfumery's most precious materials.\nHow To Use: Apply Iris Debonair to clean, dry skin, focusing on pulse points such as the wrists, neck inner elbows and behind the ears for optimal diffusion. Use two to four sprays, or as desired, for a balanced and refined sillage.\n\nUnlock The Composition\nCharm is unlocked instantly through the British-French duality of ingredients, with crisp English lavender and alluring French iris pallida joining Creed’s distinguished palette of raw materials while echoing the very origins of the House. Both of exceptional provenance and cultivated with precision and patience, together they enrich the Maison’s Art of Millésime.\n\nA Cultivated Name\nThe name, “Iris Debonair”, spoken with a French accent, also reflects the House’s living British-French heritage. Born from the old French expression “de bon air”, meaning “of good disposition and lineage”, this term refers to someone captivating and quietly confident who needs no validation, just like the cultivated aesthetes who originally inspired this creation.\n\nDressing The Debonair\nDressed in soft grey tones infused with blue, Iris Debonair is presented in the House’s iconic bottle that traces the silhouette of a classic gentleman’s hip flask. These carefully chosen hues pay homage to the signature shades of visionary fashion designer and fifth generation of the Creed family, Charles Creed, who anticipated casual chic decades before its time.",
     "notes": [
       "Bergamot",
       "Absinthe Leaves",
@@ -19855,7 +19855,7 @@
     "name": "Aventus Cologne",
     "brand": "Creed",
     "gender": null,
-    "description": "Aventus Cologne is fresh, confident and contemporary: a modern expression of the Aventus signature. The fragrance opens with vibrant Calabrian bergamot, delivering an immediate burst of citrus freshness. At the heart, crisp ginger introduces a refined aromatic energy, adding brightness and contrast. As this settles, a smooth musk accord emerges, forming a clean base with a trail that is both light and assured. Effortless, modern and enduring, Aventus Cologne offers a fresh interpretation of confidence that leaves a mark. A Testament To Time-Honoured Art Aventus Cologne epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations. A Fragrance Of True Distinction Every step of creating Aventus Cologne reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume The Aventus Collection Aventus Cologne is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
+    "description": "Aventus Cologne is fresh, confident and contemporary: a modern expression of the Aventus signature. The fragrance opens with vibrant Calabrian bergamot, delivering an immediate burst of citrus freshness. At the heart, crisp ginger introduces a refined aromatic energy, adding brightness and contrast. As this settles, a smooth musk accord emerges, forming a clean base with a trail that is both light and assured. Effortless, modern and enduring, Aventus Cologne offers a fresh interpretation of confidence that leaves a mark.\nThe House of Creed is currently refining its packaging as part of its ongoing commitment to artisanal excellence. During this transition, some variations in packaging may occur; however, please be assured that each bottle contains the same exquisite formula as always.\n\nA Testament To Time-Honoured Art\nAventus Cologne epitomises Creed’s ever-living craftsmanship and time-honoured processes. From ingredient sourcing with local producers known for over fifty years, to privileged access to harvests and meticulous batch selection, this is a fragrance born of creative intuition shaped across generations.\n\nA Fragrance Of True Distinction\nEvery step of creating Aventus Cologne reflects the House’s uncompromising standards and Art of Millésime. Each batch is hand-mixed, macerated and matured in Creed’s facilities in Ury, near the Château de Fontainebleau in France, ensuring the consistency and integrity of every perfume\n\nThe Aventus Collection\nAventus Cologne is part of the Aventus collection, crafted with passion, shaped by savoir-faire and rooted in a deep respect for the finest ingredients. Each of its four fragrances is unique and distinctive while bearing the unmistakable imprint of the original and leaving a trail meant to be remembered.",
     "notes": [
       "Bergamot",
       "Ginger",
@@ -19891,7 +19891,7 @@
     "name": "Silver Mountain Water",
     "brand": "Creed",
     "gender": null,
-    "description": "Experience the exhilarating freshness of Silver Mountain Water, a clean and contemporary classic from The House of Creed crafted to perfection for the modern minimalist. Inspired byá the Alps, this Eau de Parfum opens with a bright burst of bergamot and blacákcurrant, reminiscent of an invigorating breath of mountain air, before unfolding to a heart of tea and a crisp ozonic accord. Meanwhile, base notes of sandalwood and musk are revealed, grounding the fragrance and enveloping the wearer with lasting warmth and sensuality. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from its bracing breeze of opening citrus notes to the grounding musk at its base. Its bright white hue mirrors the minimalist nature of the fragrance contained within while paying tribute to the snow-covered peaks that inspired it. The Ultimate Alpine Essence Silver Mountain Water brings to life the extensive and pristine beauty of the breathtaking Alps. With a masterful blend of sharp citrus notes, it instantly conjures the exhilarating crispness of high-altitude air and the purity of icy streams coursing through snow-capped mountains.",
+    "description": "Experience the exhilarating freshness of Silver Mountain Water, a clean and contemporary classic from The House of Creed crafted to perfection for the modern minimalist. Inspired byá the Alps, this Eau de Parfum opens with a bright burst of bergamot and blacákcurrant, reminiscent of an invigorating breath of mountain air, before unfolding to a heart of tea and a crisp ozonic accord. Meanwhile, base notes of sandalwood and musk are revealed, grounding the fragrance and enveloping the wearer with lasting warmth and sensuality.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before\n\nA Millésime Creation Silver Mountain Water is a fragrance of “Millésime” quality, a French wine term that translates to “a great vintage”. This hallmark of excellence means it has been hand-crafted using only the finest ingredients, from its bracing breeze of opening citrus notes to the grounding musk at its base.\n\nA Clean Design Silver Mountain Water is presented in the signature fragrance bottle of The House of Creed that traces the shape of a classic gentleman’s hip flask. Its bright white hue mirrors the minimalist nature of the fragrance contained within while paying tribute to the snow-covered peaks that inspired it.\n\nThe Ultimate Alpine Essence Silver Mountain Water brings to life the extensive and pristine beauty of the breathtaking Alps. With a masterful blend of sharp citrus notes, it instantly conjures the exhilarating crispness of high-altitude air and the purity of icy streams coursing through snow-capped mountains.",
     "notes": [
       "Bergamot",
       "Blackcurrant",
@@ -19933,7 +19933,7 @@
     "name": "Carmina",
     "brand": "Creed",
     "gender": null,
-    "description": "Floral Amber, Woody, Musk. Carmina is a sensual celebration of feminine allure, captured through exquisite Rose de Mai and luxurious cashmere wood, smouldering over a seductive base of amber and musk. Inspired by the haute couture fashion sketches of Henry Creed that were discovered within our original Paris maison, Carmina recreates the sumptuous swirls and undulating cascades of these virtuoso designs in an intoxicating new scent for modern women. Opening with the sultry seduction of plump black cherry and the soft spice of saffron which bloom into the delicate femininity of exquisite Rose de Mai, warmed by indulgent cashmere wood, cushioned by a sensual base composed of amber and precious myrrh. With a name that hints at the rich and decadent colours long associated with haute couture Carmina is a shimmering evocation of the House's abiding connection to the world of fashion and clad in a modern raspberry hue with flecks of muted rose.",
+    "description": "Floral Amber, Woody, Musk. Carmina is a sensual celebration of feminine allure, captured through exquisite Rose de Mai and luxurious cashmere wood, smouldering over a seductive base of amber and musk.\n\nInspired by the haute couture fashion sketches of Henry Creed that were discovered within our original Paris maison, Carmina recreates the sumptuous swirls and undulating cascades of these virtuoso designs in an intoxicating new scent for modern women.\n\nOpening with the sultry seduction of plump black cherry and the soft spice of saffron which bloom into the delicate femininity of exquisite Rose de Mai, warmed by indulgent cashmere wood, cushioned by a sensual base composed of amber and precious myrrh.\n\nWith a name that hints at the rich and decadent colours long associated with haute couture Carmina is a shimmering evocation of the House's abiding connection to the world of fashion and clad in a modern raspberry hue with flecks of muted rose.",
     "notes": [
       "Black Cherry",
       "Saffron",
@@ -19977,7 +19977,7 @@
     "name": "Oud Zarian",
     "brand": "Creed",
     "gender": null,
-    "description": "Enter a rarefied realm with an unparalleled oud masterpiece from The House of Creed, exquisitely crafted using some of nature's most elusive gifts. Oud Zarian unfurls with a spellbinding air of mystique brought by resinous and resplendent frankincense intertwined with a warming spice accord. This soon drifts away to reveal a radiant heart of rare Rose Centifolia blooming atop a base of creamy sandalwood, patchouli and myrrh. Crowned with the most precious 80-year-aged Oud Choron that bestows an unmatched aromatic intensity and woody depth, this is more than just a fragrance; it is a testament to patience and the pursuit of perfection. The Finest Expression Of Oud At the soul of Oud Zarian lies Oud Choron, the most treasured 80-year-aged oud, harvested from the heart of Aquilaria trees deep in the Sylhet forests. Prized for its quality and scarcity, this unequalled oud lends a velvety, resinous depth and complexity to Oud Zarian that is nothing short of exceptional. A Celebration Of Rarity It is not just the highest quality oud that makes Oud Zarian so extraordinary; it is its pairing with other sought-after ingredients, above all the Rose Centifolia that blossoms at its heart. The harvest of this plush bloom is so fleeting - a mere three weeks in May at dawn - that its essence is unrivalled in its rarity. A Tribute To True Craftsmanship With a rich heritage of craftsmanship dating back to 1760, The House of Creed has come together with Jalali oud cultivators who share its profound respect for artisanal customs that have transcended time. The result is a fragrance that honours the quiet work of generations driven by a quest for perfection.",
+    "description": "Enter a rarefied realm with an unparalleled oud masterpiece from The House of Creed, exquisitely crafted using some of nature's most elusive gifts. Oud Zarian unfurls with a spellbinding air of mystique brought by resinous and resplendent frankincense intertwined with a warming spice accord. This soon drifts away to reveal a radiant heart of rare Rose Centifolia blooming atop a base of creamy sandalwood, patchouli and myrrh. Crowned with the most precious 80-year-aged Oud Choron that bestows an unmatched aromatic intensity and woody depth, this is more than just a fragrance; it is a testament to patience and the pursuit of perfection.\n\nThe Finest Expression Of Oud\nAt the soul of Oud Zarian lies Oud Choron, the most treasured 80-year-aged oud, harvested from the heart of Aquilaria trees deep in the Sylhet forests. Prized for its quality and scarcity, this unequalled oud lends a velvety, resinous depth and complexity to Oud Zarian that is nothing short of exceptional.\n\nA Celebration Of Rarity\nIt is not just the highest quality oud that makes Oud Zarian so extraordinary; it is its pairing with other sought-after ingredients, above all the Rose Centifolia that blossoms at its heart. The harvest of this plush bloom is so fleeting - a mere three weeks in May at dawn - that its essence is unrivalled in its rarity.\n\nA Tribute To True Craftsmanship\nWith a rich heritage of craftsmanship dating back to 1760, The House of Creed has come together with Jalali oud cultivators who share its profound respect for artisanal customs that have transcended time. The result is a fragrance that honours the quiet work of generations driven by a quest for perfection.",
     "notes": [
       "Frankincense",
       "Spice Accord",
@@ -20021,7 +20021,7 @@
     "name": "Original Vetiver",
     "brand": "Creed",
     "gender": null,
-    "description": "Original Vetiver offers a fresh and timeless interpretation of vetiver, defined by character and clarity. Green, refined and distinctly contemporary, the composition delivers a universal freshness. Crisp, invigorating lemon lifts the senses, balanced by verdant aromatic greenery. Spicy ginger and gentle musk introduce warmth beneath the freshness, forming a balanced structure that is both effortless and impeccably clean, as the vibrant, classic character of vetiver anchors the base. A sophisticated everyday signature, Original Vetiver combines the clarity of a modern cologne with the depth of a classic vetiver, resulting in an original and timeless expression. Cloaked in a vibrant green hue, its façade echoes the crisp, natural notes contained within. A Celebration Of Vetiver Original Vetiver is a tribute to vetiver, an ingredient rich in history and revered in The House of Creed’s creations for generations. Slowly distilled, this distinguished essence lends the fragrance a layered complexity and an unmatched green, woody sophistication.",
+    "description": "Original Vetiver offers a fresh and timeless interpretation of vetiver, defined by character and clarity. Green, refined and distinctly contemporary, the composition delivers a universal freshness. Crisp, invigorating lemon lifts the senses, balanced by verdant aromatic greenery. Spicy ginger and gentle musk introduce warmth beneath the freshness, forming a balanced structure that is both effortless and impeccably clean, as the vibrant, classic character of vetiver anchors the base. A sophisticated everyday signature, Original Vetiver combines the clarity of a modern cologne with the depth of a classic vetiver, resulting in an original and timeless expression.\nNew packaging: We are currently upgrading our packaging as part of our commitment to artisanal excellence. If you receive slightly different packaging to that shown while we go through this transition, please rest assured that the bottle contains the same exquisite formula as before.\n\nEncased In Green\nOriginal Vetiver is presented in the signature fragrance bottle of The House of Creed, a timeless symbol of aristocratic refinement that traces the shape of a classic hip flask. Cloaked in a vibrant green hue, its façade echoes the crisp, natural notes contained within.\n\nA Celebration Of Vetiver\nOriginal Vetiver is a tribute to vetiver, an ingredient rich in history and revered in The House of Creed’s creations for generations. Slowly distilled, this distinguished essence lends the fragrance a layered complexity and an unmatched green, woody sophistication.",
     "notes": [
       "Lemon",
       "Ginger",
@@ -20059,7 +20059,7 @@
     "name": "Blanche Absolu",
     "brand": "Byredo",
     "gender": null,
-    "description": "사랑과 친밀함, 살결의 향기, 신선한 린넨의 부드러움이 녹아드는 새로운 차원의 강렬함, 블랑쉬 앱솔뤼 드 퍼퓸. 앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로 구성됩니다. 기존 블랑쉬 오 드 퍼퓸의 시그니처 노트를 증폭시킨 앱솔뤼 드 퍼퓸은 각각의 노트를 새롭게 해석하며 순수함과 따스함의 대조를 보여줍니다. 향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다. 단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "description": "사랑과 친밀함, 살결의 향기, 신선한 린넨의 부드러움이 녹아드는 새로운 차원의\n강렬함, 블랑쉬 앱솔뤼 드 퍼퓸.\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로\n구성됩니다.\n기존 블랑쉬 오 드 퍼퓸의 시그니처 노트를 증폭시킨 앱솔뤼 드 퍼퓸은 각각의\n노트를 새롭게 해석하며 순수함과 따스함의 대조를 보여줍니다. \n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은\n목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과\n앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은\n유지하면서도 인더스트리얼한 요소를 가미해\n바이레도의 고심과 밸런스를 반영합니다.\r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20081,7 +20081,7 @@
     "name": "Rose Of No Man's Land  ",
     "brand": "Byredo",
     "gender": null,
-    "description": "로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로, 이타적이고도 헌신적이었던 그들에 대한 찬사를 담아낸 향수입니다.",
+    "description": "로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로,  이타적이고도 헌신적이었던 그들에 대한 찬사를 담아낸 향수입니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20103,7 +20103,7 @@
     "name": "MG Absolu",
     "brand": "Byredo",
     "gender": null,
-    "description": "모하비 고스트의 반항적인 정신을 더욱 풍부한 깊이와 매력으로 구현한 모하비 고스트 앱솔뤼 오 드 퍼퓸 앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하여 응축된 포뮬러로 구성됩니다. 향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다. 기존 모하비 고스트 오 드 퍼퓸의 아이코닉한 노트를 강렬하게 재해석한 앱솔뤼 오 드 퍼퓸은 각각의 노트를 매혹적으로 강조하며 한층 더 강회된 잔향을 자랑합니다. 단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "description": "모하비 고스트의 반항적인 정신을 더욱 풍부한 깊이와 매력으로 구현한 모하비 고스트 앱솔뤼 오 드 퍼퓸\r\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하여 응축된 포뮬러로 구성됩니다.\n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다.\r\n기존 모하비 고스트 오 드 퍼퓸의 아이코닉한 노트를 강렬하게 재해석한 앱솔뤼 오 드 퍼퓸은 각각의 노트를 매혹적으로 강조하며 한층 더 강회된 잔향을 자랑합니다.\r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20125,7 +20125,7 @@
     "name": "Desert Dawn",
     "brand": "Byredo",
     "gender": null,
-    "description": "새벽녘 첫 햇살의 따스함과 사막의 뜨거운 열기를 닮은 데저트 던 오 드 퍼퓸 우디 올팩티브 패밀리 (Woody olfactive family)의 새로운 대표작이 될 데저트 던 오 드 퍼퓸은 창조적인 대자연에 대한 찬사입니다. 새로운 것의 신선함에서 균형을 찾은 이 향은 매혹적으로 달콤한 카다멈으로 시작해 샌달우드와 시더우드의 따뜻함으로 이어지며 베티버, 실크 머스크, 깨끗한 파피루스의 향기로 매력적인 잔향이 지속되는 생동감을 더합니다.",
+    "description": "새벽녘 첫 햇살의 따스함과 사막의 뜨거운 열기를 닮은 데저트 던 오 드 퍼퓸\r\n우디 올팩티브 패밀리 (Woody olfactive family)의 새로운 대표작이 될 데저트 던 오 드 퍼퓸은 창조적인 대자연에 대한 찬사입니다.\r\n새로운 것의 신선함에서 균형을 찾은 이 향은 매혹적으로 달콤한 카다멈으로 시작해 샌달우드와 시더우드의 따뜻함으로 이어지며 베티버, 실크 머스크, 깨끗한 파피루스의 향기로 매력적인 잔향이 지속되는 생동감을 더합니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20147,7 +20147,7 @@
     "name": "Black Saffron Absolu",
     "brand": "Byredo",
     "gender": null,
-    "description": "Inspired by the sacred and transformative symbolism of saffron, Black Saffron Absolu de Parfum honours the precious spice’s enduring legacy, embodying an ever evolving red thread between cultural heritage and modern identity. The Absolu de Parfum amplifies the fragrance’s mystical warmth, revealing more opulent spicy and leathery facets. Vibrant nutmeg and juicy blackcurrant introduce a bright, dynamic opening, which softens into a lush floral heart. At the base, bold notes of black leather, incense, patchouli, and agarwood bring depth, offering a richer, more addictive expression of Black Saffron’s signature.",
+    "description": "Inspired by the sacred and transformative symbolism of saffron, Black Saffron Absolu de Parfum honours the precious spice’s enduring legacy, embodying an ever evolving red thread between cultural heritage and modern identity.\n\nThe Absolu de Parfum amplifies the fragrance’s mystical warmth, revealing more opulent spicy and leathery facets. Vibrant nutmeg and juicy blackcurrant introduce a bright, dynamic opening, which softens into a lush floral heart. At the base, bold notes of black leather, incense, patchouli, and agarwood bring depth, offering a richer, more addictive expression of Black Saffron’s signature. \n\nBeyond the fragrance, the homage to craftsmanship is reflected in the newly redesigned Absolu de Parfum bottle. The textured cap, inspired by Yakisugi, the Japanese art of charring wood, embodies the deep intensity, transformation, and enduring strength that mirrors the essence of the Absolu. The silver and gold atomizer spray, with its industrial edge, complements the bottle’s elemental design and the clean curves of the glass. Within the bottle, the hue of the Absolu de Parfum is intensified, offering a visual hint at the rich concentration of fragrance inside.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20169,7 +20169,7 @@
     "name": "Mumbai Noise",
     "brand": "Byredo",
     "gender": null,
-    "description": "벤 고햄의 기억 속에 각인된 뭄바이의 감각적인 대중들, 그리고 다면적인 현대성에 대한 찬사를 표현한 뭄바이 노이즈 오 드 퍼퓸. 풍부하고 따뜻한 나무와 화사한 앰버, 자두의 향을 담은 다바나와 레더, 진한 커피와 뒤섞인 달콤한 통카 빈과 같이 대비로 가득한 이 향은 쳄부르 거리 속 인센스 향과 커피 가판대가 공존하는 불협화음을 매혹적으로 그려냅니다.",
+    "description": "벤 고햄의 기억 속에 각인된 뭄바이의 감각적인 대중들, \n그리고 다면적인 현대성에 대한 찬사를 표현한 뭄바이 노이즈 오 드 퍼퓸.\r\n풍부하고 따뜻한 나무와 화사한 앰버, 자두의 향을 담은 다바나와 레더, \n진한 커피와 뒤섞인 달콤한 통카 빈과 같이 대비로 가득한 이 향은\n쳄부르 거리 속 인센스 향과 커피 가판대가 공존하는 불협화음을 매혹적으로 그려냅니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20191,7 +20191,7 @@
     "name": "De Los Santos",
     "brand": "Byredo",
     "gender": null,
-    "description": "모두가 한 마음으로 추모의 의식을 치루는 멕시코 '죽은 자들의 날(Día de los Muertos)', 그리고 스페인 '올 세인츠 데이(Al Saints' Day)'의 대한 오마주로 탄생한 데 로스 산토스 오 드 퍼퓸. 삶과 죽음, 그리고 남겨진 자들의 기억과 망각을 표현한 이 향은 세이지의 선명함이 곁든 향긋한 머스크의 구름 위로 앰버의 화려함, 아이리스 루트와 미라벨 자두",
+    "description": "모두가 한 마음으로 추모의 의식을 치루는 멕시코 '죽은 자들의 날(Día de los Muertos)', \n그리고 스페인 '올 세인츠 데이(Al Saints' Day)'의 대한 오마주로 탄생한 데 로스 산토스 오 드 퍼퓸. \r\n삶과 죽음, 그리고 남겨진 자들의 기억과 망각을 표현한 이 향은 세이지의 선명함이 곁든 향긋한 머스크의 구름 위로 앰버의 화려함, 아이리스 루트와 미라벨 자두",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20213,7 +20213,7 @@
     "name": "Rose of No Man's Land Absolu de Parfum",
     "brand": "Byredo",
     "gender": null,
-    "description": "험난한 땅위에 짙고 우아하게 피어나는 장미에 대한 경의, 로즈 오브 노 맨즈 랜드 앱솔뤼 드 퍼퓸 앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로 구성됩니다. 로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로, 이타적이고도 헌신적이었던 그들에 대한 찬사를 담은 향입니다. 기존 로즈 오브 노 맨즈 랜드 오 드 퍼퓸을 재해석한 앱솔뤼 드 퍼퓸은 더욱 화려하고 스모키한 강렬함을 더했습니다. 향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다. 단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
+    "description": "험난한 땅위에 짙고 우아하게 피어나는 장미에 대한 경의, 로즈 오브 노 맨즈 랜드 앱솔뤼 드 퍼퓸\r\n앱솔뤼 시리즈는 기존 재료들을 새롭게 추출하여 강렬하고 응축된 포뮬러로 구성됩니다.\r\n로즈 오브 노 맨즈 랜드는 세계대전 당시 수천 명의 목숨을 구했던 간호사들을 일컫던 말로, 이타적이고도 헌신적이었던 그들에 대한 찬사를 담은 향입니다. 기존 로즈 오브 노 맨즈 랜드 오 드 퍼퓸을 재해석한 앱솔뤼 드 퍼퓸은 더욱 화려하고 스모키한 강렬함을 더했습니다.\r\n향의 예술성을 강화하기 위해 탄생한 모던하고 세련된 뉴 보틀 디자인은 목공예에서 영감을 받아 완성된 모던한 블랙 컬러의 캡과 앤티크 골드 &amp; 실버 링이 추가되며 기존 바이레도의 아이코닉 원형 보틀은 유지하면서도 인더스트리얼한 요소를 가미해 바이레도의 고심과 밸런스를 반영합니다. \r\n단순한 향을 넘어, 향기가 전달하는 그 이야기의 감각적인 여정에 초대합니다.",
     "notes": [],
     "noteGroups": {
       "top": [],
@@ -20230,4 +20230,4 @@
     "retouchStatus": "not-retouched",
     "noteExtraction": "official-product-description-pending-qc"
   }
-]
+];
