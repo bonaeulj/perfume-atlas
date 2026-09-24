@@ -113,6 +113,25 @@
   .source{font-family:Inter,Helvetica,Arial,sans-serif;color:#888;text-decoration:none}
 }
 
+/* Inline description language switch. */
+.language-toggle{
+  display:inline;
+  margin:0 0 0 4px;
+  padding:0;
+  border:0;
+  background:transparent;
+  color:#888;
+  font:12px Inter,Helvetica,Arial,sans-serif;
+  line-height:1;
+  text-decoration:underline;
+  text-decoration-thickness:1px;
+  text-underline-offset:1px;
+  cursor:pointer;
+}
+.language-toggle:hover{opacity:.55}
+.language-toggle:disabled{cursor:wait;opacity:.5}
+.language-toggle[data-error="true"]{color:#a00}
+
 /* Keep native links/buttons black across touch browsers. */
 a,button{color:var(--ink)}
 button:focus,button:active,a:focus,a:active{color:var(--ink)}

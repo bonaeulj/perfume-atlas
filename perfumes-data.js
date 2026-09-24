@@ -17562,7 +17562,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Verdant Grove EDP is a warm and sunlit fragrance that blends notes of pistachio and vanilla. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: pistachio, iris, vanilla, bergamot, chocolate *Olfactory family: gourmand and woody",
+    "description": "Verdant Grove EDP is a warm and sunlit fragrance that blends notes of pistachio and vanilla.",
     "notes": [
       "Pistachio",
       "Iris",
@@ -17609,7 +17609,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011XAD-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011XAD-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011XAD-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011xag-0000",
@@ -17617,7 +17618,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Sweet Woodland EDP mixes top notes of ginger and spicy cognac with base notes of patchouli wood and vanilla for a nature-inspired scent. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: spicy cognac, mandarin, patchouli wood, vanilla, orange flower *Olfactory family: spicy and woody",
+    "description": "Sweet Woodland EDP mixes top notes of ginger and spicy cognac with base notes of patchouli wood and vanilla for a nature-inspired scent.",
     "notes": [
       "Spicy Cognac",
       "Mandarin",
@@ -17664,7 +17665,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011XAG-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011XAG-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011XAG-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011xaf-0000",
@@ -17672,7 +17674,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Rosetopia EDP blends notes of grapefruit, peony and amber musk to create a scent that celebrates the beauty and allure of the rose. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: grapefruit, rose damas, peony, amber musk *Olfactory family: floral and musky",
+    "description": "Rosetopia EDP blends notes of grapefruit, peony and amber musk to create a scent that celebrates the beauty and allure of the rose.",
     "notes": [
       "Grapefruit",
       "Rose Damas",
@@ -17716,7 +17718,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011XAF-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011XAF-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011XAF-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011xae-0000",
@@ -17724,7 +17727,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Smoky Rain EDP is a powerful, energetic fragrance with notes of pink pepper, cedarwood, amber and white musk. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: pink pepper, Italian bergamot, Virginian cedarwood, amber, white musk *Olfactory family: spicy and amber",
+    "description": "Smoky Rain EDP is a powerful, energetic fragrance with notes of pink pepper, cedarwood, amber and white musk.",
     "notes": [
       "Pink Pepper",
       "Italian Bergamot",
@@ -17771,7 +17774,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011XAE-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011XAE-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011XAE-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011xac-0000",
@@ -17779,7 +17783,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Field Diary EDP is a woody and transportive fragrance that features notes of lychee, orange flower and musk. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: lychee, orange flower, sandalwood, musk, mandarin *Olfactory family: fruity and floral",
+    "description": "Field Diary EDP is a woody and transportive fragrance that features notes of lychee, orange flower and musk.",
     "notes": [
       "Lychee",
       "Orange Flower",
@@ -17826,7 +17830,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011XAC-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011XAC-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011XAC-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x98-0000",
@@ -17834,7 +17839,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Bittersweet Oud EDP is an elegant fragrance based on contrasted notes of oud and orange. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: warming, rounded, zesty *Olfactory family: amber",
+    "description": "Bittersweet Oud EDP is an elegant fragrance based on contrasted notes of oud and orange.",
     "notes": [
       "Warming",
       "Rounded",
@@ -17875,7 +17880,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/LW85540_1.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X98-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X98-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x96-0000",
@@ -17883,7 +17889,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Roasted Vanilla EDP is an addictive fragrance based on contrasted notes of vanilla and oakwood. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: sweet, sensual, woody, spicy *Olfactory family: amber, woody",
+    "description": "Roasted Vanilla EDP is an addictive fragrance based on contrasted notes of vanilla and oakwood.",
     "notes": [
       "Sweet",
       "Sensual",
@@ -17927,7 +17933,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/LW85564_1.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X96-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X96-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x97-0000",
@@ -17935,7 +17942,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Iris Root EDP is a sparkling fragrance based on contrasted notes of iris and Timur pepper. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: sweet, silky, powdery, zesty *Olfactory family: floral",
+    "description": "Iris Root EDP is a sparkling fragrance based on contrasted notes of iris and Timur pepper.",
     "notes": [
       "Sweet",
       "Silky",
@@ -17979,7 +17986,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/LW85595_1.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X97-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X97-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000487x04-0000",
@@ -17987,7 +17995,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "LOEWE 001 Woman EDP is a fresh yet warm fragrance that combines notes of jasmine, linen and musk. *The scent comes in a block-shaped translucent glass flask *50 ml *Notes: jasmine, linen, musk *Olfactory family: floral, oriental",
+    "description": "LOEWE 001 Woman EDP is a fresh yet warm fragrance that combines notes of jasmine, linen and musk.",
     "notes": [
       "Jasmine",
       "Linen",
@@ -18037,7 +18045,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000487X04-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000487X04-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000487X04-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x31-0000",
@@ -18045,7 +18054,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "LOEWE Solo Ella EDP is a fragrance inspired by sunset with an array of floral and fruity notes, complemented by a woody amber base. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: green tea, neroli, red apple *Olfactory family: fruity, floral, fresh",
+    "description": "LOEWE Solo Ella EDP is a fragrance inspired by sunset with an array of floral and fruity notes, complemented by a woody amber base.",
     "notes": [
       "Green Tea",
       "Neroli",
@@ -18095,7 +18104,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X31-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X31-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X31-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x84-0000",
@@ -18103,7 +18113,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Elixir",
-    "description": "LOEWE Solo Ella Elixir is a leathery and floral fragrance that blends notes of apple, pear, jasmine and amber. This elixir version offers a higher concentration of essential oils for a more intense scent. *The scent comes in a gradient orange-tinted block-shaped glass flask *50 ml *Notes: apple, pear, amber, orange blossom, jasmine *Olfactory family: leathery",
+    "description": "LOEWE Solo Ella Elixir is a leathery and floral fragrance that blends notes of apple, pear, jasmine and amber. This elixir version offers a higher concentration of essential oils for a more intense scent.",
     "notes": [
       "Apple",
       "Pear",
@@ -18159,7 +18169,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X84-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X84-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X84-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x50-0000",
@@ -18167,7 +18178,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "LOEWE Aire Sutileza EDT is a floral and delicate fragrance that combines notes of pear, muguet and jasmine. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: pear, lily of the valley, jasmine *Olfactory family: floral, hesperidic",
+    "description": "LOEWE Aire Sutileza EDT is a floral and delicate fragrance that combines notes of pear, muguet and jasmine.",
     "notes": [
       "Pear",
       "Lily of the Valley",
@@ -18208,7 +18219,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X50-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X50-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X50-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x68-6100",
@@ -18216,7 +18228,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "LOEWE Earth EDP is a floral and musky fragrance that combines violet, mimosa and grey amber with notes of musk, truffle and pear. *The scent comes in a translucent block-shaped glass flask *50 ml *Notes: truffle, gray amber, elemi *Olfactory family: floral, amber, musky",
+    "description": "LOEWE Earth EDP is a floral and musky fragrance that combines violet, mimosa and grey amber with notes of musk, truffle and pear.",
     "notes": [
       "Truffle",
       "Gray Amber",
@@ -18266,7 +18278,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X68-6100.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X68-6100.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X68-6100.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x85-0000",
@@ -18274,7 +18287,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "LOEWE Agua Drop Eau de Parfum is a floral and refreshing fragrance that combines notes of bergamot and orange flower. *The scent comes in a blue-tinted blurred block-shaped glass flask *50 ml *Noted: bergamot, orange flower *Olfactory family: floral, woody",
+    "description": "LOEWE Agua Drop Eau de Parfum is a floral and refreshing fragrance that combines notes of bergamot and orange flower.",
     "notes": [
       "Loewe Agua Drop Eau de Parfum Is A Floral and Refreshing Fragrance That Combines Notes of Bergamot and Orange Flower. the Scent Comes in A Blue-Tinted Blurred Block-Shaped Glass Flask 50 Ml Noted: Bergamot",
       "Orange Flower Olfactory Family: Floral",
@@ -18324,7 +18337,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X85-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X85-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X85-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x11-0000",
@@ -18332,7 +18346,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "Feminine and dynamic, LOEWE Agua Ella Eau de Toilette combines notes of lemon, rose and waterlily. The scent comes in a translucent glass flask in a natural shade of pink. *50 ml",
+    "description": "Feminine and dynamic, LOEWE Agua Ella Eau de Toilette combines notes of lemon, rose and waterlily. The scent comes in a translucent glass flask in a natural shade of pink.",
     "notes": [
       "Feminine and Dynamic",
       "Loewe Agua Ella Eau de Toilette Combines Notes of Lemon",
@@ -18382,7 +18396,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X11-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X11-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X11-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x15-0000",
@@ -18390,7 +18405,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "Aquatic and refreshing, LOEWE Agua Mar de Coral combines notes of tangerine, lily of the valley and grapefruit. The scent comes in a translucent glass flask in light pink. *50 ml",
+    "description": "Aquatic and refreshing, LOEWE Agua Mar de Coral combines notes of tangerine, lily of the valley and grapefruit. The scent comes in a translucent glass flask in light pink.",
     "notes": [
       "Aquatic and Refreshing",
       "Loewe Agua Mar de Coral Combines Notes of Tangerine",
@@ -18440,7 +18455,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X15-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X15-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X15-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-53969-0000",
@@ -18448,7 +18464,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "LOEWE 001 Woman EDT is a fresh and feminine fragrance that combines sensual and relaxed notes of musk, linen and pink peony with refreshing citrussy accents. *The scent comes in a block-shaped translucent glass flask *100 ml *Notes: linen, peony, musk *Olfactory family: fruity, floral",
+    "description": "LOEWE 001 Woman EDT is a fresh and feminine fragrance that combines sensual and relaxed notes of musk, linen and pink peony with refreshing citrussy accents.",
     "notes": [
       "Linen",
       "Peony",
@@ -18489,7 +18505,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/LW63074_1.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/53969-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/53969-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x37-0000",
@@ -18497,7 +18514,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "Spicy and genuine, LOEWE Solo Eau de Toilette contrasts notes of guava, cumin, musk and Italian mandarin. The scent comes in a translucent glass flask in a vibrant shade of burnt umber. *50 ml",
+    "description": "Spicy and genuine, LOEWE Solo Eau de Toilette contrasts notes of guava, cumin, musk and Italian mandarin. The scent comes in a translucent glass flask in a vibrant shade of burnt umber.",
     "notes": [
       "Spicy and Genuine",
       "Loewe Solo Eau de Toilette Contrasts Notes of Guava",
@@ -18541,7 +18558,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X37-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X37-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X37-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "loewe-p000011x07-0000",
@@ -18549,7 +18567,7 @@ window.PERFUME_DATA = [
     "brand": "LOEWE",
     "gender": "Unisex",
     "concentration": "Eau de Toilette",
-    "description": "Dynamic and refreshing, LOEWE Agua Eau de Toilette combines notes of bergamot, yuzu and Ceylon tea. The scent comes in a translucent glass flask in a cool shade of yellow. *50 ml",
+    "description": "Dynamic and refreshing, LOEWE Agua Eau de Toilette combines notes of bergamot, yuzu and Ceylon tea. The scent comes in a translucent glass flask in a cool shade of yellow.",
     "notes": [
       "Dynamic and Refreshing",
       "Loewe Agua Eau de Toilette Combines Notes of Bergamot",
@@ -18590,7 +18608,8 @@ window.PERFUME_DATA = [
     "image": "images-r/loewe/P000011X07-0000.png",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "imageOriginal": "images-r/loewe/P000011X07-0000.png"
+    "imageOriginal": "../perfume-atlas-data/images/loewe/P000011X07-0000.jpg",
+    "descriptionQcStatus": "removed-bottle-size-and-attribute-copy-2026-09-24"
   },
   {
     "id": "lelabo-aldehyde-44",
@@ -21742,7 +21761,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Debaser In Bloom is an eau de parfum in 50 mL and 100 mL, a choice mixtape of the classic fig fume cut with gardenia, cream and cassettes. It opens on white currant, rosemary flower and tapes, tart green with a plastic edge. The heart brings fig, gardenia and cream, ripe fruit turned into flowers. The base rests on musk, coconut husk and raspberry leaf, soft and dry. Creamy, floral and nostalgic, this is the blooming remix of the scent that built the brand.",
+    "description": "Debaser In Bloom is an eau de parfum, a choice mixtape of the classic fig fume cut with gardenia, cream and cassettes. It opens on white currant, rosemary flower and tapes, tart green with a plastic edge. The heart brings fig, gardenia and cream, ripe fruit turned into flowers. The base rests on musk, coconut husk and raspberry leaf, soft and dry. Creamy, floral and nostalgic, this is the blooming remix of the scent that built the brand.",
     "descriptionType": "official-product-description",
     "notes": [
       "White Currant",
@@ -21843,7 +21862,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-i-dont-know-what",
@@ -21851,7 +21871,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "I Don't Know What is an eau de parfum in 50 mL, 100 mL and 10 mL, a fragrance enhancer with transparent radiance that gives any aromatic material a certain, as the French say, I don't know what. It opens on bergamot essence, clean and bright. The heart brings Iso E Super and vetiver acetate, the glow that lifts everything near it. The base holds civettone, firsantol and ambrox super, warm musk and amber close to the skin. Wear it alone for skin-close radiance or layer it over anything to make that scent better. The cult fume from D.S. & Durga.",
+    "description": "I Don't Know What is an eau de parfum, a fragrance enhancer with transparent radiance that gives any aromatic material a certain, as the French say, I don't know what. It opens on bergamot essence, clean and bright. The heart brings Iso E Super and vetiver acetate, the glow that lifts everything near it. The base holds civettone, firsantol and ambrox super, warm musk and amber close to the skin. Wear it alone for skin-close radiance or layer it over anything to make that scent better. The cult fume from D.S. & Durga.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -21998,7 +22018,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-aint-that-sweet",
@@ -22113,7 +22134,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Rose Atlantic is an eau de parfum in 50 mL, 100 mL and 10 mL, built on spritzers aboard the famous Salt Spray Rose. It opens on bergamot, petals and lemon oil, bright and citric. The heart brings linden, a rose accord and dune grass, the flower growing wild on the shore rather than cut for a vase. The base rests on muscone, salt water and white moss, soft and saline. Sinatra's summer wind, dune grass in the distance, the white lighthouse. A saltwater rose fragrance from the New York fragrance house D.S. & Durga.",
+    "description": "Rose Atlantic is an eau de parfum, built on spritzers aboard the famous Salt Spray Rose. It opens on bergamot, petals and lemon oil, bright and citric. The heart brings linden, a rose accord and dune grass, the flower growing wild on the shore rather than cut for a vase. The base rests on muscone, salt water and white moss, soft and saline. Sinatra's summer wind, dune grass in the distance, the white lighthouse. A saltwater rose fragrance from the New York fragrance house D.S. & Durga.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -22220,7 +22241,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-debaser",
@@ -22228,7 +22250,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Debaser is an eau de parfum in 50 mL, 100 mL and 10 mL, built on the wild shrill of Black Francis coming through the radio in the August heat. It opens on bergamot, green leaf and pear stem, cool and stemmy. The heart brings fig, coconut milk and iris, ripe fruit turned creamy and soft. The base rests on blond woods, tonka bean and moss, dry and warm. Juicy, humid and slightly wild, this is the brand's original fig fragrance and the easiest place to start.",
+    "description": "Debaser is an eau de parfum, built on the wild shrill of Black Francis coming through the radio in the August heat. It opens on bergamot, green leaf and pear stem, cool and stemmy. The heart brings fig, coconut milk and iris, ripe fruit turned creamy and soft. The base rests on blond woods, tonka bean and moss, dry and warm. Juicy, humid and slightly wild, this is the brand's original fig fragrance and the easiest place to start.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -22335,7 +22357,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-steamed-rainbow",
@@ -22343,7 +22366,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Steamed Rainbow is an eau de parfum in 50 mL and 100 mL, built on ROYGBIV reflections in soft weightless water steaming upward, forever fresh. It opens on red mandarin, orange and yellow elemi resin, bright citrus over pale resin. The heart brings green cedar, blue almond flower and indigo grass, cool and vegetal. The base rests on violet, vetyver and vapors, soft and airy. A solar citrus fragrance built to sit lightly and close to the skin.",
+    "description": "Steamed Rainbow is an eau de parfum, built on ROYGBIV reflections in soft weightless water steaming upward, forever fresh. It opens on red mandarin, orange and yellow elemi resin, bright citrus over pale resin. The heart brings green cedar, blue almond flower and indigo grass, cool and vegetal. The base rests on violet, vetyver and vapors, soft and airy. A solar citrus fragrance built to sit lightly and close to the skin.",
     "descriptionType": "official-product-description",
     "notes": [
       "Red Mandarin",
@@ -22444,7 +22467,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-big-sur-eucalyptus",
@@ -22452,7 +22476,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Big Sur Eucalyptus is an eau de parfum in 50 mL and 100 mL, deep spicy green groves on the cool California coast. It opens on wet wood, Pacific spray and eucalyptus globulus, cold and camphorous. The heart brings cardamom, rosemary and magnolia, spice and herb with one soft flower. The base rests on eucalyptus cone, cypress and dry leaves, resinous and woody. Green, meditative and bracing, this is the fragrance for anyone who finds most fresh scents too polite.",
+    "description": "Big Sur Eucalyptus is an eau de parfum, deep spicy green groves on the cool California coast. It opens on wet wood, Pacific spray and eucalyptus globulus, cold and camphorous. The heart brings cardamom, rosemary and magnolia, spice and herb with one soft flower. The base rests on eucalyptus cone, cypress and dry leaves, resinous and woody. Green, meditative and bracing, this is the fragrance for anyone who finds most fresh scents too polite.",
     "descriptionType": "official-product-description",
     "notes": [
       "Wet Wood",
@@ -22553,7 +22577,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-radio-bombay",
@@ -22561,7 +22586,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Radio Bombay is an eau de parfum in 50 mL, 100 mL and 10 mL, built on a transistor radio hewn of sandalwood radiating ragas in the Bandra heat. It opens on radiant wood, copper and cedar, hot metal against dry timber. The heart brings sandalwood, radiant iris and boronia, the soft wood blooming as it warms. The base rests on balsam fir absolute, coconut musc and ambergris, creamy and resinous. A woody fragrance with real warmth and no sweetness, from the New York fragrance house D.S. & Durga.",
+    "description": "Radio Bombay is an eau de parfum, built on a transistor radio hewn of sandalwood radiating ragas in the Bandra heat. It opens on radiant wood, copper and cedar, hot metal against dry timber. The heart brings sandalwood, radiant iris and boronia, the soft wood blooming as it warms. The base rests on balsam fir absolute, coconut musc and ambergris, creamy and resinous. A woody fragrance with real warmth and no sweetness, from the New York fragrance house D.S. & Durga.",
     "descriptionType": "official-product-description",
     "notes": [
       "Radiant Wood",
@@ -22668,7 +22693,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-coriander",
@@ -22676,7 +22702,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Coriander is an eau de parfum in 50 mL and 100 mL, built on cool spices and a Black Sea breeze like the hills above Odessa. It opens on cracked Ukrainian coriander seed, black pepper and juniper needle, sparkling and green. The heart brings geranium, clove stem and clary sage, herbal and faintly medicinal in the best way. The base rests on musk, magnolia and mace, soft and warm. A fresh spiced fragrance that wears close and clean, and an easy daily choice.",
+    "description": "Coriander is an eau de parfum, built on cool spices and a Black Sea breeze like the hills above Odessa. It opens on cracked Ukrainian coriander seed, black pepper and juniper needle, sparkling and green. The heart brings geranium, clove stem and clary sage, herbal and faintly medicinal in the best way. The base rests on musk, magnolia and mace, soft and warm. A fresh spiced fragrance that wears close and clean, and an easy daily choice.",
     "descriptionType": "official-product-description",
     "notes": [
       "Coriander",
@@ -22777,7 +22803,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-cowgirl-grass",
@@ -22785,7 +22812,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Cowgirl Grass is an eau de parfum in 50 mL and 100 mL, built on bold peony, flowering plains grass and tough musk from the wild western territories. It opens on bergamot peel, lychee and pink geranium, juicy and bright. The heart brings peony, jasmine water and flowering grass, big petals in open country. The base rests on vetyver, amber crystals and musk, warm and slightly rough. A fruity floral fragrance with grit underneath, and the counterpart to Cowboy Grass.",
+    "description": "Cowgirl Grass is an eau de parfum, built on bold peony, flowering plains grass and tough musk from the wild western territories. It opens on bergamot peel, lychee and pink geranium, juicy and bright. The heart brings peony, jasmine water and flowering grass, big petals in open country. The base rests on vetyver, amber crystals and musk, warm and slightly rough. A fruity floral fragrance with grit underneath, and the counterpart to Cowboy Grass.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -22886,7 +22913,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-cowboy-grass",
@@ -22894,7 +22922,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Cowboy Grass is an eau de parfum in 50 mL and 100 mL, built on American sagebrush, flowering white thyme and prairie switchgrass from the wild western territories. It opens on rosewood, wild thyme and bergamot, dry and herbal. The heart brings sagebrush, basil and rose otto, desert scrub with a flower hidden in it. The base rests on vetyver, grass and ambergris, smoky root and open plain. A smoky herbal fragrance from the New York fragrance house D.S. & Durga. Perfect for robbing banks on horseback.",
+    "description": "Cowboy Grass is an eau de parfum, built on American sagebrush, flowering white thyme and prairie switchgrass from the wild western territories. It opens on rosewood, wild thyme and bergamot, dry and herbal. The heart brings sagebrush, basil and rose otto, desert scrub with a flower hidden in it. The base rests on vetyver, grass and ambergris, smoky root and open plain. A smoky herbal fragrance from the New York fragrance house D.S. & Durga. Perfect for robbing banks on horseback.",
     "descriptionType": "official-product-description",
     "notes": [
       "Rosewood",
@@ -22995,7 +23023,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-bowmakers",
@@ -23003,7 +23032,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Bowmakers is an eau de parfum in 50 mL and 100 mL, built in the violin workshops of the Pioneer Valley, where 1800s craftsmen from the Massachusetts Bay Colony made instruments and bows. It opens on violin varnish, mahogany and an outdoors accord, lacquer and old-growth wood. The heart brings amber pine rosin, maplewood and cypress, sticky resin and burled shavings. The base settles into spiced tree resin, cedar and moss. A woody fragrance about craft, transcendental woods and secret varnish.",
+    "description": "Bowmakers is an eau de parfum, built in the violin workshops of the Pioneer Valley, where 1800s craftsmen from the Massachusetts Bay Colony made instruments and bows. It opens on violin varnish, mahogany and an outdoors accord, lacquer and old-growth wood. The heart brings amber pine rosin, maplewood and cypress, sticky resin and burled shavings. The base settles into spiced tree resin, cedar and moss. A woody fragrance about craft, transcendental woods and secret varnish.",
     "descriptionType": "official-product-description",
     "notes": [
       "Violin Varnish",
@@ -23104,7 +23133,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-pistachio",
@@ -23112,7 +23142,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Pistachio is an eau de parfum in 50 mL, 100 mL and 10 mL, a warm gourmand of nutty green grounds, vanilla creme and patchouli. It opens on pistachio, cardamom and raw sugar, sweet and freshly cracked. The heart brings more pistachio with roasted almond and patchouli, deeper and toastier. The base is even more pistachio over warm musk and vanilla creme. Rich, creamy and true to the nut rather than to a dessert, it is pistachio and that is exactly all it needs to be. An amber gourmand from the New York fragrance house D.S. & Durga. Good times.",
+    "description": "Pistachio is an eau de parfum, a warm gourmand of nutty green grounds, vanilla creme and patchouli. It opens on pistachio, cardamom and raw sugar, sweet and freshly cracked. The heart brings more pistachio with roasted almond and patchouli, deeper and toastier. The base is even more pistachio over warm musk and vanilla creme. Rich, creamy and true to the nut rather than to a dessert, it is pistachio and that is exactly all it needs to be. An amber gourmand from the New York fragrance house D.S. & Durga. Good times.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pistachio",
@@ -23219,7 +23249,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-jazmin-yucatan",
@@ -23227,7 +23258,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Jazmin Yucatan is an eau de parfum in 50 mL and 100 mL, built on jungle humidity, snake plants and a crocodile by the cenote. It opens on water, passion flower and bergamot, wet green air before the heat lands. The heart is jazmin yucateco with sambac and clove, indolic white jasmine at full tropical strength. The base rests on snake plant, vetiver and copal, resin and root in shaded temple ruins. A jungle floral for people who want jasmine with dirt under it.",
+    "description": "Jazmin Yucatan is an eau de parfum, built on jungle humidity, snake plants and a crocodile by the cenote. It opens on water, passion flower and bergamot, wet green air before the heat lands. The heart is jazmin yucateco with sambac and clove, indolic white jasmine at full tropical strength. The base rests on snake plant, vetiver and copal, resin and root in shaded temple ruins. A jungle floral for people who want jasmine with dirt under it.",
     "descriptionType": "official-product-description",
     "notes": [
       "Water",
@@ -23328,7 +23359,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-italian-citrus",
@@ -23336,7 +23368,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Italian Citrus is an eau de parfum in 50 mL and 100 mL, a bracing cologne of coastal Italian citrus rinds with Bergamot, orange & amber. It opens on cold pressed lemon, chinotto and blood orange, sharp peel and bitter pith. The heart brings green mandarin, violet leaf and incense, cool green and a thread of smoke. The base rests on copaiba balsam, musk ambrette and oakmoss, soft and clean. Sun-drenched, bright and easy to wear in heat, this is the citrus fragrance to reach for when everything else feels heavy.",
+    "description": "Italian Citrus is an eau de parfum, a bracing cologne of coastal Italian citrus rinds with Bergamot, orange & amber. It opens on cold pressed lemon, chinotto and blood orange, sharp peel and bitter pith. The heart brings green mandarin, violet leaf and incense, cool green and a thread of smoke. The base rests on copaiba balsam, musk ambrette and oakmoss, soft and clean. Sun-drenched, bright and easy to wear in heat, this is the citrus fragrance to reach for when everything else feels heavy.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pressed Lemon",
@@ -23431,7 +23463,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-amber-kiso",
@@ -23439,7 +23472,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Amber Kiso is an eau de parfum in 50 mL, 100 mL and 10 mL, built as a ritual in the holy Kiso forest, a ceremonial katana unguent of rare woods, temple incense and leather bushi armor. It opens on Japanese cedar, incense and sawara cypress, cold smoke and green wood. The heart brings Asahi Zuru maple, patchouli and iris, earthy and powdery. The base settles into hinoki, leather and treemoss, smoky and penetrating. A dark amber wood fragrance for people who want depth over sweetness.",
+    "description": "Amber Kiso is an eau de parfum, built as a ritual in the holy Kiso forest, a ceremonial katana unguent of rare woods, temple incense and leather bushi armor. It opens on Japanese cedar, incense and sawara cypress, cold smoke and green wood. The heart brings Asahi Zuru maple, patchouli and iris, earthy and powdery. The base settles into hinoki, leather and treemoss, smoky and penetrating. A dark amber wood fragrance for people who want depth over sweetness.",
     "descriptionType": "official-product-description",
     "notes": [
       "Japanese Cedar",
@@ -23546,7 +23579,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-notorious-oud",
@@ -23554,7 +23588,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Notorious Oud is an eau de parfum in 50 mL and 100 mL, sublime Indonesian oud with a worldwide perspective, formulated in Bed-Stuy, Brooklyn. It opens on Afghani saffron, camphor and white galbanum, sharp and medicinal. The heart brings Indonesian oud, Bulgarian rose and lavender absolute, resinous wood wrapped in petals. The base rests on civet, cetalox and African papyrus, animalic and dry. A rosy oud fragrance with real oud in it, built for people who know the material.",
+    "description": "Notorious Oud is an eau de parfum, sublime Indonesian oud with a worldwide perspective, formulated in Bed-Stuy, Brooklyn. It opens on Afghani saffron, camphor and white galbanum, sharp and medicinal. The heart brings Indonesian oud, Bulgarian rose and lavender absolute, resinous wood wrapped in petals. The base rests on civet, cetalox and African papyrus, animalic and dry. A rosy oud fragrance with real oud in it, built for people who know the material.",
     "descriptionType": "official-product-description",
     "notes": [
       "Saffron",
@@ -23655,7 +23689,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-black-magenta",
@@ -23663,7 +23698,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Black Magenta is an eau de parfum in 50 mL, 100 mL and 10 mL, a city at night in bold colorful fumes. It opens on pink pineapple, galbanum and black pepper, tropical glow cut with green bitterness. The heart brings orris concrete, magenta dianthus and orange flower, powdery petals in twilight. The base rests on black amber, Balkan tobacco and sandalwood, dark and resinous. Loud, glowing and built to be noticed, this is an amber fragrance made to pair with loud music.",
+    "description": "Black Magenta is an eau de parfum, a city at night in bold colorful fumes. It opens on pink pineapple, galbanum and black pepper, tropical glow cut with green bitterness. The heart brings orris concrete, magenta dianthus and orange flower, powdery petals in twilight. The base rests on black amber, Balkan tobacco and sandalwood, dark and resinous. Loud, glowing and built to be noticed, this is an amber fragrance made to pair with loud music.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pink Pineapple",
@@ -23770,7 +23805,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-d-s",
@@ -23778,7 +23814,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "D.S. is an eau de parfum in 50 mL, a pure vision of India, and the fragrance the D.S. half of the brand name refers to. It opens on frangipani, gardenia and Kashmiri saffron, heady white flowers laced with spice. The heart brings yellow lotus attar, rose absolute and agarwood, rare and costly materials. The base rests on fine Sri Lankan sandalwood, vetiver and musc ambrette, creamy and grounding. Narcotic, transcendent and built from rare naturals. A rare floral amber resin fragrance from the New York fragrance house D.S. & Durga.",
+    "description": "D.S. is an eau de parfum, a pure vision of India, and the fragrance the D.S. half of the brand name refers to. It opens on frangipani, gardenia and Kashmiri saffron, heady white flowers laced with spice. The heart brings yellow lotus attar, rose absolute and agarwood, rare and costly materials. The base rests on fine Sri Lankan sandalwood, vetiver and musc ambrette, creamy and grounding. Narcotic, transcendent and built from rare naturals. A rare floral amber resin fragrance from the New York fragrance house D.S. & Durga.",
     "descriptionType": "official-product-description",
     "notes": [
       "Frangipani",
@@ -23873,7 +23909,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-durga",
@@ -23881,7 +23918,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Durga is an eau de parfum in 50 mL and 10 mL, the fragrance the Durga half of the brand name refers to, and unimaginably narcotic. It opens on green tuberose, melon and chrysanthemum, sharp green before the flowers land. The heart brings ylang ylang, orris butter and orange blossom, thick and buttery. The base rests on tuberose absolute, sambac jasmine and fine musc, white flowers at palatial doses. If you want the finest floral absolutes in one bottle with nothing holding them back, this is it. A narcotic floral from the New York fragrance house D.S. & Durga.",
+    "description": "Durga is an eau de parfum, the fragrance the Durga half of the brand name refers to, and unimaginably narcotic. It opens on green tuberose, melon and chrysanthemum, sharp green before the flowers land. The heart brings ylang ylang, orris butter and orange blossom, thick and buttery. The base rests on tuberose absolute, sambac jasmine and fine musc, white flowers at palatial doses. If you want the finest floral absolutes in one bottle with nothing holding them back, this is it. A narcotic floral from the New York fragrance house D.S. & Durga.",
     "descriptionType": "official-product-description",
     "notes": [
       "Green Tuberose",
@@ -23976,7 +24013,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-burning-barbershop",
@@ -23984,7 +24022,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Burning Barbershop is an eau de parfum in 50 mL and 100 mL, built on the 1891 fire at the Curling Bros. barbershop in Westlake, New York, where every shaving tonic burned and one charred bottle was found half full. It opens on spearmint, lime and hemlock spruce, cold and sharp. The heart brings lavender absolute, tuberose and Turkish rose, the tonics themselves. The base sinks into burnt oil, vanilla and hay, smoke over sweetness. A smoked fougere and one of the defining scents from D.S. & Durga. It smelled like this.",
+    "description": "Burning Barbershop is an eau de parfum, built on the 1891 fire at the Curling Bros. barbershop in Westlake, New York, where every shaving tonic burned and one charred bottle was found half full. It opens on spearmint, lime and hemlock spruce, cold and sharp. The heart brings lavender absolute, tuberose and Turkish rose, the tonics themselves. The base sinks into burnt oil, vanilla and hay, smoke over sweetness. A smoked fougere and one of the defining scents from D.S. & Durga. It smelled like this.",
     "descriptionType": "official-product-description",
     "notes": [
       "Spearmint",
@@ -24085,7 +24123,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-the-carlyle",
@@ -24093,7 +24132,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "The Carlyle is an eau de parfum in 50 mL, timeless elegance set in citrus, honeysuckle and soft sandalwood. It opens on lime distillate, neroli and bergamot, crisp and polished. The heart brings Balkan rose, honeysuckle and linden, soft florals in a quiet room. The base rests on sandalwood, moss and hay absolute, warm and understated. A who's who of fancy fume materials, built as a portrait of Upper East Side restraint rather than volume. A citrus floral fragrance for people who prefer to be noticed at close range.",
+    "description": "The Carlyle is an eau de parfum, timeless elegance set in citrus, honeysuckle and soft sandalwood. It opens on lime distillate, neroli and bergamot, crisp and polished. The heart brings Balkan rose, honeysuckle and linden, soft florals in a quiet room. The base rests on sandalwood, moss and hay absolute, warm and understated. A who's who of fancy fume materials, built as a portrait of Upper East Side restraint rather than volume. A citrus floral fragrance for people who prefer to be noticed at close range.",
     "descriptionType": "official-product-description",
     "notes": [
       "Lime Distillate",
@@ -24188,7 +24227,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-cognac-reign",
@@ -24293,7 +24333,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Golfjazz is an eau de parfum in 50 mL, a freewheeling daydream of questionable tartan fits and fairway greens for giant putts. It opens on limes, sharp and cold off the peel. The heart brings grass, cut and damp, the whole course held in one note. The base rests on leather, warm and worn in like a well-used glove, with moss and cedar underneath. Green, leathery and unbothered, this is a golf fragrance that smells like the actual game rather than the pro shop counter. Swing swing swing.",
+    "description": "Golfjazz is an eau de parfum, a freewheeling daydream of questionable tartan fits and fairway greens for giant putts. It opens on limes, sharp and cold off the peel. The heart brings grass, cut and damp, the whole course held in one note. The base rests on leather, warm and worn in like a well-used glove, with moss and cedar underneath. Green, leathery and unbothered, this is a golf fragrance that smells like the actual game rather than the pro shop counter. Swing swing swing.",
     "descriptionType": "official-product-description",
     "notes": [
       "Lime",
@@ -24364,7 +24404,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-grey-blazer",
@@ -24372,7 +24413,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Grey Blazer is an eau de parfum in 50 mL, built on crisp grey wool in soft herringbone tweed. It opens on green spices, cool and dry. The heart brings hedgerow flowers, small blooms in a misty landscape. The base rests on virgin wool, soft and slightly dusty, the fabric itself. A fresh fougere of everyday comfort flecked with flowering grasses, made for people who want a signature scent that never announces itself. Quiet, textural and easy to wear daily.",
+    "description": "Grey Blazer is an eau de parfum, built on crisp grey wool in soft herringbone tweed. It opens on green spices, cool and dry. The heart brings hedgerow flowers, small blooms in a misty landscape. The base rests on virgin wool, soft and slightly dusty, the fabric itself. A fresh fougere of everyday comfort flecked with flowering grasses, made for people who want a signature scent that never announces itself. Quiet, textural and easy to wear daily.",
     "descriptionType": "official-product-description",
     "notes": [
       "Green Spices",
@@ -24443,7 +24484,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-rum-bay-rum",
@@ -24451,7 +24493,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Rum Bay Rum is an eau de parfum in 50 mL, a hug from the old world. It opens on West Indian bay, spicy and green from the leaf. The heart brings linden, soft and honeyed, taking the edge off the spice. The base rests on sandalwood, creamy and warm. Classic bay rum softened with sandalwood, lime and linden, updated without losing what made barbershop cologne good in the first place. A spicy cologne fragrance for people who want tradition, not nostalgia.",
+    "description": "Rum Bay Rum is an eau de parfum, a hug from the old world. It opens on West Indian bay, spicy and green from the leaf. The heart brings linden, soft and honeyed, taking the edge off the spice. The base rests on sandalwood, creamy and warm. Classic bay rum softened with sandalwood, lime and linden, updated without losing what made barbershop cologne good in the first place. A spicy cologne fragrance for people who want tradition, not nostalgia.",
     "descriptionType": "official-product-description",
     "notes": [
       "West Indian Bay",
@@ -24522,7 +24564,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "dsd-crush-balls",
@@ -24530,7 +24573,7 @@ window.PERFUME_DATA = [
     "brand": "D.S. & Durga",
     "gender": "Unisex",
     "concentration": "Eau de Parfum",
-    "description": "Crush Balls is an eau de parfum in 50 mL, a sporting green fougere of grass, cotton and hedge flowers for the racquet set. It opens on green grass, rosemary and pine, cut lawn and cold air. The heart brings yellow fuzz, hedge flowers and white cotton, new tennis balls and clean kit. The base rests on a sporty accord, hard court and oakmoss, warm rubber and damp green. Fresh, clean and genuinely athletic rather than gym-locker generic. Get out on the court, you ace.",
+    "description": "Crush Balls is an eau de parfum, a sporting green fougere of grass, cotton and hedge flowers for the racquet set. It opens on green grass, rosemary and pine, cut lawn and cold air. The heart brings yellow fuzz, hedge flowers and white cotton, new tennis balls and clean kit. The base rests on a sporty accord, hard court and oakmoss, warm rubber and damp green. Fresh, clean and genuinely athletic rather than gym-locker generic. Get out on the court, you ace.",
     "descriptionType": "official-product-description",
     "notes": [
       "Green Grass",
@@ -24625,7 +24668,8 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionQcStatus": "removed-sale-sizes-2026-09-24"
   },
   {
     "id": "exnihilo-demon-dancer",
@@ -24633,7 +24677,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help DEMON DANCER Eau de parfum The scent of movement A tribute to unapologetic self-expression, DEMON DANCER captures the magnetic tension between inner fire and outward freedom. Inspired by the intensity of a contemporary dance performance, the fragrance unfolds like a ritual: intimate yet performative, raw yet precise, sensual and charged with irreverent energy. It is a scent in motion, a choreography on skin, where airy freshness collides with grounded intensity. It reflects the dancer’s journey, as trance dissolves into shared euphoria and rising energy. Description The scent of movement A tribute to unapologetic self-expression, DEMON DANCER captures the magnetic tension between inner fire and outward freedom. Inspired by the intensity of a contemporary dance performance, the fragrance unfolds like a ritual: intimate yet performative, raw yet precise, sensual and charged with irreverent energy. It is a scent in motion, a choreography on skin, where airy freshness collides with grounded intensity. It reflects the dancer’s journey, as trance dissolves into shared euphoria and rising energy.",
+    "description": "The scent of movement A tribute to unapologetic self-expression, DEMON DANCER captures the magnetic tension between inner fire and outward freedom. Inspired by the intensity of a contemporary dance performance, the fragrance unfolds like a ritual: intimate yet performative, raw yet precise, sensual and charged with irreverent energy. It is a scent in motion, a choreography on skin, where airy freshness collides with grounded intensity. It reflects the dancer’s journey, as trance dissolves into shared euphoria and rising energy.",
     "descriptionType": "official-product-description",
     "notes": [
       "Rhubarb",
@@ -24732,7 +24776,8 @@ window.PERFUME_DATA = [
         "label": "100mL"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-lust-in-paradise-extrait-de-parfum",
@@ -24740,7 +24785,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Extrait de parfum",
-    "description": "Complete your selection Add to cart $490 Share Points of sale Delivery Need help LUST IN PARADISE EXTRAIT Extrait de parfum French Riviera addiction Elevating the original olfactory signature to its quintessence, LUST IN PARADISE Extrait de parfum is a radiant creation, bathed in the glow of the French Riviera sunset. Description French Riviera addiction Elevating the original olfactory signature to its quintessence, LUST IN PARADISE Extrait de parfum is a radiant creation, bathed in the glow of the French Riviera sunset.",
+    "description": "French Riviera addiction Elevating the original olfactory signature to its quintessence, LUST IN PARADISE Extrait de parfum is a radiant creation, bathed in the glow of the French Riviera sunset.",
     "descriptionType": "official-product-description",
     "notes": [
       "Blackcurrant",
@@ -24839,7 +24884,8 @@ window.PERFUME_DATA = [
         "label": "50ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-fleur-narcotique-eau-de-parfum",
@@ -24847,7 +24893,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Customization Complete your selection Sold out $385 Share Points of sale Delivery Need help FLEUR NARCOTIQUE Eau de parfum Floral Overdose FLEUR NARCOTIQUE is a symphony of sensuality, capturing the Parisian essence of EX NIHILO. Lush florals intertwine with seductive woods, creating an intoxicating embrace. Each note reveals a sophisticated allure, blending boldness with elegance. An aromatic journey at the edge of transgression, leaving an unforgettable trail. Description Floral Overdose FLEUR NARCOTIQUE is a symphony of sensuality, capturing the Parisian essence of EX NIHILO. Lush florals intertwine with seductive woods, creating an intoxicating embrace. Each note reveals a sophisticated allure, blending boldness with elegance. An aromatic journey at the edge of transgression, leaving an unforgettable trail.",
+    "description": "Floral Overdose FLEUR NARCOTIQUE is a symphony of sensuality, capturing the Parisian essence of EX NIHILO. Lush florals intertwine with seductive woods, creating an intoxicating embrace. Each note reveals a sophisticated allure, blending boldness with elegance. An aromatic journey at the edge of transgression, leaving an unforgettable trail.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -24941,7 +24987,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-blue-talisman-extrait",
@@ -24949,7 +24996,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Extrait de parfum",
-    "description": "Complete your selection Add to cart $490 Share Points of sale Delivery Need help BLUE TALISMAN EXTRAIT Extrait de parfum A hypnotic jewel Just like its original signature, BLUE TALISMAN Extrait has been designed as an immersive journey into a precious jewel and invites you to lose yourself into a kaleidoscope of sensations. Bewitching and multifaceted, this creation embodies the House’s Avant-Garde spirit through its ultimate version. Description A hypnotic jewel Just like its original signature, BLUE TALISMAN Extrait has been designed as an immersive journey into a precious jewel and invites you to lose yourself into a kaleidoscope of sensations. Bewitching and multifaceted, this creation embodies the House’s Avant-Garde spirit through its ultimate version.",
+    "description": "A hypnotic jewel Just like its original signature, BLUE TALISMAN Extrait has been designed as an immersive journey into a precious jewel and invites you to lose yourself into a kaleidoscope of sensations. Bewitching and multifaceted, this creation embodies the House’s Avant-Garde spirit through its ultimate version.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pear",
@@ -25043,7 +25090,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-blue-talisman-eau-de-parfum",
@@ -25051,7 +25099,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Customization Complete your selection Add to cart $385 Share Points of sale Delivery Need help BLUE TALISMAN Eau de parfum A hypnotic jewel BLUE TALISMAN is a mesmerizing fragrance, designed as a hypnotic jewel and a lucky charm for the skin. It reflects EX NIHILO’s boldness, capturing the essence of Place Vendôme—near where the house was born. With its vanguard spirit, this scent reveals enchanting facets that invite exploration and intrigue. A true olfactory statement, it embodies the sophistication and allure of timeless elegance. Description A hypnotic jewel BLUE TALISMAN is a mesmerizing fragrance, designed as a hypnotic jewel and a lucky charm for the skin. It reflects EX NIHILO’s boldness, capturing the essence of Place Vendôme—near where the house was born. With its vanguard spirit, this scent reveals enchanting facets that invite exploration and intrigue. A true olfactory statement, it embodies the sophistication and allure of timeless elegance.",
+    "description": "A hypnotic jewel BLUE TALISMAN is a mesmerizing fragrance, designed as a hypnotic jewel and a lucky charm for the skin. It reflects EX NIHILO’s boldness, capturing the essence of Place Vendôme—near where the house was born. With its vanguard spirit, this scent reveals enchanting facets that invite exploration and intrigue. A true olfactory statement, it embodies the sophistication and allure of timeless elegance.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pear",
@@ -25145,7 +25193,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-lust-in-paradise-eau-de-parfum",
@@ -25153,7 +25202,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help LUST IN PARADISE Eau de parfum French Riviera addiction LUST IN PARADISE captures the dreamy essence of the French Riviera, where sun-drenched afternoons blend with the whispers of the Mediterranean sea. A sensual harmony of radiant florals and warm, inviting notes evokes a lazy, artful ambiance. This hypnotic fragrance invites you to indulge in a sun-soaked escape, celebrating the allure of effortless glamour. Description French Riviera addiction LUST IN PARADISE captures the dreamy essence of the French Riviera, where sun-drenched afternoons blend with the whispers of the Mediterranean sea. A sensual harmony of radiant florals and warm, inviting notes evokes a lazy, artful ambiance. This hypnotic fragrance invites you to indulge in a sun-soaked escape, celebrating the allure of effortless glamour.",
+    "description": "French Riviera addiction LUST IN PARADISE captures the dreamy essence of the French Riviera, where sun-drenched afternoons blend with the whispers of the Mediterranean sea. A sensual harmony of radiant florals and warm, inviting notes evokes a lazy, artful ambiance. This hypnotic fragrance invites you to indulge in a sun-soaked escape, celebrating the allure of effortless glamour.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pink Pepper",
@@ -25239,7 +25288,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-fleur-narcotique-extrait-de-parfum",
@@ -25247,7 +25297,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Extrait de parfum",
-    "description": "Complete your selection Add to cart $490 Share Points of sale Delivery Need help FLEUR NARCOTIQUE Extrait de parfum Floral overdose FLEUR NARCOTIQUE, the iconic creation by French perfumer Quentin Bisch, re-invents itself through a quintessential essence. The extrait de parfum expresses the most sophisticated and intense personality as seen by Quentin. Description Floral overdose FLEUR NARCOTIQUE, the iconic creation by French perfumer Quentin Bisch, re-invents itself through a quintessential essence. The extrait de parfum expresses the most sophisticated and intense personality as seen by Quentin.",
+    "description": "Floral overdose FLEUR NARCOTIQUE, the iconic creation by French perfumer Quentin Bisch, re-invents itself through a quintessential essence. The extrait de parfum expresses the most sophisticated and intense personality as seen by Quentin.",
     "descriptionType": "official-product-description",
     "notes": [
       "Osmanthus",
@@ -25345,7 +25395,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-the-hedonist-eau-de-parfum",
@@ -25353,7 +25404,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help THE HEDONIST Eau de parfum Destination unknown THE HEDONIST takes you on a journey through wild, untamed nature, celebrating its raw beauty. Inspired by dramatic landscapes and the power of telluric forces, it captures the essence of black stones and extreme temperatures. Each note invites you to reconnect with the earth’s primal spirit, offering a sensorial experience that is both grounding and exhilarating. Description Destination unknown THE HEDONIST takes you on a journey through wild, untamed nature, celebrating its raw beauty. Inspired by dramatic landscapes and the power of telluric forces, it captures the essence of black stones and extreme temperatures. Each note invites you to reconnect with the earth’s primal spirit, offering a sensorial experience that is both grounding and exhilarating.",
+    "description": "Destination unknown THE HEDONIST takes you on a journey through wild, untamed nature, celebrating its raw beauty. Inspired by dramatic landscapes and the power of telluric forces, it captures the essence of black stones and extreme temperatures. Each note invites you to reconnect with the earth’s primal spirit, offering a sensorial experience that is both grounding and exhilarating.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -25439,7 +25490,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-spiky-muse-eau-de-parfum",
@@ -25447,7 +25499,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help SPIKY MUSE Eau de parfum Muse turned artist The portrait of a powerful and creative femininity. The Rose, Queen of Flowers and eternal inspiration for artists, wraps itself into a new addictive sweetness created from a natural Strawberry extract - obtained through an innovative upcycling process - and a tasty Pistachio accord. Description Muse turned artist The portrait of a powerful and creative femininity. The Rose, Queen of Flowers and eternal inspiration for artists, wraps itself into a new addictive sweetness created from a natural Strawberry extract - obtained through an innovative upcycling process - and a tasty Pistachio accord.",
+    "description": "Muse turned artist The portrait of a powerful and creative femininity. The Rose, Queen of Flowers and eternal inspiration for artists, wraps itself into a new addictive sweetness created from a natural Strawberry extract - obtained through an innovative upcycling process - and a tasty Pistachio accord.",
     "descriptionType": "official-product-description",
     "notes": [
       "Upcycled Natural Strawberry",
@@ -25538,7 +25590,8 @@ window.PERFUME_DATA = [
         "label": "50ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-the-hedonist-extrait-de-parfum",
@@ -25546,7 +25599,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Extrait de parfum",
-    "description": "Complete your selection Add to cart $490 Share Points of sale Delivery Need help THE HEDONIST Extrait de parfum Destination unknown THE HEDONIST reinvents itself through a quintessential version for an ultimate thrill. The Extrait de Parfum exalts the strong character of the original THE HEDONIST. Description Destination unknown THE HEDONIST reinvents itself through a quintessential version for an ultimate thrill. The Extrait de Parfum exalts the strong character of the original THE HEDONIST.",
+    "description": "Destination unknown THE HEDONIST reinvents itself through a quintessential version for an ultimate thrill. The Extrait de Parfum exalts the strong character of the original THE HEDONIST.",
     "descriptionType": "official-product-description",
     "notes": [
       "Grapefruit",
@@ -25641,7 +25694,8 @@ window.PERFUME_DATA = [
         "label": "50ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-santal-calling-eau-de-parfum",
@@ -25649,7 +25703,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Customization Complete your selection Add to cart $385 Share Points of sale Delivery Need help SANTAL CALLING Eau de parfum Unstoppable spell Perfumer Antoine Maisondieu explores the unique properties of Sandalwood Album from Australia. His idea was to mix contemporary Parisian inspirations with the mystical energy of this ingredient to create a bright and soothing scent that leads to an ultimate addiction. Description Unstoppable spell Perfumer Antoine Maisondieu explores the unique properties of Sandalwood Album from Australia. His idea was to mix contemporary Parisian inspirations with the mystical energy of this ingredient to create a bright and soothing scent that leads to an ultimate addiction.",
+    "description": "Unstoppable spell Perfumer Antoine Maisondieu explores the unique properties of Sandalwood Album from Australia. His idea was to mix contemporary Parisian inspirations with the mystical energy of this ingredient to create a bright and soothing scent that leads to an ultimate addiction.",
     "descriptionType": "official-product-description",
     "notes": [
       "Milky Accord",
@@ -25739,7 +25793,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-speed-legends-eau-de-parfum",
@@ -25747,7 +25802,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Sold out $385 Share Points of sale Delivery Need help SPEED LEGENDS Eau de parfum Living on the edge SPEED LEGENDS transcends time and space, embodying the relentless pursuit of speed. Inspired by the adrenaline of motorsports, it captures the essence of a thrilling journey. With each note, feel the rush of velocity and the mystical allure of the fast lane. Description Living on the edge SPEED LEGENDS transcends time and space, embodying the relentless pursuit of speed. Inspired by the adrenaline of motorsports, it captures the essence of a thrilling journey. With each note, feel the rush of velocity and the mystical allure of the fast lane.",
+    "description": "Living on the edge SPEED LEGENDS transcends time and space, embodying the relentless pursuit of speed. Inspired by the adrenaline of motorsports, it captures the essence of a thrilling journey. With each note, feel the rush of velocity and the mystical allure of the fast lane.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -25837,7 +25892,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-explicite-eau-de-parfum",
@@ -25845,7 +25901,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": "Eau de parfum",
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help EXPLICITE Eau de parfum Sensual thrill EXPLICITE is the embodiment of daring desire—a sultry summer night in Paris filled with bold, forbidden sensuality. Its intoxicating fragrance stirs the senses, offering pure olfactory bliss. Each note invites you to surrender to an exquisite, dreamlike fantasy, unapologetically indulging in pleasure. Description Sensual thrill EXPLICITE is the embodiment of daring desire—a sultry summer night in Paris filled with bold, forbidden sensuality. Its intoxicating fragrance stirs the senses, offering pure olfactory bliss. Each note invites you to surrender to an exquisite, dreamlike fantasy, unapologetically indulging in pleasure.",
+    "description": "Sensual thrill EXPLICITE is the embodiment of daring desire—a sultry summer night in Paris filled with bold, forbidden sensuality. Its intoxicating fragrance stirs the senses, offering pure olfactory bliss. Each note invites you to surrender to an exquisite, dreamlike fantasy, unapologetically indulging in pleasure.",
     "descriptionType": "official-product-description",
     "notes": [
       "Nutmeg",
@@ -25935,7 +25991,8 @@ window.PERFUME_DATA = [
         "label": "5x7.5ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "exnihilo-generations",
@@ -25943,7 +26000,7 @@ window.PERFUME_DATA = [
     "brand": "EX NIHILO",
     "gender": null,
     "concentration": null,
-    "description": "Complete your selection Add to cart $385 Share Points of sale Delivery Need help GENERATION(S) Eau de parfum alcohol free For the modern tribes GENERATION(S) is a delightful olfactory experience for the modern tribes, including those with sensitive skin: an innovative Eau de Parfum crafted with an alcohol-free formulation that ensures an unmatched innocuity and sensorial pleasure over time. Description For the modern tribes GENERATION(S) is a delightful olfactory experience for the modern tribes, including those with sensitive skin: an innovative Eau de Parfum crafted with an alcohol-free formulation that ensures an unmatched innocuity and sensorial pleasure over time.",
+    "description": "For the modern tribes GENERATION(S) is a delightful olfactory experience for the modern tribes, including those with sensitive skin: an innovative Eau de Parfum crafted with an alcohol-free formulation that ensures an unmatched innocuity and sensorial pleasure over time.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pear",
@@ -26023,7 +26080,8 @@ window.PERFUME_DATA = [
         "label": "100ml"
       }
     ],
-    "qualityFlags": []
+    "qualityFlags": [],
+    "descriptionQcStatus": "official-description-section-only-2026-09-24"
   },
   {
     "id": "tamburins-bottari",
@@ -26031,7 +26089,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "보타리는 버섯 포자가 터질 때 느껴지는 폭발적인 생명력을 닮아, 깊고 감각적인 향의 파동으로 주변을 장악합니다. 단단한 매듭 속에 감춰진 것들이 하나씩 모습을 드러내며 호기심을 자아내고, 시원한 아키갈라우드를 가득 머금은 공기가 스치면 젖은 대지 위 부드러운 이끼와 나뭇결의 내음이 뒤따르며 예상치 못한 향의 변주가 시작됩니다. 그리고 마침내 보따리가 완전히 펼쳐지면, 생소한 물건들이 쏟아져 나오듯이 신비로운 앰버그리스와 묵직한 머스크가 만나 폭발하듯 퍼뜨려지며 어두운 하늘에 반짝이는 수천 개의 별처럼 아름다운 형상을 수놓아 공기를 황홀하게 물들입니다.",
+    "description": "Bottari captures the explosive vitality of mushroom spores bursting, filling the surroundings with deep, sensual waves of scent.",
     "descriptionType": "official-product-description",
     "notes": [
       "Akigalawood",
@@ -26096,10 +26154,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001506/",
     "sourceProductId": "12001506",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26110,7 +26168,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-blue-hinoki",
@@ -26118,7 +26178,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "푸른 물결을 따라 바다로 흘러든 히노키 나무가 상쾌한 파인오일과 베르가못의 서늘한 기류에 실려, 파도를 가르는 바람처럼 경쾌하게 퍼져 나갑니다. 소금기를 머금은 단단한 나뭇결은 오랜 시간 담금질에 파도의 형상으로 부드럽게 조형되고, 내리쬐는 햇볕 아래 풍화되며 뒤틀린 끝에 은은한 울림을 주는 올리바넘과 만나 시원한 바다의 색을 지닌 나무로 다시 태어납니다.",
+    "description": "A hinoki tree adrift on blue waves meets the fresh scent of pine and the cool breeze of bergamot, spreading like a wind slicing through the sea, fresh and invigorating. Its salt-soaked grain, tempered by the sea’s ceaseless rise and retreat, softens into wave-like forms. Weathered under the sun and twisted by time, it encounters olibanum’s quiet resonance — reborn as wood imbued with the tranquil hue of the sea.",
     "descriptionType": "official-product-description",
     "notes": [
       "Pine Oil",
@@ -26191,10 +26251,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001657/",
     "sourceProductId": "12001657",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26205,7 +26265,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-chamo",
@@ -26213,7 +26275,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "꿀처럼 진득하고 달콤한 카모마일과 씁쓸한 클라리세이지의 허브 향이 오묘한 조화를 이루어 중독성 있는 향을 선사합니다. 자칫 차갑게 느껴질 수 있는 촉촉한 이끼의 느낌을 우아하고 부드러운 나무결의 블론드 우드와 따뜻한 머스크로 감싸주어 당신의 지친 마음에 특별하고 작은 위안을 선물합니다.",
+    "description": "The herbal scent of chamomile is thicky and sweet as honey and bitter clary sage presents an addictive fragrance in subtle harmony. It is a special gift and small comfort to your weary heart by wrapping the moist moss that may feel cold with elegant and soft blond wood and warm musk.",
     "descriptionType": "official-product-description",
     "notes": [
       "Clary Sage",
@@ -26282,10 +26344,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1662462471/",
     "sourceProductId": "1662462471",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26296,7 +26358,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-evening-glow",
@@ -26304,7 +26368,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "모든 순간에 장미는 장미로써 완벽하게 존재합니다. 씨앗에서 움트어 화려하게 피어지는 매 순간, 끊임없이 변화하는 것처럼 보이지만 본질적으로 장미는 장미의 고아한 아름다움을 내포하고 있습니다. 해질녘 노을이 장미를 라즈베리처럼 발갛게 물들이고, 신선한 딜과 상큼한 레몬껍질로 밝은 빛을 겹쳐내면 살결을 보호하는 견고하고 우아한 가시처럼 얼씨한 패츌리와 사이프리올이 무게감을 더해 또 하나의 완전한 장미를 보여줍니다.",
+    "description": "A rose is a rose is a rose.",
     "descriptionType": "official-product-description",
     "notes": [
       "Lemon",
@@ -26373,10 +26437,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001384/",
     "sourceProductId": "12001384",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26387,7 +26451,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-summer-tails",
@@ -26395,7 +26461,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "싱그러운 연두색 잎사귀들 사이로 은방울꽃이 흩날리는 여름의 끝자락,",
+    "description": "In the last glow of summer, where lily of the valley drifts among fresh light-green leaves, a cool wind carries with it the lingering brilliance of summer’s warmth, not yet faded. Carried along its flow, the soft sweetness of geranium unfolds, meeting the delicate spice of anise to spark a vibrant sense of life. As the season slowly passes, the woody notes of cedarwood and patchouli settle softly on the skin, leaving behind the smooth texture of refined leather and a lingering, gentle trail of scent.",
     "descriptionType": "official-product-description",
     "notes": [
       "Green Leaves",
@@ -26460,10 +26526,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12002398/",
     "sourceProductId": "12002398",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26474,7 +26540,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-white-darjeeling",
@@ -26482,7 +26550,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "화이트 샴페인의 섬세한 거품과 달달한 과일향에 씁쓸한 다즐링 차 향이 풍성하고 조화롭게 어우러져 찻잔 속에서 추는 우아한 향의 춤의 향연을 선사합니다. 코 끝에서부터 전해지는 크리미한 머스크와 샌달우드가 부드러운 잔향을 오래도록 느끼게 해줍니다.",
+    "description": "The delicate bubbles of white champagne elegantly dance with the sweet fruity aroma of bitter darjeeling tea richly and harmoniously creating a feast in a teacup. Prolong the soft reverberation trail of creamy musk and sandalwood from the tip of the nose.",
     "descriptionType": "official-product-description",
     "notes": [
       "White Champagne",
@@ -26543,10 +26611,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1662464240/",
     "sourceProductId": "1662464240",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26557,7 +26625,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-berga-sandal",
@@ -26565,7 +26635,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "지중해의 푸릇한 기운을 받고 자란 베르가못의 청량한 향에 라임 카다멈의 신선하고 쌉싸래한 향이 더해져 따사로운 햇볕 아래 서서히 익어가는 청귤을 떠오르게 합니다. 뒤이어 샌달우드가 그려내는 부드러운 곡선의 잔 향은 주위에 은은하게 머물며 햇살 가득한 여름날의 따뜻한 기억을 그려냅니다.",
+    "description": "Bergamot from under the green energy of the Mediterranean and the fresh and bitter scent of lime cardamom reminds green tangerine slowly ripening under the warm sunlight. The trail of curved reverberation of sandalwood is shaken up by the memory of a sunny summer day with softly around.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -26642,10 +26712,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1662463458/",
     "sourceProductId": "1662463458",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26656,7 +26726,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-lale",
@@ -26664,7 +26736,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "튤립의 첫 이름을 의미하는 라레는 새벽의 이슬을 머금은 청초한 푸른 사과를 한 입 베어 문 듯 청량하면서도 절제된 달콤함을 시작으로, 잔잔한 그린 플로럴의 향취가 화이트 튤립의 싱그러운 푸른 잎사귀를 떠오르게 합니다. 진득한 샌달우드에 스파이시한 무드의 레더와 미모사가 더해져 깊고 은은한 여운을 남깁니다.",
+    "description": "Lale, the first name of tulips, the bud from a refreshing yet understated sweetness as if a bite of a neat green apple soaked with the dew of dawn. The green floral scent bloomed as white tulip leaves. Spicy leather and mimosa elevate with the rich sandalwood, leaving a deep and subtle lingering aftertaste.",
     "descriptionType": "official-product-description",
     "notes": [
       "Apple",
@@ -26745,10 +26817,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1662463206/",
     "sourceProductId": "1662463206",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26759,15 +26831,17 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-sunshine-limited",
-    "name": "Sunshine Limited",
+    "name": "Limited Sunshine",
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "신선한 안젤리카가 가득 핀 숲속을 자유로이 질주하는 순간을 꿈꾸는 듯한 향입니다. 구름처럼 가벼운 은빛 갑옷을 두르고 반짝이는 햇빛을 가르며 달릴 때 느끼는 완전한 자유는 원초적 감각을 일깨워 짭짤한 흙내음과 함께 은은한 뮤게의 꽃향으로 흐드러지듯 번지고, 가이악 우드와 머스크의 부드러움 속에서 맑은 가을 밤의 환상을 보여줍니다.",
+    "description": "A scent that evokes the feeling of running freely through a forest filled with blooming angelica.",
     "descriptionType": "official-product-description",
     "notes": [
       "Angelica",
@@ -26840,10 +26914,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001748/",
     "sourceProductId": "12001748",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26854,7 +26928,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-sunshine",
@@ -26862,7 +26938,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "신선한 안젤리카가 가득 핀 숲속을 자유로이 질주하는 순간을 꿈꾸는 듯한 향입니다. 구름처럼 가벼운 은빛 갑옷을 두르고 반짝이는 햇빛을 가르며 달릴 때 느끼는 완전한 자유는 원초적 감각을 일깨워 짭짤한 흙내음과 함께 은은한 뮤게의 꽃향으로 흐드러지듯 번지고, 가이악 우드와 머스크의 부드러움 속에서 맑은 가을 밤의 환상을 보여줍니다.",
+    "description": "A scent that evokes the feeling of running freely through a forest filled with blooming angelica.",
     "descriptionType": "official-product-description",
     "notes": [
       "Angelica",
@@ -26935,10 +27011,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001681/",
     "sourceProductId": "12001681",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -26949,7 +27025,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-puppy",
@@ -26957,7 +27035,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "무릎 위에 잠이 든 강아지의 숨결에서 말랑하고 고소한 시리얼 향이 퍼져갑니다. 쓰다듬는 손끝에 닿는 부드러운 감촉을 느끼고 있노라면, 블루 카모마일의 깨끗한 꽃내음과 투명한 루미너스 알데하이드의 입자가 햇살과 같이 비추며 미소 짓게 하고, 크리미한 우디 노트가 부드러운 담요를 덮은 것처럼 전체 향을 어우르며 포근한 여운을 남깁니다.",
+    "description": "Like the warmth of a sleeping puppy, a soft cereal scent gently lingers.",
     "descriptionType": "official-product-description",
     "notes": [
       "Fur Accord",
@@ -27030,10 +27108,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/12001684/",
     "sourceProductId": "12001684",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27044,7 +27122,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-unknown-oud",
@@ -27052,7 +27132,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "유칼립투스의 상쾌함으로 시작한 향은 진득한 라즈베리 시럽을 한 방울 떨어뜨린 듯한 달콤함이 함께 어우러 져 더욱 풍성해집니다. 묵직한 침향나무에서 오는 잔향의 젖은 흙과 그을린 나무냄새는 깊은 숲속에서 홀로 타오르고 남은 불의 흔적을 떠오르게 합니다.",
+    "description": "The scent from the freshness of eucalyptus is elevated by the sweetness of a drop of thick raspberry syrup. The ode of wet soil and scorched wood of Heavy Agarwood reminds the traces of a fire that burned alone in the deep forest.",
     "descriptionType": "official-product-description",
     "notes": [
       "Eucalyptus",
@@ -27121,10 +27201,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1662463782/",
     "sourceProductId": "1662463782",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27135,7 +27215,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-pumkini",
@@ -27143,7 +27225,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "하얀 호박에서 느껴지는 청초하고 달콤한 향에 차조기잎과 블러드오렌지의 독특한 푸르름이 더해져 기분 좋은 놀라움을 선사합니다. 잘 여물어 진득해진 호박향과 진저의 스파이시함이 교차되어 독특한 조화를 이루고 뒤이어 밀려오는 크리미한 코코넛밀크는 부드러운 샌달우드와 함께 오묘한 잔상을 만들며 깊은 여운을 그려냅니다.",
+    "description": "The pure and sweet scent of white pumpkin is mixed with the unique greenness of perilla leaves and blood oranges, resulting in a pleasant surprise. The rich and thick pumpkin scent, along with the spiciness of ginger, creates a unique harmony, and the following scent of creamy coconut milk and soft sandalwood creates a subtle afterimage, drawing a deep aftertaste.",
     "descriptionType": "official-product-description",
     "notes": [
       "Bergamot",
@@ -27208,10 +27290,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1695801508/",
     "sourceProductId": "1695801508",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27222,7 +27304,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-late-autumn",
@@ -27230,7 +27314,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "바람에 뒤엉켜 느린 군무를 펼치는 사탕수수밭의 아스라한 풀내음이 늦가을의 고요한 정취를 고조시킵니다. 드넓은 대지를 연상시키는 갈바넘과 부쿠는 달콤씁쓸한 비터오렌지와 만나 가을 햇볕같은 따사로움을 선사하고, 끝없이 펼쳐진 빛바랜 녹음의 풍경 끝에 찾아오는 부드러운 머스크향이 우리의 머릿속에 선명한 잔상으로 남겨집니다.",
+    "description": "The gentle scent of grass in the sugarcane field, entangled by the wind and dancing slowly, enhances the tranquil ambiance of late autumn. Galbanum and buchu, reminiscent of the vast earth, converge with the bittersweet orange to offer warmth reminiscent of the autumn sunlight, and the soft musk scent that lingers at the end of the gradually fading green landscape leaves a vivid afterimage in our minds.",
     "descriptionType": "official-product-description",
     "notes": [
       "Galbanum",
@@ -27295,10 +27379,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1695801557/",
     "sourceProductId": "1695801557",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27309,7 +27393,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-brown",
@@ -27317,7 +27403,7 @@ window.PERFUME_DATA = [
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "마호가니의 우아하고 부드러운 색에서 영감을 받은 브라운은 깨끗한 올리바넘 향취가 마호가니 나뭇결과 만나 풍부한 질감이 느껴지는 우디향으로, 마치 고요한 사찰의 틈에서 물기 머금은 나무둥치를 마주한 듯 차분한 느낌을 줍니다. 뒤이어 섬세한 장미향이 은은한 여운을 더하고 엠버와 패출리가 따뜻하고 중독성 있는 향으로 마무리됩니다.",
+    "description": "Brown, inspired by the elegant and soft color of mahogany, is a woody scent with a rich texture. The clean olibanum scent intertwines with the mahogany's wood grain, evoking a tranquil mood as if encountering a wet tree trunk in a serene temple. This is followed by a delicate rose aroma that leaves a subtle aftertaste, while the amber and patchouli finish with a warm and enticing musky scent.",
     "descriptionType": "official-product-description",
     "notes": [
       "Grass",
@@ -27386,10 +27472,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1695801560/",
     "sourceProductId": "1695801560",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27400,15 +27486,17 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "tamburins-bay-in-the-lake",
-    "name": "Bay In The Lake",
+    "name": "Bather In The Lake",
     "brand": "Tamburins",
     "gender": null,
     "concentration": "Perfume",
-    "description": "초록의 잔상이 짙게 피어오르는 새벽, 싱그러움이 담긴 클라리세이지와 라벤더가 만나 향긋한 허브의 내음을 전합니다. 쌉싸름한 쑥과 포근한 인센스는 안개 낀 숲 속의 고요함 속에 촉촉하고 부드러운 이끼의 잔향을 남기며 아무도 없는 맑고 잔잔한 호수 위를 유영하듯 마음속까지 정갈해지는 경험을 선사합니다.",
+    "description": "At dawn, when the afterimage of green blooms deeply, fresh clary sage and lavender converge to create a fragrant herbal scent. The bitter artemisia and cozy Incense leave the lingering scent of moist and soft moss in the tranquil ambiance of a fog-covered forest, providing an experience of purifying one's mind as if swimming in a clear, calm lake alone.",
     "descriptionType": "official-product-description",
     "notes": [
       "Clary Sage",
@@ -27481,10 +27569,10 @@ window.PERFUME_DATA = [
     "imageRights": "Brand copyrighted; public reuse permission not verified",
     "imageStatus": "retouched-local",
     "retouchStatus": "retouched",
-    "sourceUrl": "https://www.tamburins.com/kr/shop/perfume/perfumes/",
+    "sourceUrl": "https://www.tamburins.com/en/item/1695801553/",
     "sourceProductId": "1695801553",
     "sourceUpdatedAt": null,
-    "fetchedAt": "2026-09-24T08:14:28.711406+00:00",
+    "fetchedAt": "2026-09-24T09:34:41.519150+00:00",
     "noteExtraction": "official-note-pyramid",
     "noteQcStatus": "normalized-2026-09-24",
     "variants": [
@@ -27495,7 +27583,9 @@ window.PERFUME_DATA = [
     ],
     "qualityFlags": [
       "perfumer-not-published"
-    ]
+    ],
+    "descriptionLanguage": "en",
+    "descriptionQcStatus": "official-english-page-2026-09-24"
   },
   {
     "id": "hermes-v108421v0",
