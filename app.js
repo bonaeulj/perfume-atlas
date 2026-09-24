@@ -267,7 +267,8 @@ function goHome(){
 
 atlas.addEventListener('click',event=>{
   const clickPath=event.composedPath();
-  if(!selected||clickPath.includes(workspace)||clickPath.includes(document.querySelector('#searchArea')))return;
+  // A bottle click opens the detail; do not close it again as that event bubbles.
+  if(!selected||event.target.closest('.bottle')||clickPath.includes(workspace)||clickPath.includes(document.querySelector('#searchArea')))return;
   goHome();
 });
 
